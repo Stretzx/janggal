@@ -1,1 +1,8 @@
-{"Tank":"roles/tank.png","Fighter":"roles/fighter.png","Assassin":"roles/assassin.png","Mage":"roles/mage.png","Marksman":"roles/marksman.png","Support":"roles/support.png"}
+{
+  "Tank": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/roles/tank.png",
+  "Fighter": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/roles/fighter.png",
+  "Assassin": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/roles/assassin.png",
+  "Mage": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/roles/mage.png",
+  "Marksman": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/roles/marksman.png",
+  "Support": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/roles/support.png"
+}

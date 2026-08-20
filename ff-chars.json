@@ -1,1 +1,1010 @@
-[{"id":"65","image_character":"ff-data/images/7794c593-5ac2-44d5-bada-293f67f2b869.png","ability_image":"ff-data/images/431c7a96-0428-4e6a-9458-8c7257b5b96a.png","name":"Microchip de j.biebs","created_at":"2026-05-16T23:59:53.822Z","language_code":"es","description":"Pengguna dan sekutu terdekat dapat memblokir sebagian kerusakan menggunakan EP.\n\nPengguna dan sekutu dalam jarak 15m dapat memblokir 8% kerusakan menggunakan PE. Dalam hal ini, jumlah XP yang dikurangi dari sekutu akan ditambahkan ke XP pengguna keterampilan.","name_ability":"Voz Centinela","type_ability":"Pasiva","ability_tags":["Compartir","PE"],"descEn":"The user and nearby allies can block part of the damage using EP.\n\nThe user and allies within 15m can block 8% of damage using EP. In this case, the XP reduced from allies is added to the skill user's XP."},{"id":"64","image_character":"ff-data/images/ray.png","ability_image":"ff-data/images/0f7037e4-0b85-477a-bc78-a584e5227225.png","name":"Ray","created_at":"2026-04-25T05:33:49.384Z","language_code":"es","description":"Membentuk ikatan dengan musuh di depan dan menjatuhkan mereka saat kesehatan mereka rendah. Keterampilan disetel ulang dan Anda mendapatkan kembali HP.\n\nMelepaskan kekuatan matahari ke depan dalam kipas sejauh 30m untuk menandai musuh pertama yang belum jatuh yang dicapainya selama 10 detik dan membentuk ikatan dengannya, hanya terlihat sejauh 40m oleh pengguna kemampuan dan pemain yang ditandai.\n\nJika pengguna mengurangi HP musuh yang ditandai menjadi 40 atau kurang, musuh akan langsung terjatuh.\n\nJika musuh terjatuh atau tersingkir saat ditandai, kemampuannya diatur ulang oleh kekuatan bulan dan HP pengguna dipulihkan 10/dtk selama 3 d.\n\nMasa pakai baterai: 45 detik","name_ability":"Conjunción Solar","type_ability":"Activa","ability_tags":["Derribo","Daño"],"descEn":"Forms a bond with an enemy in front and takes them down when their health is low. The skill resets and you regain HP.\n\nReleases solar power forward in a 30m fan to mark the first non-fallen enemy it reaches for 10 seconds and forms a bond with them, visible only up to 40m to the skill user and the marked player.\n\nIf the user reduces the marked enemy's HP to 40 or less, the enemy is instantly knocked down.\n\nIf the enemy is knocked down or eliminated while marked, the ability resets with lunar power and the user's HP is restored at 10/s for 3 s.\n\nBattery life: 45 seconds"},{"id":"63","image_character":"ff-data/images/Morse.png","ability_image":"ff-data/images/fd70c403-1bb3-4e5f-8fe8-d535fa60ff26.webp","name":"Morse","created_at":"2026-03-06T18:48:26.948Z","language_code":"es","description":"Memasuki mode Stealth, di mana musuh sulit melihat Anda dari jarak jauh, tetapi Anda tidak dapat menembak.\n\nMemasuki mode Stealth, di mana musuh tidak dapat melihat pengguna lebih jauh dari 12m dan tidak dapat mendeteksinya. Sementara itu, Anda memperoleh peningkatan kecepatan sebesar 20% dan 25 Poin Perisai sementara. Berlangsung hingga 15 detik.\n\nSaat dalam mode Stealth, Anda tidak dapat menembak. Keluar dari mode Stealth memiliki penundaan 0,8 detik. Aim assist akan aktif jika musuh berada dalam jarak 4m.\n\nMasa pakai baterai: 45 detik","name_ability":"Sombra Digital","type_ability":"ACTIVA","ability_tags":["Atacar","Vel. de movimiento"],"descEn":"Enters Stealth mode, where enemies find it hard to see you from a distance, but you cannot shoot.\n\nEnters Stealth mode, where enemies cannot see the user beyond 12m and cannot detect them. Meanwhile, you gain a 20% speed boost and 25 temporary Shield Points. Lasts up to 15 seconds.\n\nWhile in Stealth mode, you cannot shoot. Exiting Stealth mode has a 0.8 second delay. Aim assist activates if enemies are within 4m.\n\nBattery life: 45 seconds"},{"id":"62","image_character":"ff-data/images/Nero.png","ability_image":"ff-data/images/e0f34802-ca4d-426f-adf4-f06423364b42.webp","name":"Nero","created_at":"2026-03-06T18:44:25.740Z","language_code":"es","description":"Lempar boneka binatang dengan 1 VP. Boneka binatang itu bertahan selama 12 detik, mengabaikan beberapa rintangan dan dapat terbang hingga 50m (100m di BR).\n\nBoneka tersebut melacak musuh terdekat yang terlihat dalam jarak 8m dan meledak untuk menciptakan ruang impian dengan radius 8m.\n\nDi dalam ruang, pengguna dan musuhnya tidak dapat menempatkan Gloo Walls.\n\nMusuh juga kehilangan 6 HP/s.\n\nRuang tersebut hilang saat boneka binatang dihancurkan. Siapa pun yang menghancurkannya akan ditandai dengan angka 5.\n\nMasa pakai baterai: 45 detik.","name_ability":"Mente Criogénica","type_ability":"Activa","ability_tags":["Daño"],"descEn":"Throws a stuffed toy with 1 VP. The stuffed toy lasts 12 seconds, ignores some obstacles, and can fly up to 50m (100m in BR).\n\nThe toy tracks the nearest visible enemy within 8m and explodes to create a dream space with an 8m radius.\n\nInside the space, the user and enemies cannot place Gloo Walls.\n\nEnemies also lose 6 HP/s.\n\nThe space disappears when the stuffed toy is destroyed. Whoever destroys it is marked with the number 5.\n\nBattery life: 45 seconds."},{"id":"61","image_character":"ff-data/images/Rin.png","ability_image":"ff-data/images/b34718d8-ec5b-4d46-b166-da4a4716b51f.webp","name":"Rin","created_at":"2026-03-06T18:28:34.694Z","language_code":"es","description":"Memanggil kunai yang diarahkan dan diluncurkan secara otomatis ke musuh atau Gloo Wall ketika pengguna menembaknya. Menimbulkan kerusakan besar pada Gloo Walls.\n\nMemanggil satu kunai setiap 8 detik, total hingga 3 kunai.\n\nKunai menimbulkan kerusakan yang cukup besar pada Gloo Wall dan secara otomatis akan diluncurkan ke musuh atau Tembok Gloo mana pun yang ditabrak penggunanya, menimbulkan hingga 12 DMG.\n\nKerusakan meningkat seiring jarak.","name_ability":"Ráfaga Ninja","type_ability":"Pasiva","ability_tags":["Daño","Rompeparedes"],"descEn":"Summons kunai that are aimed and launched automatically at enemies or Gloo Walls when the user shoots them. Deals massive damage to Gloo Walls.\n\nSummons one kunai every 8 seconds, up to 3 kunai total.\n\nKunai deal considerable damage to Gloo Walls and are automatically launched at any enemy or Gloo Wall the user hits, dealing up to 12 DMG.\n\nDamage increases with distance."},{"id":"60","image_character":"ff-data/images/Oscar.png","ability_image":"ff-data/images/2bbb3c7e-cc90-4efc-a1ea-e0a74114dadd.webp","name":"Oscar","created_at":"2026-03-06T18:19:35.850Z","language_code":"es","description":"Menyerang ke arah target, menimbulkan kerusakan dan memukul mundur musuh yang dilewatinya, juga menghancurkan Gloo Wall.\n\nMenyerang ke arah target dengan kecepatan 3m/s, menimbulkan 25 DMG ke musuh di jalurnya dan menerapkan knockback, juga menghancurkan 25 Gloo Wall pertama di jalurnya.\n\nMasa pakai baterai: 60 detik","name_ability":"Embestida Valerosa","type_ability":"ACTIVA","ability_tags":["Mobilidad","Daño"],"descEn":"Charges toward the target, dealing damage and knocking back enemies passed through, also destroying Gloo Walls.\n\nCharges toward the target at 3m/s, dealing 25 DMG to enemies in its path and applying knockback, also destroying the first 25 Gloo Walls in its path.\n\nBattery life: 60 seconds"},{"id":"59","image_character":"ff-data/images/koda.webp","ability_image":"ff-data/images/6c7fcac1-d6f7-4cfd-a200-ec0c91e5ed29.webp","name":"Koda","created_at":"2024-12-22T16:16:29.208Z","language_code":"es","description":"Meningkatkan kecepatan gerakan dan mengungkap musuh di balik perlindungan. Tidak mungkin mendeteksi mereka yang berjongkok atau tengkurap dan efeknya tidak dirasakan oleh teman Anda.\n\nAktifkan Energi Aurora selama 8 detik. Meningkatkan kecepatan gerakan sebesar 15% dan mengungkap musuh tersembunyi dalam jarak 50m setiap 1 detik.\n\nItu tidak mendeteksi mereka yang berjongkok atau menghadap ke bawah.\n\nSaat terjun payung, menyoroti posisi musuh dalam bidang pandang, namun efeknya tidak dibagikan kepada rekan satu tim.\n\nMasa pakai baterai: 45 detik","name_ability":"Energía Aurora","type_ability":"ACTIVA","ability_tags":["Vel. de movimiento","Revelar"],"descEn":"Increases movement speed and reveals enemies behind cover. Cannot detect those crouching or prone, and the effect is not shared with your teammates.\n\nActivates Aurora Energy for 8 seconds. Increases movement speed by 15% and reveals hidden enemies within 50m every 1 second.\n\nIt does not detect those crouching or facing down.\n\nWhile skydiving, highlights enemy positions in the field of view, but the effect is not shared with teammates.\n\nBattery life: 45 seconds"},{"id":"58","image_character":"ff-data/images/lila.webp","ability_image":"ff-data/images/ec3dc6d4-e1a2-4a5a-b43e-3897c813125a.webp","name":"Lila","created_at":"2024-12-07T18:41:15.336Z","language_code":"es","description":"Senapan serbu dan penembak jitu dapat memperlambat musuh. Gloo Wall tambahan bisa didapatkan.\n\nSaat menembaki musuh atau kendaraan dengan Assault Rifles dan Marksman, mengurangi kecepatan gerak musuh sebesar 10% atau kecepatan gerak kendaraan sebesar 80% selama 3 detik.\n\nJika musuh terjatuh saat diperlambat, bekukan musuh hingga 3 detik dan dapatkan 2 Gloo Wall tambahan.","name_ability":"Golpe Gloo","type_ability":"Pasiva","ability_tags":["Pared Gloo","Lento"],"descEn":"Assault rifles and marksman rifles can slow enemies. Extra Gloo Walls can be obtained.\n\nWhen shooting enemies or vehicles with Assault Rifles and Marksman Rifles, reduces enemy movement speed by 10% or vehicle movement speed by 80% for 3 seconds.\n\nIf an enemy falls while slowed, freeze the enemy for up to 3 seconds and gain 2 extra Gloo Walls."},{"id":"57","image_character":"ff-data/images/Kassie.webp","ability_image":"ff-data/images/f01d0f86-9dc2-47de-a83c-9576e7b78a88.webp","name":"Kassie","created_at":"2024-12-07T18:36:54.309Z","language_code":"es","description":"Bentuk ikatan penyembuhan dengan rekan target untuk memulihkan HP Anda dan target secara perlahan. Gunakan lagi untuk menyembuhkan target secara signifikan.\n\nElektroterapi (tanpa cooldown): Gunakan skill satu kali untuk membentuk ikatan penyembuhan dengan rekan setim target dan memulihkan 3 HP per detik untuk diri sendiri dan target (tidak dapat ditumpuk).\n\nJangkauan tautan maksimum: 50m. Tautan akan otomatis terputus bila melebihi batas jangkauan dan juga dapat dibatalkan secara manual.\n\nElectroheal: Gunakan skill lagi untuk memulihkan 120 HP target secara instan. Skill tersebut akan aktif secara otomatis ketika HP target kurang dari 50.\n\nPenyembuhan akan sama dengan 80% dari jumlah itu bila digunakan secara manual.\n\nMasa pakai baterai: 45 detik","name_ability":"Electroshok","type_ability":"Activa","ability_tags":["Curar"],"descEn":"Form a healing bond with a target teammate to slowly restore your HP and the target's. Use again to significantly heal the target.\n\nElectrotherapy (no cooldown): Use the skill once to form a healing bond with the target teammate and restore 3 HP per second for yourself and the target (cannot stack).\n\nMaximum link range: 50m. The link automatically breaks when exceeding the range limit and can also be manually canceled.\n\nElectroheal: Use the skill again to instantly restore 120 HP to the target. The skill activates automatically when the target's HP is below 50.\n\nHealing equals 80% of that amount when used manually.\n\nBattery life: 45 seconds"},{"id":"56","image_character":"ff-data/images/Kairos.webp","ability_image":"ff-data/images/b55fbe4b-8575-4194-bb84-4c7e40e8f810.webp","name":"Kairos","created_at":"2024-12-07T18:29:14.119Z","language_code":"es","description":"Memulihkan PE saat tidak penuh. Ketika XP penuh, ia memberikan damage tambahan pada Poin Perisai dan ketahanan armor musuh.\n\nMode Defensif: Memulihkan 2 XP per detik seiring waktu.\n\nAssault Mode: Aktif saat EP penuh dan saat pengguna skill menyerang musuh dengan shield atau armor.\n\nSelama efeknya bertahan, 20 XP akan dikonsumsi per detik. Setiap serangan terhadap musuh yang menggunakan perisai atau armor juga akan mengurangi Poin Perisai atau daya tahan Armor mereka sebesar 90% dari damage yang diberikan.\n\nKetika EP mencapai 0, maka akan kembali ke Mode Defensif.","name_ability":"Entrenamiento Antidefensas","type_ability":"Pasiva","ability_tags":["PE","Perforación de armadura"],"descEn":"Restores EP when not full. When EP is full, it deals bonus damage to enemy Shield Points and armor durability.\n\nDefensive Mode: Restores 2 XP per second over time.\n\nAssault Mode: Activates when EP is full and the skill user attacks enemies with shields or armor.\n\nWhile the effect lasts, 20 XP is consumed per second. Every attack on enemies using shields or armor also reduces their Shield Points or Armor durability by 90% of the damage dealt.\n\nWhen EP reaches 0, it returns to Defensive Mode."},{"id":"55","image_character":"ff-data/images/ryden.webp","ability_image":"ff-data/images/969cf9b5-bc19-45d8-a3be-20045a43d072.webp","name":"Ryden","created_at":"2024-12-07T18:23:17.365Z","language_code":"es","description":"Luncurkan laba-laba peledak ke depan untuk menjebak musuh dalam jangkauan. Biaya keterampilan dapat disimpan.\n\nMelepaskan laba-laba peledak yang dapat dirusak ke arah target. Berlangsung selama 60an. Ketuk lagi tombol keterampilan dalam waktu 10 detik untuk menghentikan pergerakan laba-laba.\n\nLaba-laba akan menangkap musuh pertama yang dilihatnya dalam jarak 5m, mengurangi kecepatannya sebesar 80% dan mengambil 10 HP per detik.\n\nEfek skill akan bertahan selama 4 detik.\n\nHingga 2 muatan kemampuan dapat disimpan, dengan cooldown 10 detik di antara setiap penggunaan.\n\nMasa pakai baterai: 60 detik","name_ability":"Trampa Arácnida","type_ability":"Activa","ability_tags":["Inmovilizar","Daño"],"descEn":"Launches an explosive spider forward to trap enemies in range. Skill charges can be stored.\n\nReleases a destructible explosive spider toward the target. Lasts 60s. Tap the skill button again within 10 seconds to stop the spider's movement.\n\nThe spider captures the first enemy it sees within 5m, reducing their speed by 80% and draining 10 HP per second.\n\nThe skill effect lasts 4 seconds.\n\nUp to 2 ability charges can be stored, with a 10 second cooldown between each use.\n\nBattery life: 60 seconds"},{"id":"54","image_character":"ff-data/images/993f4355-e54a-44a4-ba86-3b1b68da6f97.webp","ability_image":"ff-data/images/2e702c14-0d2c-480f-a77e-ab50ee7f4cf3.webp","name":"Jai","created_at":"2024-12-07T18:17:34.929Z","language_code":"es","description":"Setelah menjatuhkan musuh atau menggunakan skill aktif, 100% magasin senjata akan otomatis terisi ulang.","name_ability":"Recarga Furiosa","type_ability":"Pasiva","ability_tags":[],"descEn":"After taking down an enemy or using an active skill, 100% of the weapon magazine is automatically reloaded."},{"id":"53","image_character":"ff-data/images/clu.webp","ability_image":"ff-data/images/5eed3b8d-c9d3-45a2-98fd-4fd772c2fbf9.webp","name":"Clu","created_at":"2024-12-07T16:32:59.435Z","language_code":"es","description":"Temukan musuh yang tidak berjongkok atau tiarap.\n\nMengungkap lokasi musuh dalam jarak 80m, kecuali mereka yang berjongkok atau tiarap, selama 10 detik dan membagikan informasi tersebut kepada rekan satu tim.\n\nSaat aktif, meningkatkan kecepatan gerakan sebesar 10%.\n\nMasa pakai baterai: 45 detik","name_ability":"Rastreo de Pasos","type_ability":"Activa","ability_tags":["Compartir","Escanear"],"descEn":"Find enemies who are not crouching or prone.\n\nReveals the location of enemies within 80m, except those crouching or prone, for 10 seconds and shares the information with teammates.\n\nWhile active, increases movement speed by 10%.\n\nBattery life: 45 seconds"},{"id":"52","image_character":"ff-data/images/Xayne.webp","ability_image":"ff-data/images/87b8a702-dec4-42ed-92d2-29dd46248957.webp","name":"Xayne","created_at":"2024-11-25T12:40:48.109Z","language_code":"es","description":"Anda mendapatkan Poin Perisai sementara. Saat berlaku, setiap penghapusan akan mengatur ulang Poin.\n\nMasuk ke status Ekstrim dan langsung dapatkan 70 Poin Perisai sementara selama 15 detik.\n\nSelama keadaan ini, setiap pembunuhan musuh akan menambah 70 Poin Perisai sementara dan mengatur ulang durasi keadaan.\n\nSetelah status ini berakhir, semua Poin Perisai yang diperoleh selama proses ini akan dihapus.\n\nMasa pakai baterai: 75 detik","name_ability":"Encuentro Extremo","type_ability":"Activa","ability_tags":["Puntos de Escudo","Derribo"],"descEn":"You gain temporary Shield Points. While active, each elimination resets the Points.\n\nEnters Extreme state and instantly gains 70 temporary Shield Points for 15 seconds.\n\nDuring this state, every enemy kill adds 70 temporary Shield Points and resets the state's duration.\n\nAfter this state ends, all Shield Points gained during the process are removed.\n\nBattery life: 75 seconds"},{"id":"51","image_character":"ff-data/images/La-Patrona.webp","ability_image":"ff-data/images/e87f379e-089b-48be-b199-afced0fa1fe6.webp","name":"La Patrona","created_at":"2024-11-25T12:28:12.580Z","language_code":"es","description":"Tidak termasuk keterampilan apa pun. Anda dapat dengan bebas menggunakan keterampilan lain yang tidak terkunci.","name_ability":"Sin habilidad","type_ability":"Sin habilidad","ability_tags":[],"descEn":"Does not include any skill. You can freely use other unlocked skills."},{"id":"50","image_character":"ff-data/images/Ignis.webp","ability_image":"ff-data/images/83db805c-8d0d-494a-beb8-fc343df7f4f6.webp","name":"Ignis","created_at":"2024-11-25T12:14:32.377Z","language_code":"es","description":"Meluncurkan tembok api yang bergerak maju. Musuh dan Gloo Walls yang bersentuhan akan menerima damage terbakar. Biaya keterampilan dapat disimpan.\n\nMenyebarkan dinding api selebar 10m yang bertahan selama 10 detik dan bergerak dengan kecepatan 6m/s hingga 8 detik.\n\nSaat aktif, gunakan kembali kemampuannya untuk menghentikan tembok.\n\nMusuh atau Gloo Walls yang bersentuhan dengannya akan langsung menerima 25 atau 400 DAMAGE, lalu menerima 5 atau 150 DAMAGE per detik.\n\nBerlangsung 2 detik.\n\nKemampuan dapat disimpan hingga 2 kali penggunaan, dengan cooldown 0,5 detik di antara setiap penggunaan.\n\nMasa pakai baterai: 60 detik","name_ability":"Espejismo Ardiente","type_ability":"Activa","ability_tags":["Daño","Bloquear visión"],"descEn":"Launches a wall of fire that moves forward. Enemies and Gloo Walls it touches take burn damage. Skill charges can be stored.\n\nSpreads a 10m wide fire wall that lasts 10 seconds and moves at 6m/s for up to 8 seconds.\n\nWhile active, use the ability again to stop the wall.\n\nEnemies or Gloo Walls it touches immediately take 25 or 400 DAMAGE, then take 5 or 150 DAMAGE per second.\n\nLasts 2 seconds.\n\nThe ability can store up to 2 uses, with a 0.5 second cooldown between each use.\n\nBattery life: 60 seconds"},{"id":"49","image_character":"ff-data/images/Suzy.webp","ability_image":"ff-data/images/cd8f4e3c-f7b1-4aa4-b3f3-0874e18ce27c.webp","name":"Suzy","created_at":"2024-11-25T12:05:46.081Z","language_code":"es","description":"Tanda musuh memiliki nilai hadiah. Hasilkan uang tambahan dalam permainan untuk menghilangkannya.\n\nTanda musuhmu mempunyai nilai imbalan. Siapa pun di tim sekutu yang melenyapkan musuh yang ditandai akan mendapat 200 uang.\n\nAnda akan mendapatkan tambahan 100 untuk menghilangkan musuh.\n\nDapatkan 100 Koin FF dari Mesin Koin di pertandingan BR.","name_ability":"Dinero Marcado","type_ability":"Pasiva","ability_tags":["Monedas adicionales"],"descEn":"Marked enemies have a bounty value. Earn extra in-game money for eliminating them.\n\nYour marked enemies have a bounty value. Anyone on your allied team who eliminates a marked enemy earns 200 money.\n\nYou earn an additional 100 for eliminating enemies.\n\nGain 100 FF Coins from the Coin Machine in BR matches."},{"id":"48","image_character":"ff-data/images/Sonia.webp","ability_image":"ff-data/images/a51b4662-261b-4180-b561-18861f533de0.webp","name":"Sonia","created_at":"2024-11-25T12:03:13.462Z","language_code":"es","description":"Setelah menerima kerusakan mematikan, Anda mendapatkan nanoshield. Pengguna skill akan tereliminasi ketika perisainya menghilang.\n\nSetelah menerima kerusakan mematikan, ia memasuki kondisi kebal dan tidak bergerak selama 0,4 detik.\n\nSetelah itu, Anda mendapatkan perisai 1HP yang bertahan selama 2 detik.\n\nPengguna skill akan tereliminasi ketika perisainya menghilang.\n\nMasa pakai baterai: 180 detik","name_ability":"Nanoescudo de Vida","type_ability":"Pasiva","ability_tags":["Puntos de Escudo"],"descEn":"After receiving lethal damage, you gain a nanoshield. The skill user is eliminated when the shield disappears.\n\nAfter receiving lethal damage, enters an invincible state and cannot move for 0.4 seconds.\n\nAfterwards, you gain a 1 HP shield that lasts 2 seconds.\n\nThe skill user is eliminated when the shield disappears.\n\nBattery life: 180 seconds"},{"id":"47","image_character":"ff-data/images/Orion.webp","ability_image":"ff-data/images/e6c0afc9-6cbd-4524-b9fa-406b44d8c500.webp","name":"Orion","created_at":"2024-11-25T11:59:14.495Z","language_code":"es","description":"Aktifkan perlindungan agar kebal terhadap damage dan menyerap HP musuh.\n\nMengganti XP dengan 300 Energi Merah.\n\nKonsumsi 200 Crimson Energy untuk mengaktifkan perlindungannya, di mana Anda tidak dapat menerima kerusakan atau menyerang musuh, dan Anda akan menyerap 10 HP dari musuh dalam jarak 5m.\n\nPoin perisai musuh akan diabaikan.\n\nBerlangsung selama 3 detik, selama itu kecepatan gerakanmu akan berkurang sebesar 5%.\n\nWaktu Istirahat: 3 detik","name_ability":"Golpe Carmesí","type_ability":"Activa","ability_tags":["Transformar","Invulnerable"],"descEn":"Activate protection to become immune to damage and absorb enemy HP.\n\nConverts XP into 300 Red Energy.\n\nConsumes 200 Crimson Energy to activate protection, during which you cannot take damage or attack enemies, and you absorb 10 HP from enemies within 5m.\n\nEnemy shield points are ignored.\n\nLasts 3 seconds, during which your movement speed is reduced by 5%.\n\nRest Time: 3 seconds"},{"id":"46","image_character":"ff-data/images/Santino.webp","ability_image":"ff-data/images/12ccfa81-08aa-42b9-9b7b-7da5bf01787f.webp","name":"Santino","created_at":"2024-11-25T11:55:30.852Z","language_code":"es","description":"Menghasilkan manekin yang bergerak secara otomatis dan Anda dapat bertukar posisi. Musuh yang menghancurkannya akan ditandai.\n\nMemunculkan manekin dengan 200 HP yang bergerak secara mandiri selama 25 detik.\n\nSaat manekin berada antara 90m dan 10m dari pengguna, ketuk lagi keterampilan untuk bertukar posisi dengannya.\n\nHanya satu perubahan yang dapat dilakukan dalam waktu 3 detik, hingga total maksimal 2 kali.\n\nPemain yang menghancurkan boneka tersebut akan ditandai selama 5 detik.\n\nMasa pakai baterai: 60 detik.","name_ability":"División de Formas","type_ability":"Activa","ability_tags":["Mobilidad"],"descEn":"Spawns a decoy that moves automatically and you can swap positions with it. Enemies who destroy it are marked.\n\nSpawns a decoy with 200 HP that moves independently for 25 seconds.\n\nWhen the decoy is between 90m and 10m from the user, tap the skill again to swap positions with it.\n\nOnly one swap can be performed within 3 seconds, up to a maximum of 2 times.\n\nPlayers who destroy the decoy are marked for 5 seconds.\n\nBattery life: 60 seconds."},{"id":"45","image_character":"ff-data/images/Luna.webp","ability_image":"ff-data/images/a649bd4a-ff2b-4d28-a61e-846a39e4e08a.webp","name":"Luna","created_at":"2024-11-25T11:51:05.198Z","language_code":"es","description":"Kecepatan tembakan meningkat dan jika pengguna mengenai musuh, maka akan diubah menjadi kecepatan gerak.\n\nMeningkatkan kecepatan menembak sebesar 8%.\n\nSaat pengguna mengenai musuh, hingga 10% kecepatan tembakan diubah menjadi kecepatan gerakan dan konversi tersebut disetel ulang setelah bertahan dalam pertempuran.","name_ability":"Pelea o Vuela","type_ability":"Pasiva","ability_tags":["Vel. de movimiento","Vel. de disparo"],"descEn":"Fire rate increases and, if the user hits an enemy, it is converted into movement speed.\n\nIncreases firing speed by 8%.\n\nWhen the user hits an enemy, up to 10% of the firing speed is converted into movement speed, and the conversion resets after surviving a battle."},{"id":"44","image_character":"ff-data/images/Tatsuya.webp","ability_image":"ff-data/images/00604c5c-9061-43c6-8045-233b38479db9.webp","name":"Tatsuya","created_at":"2024-11-25T11:47:45.893Z","language_code":"es","description":"Mempercepat dan mengatur ulang cooldown dengan cepat saat menembak jatuh musuh.\n\nBerakselerasi dengan cepat selama 0,3 detik dan menyetel ulang cooldown saat menjatuhkan musuh dalam waktu 10 detik setelah menggunakan keterampilan.\n\nMasa pakai baterai: 90an","name_ability":"Ataque Rebelde","type_ability":"Activa","ability_tags":["Mobilidad","Atacar"],"descEn":"Accelerates and resets the cooldown quickly when taking down enemies.\n\nAccelerates rapidly for 0.3 seconds and resets the cooldown when taking down an enemy within 10 seconds of using the skill.\n\nBattery life: 90 seconds"},{"id":"43","image_character":"ff-data/images/Iris.webp","ability_image":"ff-data/images/82e279b9-015f-4cc2-8333-9f7f8b3e7071.webp","name":"Iris","created_at":"2024-11-25T11:43:14.485Z","language_code":"es","description":"Menembus Gloo Walls untuk menandai dan memberikan damage pada musuh di belakangnya.\n\nDalam waktu 15 detik setelah mengaktifkan skill, pengguna skill berhasil menembakkan Tembok Gloo untuk menandai musuh dalam jarak 7m dan menembus Tembok Gloo untuk memberikan damage pada musuh tersebut.\n\nKerusakan yang diberikan akan lebih kecil dari biasanya.\n\nEfektif pada hingga 5 Gloo Wall.\n\nMasa pakai baterai: 60 detik","name_ability":"Rompehielos","type_ability":"Activa","ability_tags":["Perforaparedes","Marcar"],"descEn":"Pierces Gloo Walls to mark and deal damage to enemies behind them.\n\nWithin 15 seconds of activating the skill, the skill user successfully shoots through Gloo Walls to mark enemies within 7m and pierces Gloo Walls to deal damage to those enemies.\n\nDamage dealt is lower than usual.\n\nEffective on up to 5 Gloo Walls.\n\nBattery life: 60 seconds"},{"id":"42","image_character":"ff-data/images/Homero.webp","ability_image":"ff-data/images/042f2b44-012c-40c0-847a-a8f4e50a50ff.webp","name":"Homero","created_at":"2024-11-25T11:39:26.944Z","language_code":"es","description":"Luncurkan drone eksplosif yang secara otomatis menargetkan musuh.\n\nMeluncurkan drone ke arah musuh terdekat dalam jarak depan 100m, menciptakan ledakan pulsa berdiameter 5,5m yang mengurangi kecepatan gerakan sebesar 40% dan kecepatan tembakan sebesar 40%.\n\nDurasi: 5 detik.\n\nMenimbulkan 25 KERUSAKAN.\n\nMasa pakai baterai: 60 detik","name_ability":"Sentidos de Choque","type_ability":"Activa","ability_tags":["Daño","Buscar enemigos"],"descEn":"Launches an explosive drone that automatically targets enemies.\n\nLaunches a drone toward the nearest enemy within 100m in front, creating a 5.5m diameter pulse explosion that reduces movement speed by 40% and fire rate by 40%.\n\nDuration: 5 seconds.\n\nDeals 25 DAMAGE.\n\nBattery life: 60 seconds"},{"id":"41","image_character":"ff-data/images/Kenta.webp","ability_image":"ff-data/images/ce6b1582-880b-4b3d-9ff1-0ae1431fa6e6.webp","name":"Kenta","created_at":"2024-11-25T11:34:03.651Z","language_code":"es","description":"Membentuk perisai yang memblokir kerusakan frontal dari senjata. Efeknya saat memotret berkurang.\n\nMembentuk perisai selebar 5m yang mengurangi 60% kerusakan senjata yang datang dari depan.\n\nSaat menembak, pengurangan damage berkurang 20%.\n\nDurasi: 5 detik.\n\nMasa pakai baterai: 70 detik","name_ability":"Ira de la Espada","type_ability":"Activa","ability_tags":["Resistencia al daño","Barrera"],"descEn":"Forms a shield that blocks frontal damage from weapons. Effect is reduced while shooting.\n\nForms a 5m wide shield that reduces 60% of weapon damage coming from the front.\n\nWhile shooting, damage reduction decreases by 20%.\n\nDuration: 5 seconds.\n\nBattery life: 70 seconds"},{"id":"40","image_character":"ff-data/images/Nairi.webp","ability_image":"ff-data/images/92f440e9-5cde-456f-8244-085d0f235ae5.webp","name":"Nairi","created_at":"2024-11-25T11:30:27.804Z","language_code":"es","description":"Gloo Wall memulihkan daya tahan dalam waktu singkat dan menyembuhkan rekan satu tim di sekitar.\n\nDalam 1,5 detik setelah menggunakan Gloo Wall, memulihkan 160 daya tahan per detik dan memulihkan 5 HP per detik ke rekan satu tim dalam jarak 5m.\n\nEfek penyembuhan tidak dapat ditumpuk dengan menggunakan beberapa Gloo Wall.","name_ability":"Hierro de Hielo","type_ability":"Pasiva","ability_tags":["Curar","Pared Gloo"],"descEn":"Gloo Walls restore durability for a short time and heal nearby teammates.\n\nWithin 1.5 seconds of using a Gloo Wall, restores 160 durability per second and restores 5 HP per second to teammates within 5m.\n\nHealing effects cannot stack when using multiple Gloo Walls."},{"id":"39","image_character":"ff-data/images/Otho.webp","ability_image":"ff-data/images/a5845440-9a94-44e9-ba14-868fc7e3688f.webp","name":"Otho","created_at":"2024-11-25T11:27:24.466Z","language_code":"es","description":"Setelah menjatuhkan musuh atau dirobohkan, itu menandai semua musuh di dekat pemain yang jatuh dan memperlambat mereka.\n\nSetelah menjatuhkan musuh, tandai rekan musuh yang terjatuh dalam jarak 20m dan kurangi kecepatan gerakannya sebesar 25%.\n\nBerlangsung 3 detik.\n\nSaat dijatuhkan oleh musuh di dekatnya, itu menandai dan memperlambat penyerang dan rekan satu timnya.","name_ability":"Memoria Fotográfica","type_ability":"Pasiva","ability_tags":["Lento","Marcar"],"descEn":"After taking down an enemy or being knocked down, it marks all enemies near the fallen player and slows them.\n\nAfter taking down an enemy, marks the fallen enemy's teammates within 20m and reduces their movement speed by 25%.\n\nLasts 3 seconds.\n\nWhen knocked down by a nearby enemy, it marks and slows the attacker and their teammates."},{"id":"38","image_character":"ff-data/images/Leon.webp","ability_image":"ff-data/images/7ebd419b-ef51-400f-b6eb-4cdd81ce4c77.webp","name":"Leon","created_at":"2024-11-25T11:24:26.979Z","language_code":"es","description":"Pulihkan HP setelah selamat dari pertempuran.\n\n4 detik setelah diserang, memulihkan 4HP/dtk selama 15 detik.","name_ability":"Tiro Ganador","type_ability":"Pasiva","ability_tags":["Recuperar"],"descEn":"Restore HP after surviving a battle.\n\n4 seconds after being attacked, restores 4 HP/s for 15 seconds."},{"id":"37","image_character":"ff-data/images/Dimitri.webp","ability_image":"ff-data/images/7431cddc-0a63-424e-b6c8-ce31a5bbb4a7.webp","name":"Dimitri","created_at":"2024-11-25T11:21:26.478Z","language_code":"es","description":"Di dalam zona tersebut, pengguna dan sekutunya memulihkan HP setiap detik. Bantuan akan diaktifkan secara otomatis bila diperlukan.\n\nMenciptakan zona penyembuhan radius 4m. Di dalam, pengguna dan sekutu memulihkan 10 HP/dtk.\n\nBantuan akan diaktifkan secara otomatis bila diperlukan.\n\nZona ini berlangsung selama 6 detik.\n\nEfek membantu rekan satu tim dapat ditingkatkan dengan keterampilan lain.\n\nMasa pakai baterai: 75 detik","name_ability":"Latido Curativo","type_ability":"Activa","ability_tags":["Curar","Ayudar"],"descEn":"Inside the zone, the user and allies restore HP every second. Rescue is activated automatically when needed.\n\nCreates a healing zone with a 4m radius. Inside, the user and allies restore 10 HP/s.\n\nRescue is activated automatically when needed.\n\nThe zone lasts 6 seconds.\n\nTeammate rescue effects can be enhanced by other skills.\n\nBattery life: 75 seconds"},{"id":"36","image_character":"ff-data/images/Di-Bee.webp","ability_image":"ff-data/images/22f269b8-4949-4ea1-a726-5caca9c0d8c3.webp","name":"Di-Bee","created_at":"2024-11-25T11:17:14.586Z","language_code":"es","description":"Tingkatkan kecepatan dan akurasi gerakan saat memotret saat bergerak.\n\nSaat memotret sambil bergerak, kecepatan gerakan meningkat sebesar 50% dan akurasi meningkat sebesar 60%.","name_ability":"Balas con Ritmo","type_ability":"Pasiva","ability_tags":["Vel. de movimiento","Precisión"],"descEn":"Increases movement speed and accuracy when shooting while moving.\n\nWhile shooting while moving, movement speed increases by 50% and accuracy by 60%."},{"id":"35","image_character":"ff-data/images/Maro.webp","ability_image":"ff-data/images/88bce812-bf37-4701-bd43-2eeffcb6be93.webp","name":"Maro","created_at":"2024-11-25T11:14:16.635Z","language_code":"es","description":"Peningkatan kerusakan terhadap musuh yang jauh dan musuh yang ditandai.\n\nKerusakan meningkat seiring jarak, hingga 20%.\n\nKerusakan pada musuh yang ditandai meningkat sebesar 5%.","name_ability":"Fervor de Halcón","type_ability":"Pasiva","ability_tags":["Potenciador de DAÑO"],"descEn":"Increased damage against distant and marked enemies.\n\nDamage increases with distance, up to 20%.\n\nDamage against marked enemies increases by 5%."},{"id":"34","image_character":"ff-data/images/Skyler.webp","ability_image":"ff-data/images/f8aadb0b-a707-4b00-8bc0-7abedfe0f2b9.webp","name":"Skyler","created_at":"2024-11-25T11:11:49.839Z","language_code":"es","description":"Melepaskan gelombang sonik ke arah depan yang meledak, menimbulkan kerusakan seiring waktu pada Gloo Wall di dekatnya.\n\nMelepaskan gelombang sonik ke depan hingga 100m.\n\nSaat mengenai rintangan, gelombang tersebut akan meledak dan mengakibatkan 500 DMG per detik ke Gloo Wall dalam jarak 4m.\n\nBerlangsung 6 detik.\n\nHingga 2 muatan keterampilan dapat disimpan.\n\nBidikan otomatis dapat digunakan di Gloo Wall hingga jarak 5m.\n\nMasa pakai baterai: 45 detik","name_ability":"Ritmo Alto","type_ability":"Activa","ability_tags":["Rompeparedes"],"descEn":"Releases a sonic wave forward that explodes, dealing damage over time to nearby Gloo Walls.\n\nReleases a sonic wave up to 100m forward.\n\nWhen it hits an obstacle, the wave explodes and deals 500 DMG per second to Gloo Walls within 4m.\n\nLasts 6 seconds.\n\nUp to 2 skill charges can be stored.\n\nAuto-aim can be used on Gloo Walls up to 5m away.\n\nBattery life: 45 seconds"},{"id":"33","image_character":"ff-data/images/Shirou.webp","ability_image":"ff-data/images/9ca56ca8-c9ae-4b09-9255-225fe63aa0eb.webp","name":"Shirou","created_at":"2024-11-25T11:08:06.135Z","language_code":"es","description":"Saat Anda menerima kerusakan, tandai penyerangnya.\n\nSaat terkena musuh dalam jarak 100m, penyerang tersebut akan ditandai selama 8 detik.\n\nInformasi dibagikan kepada rekan satu tim.\n\nMaksimum 4 tanda.","name_ability":"Daño Entregado","type_ability":"Pasiva","ability_tags":["Compartir","Marcar"],"descEn":"When you take damage, mark the attacker.\n\nWhen hit by an enemy within 100m, the attacker is marked for 8 seconds.\n\nInformation is shared with teammates.\n\nMaximum 4 marks."},{"id":"32","image_character":"ff-data/images/Chrono.webp","ability_image":"ff-data/images/33278336-3e27-48ff-894c-392623816e8a.webp","name":"Chrono","created_at":"2024-11-25T11:05:13.848Z","language_code":"es","description":"Menciptakan medan gaya yang memblokir kerusakan.\n\nMenciptakan medan gaya yang tidak dapat ditembus yang memblokir 1000 kerusakan.\n\nTidak mengizinkan menyerang musuh di luar lapangan dari dalam.\n\nDurasi semua efek: 10 detik.\n\nMasa pakai baterai: 60 detik","name_ability":"Campo de Fuerza","type_ability":"Activa","ability_tags":["Barrera"],"descEn":"Creates a force field that blocks damage.\n\nCreates an impenetrable force field that blocks 1000 damage.\n\nDoes not allow attacking enemies outside the field from inside.\n\nAll effect duration: 10 seconds.\n\nBattery life: 60 seconds"},{"id":"31","image_character":"ff-data/images/Dasha.webp","ability_image":"ff-data/images/3279a89e-b987-4bf7-895a-67c43900e913.webp","name":"Dasha","created_at":"2024-11-25T11:02:33.201Z","language_code":"es","description":"Saat menembak jatuh musuh, kecepatan menembak dan gerakan Anda meningkat secara signifikan.\n\nSetelah mengalahkan musuh, ia memasuki Mode Unggulan, yang meningkatkan laju tembakan sebesar 18% dan kecepatan gerakan sebesar 12%, namun kemudian berkurang dengan cepat.\n\nDurasi: 10 detik.\n\nSelama Mode Unggulan, menembak jatuh musuh secara berurutan akan mengatur ulang hitungan mundur dan meningkatkan laju tembakan Anda sebesar 4% dan kecepatan gerakan Anda sebesar 3%.","name_ability":"Modo Fiesta","type_ability":"Pasiva","ability_tags":["Vel. de movimiento","Vel. de disparo"],"descEn":"When taking down enemies, your firing and movement speed increase significantly.\n\nAfter defeating an enemy, enters Featured Mode, which increases fire rate by 18% and movement speed by 12%, but decays quickly afterwards.\n\nDuration: 10 seconds.\n\nDuring Featured Mode, consecutive takedowns reset the countdown and increase fire rate by 4% and movement speed by 3%."},{"id":"30","image_character":"ff-data/images/K.webp","ability_image":"ff-data/images/26452118-75bb-49aa-a238-816a5f1654c0.webp","name":"K","created_at":"2024-11-25T10:58:44.079Z","language_code":"es","description":"Meningkatkan EP maksimum; Tingkatkan konversi XP atau pulihkan XP per detik untuk Anda dan sekutu Anda dalam jangkauan.\n\nPE maksimum meningkat menjadi 50.\n\nMode Jiu-jitsu: Sekutu dalam jarak 15m memperoleh peningkatan persentase konversi XP sebesar 600%.\n\nMode Psikologi: Memulihkan 3 XP setiap 1 detik, hingga 250 XP.\n\nCooldown perubahan mode: 6 dtk","name_ability":"Profesor de Todo","type_ability":"Activa","ability_tags":["Compartir","PE"],"descEn":"Increases maximum EP; boosts XP conversion or restores XP per second for you and nearby allies.\n\nMaximum EP increases to 50.\n\nJiu-jitsu Mode: Allies within 15m gain a 600% increase in XP conversion percentage.\n\nPsychology Mode: Restores 3 XP every 1 second, up to 250 XP.\n\nMode change cooldown: 6 s"},{"id":"29","image_character":"ff-data/images/Luqueta.webp","ability_image":"ff-data/images/6f7a402a-3480-445e-a304-b22375dc50b9.webp","name":"Luqueta","created_at":"2024-11-25T10:54:23.480Z","language_code":"es","description":"Poin Perisai maks. meningkat secara permanen dengan eliminasi.\n\nSetiap pembunuhan meningkatkan Poin Perisai maksimum secara permanen sebesar 15.\n\nPembesaran maksimum: 45.\n\nMenghapus efek ketika pemain tersingkir atau putaran dimulai kembali.","name_ability":"Sombrerito","type_ability":"Pasiva","ability_tags":["Puntos de Escudo"],"descEn":"Max. Shield Points permanently increase with eliminations.\n\nEach kill permanently increases maximum Shield Points by 15.\n\nMaximum increase: 45.\n\nEffects are removed when the player is eliminated or when the round restarts."},{"id":"28","image_character":"ff-data/images/Hayato.webp","ability_image":"ff-data/images/2e06c091-d4e3-4000-bcec-5f76dcfd232a.webp","name":"Hayato","created_at":"2024-11-25T10:50:50.525Z","language_code":"es","description":"HP lebih sedikit, namun memberikan lebih banyak penetrasi armor dan pengurangan DMG frontal.\n\nUntuk setiap 10% HP yang hilang, Penetrasi Armor meningkat sebesar 3,5% dan DMG frontal yang diterima berkurang sebesar 2%.","name_ability":"Arte con Espadas","type_ability":"Pasiva","ability_tags":["Resistencia al daño","Perforación de armadura"],"descEn":"Less HP, but grants more armor penetration and reduced frontal DMG.\n\nFor every 10% HP lost, Armor Penetration increases by 3.5% and frontal DMG received decreases by 2%."},{"id":"27","image_character":"ff-data/images/Moco.webp","ability_image":"ff-data/images/0008c8ec-07fd-4cf4-88fa-53b952152943.webp","name":"Moco","created_at":"2024-11-25T07:46:22.034Z","language_code":"es","description":"Tandai musuh yang rusak.\n\nMenandai musuh yang rusak, mengungkapkan lokasinya di bidang pandang dan di peta mini, dan membagikannya kepada rekan satu tim.\n\nJika musuh bergerak selama 3 detik.\n\nJika Anda bergerak sambil ditandai, lokasi Anda akan terlihat lebih lama, hingga 4 detik.","name_ability":"Vista Enigmática","type_ability":"Pasiva","ability_tags":["Compartir","Marcar"],"descEn":"Marks damaged enemies.\n\nMarks damaged enemies, revealing their location in the field of view and on the minimap, and shares it with teammates.\n\nIf the enemy moves for 3 seconds.\n\nIf you move while marked, your location is visible for longer, up to 4 seconds."},{"id":"26","image_character":"ff-data/images/Steffie.webp","ability_image":"ff-data/images/5ac76eb1-4b26-45a4-89a1-815bac7c5ba5.webp","name":"Steffie","created_at":"2024-11-25T07:37:15.513Z","language_code":"es","description":"Menciptakan area yang menghalangi benda-benda yang dapat dibuang. Sekutu di dalamnya akan menerima peningkatan pertahanan.\n\nMembuat area seluas 4m di mana objek yang dapat dibuang tidak valid.\n\nSekutu di area tersebut akan memulihkan daya tahan armor sebesar 10% setiap detik dan kerusakan amunisi akan berkurang sebesar 20%.\n\nDurasi: 15 detik.\n\nEfeknya tidak bertumpuk.\n\nMasa pakai baterai: 60 detik","name_ability":"Refugio de Pintura","type_ability":"Activa","ability_tags":["Compartir","Resistencia al daño"],"descEn":"Creates an area that blocks throwable objects. Allies inside receive increased defense.\n\nCreates a 4m area where throwable objects are invalid.\n\nAllies in the area restore 10% armor durability per second and ammo damage is reduced by 20%.\n\nDuration: 15 seconds.\n\nEffects do not stack.\n\nBattery life: 60 seconds"},{"id":"25","image_character":"ff-data/images/Misha.webp","ability_image":"ff-data/images/ecd2036b-6975-4949-b946-a1cc3c9c0459.webp","name":"Misha","created_at":"2024-11-25T07:31:31.109Z","language_code":"es","description":"Saat mengemudi, sulit untuk tertabrak dan Anda mendapatkan peningkatan kekuatan.\n\nKecepatan mengemudi meningkat 10%.\n\nSaat karakter berada di dalam kendaraan, lebih sulit untuk membidiknya dan kerusakan yang diterima berkurang sebesar 20%.","name_ability":"Fugacidad","type_ability":"Pasiva","ability_tags":["Resistencia al daño","Vehículo"],"descEn":"While driving, it's harder to be hit and you gain a power boost.\n\nDriving speed increases by 10%.\n\nWhile the character is inside a vehicle, it's harder to aim at them and damage received is reduced by 20%."},{"id":"24","image_character":"ff-data/images/Maxim.webp","ability_image":"ff-data/images/7dc2f06b-0f94-407c-9a2a-98f560f181ca.webp","name":"Maxim","created_at":"2024-11-25T07:27:44.737Z","language_code":"es","description":"Makan jamur dan gunakan medkit 25% lebih cepat.","name_ability":"Glotonería","type_ability":"Pasiva","ability_tags":["Recuperar"],"descEn":"Eat mushrooms and use medkits 25% faster."},{"id":"23","image_character":"ff-data/images/Andrew.webp","ability_image":"ff-data/images/a7cf7746-9012-4bb5-8fad-4495082e2e01.webp","name":"Andrew","created_at":"2024-11-25T07:24:34.896Z","language_code":"es","description":"Pertahanan armor meningkat. Semakin banyak teman dalam jangkauan, semakin baik.\n\nKehilangan daya tahan armor berkurang sebesar 40% dan pengurangan KERUSAKAN armor meningkat sebesar 4%.\n\nMendapatkan bonus pengurangan KERUSAKAN 1% untuk setiap rekan satu tim yang hadir dalam jarak 15m.","name_ability":"Manada de Lobos","type_ability":"Pasiva","ability_tags":["Resistencia al daño"],"descEn":"Armor defense increases. The more teammates in range, the better.\n\nArmor durability loss is reduced by 40% and armor DAMAGE reduction increases by 4%.\n\nGains an extra 1% DAMAGE reduction for each teammate within 15m."},{"id":"22","image_character":"ff-data/images/Caroline.webp","ability_image":"ff-data/images/f8964699-1c16-4f04-887b-f4cfc8a1913a.webp","name":"Caroline","created_at":"2024-11-25T07:09:24.887Z","language_code":"es","description":"Saat menggunakan shotgun, meningkatkan kecepatan gerakan sebesar 16%.","name_ability":"Extremadamente Ágil","type_ability":"Pasiva","ability_tags":["Vel. de movimiento"],"descEn":"While using a shotgun, increases movement speed by 16%."},{"id":"21","image_character":"ff-data/images/Laura.webp","ability_image":"ff-data/images/47f7aabc-9e2e-4733-bafc-efe5eb9587ff.webp","name":"Laura","created_at":"2024-11-25T07:04:34.028Z","language_code":"es","description":"Meningkatkan akurasi saat menggunakan scope sebesar 60%.","name_ability":"Tiradora Audaz","type_ability":"Pasiva","ability_tags":["Precisión"],"descEn":"Increases accuracy by 60% when using a scope."},{"id":"20","image_character":"ff-data/images/Rafael.webp","ability_image":"ff-data/images/ce241fa9-2fb1-4d55-9f43-1448cb1953dd.webp","name":"Rafael","created_at":"2024-11-25T07:00:09.397Z","language_code":"es","description":"Tembakan dari senapan sniper dan penembak jitu dibungkam, dan musuh yang jatuh akan mengeluarkan darah lebih cepat.\n\nSaat menggunakan senapan sniper dan penembak jitu, suara tembakan akan diredam dan tembakan yang berhasil dapat menyebabkan musuh yang terjatuh mengeluarkan darah 85% lebih cepat.","name_ability":"Muerte Silenciosa","type_ability":"Pasiva","ability_tags":["Silenciador"],"descEn":"Sniper rifle and marksman shots are silenced, and fallen enemies bleed out faster.\n\nWhen using sniper rifles and marksman rifles, shot sounds are muffled and successful shots make fallen enemies bleed out 85% faster."},{"id":"19","image_character":"ff-data/images/Jota.webp","ability_image":"ff-data/images/af791482-21a4-440f-aa5e-53d0c39dd5fd.webp","name":"Jota","created_at":"2024-11-25T06:56:00.852Z","language_code":"es","description":"Memulihkan sejumlah kecil HP saat memukul musuh dengan senjata, dan memulihkan sejumlah besar HP saat menjatuhkan musuh dengan cara apa pun.\n\nJika kamu mengenai musuh dengan senjata, kamu akan mendapatkan kembali HP.\n\nSedangkan jika kamu menjatuhkan musuh dengan cara apapun, kamu akan memulihkan 20% HP.","name_ability":"Caza Sostenida","type_ability":"Pasiva","ability_tags":["Recuperar"],"descEn":"Restores a small amount of HP when hitting enemies with weapons, and restores a large amount of HP when taking down enemies by any means.\n\nIf you hit an enemy with a weapon, you recover HP.\n\nMeanwhile, if you take down an enemy by any means, you restore 20% HP."},{"id":"18","image_character":"ff-data/images/Alvaro.webp","ability_image":"ff-data/images/9484093c-3140-497f-8888-e0f8bf390b06.webp","name":"Alvaro","created_at":"2024-11-25T06:49:23.718Z","language_code":"es","description":"Meningkatkan kerusakan dan jangkauan bahan peledak serta menyediakan granat yang terbelah dan meledak.\n\nKerusakan senjata peledak meningkat sebesar 25% dan jangkauannya meningkat sebesar 10%.\n\nSetiap granat akan terbagi menjadi 3 granat mini setelah meledak, memberikan 20% kerusakan granat asli.","name_ability":"Arte de Demolición","type_ability":"Pasiva","ability_tags":["Daño","Explosivos"],"descEn":"Increases explosive damage and range and provides grenades that split and explode.\n\nExplosive weapon damage increases by 25% and range by 10%.\n\nEach grenade splits into 3 mini grenades after exploding, dealing 20% of the original grenade's damage."},{"id":"17","image_character":"ff-data/images/Antonio.webp","ability_image":"ff-data/images/ad75b75a-ae8d-45c8-baa7-bb080720f598.webp","name":"Antonio","created_at":"2024-11-25T06:44:03.472Z","language_code":"es","description":"Meningkatkan Perisai Poin maksimum secara permanen.\n\nDapatkan 20 Poin Perisai ekstra di awal permainan.\n\nPulihkan Poin Perisai setelah selamat dari pertempuran.","name_ability":"Espíritu del Mafioso","type_ability":"Pasiva","ability_tags":["Puntos de Escudo"],"descEn":"Permanently increases maximum Shield Points.\n\nGain 20 extra Shield Points at the start of the game.\n\nRestore Shield Points after surviving a battle."},{"id":"16","image_character":"ff-data/images/Paloma.webp","ability_image":"ff-data/images/1faa4934-b3e2-4862-aa2f-e5dcc468d978.webp","name":"Paloma","created_at":"2024-11-25T06:40:09.461Z","language_code":"es","description":"Akurasi meningkat setelah menghancurkan Tembok Gloo.\n\nAkurasi senjata meningkat selama 10 detik setelah menghancurkan Tembok Gloo.","name_ability":"Destrucción expansiva","type_ability":"Pasiva","ability_tags":["Precisión"],"descEn":"Accuracy increases after destroying a Gloo Wall.\n\nWeapon accuracy increases for 10 seconds after destroying a Gloo Wall."},{"id":"15","image_character":"ff-data/images/Miguel.webp","ability_image":"ff-data/images/8634de63-b704-4b66-b856-a18b7e771ae8.webp","name":"Miguel","created_at":"2024-11-25T06:28:59.263Z","language_code":"es","description":"Hasilkan 200 XP saat Anda menjatuhkan musuh.","name_ability":"Asesino Loco","type_ability":"Pasiva","ability_tags":["PE"],"descEn":"Gain 200 XP when you take down an enemy."},{"id":"14","image_character":"ff-data/images/Nikita.webp","ability_image":"ff-data/images/39d401a8-4d55-46af-abfe-112c080f1a9a.webp","name":"Nikita","created_at":"2024-11-25T06:10:24.256Z","language_code":"es","description":"Meningkatkan kecepatan reload dan menyebabkan pengurangan penyembuhan pada musuh yang terkena.\n\nKecepatan muat ulang meningkat 20%. Setiap kali pengguna skill mengenai musuh, musuh tersebut akan mendapatkan pengurangan penyembuhan sebesar 50% yang berlangsung selama 6 detik (pengurangan maksimum: 50%).","name_ability":"Experta en Armas","type_ability":"Pasiva","ability_tags":["Reducción de curación","Recargar"],"descEn":"Increases reload speed and causes healing reduction on hit enemies.\n\nReload speed increases by 20%. Each time the skill user hits an enemy, that enemy receives a 50% healing reduction lasting 6 seconds (maximum reduction: 50%)."},{"id":"13","image_character":"ff-data/images/Kapella.webp","ability_image":"ff-data/images/4a7c3005-24c1-4c9d-9f91-47bbf8646b5e.webp","name":"Kapella","created_at":"2024-11-25T06:03:59.767Z","language_code":"es","description":"Sembuhkan rekan satu tim dengan amunisi dan sembuhkan lebih banyak lagi dengan senjata penyembuh.\n\nMenyembuhkan rekan satu tim dengan amunisi sebesar 20% dari kerusakan yang diberikan.\n\nSaat menggunakan senjata penyembuh, meningkatkan efek penyembuhan sebesar 20%.","name_ability":"Balas Curativas","type_ability":"Pasiva","ability_tags":["Curar"],"descEn":"Heal teammates with ammo and heal even more with healing weapons.\n\nHeals teammates with ammo equal to 20% of damage dealt.\n\nWhen using a healing weapon, increases healing effects by 20%."},{"id":"12","image_character":"ff-data/images/thiva.webp","ability_image":"ff-data/images/de7686e6-f488-4765-b6b7-7e6e3c0321bd.webp","name":"Thiva","created_at":"2024-11-25T05:55:39.609Z","language_code":"es","description":"Bantu rekan satu tim lebih cepat. Mitra memulihkan HP setelah bantuan.\n\nKecepatan membantu rekan satu tim meningkat sebesar 70%.\n\nRekan satu tim yang dibantu memulihkan 60 VP dalam 3 detik.\n\nMasa pakai baterai: 90an","name_ability":"Vibraciones Vitales","type_ability":"Pasiva","ability_tags":["Curar","Ayudar"],"descEn":"Help teammates faster. Rescued teammates restore HP after being helped.\n\nTeammate help speed increases by 70%.\n\nA helped teammate restores 60 VP in 3 seconds.\n\nBattery life: 90 seconds"},{"id":"11","image_character":"ff-data/images/Joseph.webp","ability_image":"ff-data/images/981a01bd-59c9-4ad6-8212-a6234ef51277.webp","name":"Joseph","created_at":"2024-11-25T05:48:30.401Z","language_code":"es","description":"Jika berada dalam debuff, Anda memperoleh kekebalan dan peningkatan kecepatan gerakan.\n\nMenjadi kebal terhadap efek mengganggu seperti perlambatan, penandaan, dan kemampuan diam.\n\nMendapatkan peningkatan kecepatan gerakan sebesar 10% selama 5 detik.\n\nMasa pakai baterai: 45 detik","name_ability":"Cuchara de Plata","type_ability":"Pasiva","ability_tags":["Vel. de movimiento","Inmune"],"descEn":"If under a debuff, you gain immunity and increased movement speed.\n\nBecomes immune to disruptive effects such as slows, marks, and silence abilities.\n\nGains a 10% movement speed boost for 5 seconds.\n\nBattery life: 45 seconds"},{"id":"10","image_character":"ff-data/images/Notora.webp","ability_image":"ff-data/images/a18d130e-b115-426c-91bb-710fa6a955c9.webp","name":"Notora","created_at":"2024-11-25T04:09:14.308Z","language_code":"es","description":"Memulihkan HP untuk dirinya dan rekan satu timnya saat berada di dalam kendaraan.\n\nSaat mengemudi, pulihkan 5 VP setiap 2 detik untuk semua penumpang di dalam kendaraan.\n\nMaksimum 200 VP.","name_ability":"Bendición de Carrera","type_ability":"Pasiva","ability_tags":["Curar","Vehículo"],"descEn":"Restores HP for herself and her teammates while inside a vehicle.\n\nWhile driving, restores 5 VP every 2 seconds for all passengers in the vehicle.\n\nMaximum 200 VP."},{"id":"9","image_character":"ff-data/images/KLA.webp","ability_image":"ff-data/images/2a8fdb1a-8b96-47aa-a8d4-643a2535f561.webp","name":"KLA","created_at":"2024-11-25T04:02:29.718Z","language_code":"es","description":"Meningkatkan kerusakan pukulan sebesar 400%.","name_ability":"Muay Thai","type_ability":"Pasiva","ability_tags":["Puños"],"descEn":"Increases punch damage by 400%."},{"id":"8","image_character":"ff-data/images/Wukong.webp","ability_image":"ff-data/images/695bcb39-5717-494f-90a5-8899d6a10dd1.webp","name":"Wukong","created_at":"2024-11-25T03:56:13.435Z","language_code":"es","description":"Itu berubah menjadi semak. Cooldown direset saat Anda menjatuhkan musuh.\n\nBerubah menjadi semak dengan pengurangan kecepatan gerakan sebesar 10% selama 10 detik.\n\nTransformasi berakhir ketika Wukong menyerang.\n\nCooldown direset ketika Wukong menjatuhkan musuh dalam waktu 10 detik setelah menggunakan kemampuannya.\n\nMasa pakai baterai: 90an","name_ability":"Ilusión","type_ability":"Activa","ability_tags":["Transformar"],"descEn":"Transforms into a bush. Cooldown resets when you take down an enemy.\n\nTransforms into a bush with a 10% movement speed reduction for 10 seconds.\n\nThe transformation ends when Wukong attacks.\n\nThe cooldown resets when Wukong takes down an enemy within 10 seconds of using the ability.\n\nBattery life: 90 seconds"},{"id":"7","image_character":"ff-data/images/Olivia.webp","ability_image":"ff-data/images/393d744b-46b8-46e2-9605-d493f11e036c.webp","name":"Olivia","created_at":"2024-11-25T03:53:00.890Z","language_code":"es","description":"Meningkatkan jumlah penyembuhan dan penyebaran\n\nMeningkatkan efek penyembuhan sebesar 30% dan menyebarkan 90% jumlah penyembuhan target tunggal pengguna ke rekan satu tim dalam jarak 20m.","name_ability":"Toque Sanador","type_ability":"Pasiva","ability_tags":["Curar","Recuperar"],"descEn":"Increases the amount of healing and its spread.\n\nIncreases healing effects by 30% and spreads 90% of the user's single-target healing amount to teammates within 20m."},{"id":"6","image_character":"ff-data/images/Ford.webp","ability_image":"ff-data/images/0f669b78-1dda-40da-a7f4-efde181ac5cb.webp","name":"Ford","created_at":"2024-11-25T03:48:37.104Z","language_code":"es","description":"HP Anda akan pulih ketika diserang.\n\nSaat menerima kerusakan, Anda memperoleh 10 HP/dtk selama 3 d.\n\nSetelah mengeluarkan skill aktif, skill pasif ini akan langsung direset.\n\nMasa pakai baterai: 20 detik","name_ability":"Voluntad de Hierro","type_ability":"Pasiva","ability_tags":["Recuperar"],"descEn":"Your HP recovers when attacked.\n\nWhen taking damage, you gain 10 HP/s for 3 s.\n\nAfter using an active skill, this passive skill resets immediately.\n\nBattery life: 20 seconds"},{"id":"5","image_character":"ff-data/images/Shani.webp","ability_image":"ff-data/images/123d176c-c748-4a59-98e0-3d9c38ff8cec.webp","name":"Shani","created_at":"2024-11-25T03:35:30.357Z","language_code":"es","description":"Saat menggunakan skill aktif, berikan Poin Perisai kepada teman terdekat.\n\nKetika skill aktif digunakan, ia memberikan 30 poin perisai kepada pengguna dan rekan satu tim hingga jarak 10m.\n\nPoin perisai berkurang setelah 10 detik, setelah itu pemain bisa mendapatkan efeknya lagi.\n\nWaktu tunggu: 10 detik","name_ability":"Equipo de Reparación","type_ability":"Pasiva","ability_tags":["Compartir","Puntos de Escudo"],"descEn":"When using an active skill, grants Shield Points to nearby teammates.\n\nWhen an active skill is used, it grants 30 shield points to the user and teammates within 10m.\n\nShield points decay after 10 seconds, after which the player can receive the effect again.\n\nCooldown: 10 seconds"},{"id":"4","image_character":"ff-data/images/Alok.webp","ability_image":"ff-data/images/dcf2a45a-afde-444e-bd67-051307b493df.webp","name":"Alok","created_at":"2024-11-25T03:28:45.717Z","language_code":"es","description":"Memulihkan HP seiring waktu dan meningkatkan kecepatan gerakan. Menjatuhkan not musik yang memberikan efek yang sama kepada teman saat diambil.\n\nMenciptakan aura 5m yang meningkatkan kecepatan gerakan sebesar 15% dan memulihkan 5 HP per detik selama 10 detik.\n\nSementara itu, ia menjatuhkan not musik setiap 2 detik, yang dapat diambil oleh rekan satu tim dan memberikan efek yang sama seperti aura.\n\nMasa pakai baterai: 45 detik","name_ability":"Fiesta Remix","type_ability":"Activa","ability_tags":["Curar","Vel. de movimiento"],"descEn":"Restores HP over time and increases movement speed. Drops music notes that grant the same effect to teammates when picked up.\n\nCreates a 5m aura that increases movement speed by 15% and restores 5 HP per second for 10 seconds.\n\nMeanwhile, it drops a music note every 2 seconds, which can be picked up by teammates and grants the same effect as the aura.\n\nBattery life: 45 seconds"},{"id":"3","image_character":"ff-data/images/A124.webp","ability_image":"ff-data/images/de2276bc-2336-4576-b324-c008d56d5bf9.webp","name":"A124","created_at":"2024-11-25T03:19:30.567Z","language_code":"es","description":"Melepaskan gelombang elektromagnetik yang menonaktifkan kemampuan musuh.\n\nMelepaskan gelombang elektromagnetik 8m yang menonaktifkan musuh dari mengaktifkan kemampuan, menyebabkan 25 DMG, dan menghentikan hitungan mundur kemampuan.\n\nDurasi: 20 detik.\n\nMasa pakai baterai: 75 detik","name_ability":"Emoción de Batalla","type_ability":"Activa","ability_tags":["Desactivar","Daño"],"descEn":"Releases an electromagnetic wave that disables enemy abilities.\n\nReleases an 8m electromagnetic wave that prevents enemies from activating abilities, deals 25 DMG, and stops ability countdowns.\n\nDuration: 20 seconds.\n\nBattery life: 75 seconds"},{"id":"2","image_character":"ff-data/images/kelly.webp","ability_image":"ff-data/images/44cdbd46-74e9-4c7f-83ba-bc07e7a76ac0.webp","name":"Kelly","created_at":"2024-11-24T08:10:39.578Z","language_code":"es","description":"Kecepatan lari meningkat sebesar 6%. Skill Reborn: Aktif setelah 4 detik berlari, 1 tembakan pertama ke target menimbulkan 106% damage. Durasi 5 detik.","name_ability":"Velocidad ultrasónica","type_ability":"PASIVA","ability_tags":[],"descEn":"Increases running speed by 6%. Reborn Skill: After 4 seconds of running, the first 1 shot at a target deals 106% damage. Lasts 5 seconds."},{"id":"1","image_character":"ff-data/images/Wolfrahh.webp","ability_image":"ff-data/images/a5471654-1bfd-4bd9-ac2b-6f115959ea1e.webp","name":"Wolfrahh","created_at":"2024-11-24T07:47:48.795Z","language_code":"es","description":"Meningkatkan DAMAGE headshot yang diberikan kepada musuh dan mengurangi damage headshot yang diterima.\n\nSetiap penghapusan atau penonton akan menambahkan tumpukan efek.\n\nSetiap tumpukan akan mengurangi damage yang diterima dari headshots sebesar 4%, maksimal total 12%, dan meningkatkan damage ke musuh dari headshots sebesar 10%, maksimal 30% total.","name_ability":"Vista","type_ability":"PASIVA","ability_tags":["Resistencia al daño","Disp. a la cabeza"],"descEn":"Increases headshot DAMAGE dealt to enemies and reduces headshot damage received.\n\nEvery elimination or viewer adds an effect stack.\n\nEach stack reduces headshot damage received by 4%, up to a total of 12%, and increases headshot damage dealt to enemies by 10%, up to 30% total."}]
+[
+  {
+    "id": "65",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/7794c593-5ac2-44d5-bada-293f67f2b869.png",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/431c7a96-0428-4e6a-9458-8c7257b5b96a.png",
+    "name": "Microchip de j.biebs",
+    "created_at": "2026-05-16T23:59:53.822Z",
+    "language_code": "es",
+    "description": "Pengguna dan sekutu terdekat dapat memblokir sebagian kerusakan menggunakan EP.\n\nPengguna dan sekutu dalam jarak 15m dapat memblokir 8% kerusakan menggunakan PE. Dalam hal ini, jumlah XP yang dikurangi dari sekutu akan ditambahkan ke XP pengguna keterampilan.",
+    "name_ability": "Voz Centinela",
+    "type_ability": "Pasiva",
+    "ability_tags": [
+      "Compartir",
+      "PE"
+    ],
+    "descEn": "The user and nearby allies can block part of the damage using EP.\n\nThe user and allies within 15m can block 8% of damage using EP. In this case, the XP reduced from allies is added to the skill user's XP."
+  },
+  {
+    "id": "64",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/ray.png",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/0f7037e4-0b85-477a-bc78-a584e5227225.png",
+    "name": "Ray",
+    "created_at": "2026-04-25T05:33:49.384Z",
+    "language_code": "es",
+    "description": "Membentuk ikatan dengan musuh di depan dan menjatuhkan mereka saat kesehatan mereka rendah. Keterampilan disetel ulang dan Anda mendapatkan kembali HP.\n\nMelepaskan kekuatan matahari ke depan dalam kipas sejauh 30m untuk menandai musuh pertama yang belum jatuh yang dicapainya selama 10 detik dan membentuk ikatan dengannya, hanya terlihat sejauh 40m oleh pengguna kemampuan dan pemain yang ditandai.\n\nJika pengguna mengurangi HP musuh yang ditandai menjadi 40 atau kurang, musuh akan langsung terjatuh.\n\nJika musuh terjatuh atau tersingkir saat ditandai, kemampuannya diatur ulang oleh kekuatan bulan dan HP pengguna dipulihkan 10/dtk selama 3 d.\n\nMasa pakai baterai: 45 detik",
+    "name_ability": "Conjunción Solar",
+    "type_ability": "Activa",
+    "ability_tags": [
+      "Derribo",
+      "Daño"
+    ],
+    "descEn": "Forms a bond with an enemy in front and takes them down when their health is low. The skill resets and you regain HP.\n\nReleases solar power forward in a 30m fan to mark the first non-fallen enemy it reaches for 10 seconds and forms a bond with them, visible only up to 40m to the skill user and the marked player.\n\nIf the user reduces the marked enemy's HP to 40 or less, the enemy is instantly knocked down.\n\nIf the enemy is knocked down or eliminated while marked, the ability resets with lunar power and the user's HP is restored at 10/s for 3 s.\n\nBattery life: 45 seconds"
+  },
+  {
+    "id": "63",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Morse.png",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/fd70c403-1bb3-4e5f-8fe8-d535fa60ff26.webp",
+    "name": "Morse",
+    "created_at": "2026-03-06T18:48:26.948Z",
+    "language_code": "es",
+    "description": "Memasuki mode Stealth, di mana musuh sulit melihat Anda dari jarak jauh, tetapi Anda tidak dapat menembak.\n\nMemasuki mode Stealth, di mana musuh tidak dapat melihat pengguna lebih jauh dari 12m dan tidak dapat mendeteksinya. Sementara itu, Anda memperoleh peningkatan kecepatan sebesar 20% dan 25 Poin Perisai sementara. Berlangsung hingga 15 detik.\n\nSaat dalam mode Stealth, Anda tidak dapat menembak. Keluar dari mode Stealth memiliki penundaan 0,8 detik. Aim assist akan aktif jika musuh berada dalam jarak 4m.\n\nMasa pakai baterai: 45 detik",
+    "name_ability": "Sombra Digital",
+    "type_ability": "ACTIVA",
+    "ability_tags": [
+      "Atacar",
+      "Vel. de movimiento"
+    ],
+    "descEn": "Enters Stealth mode, where enemies find it hard to see you from a distance, but you cannot shoot.\n\nEnters Stealth mode, where enemies cannot see the user beyond 12m and cannot detect them. Meanwhile, you gain a 20% speed boost and 25 temporary Shield Points. Lasts up to 15 seconds.\n\nWhile in Stealth mode, you cannot shoot. Exiting Stealth mode has a 0.8 second delay. Aim assist activates if enemies are within 4m.\n\nBattery life: 45 seconds"
+  },
+  {
+    "id": "62",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Nero.png",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/e0f34802-ca4d-426f-adf4-f06423364b42.webp",
+    "name": "Nero",
+    "created_at": "2026-03-06T18:44:25.740Z",
+    "language_code": "es",
+    "description": "Lempar boneka binatang dengan 1 VP. Boneka binatang itu bertahan selama 12 detik, mengabaikan beberapa rintangan dan dapat terbang hingga 50m (100m di BR).\n\nBoneka tersebut melacak musuh terdekat yang terlihat dalam jarak 8m dan meledak untuk menciptakan ruang impian dengan radius 8m.\n\nDi dalam ruang, pengguna dan musuhnya tidak dapat menempatkan Gloo Walls.\n\nMusuh juga kehilangan 6 HP/s.\n\nRuang tersebut hilang saat boneka binatang dihancurkan. Siapa pun yang menghancurkannya akan ditandai dengan angka 5.\n\nMasa pakai baterai: 45 detik.",
+    "name_ability": "Mente Criogénica",
+    "type_ability": "Activa",
+    "ability_tags": [
+      "Daño"
+    ],
+    "descEn": "Throws a stuffed toy with 1 VP. The stuffed toy lasts 12 seconds, ignores some obstacles, and can fly up to 50m (100m in BR).\n\nThe toy tracks the nearest visible enemy within 8m and explodes to create a dream space with an 8m radius.\n\nInside the space, the user and enemies cannot place Gloo Walls.\n\nEnemies also lose 6 HP/s.\n\nThe space disappears when the stuffed toy is destroyed. Whoever destroys it is marked with the number 5.\n\nBattery life: 45 seconds."
+  },
+  {
+    "id": "61",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Rin.png",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/b34718d8-ec5b-4d46-b166-da4a4716b51f.webp",
+    "name": "Rin",
+    "created_at": "2026-03-06T18:28:34.694Z",
+    "language_code": "es",
+    "description": "Memanggil kunai yang diarahkan dan diluncurkan secara otomatis ke musuh atau Gloo Wall ketika pengguna menembaknya. Menimbulkan kerusakan besar pada Gloo Walls.\n\nMemanggil satu kunai setiap 8 detik, total hingga 3 kunai.\n\nKunai menimbulkan kerusakan yang cukup besar pada Gloo Wall dan secara otomatis akan diluncurkan ke musuh atau Tembok Gloo mana pun yang ditabrak penggunanya, menimbulkan hingga 12 DMG.\n\nKerusakan meningkat seiring jarak.",
+    "name_ability": "Ráfaga Ninja",
+    "type_ability": "Pasiva",
+    "ability_tags": [
+      "Daño",
+      "Rompeparedes"
+    ],
+    "descEn": "Summons kunai that are aimed and launched automatically at enemies or Gloo Walls when the user shoots them. Deals massive damage to Gloo Walls.\n\nSummons one kunai every 8 seconds, up to 3 kunai total.\n\nKunai deal considerable damage to Gloo Walls and are automatically launched at any enemy or Gloo Wall the user hits, dealing up to 12 DMG.\n\nDamage increases with distance."
+  },
+  {
+    "id": "60",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Oscar.png",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/2bbb3c7e-cc90-4efc-a1ea-e0a74114dadd.webp",
+    "name": "Oscar",
+    "created_at": "2026-03-06T18:19:35.850Z",
+    "language_code": "es",
+    "description": "Menyerang ke arah target, menimbulkan kerusakan dan memukul mundur musuh yang dilewatinya, juga menghancurkan Gloo Wall.\n\nMenyerang ke arah target dengan kecepatan 3m/s, menimbulkan 25 DMG ke musuh di jalurnya dan menerapkan knockback, juga menghancurkan 25 Gloo Wall pertama di jalurnya.\n\nMasa pakai baterai: 60 detik",
+    "name_ability": "Embestida Valerosa",
+    "type_ability": "ACTIVA",
+    "ability_tags": [
+      "Mobilidad",
+      "Daño"
+    ],
+    "descEn": "Charges toward the target, dealing damage and knocking back enemies passed through, also destroying Gloo Walls.\n\nCharges toward the target at 3m/s, dealing 25 DMG to enemies in its path and applying knockback, also destroying the first 25 Gloo Walls in its path.\n\nBattery life: 60 seconds"
+  },
+  {
+    "id": "59",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/koda.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/6c7fcac1-d6f7-4cfd-a200-ec0c91e5ed29.webp",
+    "name": "Koda",
+    "created_at": "2024-12-22T16:16:29.208Z",
+    "language_code": "es",
+    "description": "Meningkatkan kecepatan gerakan dan mengungkap musuh di balik perlindungan. Tidak mungkin mendeteksi mereka yang berjongkok atau tengkurap dan efeknya tidak dirasakan oleh teman Anda.\n\nAktifkan Energi Aurora selama 8 detik. Meningkatkan kecepatan gerakan sebesar 15% dan mengungkap musuh tersembunyi dalam jarak 50m setiap 1 detik.\n\nItu tidak mendeteksi mereka yang berjongkok atau menghadap ke bawah.\n\nSaat terjun payung, menyoroti posisi musuh dalam bidang pandang, namun efeknya tidak dibagikan kepada rekan satu tim.\n\nMasa pakai baterai: 45 detik",
+    "name_ability": "Energía Aurora",
+    "type_ability": "ACTIVA",
+    "ability_tags": [
+      "Vel. de movimiento",
+      "Revelar"
+    ],
+    "descEn": "Increases movement speed and reveals enemies behind cover. Cannot detect those crouching or prone, and the effect is not shared with your teammates.\n\nActivates Aurora Energy for 8 seconds. Increases movement speed by 15% and reveals hidden enemies within 50m every 1 second.\n\nIt does not detect those crouching or facing down.\n\nWhile skydiving, highlights enemy positions in the field of view, but the effect is not shared with teammates.\n\nBattery life: 45 seconds"
+  },
+  {
+    "id": "58",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/lila.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/ec3dc6d4-e1a2-4a5a-b43e-3897c813125a.webp",
+    "name": "Lila",
+    "created_at": "2024-12-07T18:41:15.336Z",
+    "language_code": "es",
+    "description": "Senapan serbu dan penembak jitu dapat memperlambat musuh. Gloo Wall tambahan bisa didapatkan.\n\nSaat menembaki musuh atau kendaraan dengan Assault Rifles dan Marksman, mengurangi kecepatan gerak musuh sebesar 10% atau kecepatan gerak kendaraan sebesar 80% selama 3 detik.\n\nJika musuh terjatuh saat diperlambat, bekukan musuh hingga 3 detik dan dapatkan 2 Gloo Wall tambahan.",
+    "name_ability": "Golpe Gloo",
+    "type_ability": "Pasiva",
+    "ability_tags": [
+      "Pared Gloo",
+      "Lento"
+    ],
+    "descEn": "Assault rifles and marksman rifles can slow enemies. Extra Gloo Walls can be obtained.\n\nWhen shooting enemies or vehicles with Assault Rifles and Marksman Rifles, reduces enemy movement speed by 10% or vehicle movement speed by 80% for 3 seconds.\n\nIf an enemy falls while slowed, freeze the enemy for up to 3 seconds and gain 2 extra Gloo Walls."
+  },
+  {
+    "id": "57",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Kassie.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/f01d0f86-9dc2-47de-a83c-9576e7b78a88.webp",
+    "name": "Kassie",
+    "created_at": "2024-12-07T18:36:54.309Z",
+    "language_code": "es",
+    "description": "Bentuk ikatan penyembuhan dengan rekan target untuk memulihkan HP Anda dan target secara perlahan. Gunakan lagi untuk menyembuhkan target secara signifikan.\n\nElektroterapi (tanpa cooldown): Gunakan skill satu kali untuk membentuk ikatan penyembuhan dengan rekan setim target dan memulihkan 3 HP per detik untuk diri sendiri dan target (tidak dapat ditumpuk).\n\nJangkauan tautan maksimum: 50m. Tautan akan otomatis terputus bila melebihi batas jangkauan dan juga dapat dibatalkan secara manual.\n\nElectroheal: Gunakan skill lagi untuk memulihkan 120 HP target secara instan. Skill tersebut akan aktif secara otomatis ketika HP target kurang dari 50.\n\nPenyembuhan akan sama dengan 80% dari jumlah itu bila digunakan secara manual.\n\nMasa pakai baterai: 45 detik",
+    "name_ability": "Electroshok",
+    "type_ability": "Activa",
+    "ability_tags": [
+      "Curar"
+    ],
+    "descEn": "Form a healing bond with a target teammate to slowly restore your HP and the target's. Use again to significantly heal the target.\n\nElectrotherapy (no cooldown): Use the skill once to form a healing bond with the target teammate and restore 3 HP per second for yourself and the target (cannot stack).\n\nMaximum link range: 50m. The link automatically breaks when exceeding the range limit and can also be manually canceled.\n\nElectroheal: Use the skill again to instantly restore 120 HP to the target. The skill activates automatically when the target's HP is below 50.\n\nHealing equals 80% of that amount when used manually.\n\nBattery life: 45 seconds"
+  },
+  {
+    "id": "56",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Kairos.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/b55fbe4b-8575-4194-bb84-4c7e40e8f810.webp",
+    "name": "Kairos",
+    "created_at": "2024-12-07T18:29:14.119Z",
+    "language_code": "es",
+    "description": "Memulihkan PE saat tidak penuh. Ketika XP penuh, ia memberikan damage tambahan pada Poin Perisai dan ketahanan armor musuh.\n\nMode Defensif: Memulihkan 2 XP per detik seiring waktu.\n\nAssault Mode: Aktif saat EP penuh dan saat pengguna skill menyerang musuh dengan shield atau armor.\n\nSelama efeknya bertahan, 20 XP akan dikonsumsi per detik. Setiap serangan terhadap musuh yang menggunakan perisai atau armor juga akan mengurangi Poin Perisai atau daya tahan Armor mereka sebesar 90% dari damage yang diberikan.\n\nKetika EP mencapai 0, maka akan kembali ke Mode Defensif.",
+    "name_ability": "Entrenamiento Antidefensas",
+    "type_ability": "Pasiva",
+    "ability_tags": [
+      "PE",
+      "Perforación de armadura"
+    ],
+    "descEn": "Restores EP when not full. When EP is full, it deals bonus damage to enemy Shield Points and armor durability.\n\nDefensive Mode: Restores 2 XP per second over time.\n\nAssault Mode: Activates when EP is full and the skill user attacks enemies with shields or armor.\n\nWhile the effect lasts, 20 XP is consumed per second. Every attack on enemies using shields or armor also reduces their Shield Points or Armor durability by 90% of the damage dealt.\n\nWhen EP reaches 0, it returns to Defensive Mode."
+  },
+  {
+    "id": "55",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/ryden.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/969cf9b5-bc19-45d8-a3be-20045a43d072.webp",
+    "name": "Ryden",
+    "created_at": "2024-12-07T18:23:17.365Z",
+    "language_code": "es",
+    "description": "Luncurkan laba-laba peledak ke depan untuk menjebak musuh dalam jangkauan. Biaya keterampilan dapat disimpan.\n\nMelepaskan laba-laba peledak yang dapat dirusak ke arah target. Berlangsung selama 60an. Ketuk lagi tombol keterampilan dalam waktu 10 detik untuk menghentikan pergerakan laba-laba.\n\nLaba-laba akan menangkap musuh pertama yang dilihatnya dalam jarak 5m, mengurangi kecepatannya sebesar 80% dan mengambil 10 HP per detik.\n\nEfek skill akan bertahan selama 4 detik.\n\nHingga 2 muatan kemampuan dapat disimpan, dengan cooldown 10 detik di antara setiap penggunaan.\n\nMasa pakai baterai: 60 detik",
+    "name_ability": "Trampa Arácnida",
+    "type_ability": "Activa",
+    "ability_tags": [
+      "Inmovilizar",
+      "Daño"
+    ],
+    "descEn": "Launches an explosive spider forward to trap enemies in range. Skill charges can be stored.\n\nReleases a destructible explosive spider toward the target. Lasts 60s. Tap the skill button again within 10 seconds to stop the spider's movement.\n\nThe spider captures the first enemy it sees within 5m, reducing their speed by 80% and draining 10 HP per second.\n\nThe skill effect lasts 4 seconds.\n\nUp to 2 ability charges can be stored, with a 10 second cooldown between each use.\n\nBattery life: 60 seconds"
+  },
+  {
+    "id": "54",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/993f4355-e54a-44a4-ba86-3b1b68da6f97.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/2e702c14-0d2c-480f-a77e-ab50ee7f4cf3.webp",
+    "name": "Jai",
+    "created_at": "2024-12-07T18:17:34.929Z",
+    "language_code": "es",
+    "description": "Setelah menjatuhkan musuh atau menggunakan skill aktif, 100% magasin senjata akan otomatis terisi ulang.",
+    "name_ability": "Recarga Furiosa",
+    "type_ability": "Pasiva",
+    "ability_tags": [],
+    "descEn": "After taking down an enemy or using an active skill, 100% of the weapon magazine is automatically reloaded."
+  },
+  {
+    "id": "53",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/clu.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/5eed3b8d-c9d3-45a2-98fd-4fd772c2fbf9.webp",
+    "name": "Clu",
+    "created_at": "2024-12-07T16:32:59.435Z",
+    "language_code": "es",
+    "description": "Temukan musuh yang tidak berjongkok atau tiarap.\n\nMengungkap lokasi musuh dalam jarak 80m, kecuali mereka yang berjongkok atau tiarap, selama 10 detik dan membagikan informasi tersebut kepada rekan satu tim.\n\nSaat aktif, meningkatkan kecepatan gerakan sebesar 10%.\n\nMasa pakai baterai: 45 detik",
+    "name_ability": "Rastreo de Pasos",
+    "type_ability": "Activa",
+    "ability_tags": [
+      "Compartir",
+      "Escanear"
+    ],
+    "descEn": "Find enemies who are not crouching or prone.\n\nReveals the location of enemies within 80m, except those crouching or prone, for 10 seconds and shares the information with teammates.\n\nWhile active, increases movement speed by 10%.\n\nBattery life: 45 seconds"
+  },
+  {
+    "id": "52",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Xayne.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/87b8a702-dec4-42ed-92d2-29dd46248957.webp",
+    "name": "Xayne",
+    "created_at": "2024-11-25T12:40:48.109Z",
+    "language_code": "es",
+    "description": "Anda mendapatkan Poin Perisai sementara. Saat berlaku, setiap penghapusan akan mengatur ulang Poin.\n\nMasuk ke status Ekstrim dan langsung dapatkan 70 Poin Perisai sementara selama 15 detik.\n\nSelama keadaan ini, setiap pembunuhan musuh akan menambah 70 Poin Perisai sementara dan mengatur ulang durasi keadaan.\n\nSetelah status ini berakhir, semua Poin Perisai yang diperoleh selama proses ini akan dihapus.\n\nMasa pakai baterai: 75 detik",
+    "name_ability": "Encuentro Extremo",
+    "type_ability": "Activa",
+    "ability_tags": [
+      "Puntos de Escudo",
+      "Derribo"
+    ],
+    "descEn": "You gain temporary Shield Points. While active, each elimination resets the Points.\n\nEnters Extreme state and instantly gains 70 temporary Shield Points for 15 seconds.\n\nDuring this state, every enemy kill adds 70 temporary Shield Points and resets the state's duration.\n\nAfter this state ends, all Shield Points gained during the process are removed.\n\nBattery life: 75 seconds"
+  },
+  {
+    "id": "51",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/La-Patrona.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/e87f379e-089b-48be-b199-afced0fa1fe6.webp",
+    "name": "La Patrona",
+    "created_at": "2024-11-25T12:28:12.580Z",
+    "language_code": "es",
+    "description": "Tidak termasuk keterampilan apa pun. Anda dapat dengan bebas menggunakan keterampilan lain yang tidak terkunci.",
+    "name_ability": "Sin habilidad",
+    "type_ability": "Sin habilidad",
+    "ability_tags": [],
+    "descEn": "Does not include any skill. You can freely use other unlocked skills."
+  },
+  {
+    "id": "50",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Ignis.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/83db805c-8d0d-494a-beb8-fc343df7f4f6.webp",
+    "name": "Ignis",
+    "created_at": "2024-11-25T12:14:32.377Z",
+    "language_code": "es",
+    "description": "Meluncurkan tembok api yang bergerak maju. Musuh dan Gloo Walls yang bersentuhan akan menerima damage terbakar. Biaya keterampilan dapat disimpan.\n\nMenyebarkan dinding api selebar 10m yang bertahan selama 10 detik dan bergerak dengan kecepatan 6m/s hingga 8 detik.\n\nSaat aktif, gunakan kembali kemampuannya untuk menghentikan tembok.\n\nMusuh atau Gloo Walls yang bersentuhan dengannya akan langsung menerima 25 atau 400 DAMAGE, lalu menerima 5 atau 150 DAMAGE per detik.\n\nBerlangsung 2 detik.\n\nKemampuan dapat disimpan hingga 2 kali penggunaan, dengan cooldown 0,5 detik di antara setiap penggunaan.\n\nMasa pakai baterai: 60 detik",
+    "name_ability": "Espejismo Ardiente",
+    "type_ability": "Activa",
+    "ability_tags": [
+      "Daño",
+      "Bloquear visión"
+    ],
+    "descEn": "Launches a wall of fire that moves forward. Enemies and Gloo Walls it touches take burn damage. Skill charges can be stored.\n\nSpreads a 10m wide fire wall that lasts 10 seconds and moves at 6m/s for up to 8 seconds.\n\nWhile active, use the ability again to stop the wall.\n\nEnemies or Gloo Walls it touches immediately take 25 or 400 DAMAGE, then take 5 or 150 DAMAGE per second.\n\nLasts 2 seconds.\n\nThe ability can store up to 2 uses, with a 0.5 second cooldown between each use.\n\nBattery life: 60 seconds"
+  },
+  {
+    "id": "49",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Suzy.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/cd8f4e3c-f7b1-4aa4-b3f3-0874e18ce27c.webp",
+    "name": "Suzy",
+    "created_at": "2024-11-25T12:05:46.081Z",
+    "language_code": "es",
+    "description": "Tanda musuh memiliki nilai hadiah. Hasilkan uang tambahan dalam permainan untuk menghilangkannya.\n\nTanda musuhmu mempunyai nilai imbalan. Siapa pun di tim sekutu yang melenyapkan musuh yang ditandai akan mendapat 200 uang.\n\nAnda akan mendapatkan tambahan 100 untuk menghilangkan musuh.\n\nDapatkan 100 Koin FF dari Mesin Koin di pertandingan BR.",
+    "name_ability": "Dinero Marcado",
+    "type_ability": "Pasiva",
+    "ability_tags": [
+      "Monedas adicionales"
+    ],
+    "descEn": "Marked enemies have a bounty value. Earn extra in-game money for eliminating them.\n\nYour marked enemies have a bounty value. Anyone on your allied team who eliminates a marked enemy earns 200 money.\n\nYou earn an additional 100 for eliminating enemies.\n\nGain 100 FF Coins from the Coin Machine in BR matches."
+  },
+  {
+    "id": "48",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Sonia.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/a51b4662-261b-4180-b561-18861f533de0.webp",
+    "name": "Sonia",
+    "created_at": "2024-11-25T12:03:13.462Z",
+    "language_code": "es",
+    "description": "Setelah menerima kerusakan mematikan, Anda mendapatkan nanoshield. Pengguna skill akan tereliminasi ketika perisainya menghilang.\n\nSetelah menerima kerusakan mematikan, ia memasuki kondisi kebal dan tidak bergerak selama 0,4 detik.\n\nSetelah itu, Anda mendapatkan perisai 1HP yang bertahan selama 2 detik.\n\nPengguna skill akan tereliminasi ketika perisainya menghilang.\n\nMasa pakai baterai: 180 detik",
+    "name_ability": "Nanoescudo de Vida",
+    "type_ability": "Pasiva",
+    "ability_tags": [
+      "Puntos de Escudo"
+    ],
+    "descEn": "After receiving lethal damage, you gain a nanoshield. The skill user is eliminated when the shield disappears.\n\nAfter receiving lethal damage, enters an invincible state and cannot move for 0.4 seconds.\n\nAfterwards, you gain a 1 HP shield that lasts 2 seconds.\n\nThe skill user is eliminated when the shield disappears.\n\nBattery life: 180 seconds"
+  },
+  {
+    "id": "47",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Orion.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/e6c0afc9-6cbd-4524-b9fa-406b44d8c500.webp",
+    "name": "Orion",
+    "created_at": "2024-11-25T11:59:14.495Z",
+    "language_code": "es",
+    "description": "Aktifkan perlindungan agar kebal terhadap damage dan menyerap HP musuh.\n\nMengganti XP dengan 300 Energi Merah.\n\nKonsumsi 200 Crimson Energy untuk mengaktifkan perlindungannya, di mana Anda tidak dapat menerima kerusakan atau menyerang musuh, dan Anda akan menyerap 10 HP dari musuh dalam jarak 5m.\n\nPoin perisai musuh akan diabaikan.\n\nBerlangsung selama 3 detik, selama itu kecepatan gerakanmu akan berkurang sebesar 5%.\n\nWaktu Istirahat: 3 detik",
+    "name_ability": "Golpe Carmesí",
+    "type_ability": "Activa",
+    "ability_tags": [
+      "Transformar",
+      "Invulnerable"
+    ],
+    "descEn": "Activate protection to become immune to damage and absorb enemy HP.\n\nConverts XP into 300 Red Energy.\n\nConsumes 200 Crimson Energy to activate protection, during which you cannot take damage or attack enemies, and you absorb 10 HP from enemies within 5m.\n\nEnemy shield points are ignored.\n\nLasts 3 seconds, during which your movement speed is reduced by 5%.\n\nRest Time: 3 seconds"
+  },
+  {
+    "id": "46",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Santino.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/12ccfa81-08aa-42b9-9b7b-7da5bf01787f.webp",
+    "name": "Santino",
+    "created_at": "2024-11-25T11:55:30.852Z",
+    "language_code": "es",
+    "description": "Menghasilkan manekin yang bergerak secara otomatis dan Anda dapat bertukar posisi. Musuh yang menghancurkannya akan ditandai.\n\nMemunculkan manekin dengan 200 HP yang bergerak secara mandiri selama 25 detik.\n\nSaat manekin berada antara 90m dan 10m dari pengguna, ketuk lagi keterampilan untuk bertukar posisi dengannya.\n\nHanya satu perubahan yang dapat dilakukan dalam waktu 3 detik, hingga total maksimal 2 kali.\n\nPemain yang menghancurkan boneka tersebut akan ditandai selama 5 detik.\n\nMasa pakai baterai: 60 detik.",
+    "name_ability": "División de Formas",
+    "type_ability": "Activa",
+    "ability_tags": [
+      "Mobilidad"
+    ],
+    "descEn": "Spawns a decoy that moves automatically and you can swap positions with it. Enemies who destroy it are marked.\n\nSpawns a decoy with 200 HP that moves independently for 25 seconds.\n\nWhen the decoy is between 90m and 10m from the user, tap the skill again to swap positions with it.\n\nOnly one swap can be performed within 3 seconds, up to a maximum of 2 times.\n\nPlayers who destroy the decoy are marked for 5 seconds.\n\nBattery life: 60 seconds."
+  },
+  {
+    "id": "45",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Luna.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/a649bd4a-ff2b-4d28-a61e-846a39e4e08a.webp",
+    "name": "Luna",
+    "created_at": "2024-11-25T11:51:05.198Z",
+    "language_code": "es",
+    "description": "Kecepatan tembakan meningkat dan jika pengguna mengenai musuh, maka akan diubah menjadi kecepatan gerak.\n\nMeningkatkan kecepatan menembak sebesar 8%.\n\nSaat pengguna mengenai musuh, hingga 10% kecepatan tembakan diubah menjadi kecepatan gerakan dan konversi tersebut disetel ulang setelah bertahan dalam pertempuran.",
+    "name_ability": "Pelea o Vuela",
+    "type_ability": "Pasiva",
+    "ability_tags": [
+      "Vel. de movimiento",
+      "Vel. de disparo"
+    ],
+    "descEn": "Fire rate increases and, if the user hits an enemy, it is converted into movement speed.\n\nIncreases firing speed by 8%.\n\nWhen the user hits an enemy, up to 10% of the firing speed is converted into movement speed, and the conversion resets after surviving a battle."
+  },
+  {
+    "id": "44",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Tatsuya.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/00604c5c-9061-43c6-8045-233b38479db9.webp",
+    "name": "Tatsuya",
+    "created_at": "2024-11-25T11:47:45.893Z",
+    "language_code": "es",
+    "description": "Mempercepat dan mengatur ulang cooldown dengan cepat saat menembak jatuh musuh.\n\nBerakselerasi dengan cepat selama 0,3 detik dan menyetel ulang cooldown saat menjatuhkan musuh dalam waktu 10 detik setelah menggunakan keterampilan.\n\nMasa pakai baterai: 90an",
+    "name_ability": "Ataque Rebelde",
+    "type_ability": "Activa",
+    "ability_tags": [
+      "Mobilidad",
+      "Atacar"
+    ],
+    "descEn": "Accelerates and resets the cooldown quickly when taking down enemies.\n\nAccelerates rapidly for 0.3 seconds and resets the cooldown when taking down an enemy within 10 seconds of using the skill.\n\nBattery life: 90 seconds"
+  },
+  {
+    "id": "43",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Iris.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/82e279b9-015f-4cc2-8333-9f7f8b3e7071.webp",
+    "name": "Iris",
+    "created_at": "2024-11-25T11:43:14.485Z",
+    "language_code": "es",
+    "description": "Menembus Gloo Walls untuk menandai dan memberikan damage pada musuh di belakangnya.\n\nDalam waktu 15 detik setelah mengaktifkan skill, pengguna skill berhasil menembakkan Tembok Gloo untuk menandai musuh dalam jarak 7m dan menembus Tembok Gloo untuk memberikan damage pada musuh tersebut.\n\nKerusakan yang diberikan akan lebih kecil dari biasanya.\n\nEfektif pada hingga 5 Gloo Wall.\n\nMasa pakai baterai: 60 detik",
+    "name_ability": "Rompehielos",
+    "type_ability": "Activa",
+    "ability_tags": [
+      "Perforaparedes",
+      "Marcar"
+    ],
+    "descEn": "Pierces Gloo Walls to mark and deal damage to enemies behind them.\n\nWithin 15 seconds of activating the skill, the skill user successfully shoots through Gloo Walls to mark enemies within 7m and pierces Gloo Walls to deal damage to those enemies.\n\nDamage dealt is lower than usual.\n\nEffective on up to 5 Gloo Walls.\n\nBattery life: 60 seconds"
+  },
+  {
+    "id": "42",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Homero.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/042f2b44-012c-40c0-847a-a8f4e50a50ff.webp",
+    "name": "Homero",
+    "created_at": "2024-11-25T11:39:26.944Z",
+    "language_code": "es",
+    "description": "Luncurkan drone eksplosif yang secara otomatis menargetkan musuh.\n\nMeluncurkan drone ke arah musuh terdekat dalam jarak depan 100m, menciptakan ledakan pulsa berdiameter 5,5m yang mengurangi kecepatan gerakan sebesar 40% dan kecepatan tembakan sebesar 40%.\n\nDurasi: 5 detik.\n\nMenimbulkan 25 KERUSAKAN.\n\nMasa pakai baterai: 60 detik",
+    "name_ability": "Sentidos de Choque",
+    "type_ability": "Activa",
+    "ability_tags": [
+      "Daño",
+      "Buscar enemigos"
+    ],
+    "descEn": "Launches an explosive drone that automatically targets enemies.\n\nLaunches a drone toward the nearest enemy within 100m in front, creating a 5.5m diameter pulse explosion that reduces movement speed by 40% and fire rate by 40%.\n\nDuration: 5 seconds.\n\nDeals 25 DAMAGE.\n\nBattery life: 60 seconds"
+  },
+  {
+    "id": "41",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Kenta.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/ce6b1582-880b-4b3d-9ff1-0ae1431fa6e6.webp",
+    "name": "Kenta",
+    "created_at": "2024-11-25T11:34:03.651Z",
+    "language_code": "es",
+    "description": "Membentuk perisai yang memblokir kerusakan frontal dari senjata. Efeknya saat memotret berkurang.\n\nMembentuk perisai selebar 5m yang mengurangi 60% kerusakan senjata yang datang dari depan.\n\nSaat menembak, pengurangan damage berkurang 20%.\n\nDurasi: 5 detik.\n\nMasa pakai baterai: 70 detik",
+    "name_ability": "Ira de la Espada",
+    "type_ability": "Activa",
+    "ability_tags": [
+      "Resistencia al daño",
+      "Barrera"
+    ],
+    "descEn": "Forms a shield that blocks frontal damage from weapons. Effect is reduced while shooting.\n\nForms a 5m wide shield that reduces 60% of weapon damage coming from the front.\n\nWhile shooting, damage reduction decreases by 20%.\n\nDuration: 5 seconds.\n\nBattery life: 70 seconds"
+  },
+  {
+    "id": "40",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Nairi.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/92f440e9-5cde-456f-8244-085d0f235ae5.webp",
+    "name": "Nairi",
+    "created_at": "2024-11-25T11:30:27.804Z",
+    "language_code": "es",
+    "description": "Gloo Wall memulihkan daya tahan dalam waktu singkat dan menyembuhkan rekan satu tim di sekitar.\n\nDalam 1,5 detik setelah menggunakan Gloo Wall, memulihkan 160 daya tahan per detik dan memulihkan 5 HP per detik ke rekan satu tim dalam jarak 5m.\n\nEfek penyembuhan tidak dapat ditumpuk dengan menggunakan beberapa Gloo Wall.",
+    "name_ability": "Hierro de Hielo",
+    "type_ability": "Pasiva",
+    "ability_tags": [
+      "Curar",
+      "Pared Gloo"
+    ],
+    "descEn": "Gloo Walls restore durability for a short time and heal nearby teammates.\n\nWithin 1.5 seconds of using a Gloo Wall, restores 160 durability per second and restores 5 HP per second to teammates within 5m.\n\nHealing effects cannot stack when using multiple Gloo Walls."
+  },
+  {
+    "id": "39",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Otho.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/a5845440-9a94-44e9-ba14-868fc7e3688f.webp",
+    "name": "Otho",
+    "created_at": "2024-11-25T11:27:24.466Z",
+    "language_code": "es",
+    "description": "Setelah menjatuhkan musuh atau dirobohkan, itu menandai semua musuh di dekat pemain yang jatuh dan memperlambat mereka.\n\nSetelah menjatuhkan musuh, tandai rekan musuh yang terjatuh dalam jarak 20m dan kurangi kecepatan gerakannya sebesar 25%.\n\nBerlangsung 3 detik.\n\nSaat dijatuhkan oleh musuh di dekatnya, itu menandai dan memperlambat penyerang dan rekan satu timnya.",
+    "name_ability": "Memoria Fotográfica",
+    "type_ability": "Pasiva",
+    "ability_tags": [
+      "Lento",
+      "Marcar"
+    ],
+    "descEn": "After taking down an enemy or being knocked down, it marks all enemies near the fallen player and slows them.\n\nAfter taking down an enemy, marks the fallen enemy's teammates within 20m and reduces their movement speed by 25%.\n\nLasts 3 seconds.\n\nWhen knocked down by a nearby enemy, it marks and slows the attacker and their teammates."
+  },
+  {
+    "id": "38",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Leon.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/7ebd419b-ef51-400f-b6eb-4cdd81ce4c77.webp",
+    "name": "Leon",
+    "created_at": "2024-11-25T11:24:26.979Z",
+    "language_code": "es",
+    "description": "Pulihkan HP setelah selamat dari pertempuran.\n\n4 detik setelah diserang, memulihkan 4HP/dtk selama 15 detik.",
+    "name_ability": "Tiro Ganador",
+    "type_ability": "Pasiva",
+    "ability_tags": [
+      "Recuperar"
+    ],
+    "descEn": "Restore HP after surviving a battle.\n\n4 seconds after being attacked, restores 4 HP/s for 15 seconds."
+  },
+  {
+    "id": "37",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Dimitri.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/7431cddc-0a63-424e-b6c8-ce31a5bbb4a7.webp",
+    "name": "Dimitri",
+    "created_at": "2024-11-25T11:21:26.478Z",
+    "language_code": "es",
+    "description": "Di dalam zona tersebut, pengguna dan sekutunya memulihkan HP setiap detik. Bantuan akan diaktifkan secara otomatis bila diperlukan.\n\nMenciptakan zona penyembuhan radius 4m. Di dalam, pengguna dan sekutu memulihkan 10 HP/dtk.\n\nBantuan akan diaktifkan secara otomatis bila diperlukan.\n\nZona ini berlangsung selama 6 detik.\n\nEfek membantu rekan satu tim dapat ditingkatkan dengan keterampilan lain.\n\nMasa pakai baterai: 75 detik",
+    "name_ability": "Latido Curativo",
+    "type_ability": "Activa",
+    "ability_tags": [
+      "Curar",
+      "Ayudar"
+    ],
+    "descEn": "Inside the zone, the user and allies restore HP every second. Rescue is activated automatically when needed.\n\nCreates a healing zone with a 4m radius. Inside, the user and allies restore 10 HP/s.\n\nRescue is activated automatically when needed.\n\nThe zone lasts 6 seconds.\n\nTeammate rescue effects can be enhanced by other skills.\n\nBattery life: 75 seconds"
+  },
+  {
+    "id": "36",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Di-Bee.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/22f269b8-4949-4ea1-a726-5caca9c0d8c3.webp",
+    "name": "Di-Bee",
+    "created_at": "2024-11-25T11:17:14.586Z",
+    "language_code": "es",
+    "description": "Tingkatkan kecepatan dan akurasi gerakan saat memotret saat bergerak.\n\nSaat memotret sambil bergerak, kecepatan gerakan meningkat sebesar 50% dan akurasi meningkat sebesar 60%.",
+    "name_ability": "Balas con Ritmo",
+    "type_ability": "Pasiva",
+    "ability_tags": [
+      "Vel. de movimiento",
+      "Precisión"
+    ],
+    "descEn": "Increases movement speed and accuracy when shooting while moving.\n\nWhile shooting while moving, movement speed increases by 50% and accuracy by 60%."
+  },
+  {
+    "id": "35",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Maro.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/88bce812-bf37-4701-bd43-2eeffcb6be93.webp",
+    "name": "Maro",
+    "created_at": "2024-11-25T11:14:16.635Z",
+    "language_code": "es",
+    "description": "Peningkatan kerusakan terhadap musuh yang jauh dan musuh yang ditandai.\n\nKerusakan meningkat seiring jarak, hingga 20%.\n\nKerusakan pada musuh yang ditandai meningkat sebesar 5%.",
+    "name_ability": "Fervor de Halcón",
+    "type_ability": "Pasiva",
+    "ability_tags": [
+      "Potenciador de DAÑO"
+    ],
+    "descEn": "Increased damage against distant and marked enemies.\n\nDamage increases with distance, up to 20%.\n\nDamage against marked enemies increases by 5%."
+  },
+  {
+    "id": "34",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Skyler.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/f8aadb0b-a707-4b00-8bc0-7abedfe0f2b9.webp",
+    "name": "Skyler",
+    "created_at": "2024-11-25T11:11:49.839Z",
+    "language_code": "es",
+    "description": "Melepaskan gelombang sonik ke arah depan yang meledak, menimbulkan kerusakan seiring waktu pada Gloo Wall di dekatnya.\n\nMelepaskan gelombang sonik ke depan hingga 100m.\n\nSaat mengenai rintangan, gelombang tersebut akan meledak dan mengakibatkan 500 DMG per detik ke Gloo Wall dalam jarak 4m.\n\nBerlangsung 6 detik.\n\nHingga 2 muatan keterampilan dapat disimpan.\n\nBidikan otomatis dapat digunakan di Gloo Wall hingga jarak 5m.\n\nMasa pakai baterai: 45 detik",
+    "name_ability": "Ritmo Alto",
+    "type_ability": "Activa",
+    "ability_tags": [
+      "Rompeparedes"
+    ],
+    "descEn": "Releases a sonic wave forward that explodes, dealing damage over time to nearby Gloo Walls.\n\nReleases a sonic wave up to 100m forward.\n\nWhen it hits an obstacle, the wave explodes and deals 500 DMG per second to Gloo Walls within 4m.\n\nLasts 6 seconds.\n\nUp to 2 skill charges can be stored.\n\nAuto-aim can be used on Gloo Walls up to 5m away.\n\nBattery life: 45 seconds"
+  },
+  {
+    "id": "33",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Shirou.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/9ca56ca8-c9ae-4b09-9255-225fe63aa0eb.webp",
+    "name": "Shirou",
+    "created_at": "2024-11-25T11:08:06.135Z",
+    "language_code": "es",
+    "description": "Saat Anda menerima kerusakan, tandai penyerangnya.\n\nSaat terkena musuh dalam jarak 100m, penyerang tersebut akan ditandai selama 8 detik.\n\nInformasi dibagikan kepada rekan satu tim.\n\nMaksimum 4 tanda.",
+    "name_ability": "Daño Entregado",
+    "type_ability": "Pasiva",
+    "ability_tags": [
+      "Compartir",
+      "Marcar"
+    ],
+    "descEn": "When you take damage, mark the attacker.\n\nWhen hit by an enemy within 100m, the attacker is marked for 8 seconds.\n\nInformation is shared with teammates.\n\nMaximum 4 marks."
+  },
+  {
+    "id": "32",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Chrono.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/33278336-3e27-48ff-894c-392623816e8a.webp",
+    "name": "Chrono",
+    "created_at": "2024-11-25T11:05:13.848Z",
+    "language_code": "es",
+    "description": "Menciptakan medan gaya yang memblokir kerusakan.\n\nMenciptakan medan gaya yang tidak dapat ditembus yang memblokir 1000 kerusakan.\n\nTidak mengizinkan menyerang musuh di luar lapangan dari dalam.\n\nDurasi semua efek: 10 detik.\n\nMasa pakai baterai: 60 detik",
+    "name_ability": "Campo de Fuerza",
+    "type_ability": "Activa",
+    "ability_tags": [
+      "Barrera"
+    ],
+    "descEn": "Creates a force field that blocks damage.\n\nCreates an impenetrable force field that blocks 1000 damage.\n\nDoes not allow attacking enemies outside the field from inside.\n\nAll effect duration: 10 seconds.\n\nBattery life: 60 seconds"
+  },
+  {
+    "id": "31",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Dasha.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/3279a89e-b987-4bf7-895a-67c43900e913.webp",
+    "name": "Dasha",
+    "created_at": "2024-11-25T11:02:33.201Z",
+    "language_code": "es",
+    "description": "Saat menembak jatuh musuh, kecepatan menembak dan gerakan Anda meningkat secara signifikan.\n\nSetelah mengalahkan musuh, ia memasuki Mode Unggulan, yang meningkatkan laju tembakan sebesar 18% dan kecepatan gerakan sebesar 12%, namun kemudian berkurang dengan cepat.\n\nDurasi: 10 detik.\n\nSelama Mode Unggulan, menembak jatuh musuh secara berurutan akan mengatur ulang hitungan mundur dan meningkatkan laju tembakan Anda sebesar 4% dan kecepatan gerakan Anda sebesar 3%.",
+    "name_ability": "Modo Fiesta",
+    "type_ability": "Pasiva",
+    "ability_tags": [
+      "Vel. de movimiento",
+      "Vel. de disparo"
+    ],
+    "descEn": "When taking down enemies, your firing and movement speed increase significantly.\n\nAfter defeating an enemy, enters Featured Mode, which increases fire rate by 18% and movement speed by 12%, but decays quickly afterwards.\n\nDuration: 10 seconds.\n\nDuring Featured Mode, consecutive takedowns reset the countdown and increase fire rate by 4% and movement speed by 3%."
+  },
+  {
+    "id": "30",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/K.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/26452118-75bb-49aa-a238-816a5f1654c0.webp",
+    "name": "K",
+    "created_at": "2024-11-25T10:58:44.079Z",
+    "language_code": "es",
+    "description": "Meningkatkan EP maksimum; Tingkatkan konversi XP atau pulihkan XP per detik untuk Anda dan sekutu Anda dalam jangkauan.\n\nPE maksimum meningkat menjadi 50.\n\nMode Jiu-jitsu: Sekutu dalam jarak 15m memperoleh peningkatan persentase konversi XP sebesar 600%.\n\nMode Psikologi: Memulihkan 3 XP setiap 1 detik, hingga 250 XP.\n\nCooldown perubahan mode: 6 dtk",
+    "name_ability": "Profesor de Todo",
+    "type_ability": "Activa",
+    "ability_tags": [
+      "Compartir",
+      "PE"
+    ],
+    "descEn": "Increases maximum EP; boosts XP conversion or restores XP per second for you and nearby allies.\n\nMaximum EP increases to 50.\n\nJiu-jitsu Mode: Allies within 15m gain a 600% increase in XP conversion percentage.\n\nPsychology Mode: Restores 3 XP every 1 second, up to 250 XP.\n\nMode change cooldown: 6 s"
+  },
+  {
+    "id": "29",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Luqueta.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/6f7a402a-3480-445e-a304-b22375dc50b9.webp",
+    "name": "Luqueta",
+    "created_at": "2024-11-25T10:54:23.480Z",
+    "language_code": "es",
+    "description": "Poin Perisai maks. meningkat secara permanen dengan eliminasi.\n\nSetiap pembunuhan meningkatkan Poin Perisai maksimum secara permanen sebesar 15.\n\nPembesaran maksimum: 45.\n\nMenghapus efek ketika pemain tersingkir atau putaran dimulai kembali.",
+    "name_ability": "Sombrerito",
+    "type_ability": "Pasiva",
+    "ability_tags": [
+      "Puntos de Escudo"
+    ],
+    "descEn": "Max. Shield Points permanently increase with eliminations.\n\nEach kill permanently increases maximum Shield Points by 15.\n\nMaximum increase: 45.\n\nEffects are removed when the player is eliminated or when the round restarts."
+  },
+  {
+    "id": "28",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Hayato.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/2e06c091-d4e3-4000-bcec-5f76dcfd232a.webp",
+    "name": "Hayato",
+    "created_at": "2024-11-25T10:50:50.525Z",
+    "language_code": "es",
+    "description": "HP lebih sedikit, namun memberikan lebih banyak penetrasi armor dan pengurangan DMG frontal.\n\nUntuk setiap 10% HP yang hilang, Penetrasi Armor meningkat sebesar 3,5% dan DMG frontal yang diterima berkurang sebesar 2%.",
+    "name_ability": "Arte con Espadas",
+    "type_ability": "Pasiva",
+    "ability_tags": [
+      "Resistencia al daño",
+      "Perforación de armadura"
+    ],
+    "descEn": "Less HP, but grants more armor penetration and reduced frontal DMG.\n\nFor every 10% HP lost, Armor Penetration increases by 3.5% and frontal DMG received decreases by 2%."
+  },
+  {
+    "id": "27",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Moco.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/0008c8ec-07fd-4cf4-88fa-53b952152943.webp",
+    "name": "Moco",
+    "created_at": "2024-11-25T07:46:22.034Z",
+    "language_code": "es",
+    "description": "Tandai musuh yang rusak.\n\nMenandai musuh yang rusak, mengungkapkan lokasinya di bidang pandang dan di peta mini, dan membagikannya kepada rekan satu tim.\n\nJika musuh bergerak selama 3 detik.\n\nJika Anda bergerak sambil ditandai, lokasi Anda akan terlihat lebih lama, hingga 4 detik.",
+    "name_ability": "Vista Enigmática",
+    "type_ability": "Pasiva",
+    "ability_tags": [
+      "Compartir",
+      "Marcar"
+    ],
+    "descEn": "Marks damaged enemies.\n\nMarks damaged enemies, revealing their location in the field of view and on the minimap, and shares it with teammates.\n\nIf the enemy moves for 3 seconds.\n\nIf you move while marked, your location is visible for longer, up to 4 seconds."
+  },
+  {
+    "id": "26",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Steffie.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/5ac76eb1-4b26-45a4-89a1-815bac7c5ba5.webp",
+    "name": "Steffie",
+    "created_at": "2024-11-25T07:37:15.513Z",
+    "language_code": "es",
+    "description": "Menciptakan area yang menghalangi benda-benda yang dapat dibuang. Sekutu di dalamnya akan menerima peningkatan pertahanan.\n\nMembuat area seluas 4m di mana objek yang dapat dibuang tidak valid.\n\nSekutu di area tersebut akan memulihkan daya tahan armor sebesar 10% setiap detik dan kerusakan amunisi akan berkurang sebesar 20%.\n\nDurasi: 15 detik.\n\nEfeknya tidak bertumpuk.\n\nMasa pakai baterai: 60 detik",
+    "name_ability": "Refugio de Pintura",
+    "type_ability": "Activa",
+    "ability_tags": [
+      "Compartir",
+      "Resistencia al daño"
+    ],
+    "descEn": "Creates an area that blocks throwable objects. Allies inside receive increased defense.\n\nCreates a 4m area where throwable objects are invalid.\n\nAllies in the area restore 10% armor durability per second and ammo damage is reduced by 20%.\n\nDuration: 15 seconds.\n\nEffects do not stack.\n\nBattery life: 60 seconds"
+  },
+  {
+    "id": "25",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Misha.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/ecd2036b-6975-4949-b946-a1cc3c9c0459.webp",
+    "name": "Misha",
+    "created_at": "2024-11-25T07:31:31.109Z",
+    "language_code": "es",
+    "description": "Saat mengemudi, sulit untuk tertabrak dan Anda mendapatkan peningkatan kekuatan.\n\nKecepatan mengemudi meningkat 10%.\n\nSaat karakter berada di dalam kendaraan, lebih sulit untuk membidiknya dan kerusakan yang diterima berkurang sebesar 20%.",
+    "name_ability": "Fugacidad",
+    "type_ability": "Pasiva",
+    "ability_tags": [
+      "Resistencia al daño",
+      "Vehículo"
+    ],
+    "descEn": "While driving, it's harder to be hit and you gain a power boost.\n\nDriving speed increases by 10%.\n\nWhile the character is inside a vehicle, it's harder to aim at them and damage received is reduced by 20%."
+  },
+  {
+    "id": "24",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Maxim.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/7dc2f06b-0f94-407c-9a2a-98f560f181ca.webp",
+    "name": "Maxim",
+    "created_at": "2024-11-25T07:27:44.737Z",
+    "language_code": "es",
+    "description": "Makan jamur dan gunakan medkit 25% lebih cepat.",
+    "name_ability": "Glotonería",
+    "type_ability": "Pasiva",
+    "ability_tags": [
+      "Recuperar"
+    ],
+    "descEn": "Eat mushrooms and use medkits 25% faster."
+  },
+  {
+    "id": "23",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Andrew.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/a7cf7746-9012-4bb5-8fad-4495082e2e01.webp",
+    "name": "Andrew",
+    "created_at": "2024-11-25T07:24:34.896Z",
+    "language_code": "es",
+    "description": "Pertahanan armor meningkat. Semakin banyak teman dalam jangkauan, semakin baik.\n\nKehilangan daya tahan armor berkurang sebesar 40% dan pengurangan KERUSAKAN armor meningkat sebesar 4%.\n\nMendapatkan bonus pengurangan KERUSAKAN 1% untuk setiap rekan satu tim yang hadir dalam jarak 15m.",
+    "name_ability": "Manada de Lobos",
+    "type_ability": "Pasiva",
+    "ability_tags": [
+      "Resistencia al daño"
+    ],
+    "descEn": "Armor defense increases. The more teammates in range, the better.\n\nArmor durability loss is reduced by 40% and armor DAMAGE reduction increases by 4%.\n\nGains an extra 1% DAMAGE reduction for each teammate within 15m."
+  },
+  {
+    "id": "22",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Caroline.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/f8964699-1c16-4f04-887b-f4cfc8a1913a.webp",
+    "name": "Caroline",
+    "created_at": "2024-11-25T07:09:24.887Z",
+    "language_code": "es",
+    "description": "Saat menggunakan shotgun, meningkatkan kecepatan gerakan sebesar 16%.",
+    "name_ability": "Extremadamente Ágil",
+    "type_ability": "Pasiva",
+    "ability_tags": [
+      "Vel. de movimiento"
+    ],
+    "descEn": "While using a shotgun, increases movement speed by 16%."
+  },
+  {
+    "id": "21",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Laura.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/47f7aabc-9e2e-4733-bafc-efe5eb9587ff.webp",
+    "name": "Laura",
+    "created_at": "2024-11-25T07:04:34.028Z",
+    "language_code": "es",
+    "description": "Meningkatkan akurasi saat menggunakan scope sebesar 60%.",
+    "name_ability": "Tiradora Audaz",
+    "type_ability": "Pasiva",
+    "ability_tags": [
+      "Precisión"
+    ],
+    "descEn": "Increases accuracy by 60% when using a scope."
+  },
+  {
+    "id": "20",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Rafael.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/ce241fa9-2fb1-4d55-9f43-1448cb1953dd.webp",
+    "name": "Rafael",
+    "created_at": "2024-11-25T07:00:09.397Z",
+    "language_code": "es",
+    "description": "Tembakan dari senapan sniper dan penembak jitu dibungkam, dan musuh yang jatuh akan mengeluarkan darah lebih cepat.\n\nSaat menggunakan senapan sniper dan penembak jitu, suara tembakan akan diredam dan tembakan yang berhasil dapat menyebabkan musuh yang terjatuh mengeluarkan darah 85% lebih cepat.",
+    "name_ability": "Muerte Silenciosa",
+    "type_ability": "Pasiva",
+    "ability_tags": [
+      "Silenciador"
+    ],
+    "descEn": "Sniper rifle and marksman shots are silenced, and fallen enemies bleed out faster.\n\nWhen using sniper rifles and marksman rifles, shot sounds are muffled and successful shots make fallen enemies bleed out 85% faster."
+  },
+  {
+    "id": "19",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Jota.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/af791482-21a4-440f-aa5e-53d0c39dd5fd.webp",
+    "name": "Jota",
+    "created_at": "2024-11-25T06:56:00.852Z",
+    "language_code": "es",
+    "description": "Memulihkan sejumlah kecil HP saat memukul musuh dengan senjata, dan memulihkan sejumlah besar HP saat menjatuhkan musuh dengan cara apa pun.\n\nJika kamu mengenai musuh dengan senjata, kamu akan mendapatkan kembali HP.\n\nSedangkan jika kamu menjatuhkan musuh dengan cara apapun, kamu akan memulihkan 20% HP.",
+    "name_ability": "Caza Sostenida",
+    "type_ability": "Pasiva",
+    "ability_tags": [
+      "Recuperar"
+    ],
+    "descEn": "Restores a small amount of HP when hitting enemies with weapons, and restores a large amount of HP when taking down enemies by any means.\n\nIf you hit an enemy with a weapon, you recover HP.\n\nMeanwhile, if you take down an enemy by any means, you restore 20% HP."
+  },
+  {
+    "id": "18",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Alvaro.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/9484093c-3140-497f-8888-e0f8bf390b06.webp",
+    "name": "Alvaro",
+    "created_at": "2024-11-25T06:49:23.718Z",
+    "language_code": "es",
+    "description": "Meningkatkan kerusakan dan jangkauan bahan peledak serta menyediakan granat yang terbelah dan meledak.\n\nKerusakan senjata peledak meningkat sebesar 25% dan jangkauannya meningkat sebesar 10%.\n\nSetiap granat akan terbagi menjadi 3 granat mini setelah meledak, memberikan 20% kerusakan granat asli.",
+    "name_ability": "Arte de Demolición",
+    "type_ability": "Pasiva",
+    "ability_tags": [
+      "Daño",
+      "Explosivos"
+    ],
+    "descEn": "Increases explosive damage and range and provides grenades that split and explode.\n\nExplosive weapon damage increases by 25% and range by 10%.\n\nEach grenade splits into 3 mini grenades after exploding, dealing 20% of the original grenade's damage."
+  },
+  {
+    "id": "17",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Antonio.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/ad75b75a-ae8d-45c8-baa7-bb080720f598.webp",
+    "name": "Antonio",
+    "created_at": "2024-11-25T06:44:03.472Z",
+    "language_code": "es",
+    "description": "Meningkatkan Perisai Poin maksimum secara permanen.\n\nDapatkan 20 Poin Perisai ekstra di awal permainan.\n\nPulihkan Poin Perisai setelah selamat dari pertempuran.",
+    "name_ability": "Espíritu del Mafioso",
+    "type_ability": "Pasiva",
+    "ability_tags": [
+      "Puntos de Escudo"
+    ],
+    "descEn": "Permanently increases maximum Shield Points.\n\nGain 20 extra Shield Points at the start of the game.\n\nRestore Shield Points after surviving a battle."
+  },
+  {
+    "id": "16",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Paloma.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/1faa4934-b3e2-4862-aa2f-e5dcc468d978.webp",
+    "name": "Paloma",
+    "created_at": "2024-11-25T06:40:09.461Z",
+    "language_code": "es",
+    "description": "Akurasi meningkat setelah menghancurkan Tembok Gloo.\n\nAkurasi senjata meningkat selama 10 detik setelah menghancurkan Tembok Gloo.",
+    "name_ability": "Destrucción expansiva",
+    "type_ability": "Pasiva",
+    "ability_tags": [
+      "Precisión"
+    ],
+    "descEn": "Accuracy increases after destroying a Gloo Wall.\n\nWeapon accuracy increases for 10 seconds after destroying a Gloo Wall."
+  },
+  {
+    "id": "15",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Miguel.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/8634de63-b704-4b66-b856-a18b7e771ae8.webp",
+    "name": "Miguel",
+    "created_at": "2024-11-25T06:28:59.263Z",
+    "language_code": "es",
+    "description": "Hasilkan 200 XP saat Anda menjatuhkan musuh.",
+    "name_ability": "Asesino Loco",
+    "type_ability": "Pasiva",
+    "ability_tags": [
+      "PE"
+    ],
+    "descEn": "Gain 200 XP when you take down an enemy."
+  },
+  {
+    "id": "14",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Nikita.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/39d401a8-4d55-46af-abfe-112c080f1a9a.webp",
+    "name": "Nikita",
+    "created_at": "2024-11-25T06:10:24.256Z",
+    "language_code": "es",
+    "description": "Meningkatkan kecepatan reload dan menyebabkan pengurangan penyembuhan pada musuh yang terkena.\n\nKecepatan muat ulang meningkat 20%. Setiap kali pengguna skill mengenai musuh, musuh tersebut akan mendapatkan pengurangan penyembuhan sebesar 50% yang berlangsung selama 6 detik (pengurangan maksimum: 50%).",
+    "name_ability": "Experta en Armas",
+    "type_ability": "Pasiva",
+    "ability_tags": [
+      "Reducción de curación",
+      "Recargar"
+    ],
+    "descEn": "Increases reload speed and causes healing reduction on hit enemies.\n\nReload speed increases by 20%. Each time the skill user hits an enemy, that enemy receives a 50% healing reduction lasting 6 seconds (maximum reduction: 50%)."
+  },
+  {
+    "id": "13",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Kapella.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/4a7c3005-24c1-4c9d-9f91-47bbf8646b5e.webp",
+    "name": "Kapella",
+    "created_at": "2024-11-25T06:03:59.767Z",
+    "language_code": "es",
+    "description": "Sembuhkan rekan satu tim dengan amunisi dan sembuhkan lebih banyak lagi dengan senjata penyembuh.\n\nMenyembuhkan rekan satu tim dengan amunisi sebesar 20% dari kerusakan yang diberikan.\n\nSaat menggunakan senjata penyembuh, meningkatkan efek penyembuhan sebesar 20%.",
+    "name_ability": "Balas Curativas",
+    "type_ability": "Pasiva",
+    "ability_tags": [
+      "Curar"
+    ],
+    "descEn": "Heal teammates with ammo and heal even more with healing weapons.\n\nHeals teammates with ammo equal to 20% of damage dealt.\n\nWhen using a healing weapon, increases healing effects by 20%."
+  },
+  {
+    "id": "12",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/thiva.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/de7686e6-f488-4765-b6b7-7e6e3c0321bd.webp",
+    "name": "Thiva",
+    "created_at": "2024-11-25T05:55:39.609Z",
+    "language_code": "es",
+    "description": "Bantu rekan satu tim lebih cepat. Mitra memulihkan HP setelah bantuan.\n\nKecepatan membantu rekan satu tim meningkat sebesar 70%.\n\nRekan satu tim yang dibantu memulihkan 60 VP dalam 3 detik.\n\nMasa pakai baterai: 90an",
+    "name_ability": "Vibraciones Vitales",
+    "type_ability": "Pasiva",
+    "ability_tags": [
+      "Curar",
+      "Ayudar"
+    ],
+    "descEn": "Help teammates faster. Rescued teammates restore HP after being helped.\n\nTeammate help speed increases by 70%.\n\nA helped teammate restores 60 VP in 3 seconds.\n\nBattery life: 90 seconds"
+  },
+  {
+    "id": "11",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Joseph.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/981a01bd-59c9-4ad6-8212-a6234ef51277.webp",
+    "name": "Joseph",
+    "created_at": "2024-11-25T05:48:30.401Z",
+    "language_code": "es",
+    "description": "Jika berada dalam debuff, Anda memperoleh kekebalan dan peningkatan kecepatan gerakan.\n\nMenjadi kebal terhadap efek mengganggu seperti perlambatan, penandaan, dan kemampuan diam.\n\nMendapatkan peningkatan kecepatan gerakan sebesar 10% selama 5 detik.\n\nMasa pakai baterai: 45 detik",
+    "name_ability": "Cuchara de Plata",
+    "type_ability": "Pasiva",
+    "ability_tags": [
+      "Vel. de movimiento",
+      "Inmune"
+    ],
+    "descEn": "If under a debuff, you gain immunity and increased movement speed.\n\nBecomes immune to disruptive effects such as slows, marks, and silence abilities.\n\nGains a 10% movement speed boost for 5 seconds.\n\nBattery life: 45 seconds"
+  },
+  {
+    "id": "10",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Notora.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/a18d130e-b115-426c-91bb-710fa6a955c9.webp",
+    "name": "Notora",
+    "created_at": "2024-11-25T04:09:14.308Z",
+    "language_code": "es",
+    "description": "Memulihkan HP untuk dirinya dan rekan satu timnya saat berada di dalam kendaraan.\n\nSaat mengemudi, pulihkan 5 VP setiap 2 detik untuk semua penumpang di dalam kendaraan.\n\nMaksimum 200 VP.",
+    "name_ability": "Bendición de Carrera",
+    "type_ability": "Pasiva",
+    "ability_tags": [
+      "Curar",
+      "Vehículo"
+    ],
+    "descEn": "Restores HP for herself and her teammates while inside a vehicle.\n\nWhile driving, restores 5 VP every 2 seconds for all passengers in the vehicle.\n\nMaximum 200 VP."
+  },
+  {
+    "id": "9",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/KLA.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/2a8fdb1a-8b96-47aa-a8d4-643a2535f561.webp",
+    "name": "KLA",
+    "created_at": "2024-11-25T04:02:29.718Z",
+    "language_code": "es",
+    "description": "Meningkatkan kerusakan pukulan sebesar 400%.",
+    "name_ability": "Muay Thai",
+    "type_ability": "Pasiva",
+    "ability_tags": [
+      "Puños"
+    ],
+    "descEn": "Increases punch damage by 400%."
+  },
+  {
+    "id": "8",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Wukong.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/695bcb39-5717-494f-90a5-8899d6a10dd1.webp",
+    "name": "Wukong",
+    "created_at": "2024-11-25T03:56:13.435Z",
+    "language_code": "es",
+    "description": "Itu berubah menjadi semak. Cooldown direset saat Anda menjatuhkan musuh.\n\nBerubah menjadi semak dengan pengurangan kecepatan gerakan sebesar 10% selama 10 detik.\n\nTransformasi berakhir ketika Wukong menyerang.\n\nCooldown direset ketika Wukong menjatuhkan musuh dalam waktu 10 detik setelah menggunakan kemampuannya.\n\nMasa pakai baterai: 90an",
+    "name_ability": "Ilusión",
+    "type_ability": "Activa",
+    "ability_tags": [
+      "Transformar"
+    ],
+    "descEn": "Transforms into a bush. Cooldown resets when you take down an enemy.\n\nTransforms into a bush with a 10% movement speed reduction for 10 seconds.\n\nThe transformation ends when Wukong attacks.\n\nThe cooldown resets when Wukong takes down an enemy within 10 seconds of using the ability.\n\nBattery life: 90 seconds"
+  },
+  {
+    "id": "7",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Olivia.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/393d744b-46b8-46e2-9605-d493f11e036c.webp",
+    "name": "Olivia",
+    "created_at": "2024-11-25T03:53:00.890Z",
+    "language_code": "es",
+    "description": "Meningkatkan jumlah penyembuhan dan penyebaran\n\nMeningkatkan efek penyembuhan sebesar 30% dan menyebarkan 90% jumlah penyembuhan target tunggal pengguna ke rekan satu tim dalam jarak 20m.",
+    "name_ability": "Toque Sanador",
+    "type_ability": "Pasiva",
+    "ability_tags": [
+      "Curar",
+      "Recuperar"
+    ],
+    "descEn": "Increases the amount of healing and its spread.\n\nIncreases healing effects by 30% and spreads 90% of the user's single-target healing amount to teammates within 20m."
+  },
+  {
+    "id": "6",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Ford.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/0f669b78-1dda-40da-a7f4-efde181ac5cb.webp",
+    "name": "Ford",
+    "created_at": "2024-11-25T03:48:37.104Z",
+    "language_code": "es",
+    "description": "HP Anda akan pulih ketika diserang.\n\nSaat menerima kerusakan, Anda memperoleh 10 HP/dtk selama 3 d.\n\nSetelah mengeluarkan skill aktif, skill pasif ini akan langsung direset.\n\nMasa pakai baterai: 20 detik",
+    "name_ability": "Voluntad de Hierro",
+    "type_ability": "Pasiva",
+    "ability_tags": [
+      "Recuperar"
+    ],
+    "descEn": "Your HP recovers when attacked.\n\nWhen taking damage, you gain 10 HP/s for 3 s.\n\nAfter using an active skill, this passive skill resets immediately.\n\nBattery life: 20 seconds"
+  },
+  {
+    "id": "5",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Shani.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/123d176c-c748-4a59-98e0-3d9c38ff8cec.webp",
+    "name": "Shani",
+    "created_at": "2024-11-25T03:35:30.357Z",
+    "language_code": "es",
+    "description": "Saat menggunakan skill aktif, berikan Poin Perisai kepada teman terdekat.\n\nKetika skill aktif digunakan, ia memberikan 30 poin perisai kepada pengguna dan rekan satu tim hingga jarak 10m.\n\nPoin perisai berkurang setelah 10 detik, setelah itu pemain bisa mendapatkan efeknya lagi.\n\nWaktu tunggu: 10 detik",
+    "name_ability": "Equipo de Reparación",
+    "type_ability": "Pasiva",
+    "ability_tags": [
+      "Compartir",
+      "Puntos de Escudo"
+    ],
+    "descEn": "When using an active skill, grants Shield Points to nearby teammates.\n\nWhen an active skill is used, it grants 30 shield points to the user and teammates within 10m.\n\nShield points decay after 10 seconds, after which the player can receive the effect again.\n\nCooldown: 10 seconds"
+  },
+  {
+    "id": "4",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Alok.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/dcf2a45a-afde-444e-bd67-051307b493df.webp",
+    "name": "Alok",
+    "created_at": "2024-11-25T03:28:45.717Z",
+    "language_code": "es",
+    "description": "Memulihkan HP seiring waktu dan meningkatkan kecepatan gerakan. Menjatuhkan not musik yang memberikan efek yang sama kepada teman saat diambil.\n\nMenciptakan aura 5m yang meningkatkan kecepatan gerakan sebesar 15% dan memulihkan 5 HP per detik selama 10 detik.\n\nSementara itu, ia menjatuhkan not musik setiap 2 detik, yang dapat diambil oleh rekan satu tim dan memberikan efek yang sama seperti aura.\n\nMasa pakai baterai: 45 detik",
+    "name_ability": "Fiesta Remix",
+    "type_ability": "Activa",
+    "ability_tags": [
+      "Curar",
+      "Vel. de movimiento"
+    ],
+    "descEn": "Restores HP over time and increases movement speed. Drops music notes that grant the same effect to teammates when picked up.\n\nCreates a 5m aura that increases movement speed by 15% and restores 5 HP per second for 10 seconds.\n\nMeanwhile, it drops a music note every 2 seconds, which can be picked up by teammates and grants the same effect as the aura.\n\nBattery life: 45 seconds"
+  },
+  {
+    "id": "3",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/A124.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/de2276bc-2336-4576-b324-c008d56d5bf9.webp",
+    "name": "A124",
+    "created_at": "2024-11-25T03:19:30.567Z",
+    "language_code": "es",
+    "description": "Melepaskan gelombang elektromagnetik yang menonaktifkan kemampuan musuh.\n\nMelepaskan gelombang elektromagnetik 8m yang menonaktifkan musuh dari mengaktifkan kemampuan, menyebabkan 25 DMG, dan menghentikan hitungan mundur kemampuan.\n\nDurasi: 20 detik.\n\nMasa pakai baterai: 75 detik",
+    "name_ability": "Emoción de Batalla",
+    "type_ability": "Activa",
+    "ability_tags": [
+      "Desactivar",
+      "Daño"
+    ],
+    "descEn": "Releases an electromagnetic wave that disables enemy abilities.\n\nReleases an 8m electromagnetic wave that prevents enemies from activating abilities, deals 25 DMG, and stops ability countdowns.\n\nDuration: 20 seconds.\n\nBattery life: 75 seconds"
+  },
+  {
+    "id": "2",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/kelly.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/44cdbd46-74e9-4c7f-83ba-bc07e7a76ac0.webp",
+    "name": "Kelly",
+    "created_at": "2024-11-24T08:10:39.578Z",
+    "language_code": "es",
+    "description": "Kecepatan lari meningkat sebesar 6%. Skill Reborn: Aktif setelah 4 detik berlari, 1 tembakan pertama ke target menimbulkan 106% damage. Durasi 5 detik.",
+    "name_ability": "Velocidad ultrasónica",
+    "type_ability": "PASIVA",
+    "ability_tags": [],
+    "descEn": "Increases running speed by 6%. Reborn Skill: After 4 seconds of running, the first 1 shot at a target deals 106% damage. Lasts 5 seconds."
+  },
+  {
+    "id": "1",
+    "image_character": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/Wolfrahh.webp",
+    "ability_image": "https://raw.githubusercontent.com/Stretzx/janggal/main/ff-data/images/a5471654-1bfd-4bd9-ac2b-6f115959ea1e.webp",
+    "name": "Wolfrahh",
+    "created_at": "2024-11-24T07:47:48.795Z",
+    "language_code": "es",
+    "description": "Meningkatkan DAMAGE headshot yang diberikan kepada musuh dan mengurangi damage headshot yang diterima.\n\nSetiap penghapusan atau penonton akan menambahkan tumpukan efek.\n\nSetiap tumpukan akan mengurangi damage yang diterima dari headshots sebesar 4%, maksimal total 12%, dan meningkatkan damage ke musuh dari headshots sebesar 10%, maksimal 30% total.",
+    "name_ability": "Vista",
+    "type_ability": "PASIVA",
+    "ability_tags": [
+      "Resistencia al daño",
+      "Disp. a la cabeza"
+    ],
+    "descEn": "Increases headshot DAMAGE dealt to enemies and reduces headshot damage received.\n\nEvery elimination or viewer adds an effect stack.\n\nEach stack reduces headshot damage received by 4%, up to a total of 12%, and increases headshot damage dealt to enemies by 10%, up to 30% total."
+  }
+]

@@ -1,1 +1,534 @@
-{"miya":{"combo":"S2 → S1 → AA","tips":"Aktifkan S2 dulu untuk immobilize, lalu S1 untuk multi-arrow damage."},"balmond":{"combo":"S1 → S2 → S3 → AA","tips":"Gunakan S1 untuk closing gap, lalu S2 + ult untuk burst."},"saber":{"combo":"S1 → S3 → AA","tips":"Pastikan S1 sudah aktif sebelum ult agar damage maksimal."},"alice":{"combo":"S1 → S2 → S3","tips":"Masuk ke tengah tim musuh dengan S3, gunakan S1 untuk escape jika perlu."},"nana":{"combo":"S2 → S3 → S1","tips":"Lempar S2 untuk stun area, lalu ult untuk burst damage."},"tigreal":{"combo":"S3 → S2 → S1 → S2","tips":"S3 + Flicker combo untuk catch musuh yang tidak expect."},"alucard":{"combo":"S1 → S3 → S2 → S3","tips":"Masuk dengan S1, aktifkan ult, lalu spam skill untuk sustain."},"karina":{"combo":"S1 → S3 → AA → S2","tips":"Manfaatkan reset cooldown S3 saat mendapat kill."},"akai":{"combo":"S2 → S1 → S3 → AA","tips":"Gunakan S3 untuk pin musuh ke tembok agar ter-stun."},"franco":{"combo":"S1 → S3 → AA → S2","tips":"Pastikan hook mengenai target penting sebelum commit."},"bane":{"combo":"S1 → S2 → S3","tips":"Spam S1 untuk poke, masuk full combo saat tim siap follow up."},"bruno":{"combo":"S1 → S2 → S3","tips":"Ambil bola rebound untuk burst damage maksimal."},"clint":{"combo":"S2 → S3 → S1 → AA","tips":"Gunakan S2 untuk dash ke posisi aman lalu spam S3 dan S1."},"rafaela":{"combo":"S1 → S2 → S3","tips":"Aktifkan S2 untuk heal tim sebelum commit team fight."},"eudora":{"combo":"S2 → S3 → S1","tips":"Stun dengan S2 dulu, lalu ult untuk burst satu target."},"zilong":{"combo":"S2 → AA → S1 → AA","tips":"Gunakan S2 untuk gap close, S1 untuk flip musuh ke arah tim."},"fanny":{"combo":"S2 (cables) → S3 → S1 → S2","tips":"Kuasai cable management dulu; combo ini butuh presisi tinggi."},"layla":{"combo":"S1 → S2 → AA","tips":"Jaga jarak aman; S1 untuk slow lalu spam basic attack."},"minotaur":{"combo":"S1 → S3","tips":"Isi rage meter dulu, lalu masuk dengan S3 untuk area stun besar."},"lolita":{"combo":"S3 → S1 → AA","tips":"Tahan S3 untuk charge, lepas tepat saat musuh masuk range."},"hayabusa":{"combo":"S2 → S1 → S3","tips":"Tandai target dengan S2 shadow, lalu isolate untuk ult damage."},"freya":{"combo":"S1 → AA → S2 → AA","tips":"Aktifkan Valkyrie mode dulu untuk boost damage dan defense."},"gord":{"combo":"S1 → S2 → S3","tips":"Lempar S1 untuk stun, lalu letakkan S2 dan S3 di area yang sama."},"natalia":{"combo":"Passive → S1 → S3 → S1","tips":"Manfaatkan stealth passive untuk ambush dari belakang."},"kagura":{"combo":"S1 → S3 → S2 → S3 → S1","tips":"Kuasai posisi payung untuk escape dan damage sekaligus."},"chou":{"combo":"S1 → S1 → S2 → S1 → S3 → S2 → S3","tips":"S3 → S2 untuk kick musuh ke arah tim, bukan ke arah aman."},"sun":{"combo":"S2 → S3","tips":"Gunakan S2 untuk clone ke target, lalu spam basic attack dengan clone."},"alpha":{"combo":"S2 → S3 → S1 → AA","tips":"S3 untuk inisiasi, S2 untuk sustain, S1 untuk finish."},"ruby":{"combo":"S1 → AA → S2 → AA","tips":"Manfaatkan passive lifesteal setiap skill untuk sustain di lane."},"yi-sun-shin":{"combo":"AA → S1 → AA → S2 → AA → S3","tips":"Gunakan gun mode dari jarak jauh, pisau saat melee."},"moskov":{"combo":"S1 → S2 → AA","tips":"S1 untuk reposition, S2 untuk pin ke tembok."},"johnson":{"combo":"S3 → S1 → S2","tips":"Drive ke target high priority, crash lalu crowd control."},"cyclops":{"combo":"S2 → S1 → S3","tips":"Aktifkan S2 untuk auto-target, lalu S1 dan S3 untuk burst."},"estes":{"combo":"S1 → S3 → S2 → S1","tips":"Aktifkan S3 saat team fight untuk heal massif ke seluruh tim."},"hilda":{"combo":"S2 → AA → S1 → S3","tips":"Gunakan passive di bush untuk regen, masuk combat dengan S2."},"aurora":{"combo":"S3 → S2 → S1","tips":"Isi freeze gauge dulu, lalu burst dengan full combo saat gauge penuh."},"lapu-lapu":{"combo":"S3 → S1 → S2","tips":"Masuk dengan ult untuk damage area, lalu chase dengan S1 dan S2."},"vexana":{"combo":"S1 → S2 → S3","tips":"Kirim S1 untuk summon, lalu S2 dan S3 untuk area burst."},"roger":{"combo":"S3 → S1 → AA → S2","tips":"Berubah ke wolf untuk melee burst, manfaatkan dash dari S1."},"karrie":{"combo":"S3 → S1 → S2 → AA","tips":"Aktifkan S3 untuk true damage, spambasic attack ke tank."},"gatotkaca":{"combo":"S3 → S2 → S1 → AA","tips":"Lompat dengan S3 untuk inisiasi, S2 untuk knock up area."},"harley":{"combo":"S3 → S1 → S2","tips":"Lempar S3 ke target, spam S1 lalu blink dengan S2."},"irithel":{"combo":"S1 → S3 → S2","tips":"Aktifkan S3 saat team fight untuk area damage dengan basic attack."},"grock":{"combo":"S2 → S3 → S1","tips":"Gunakan S2 untuk block jalan, S3 untuk charge ke arah tembok."},"argus":{"combo":"S1 → S2 → AA","tips":"Aktifkan ult untuk immortal, lalu commit dengan S1 dan spam AA."},"odette":{"combo":"S2 → S1 → S3 → AA","tips":"Gunakan S2 untuk stun area, lalu ult di tengah musuh."},"lancelot":{"combo":"S1 → AA → S2 → S3","tips":"Manfaatkan reset S1 saat mengenai target untuk combo panjang."},"diggie":{"combo":"S1 → S2 → AA","tips":"Kirim S1 ke area team fight untuk crowd control zone."},"hylos":{"combo":"S3 → S2 → S1 → AA","tips":"Gunakan S3 untuk engage jarak jauh, S2 untuk slow area."},"zhask":{"combo":"S1 → S4 → S3 → S4 → S1","tips":"Summon Nightmaric dulu, lalu gunakan S4 untuk enhance."},"helcurt":{"combo":"S3 → S1 → AA (full stack) → S2","tips":"Manfaatkan silence dari S3, kumpulkan stack dulu sebelum S2 burst."},"pharsa":{"combo":"S3 → S3 → S3 → S2 → S1","tips":"Gunakan S3 dari jarak aman, spam bom lalu escape dengan S2."},"lesley":{"combo":"S1 → AA → S2","tips":"Aktifkan S1 untuk enhance basic attack, S2 untuk knockback."},"jawhead":{"combo":"S2 → S3 → S1 → S2","tips":"Gunakan S2 untuk dash ke target, S3 untuk stun, S1 untuk burst."},"angela":{"combo":"S2 → S1 → AA","tips":"Gunakan S2 untuk CC satu target, lalu support tim dengan heal."},"gusion":{"combo":"S1 → S2 → S3 → S2 → S1 → S2","tips":"Ingat posisi dagger untuk recall yang tepat."},"valir":{"combo":"S2 + Flicker → S1 → S3","tips":"Flicker ke depan + S2 untuk knockback surprise, lalu spam S1."},"martis":{"combo":"AA → S1 → S2 → AA → S3","tips":"Rasakan timing S3 untuk execute target dengan HP rendah."},"uranus":{"combo":"S3 → S1 → S2 → S1","tips":"Gunakan S3 untuk burst heal saat HP rendah, spam S1 untuk damage."},"hanabi":{"combo":"S3 → AA → S2","tips":"Lempar S3 untuk immobilize, lalu spam basic attack."},"chang'e":{"combo":"S2 → S3 → S1 → AA","tips":"Aktifkan S2 untuk enhance skill, lalu ult untuk area damage besar."},"kaja":{"combo":"S3 → S1 → S2 + Flicker backward","tips":"Tarik target ke arah tim dengan S3, Flicker backward untuk escape."},"selena":{"combo":"S2 (Elven) → S1 (Elven) → S3 → S1 (Abyssal) → S2 → S2","tips":"Tandai musuh dengan abyssal trap sebelum masuk abyssal form."},"aldous":{"combo":"S3 → S1 → AA → S2 → S1","tips":"Aktifkan S3 untuk lock target jarak jauh, punch untuk burst."},"claude":{"combo":"S1 → S2 → S2 → S3","tips":"Build stack di minion dulu, lalu masuk dengan ult saat stack penuh."},"belerick":{"combo":"S3 → S1 → S2","tips":"Masuk dengan S3 untuk taunt area, S2 untuk root musuh."},"lunox":{"combo":"S4 (Darkening) → S2 → S3 → S1 → S4 (Brilliance)","tips":"Switch ke dark mode untuk burst damage, light untuk escape."},"thamuz":{"combo":"S3 → S1 → AA","tips":"Aktifkan S3 untuk lava burst, spam basic attack untuk true damage."},"leomord":{"combo":"S3 → S1 → S2 → S1 → S2","tips":"Panggil kuda dengan S3 dulu, lalu combo dengan enhanced skill."},"kimmy":{"combo":"S1 → S2 → S1 → S3","tips":"Spam S1 sambil移动, S3 untuk finish target yang lari."},"harith":{"combo":"S2 → AA → S3 → S2 → AA","tips":"Manfaatkan dash dari S2 untuk dodge dan damage sekaligus."},"minsitthar":{"combo":"S3 → S1 → S2 → AA","tips":"Pasang S3 area untuk anti-dash, lalu pick off target."},"hanzo":{"combo":"S3 → S2 → AA → S1","tips":"Masuk ke demon form dengan S3, spam AA dan S1 untuk damage tinggi."},"kadita":{"combo":"S1 → S2 → S3","tips":"Dash masuk dengan S1, knock up dengan S2, burst dengan S3."},"badang":{"combo":"S2 → S1 → S3","tips":"Dash ke target dengan S2, pull dengan S1, lalu ult untuk burst area."},"faramis":{"combo":"S3 → S1 → S2","tips":"Aktifkan S3 untuk resurrect tim, lalu support dengan S1 dan S2."},"vale":{"combo":"S2 → S3 → S1","tips":"Lempar S2 untuk knock up, S3 untuk damage area, S1 untuk finish."},"guinevere":{"combo":"S2 → S3 → S1 → AA","tips":"Jump ke target dengan S2, ult untuk knock up, S1 untuk damage."},"khufra":{"combo":"S1 → Flicker → S3 → S2","tips":"S1 + Flicker untuk extend range inisiasi, S3 untuk slam ke tembok."},"esmeralda":{"combo":"S1 → S3 → S2 → AA","tips":"Gunakan S1 untuk shield, masuk dengan S3, spam S2 dan AA."},"granger":{"combo":"S2 → AA → S1 → S3","tips":"Dash untuk reposition, kumpulkan S1 untuk bullet penuh sebelum shoot."},"terizla":{"combo":"S3 → S1 → S2 → S2 → S2","tips":"Gunakan S3 untuk pull musuh, spam S2 untuk damage beruntun."},"dyrroth":{"combo":"S2 → S2 → S1 → S3 → AA","tips":"Charge S2 dua kali untuk burst, lalu ult untuk finish."},"lylia":{"combo":"S2 → S1 → S2 → S2 → S2 → S3","tips":"Tumpuk S2 charge untuk stacks, meledakkan untuk burst damage."},"x-borg":{"combo":"S2 → S3 + Flicker → S3 → S1","tips":"Flicker ke tengah musuh saat ult untuk max area damage."},"masha":{"combo":"S1 → AA → S3 → AA → S2","tips":"Gunakan HP bar ketiga untuk bonus damage, manage HP dengan bijak."},"baxia":{"combo":"S1 → S3 → S2 → AA","tips":"Roll ke target dengan S1, stun area dengan S3, slow dengan S2."},"ling":{"combo":"S3 → S2 → S1 → S2","tips":"Dash ke wall dengan S1, masuk dengan S3, burst dengan S2."},"wanwan":{"combo":"AA → S1 → AA → S3","tips":"Kumpulkan weakness point dengan AA, ult saat semua weakness pecah."},"silvanna":{"combo":"S3 → S2 → S1","tips":"Dash ke target dengan S3, spam S2 untuk damage, S1 untuk stun."},"carmilla":{"combo":"S3 → S2 → S1","tips":"Gunakan S3 untuk link musuh, S2 untuk stun area."},"cecilion":{"combo":"S2 → S1 → S3","tips":"Lempar S2 untuk slow, spam S1 untuk damage, S3 saat team fight."},"atlas":{"combo":"S2 → S1 → S3 → S1","tips":"Masuk dengan S2, pull musuh dengan S1, stun area dengan S3."},"popol-and-kupa":{"combo":"S3 → S4 → S1 → S2","tips":"Setup trap area, gunakan Kupa untuk chase dan bite target."},"yu-zhong":{"combo":"S4 → S4 → S1 → S3 → S2 → AA","tips":"Transform ke dragon form, dive ke backline musuh."},"luo-yi":{"combo":"S2 → S1 → S1 → S1","tips":"Gunakan S2 untuk mark, spam S1 untuk trigger elemental reaction."},"benedetta":{"combo":"Passive → S3 → S2 → S1 → Passive (escape)","tips":"Charge passive untuk dash, masuk combo, escape dengan passive."},"khaleed":{"combo":"S3 → S1 → S1","tips":"Dash ke target dengan S3, spam S1 untuk damage area beruntun."},"barats":{"combo":"S3 → S1 → AA → S2","tips":"Grow size dulu dengan makan minion, lalu engage dengan ult."},"brody":{"combo":"S1 → AA → S2 → AA → S3","tips":"Build stack Abyss mark dengan AA, ult untuk execute."},"yve":{"combo":"S1 → AA → S2 → S2 → S3","tips":"Gunakan S3 di posisi aman untuk area damage besar."},"mathilda":{"combo":"S3 → S1 → S1 → AA → S2","tips":"Dash ke target dengan S3, spam S1 untuk damage area."},"paquito":{"combo":"S2 → S2 → S1 → S3 → S2","tips":"Charge S2 untuk enhanced punch, combo dengan ult."},"gloo":{"combo":"S1 → S2 → S3 → S3 → S1 → S2 → AA","tips":"Stick ke target dengan S3, split untuk dodge damage."},"beatrix":{"combo":"S3 → S2 → S1 → S3","tips":"Manfaatkan weapon switch untuk situasi berbeda, sniper untuk poke."},"phoveus":{"combo":"S2 → S3 → S1 → S3","tips":"Dash ke target yang dash, manfaatkan passive untuk damage bonus."},"natan":{"combo":"S3 → S2 → S1 → AA","tips":"Buka dengan ult untuk slow area, spam S1 dan basic attack."},"aulus":{"combo":"S3 → S2 → AA → S1","tips":"Aktifkan S3 untuk enhance semua skill, lalu combo burst."},"aamon":{"combo":"AA → S1 → AA → S3","tips":"Manfaatkan invisibility dari passive, ambush dari dekat."},"valentina":{"combo":"S3 → S1 → S2 → S3","tips":"Copy ult musuh yang paling berguna sebelum team fight."},"edith":{"combo":"S2 (Phylax) → S1 (Phylax) → S3 → S2 (Edith) → S1 (Edith)","tips":"Switch form di saat tepat; Phylax untuk tank, Edith untuk burst."},"floryn":{"combo":"S2 → S1 → S3","tips":"Gunakan S3 global heal saat tim dalam posisi terdesak."},"yin":{"combo":"S3 → S2 → S1 → AA","tips":"Tarik musuh ke domain dengan S3, burst dengan skill combo."},"melissa":{"combo":"S1 → S2 → S3 → AA","tips":"Dash dengan S1 untuk reposition, S2 untuk slow, S3 untuk shield."},"xavier":{"combo":"S2 → S1 → S3","tips":"Lempar S2 untuk immobilize, S1 untuk burst, S3 untuk snipe."},"julian":{"combo":"S1 → S3 → S2 → AA","tips":"Gunakan kombinasi skill yang tepat berdasarkan situasi."},"fredrinn":{"combo":"S2 → S1 → S3 → S2 → S1 → Ult","tips":"Build taunt stacks dulu, lalu ult untuk massive damage."},"joy":{"combo":"S1 → S2 → S2 → S2 → S2 → S3 → AA","tips":"Dash beruntun untuk charge S3, lalu ult untuk burst."},"novaria":{"combo":"S1 → S2 → S3","tips":"Gunakan S2 untuk teleport, S3 untuk damage area besar."},"arlott":{"combo":"S3 → S2 → S1 → S2","tips":"Dash ke target dengan S3, manfaatkan passive untuk extra damage."},"ixia":{"combo":"S3 → AA → S2 → S1","tips":"Aktifkan S3 untuk area control, spam basic attack dan S2."},"nolan":{"combo":"S2 → S1 → AA","tips":"Dash untuk gap close, S1 untuk burst, finish dengan basic attack."},"cici":{"combo":"S1 → S2 → S3 → AA","tips":"Gunakan S1 untuk poke, S2 untuk chase, S3 untuk execute."},"chip":{"combo":"S3 → S1 → S2","tips":"Lempar S3 untuk area damage, S1 dan S2 untuk combo burst."},"zhuxin":{"combo":"S1 → S2 → S3","tips":"Buka dengan S1 untuk slow, S2 untuk burst, S3 untuk execute."},"suyou":{"combo":"S1 → S2 → S3 → AA","tips":"Dash dengan S1, CC dengan S2, burst dengan S3."},"lukas":{"combo":"S2 → S1 → S3 → AA","tips":"Dash ke target dengan S2, burst dengan S1 dan S3."},"kalea":{"combo":"S1 → S2 → S3","tips":"Spam S1 untuk poke, masuk dengan S2, burst dengan S3."},"zetian":{"combo":"S2 → S1 → S3 → AA","tips":"Gunakan S2 untuk crowd control, burst dengan S1 dan S3."},"obsidia":{"combo":"S1 → S2 → S3 → AA","tips":"Buka dengan S1 untuk damage, CC dengan S2, execute dengan S3."},"sora":{"combo":"S2 → S1 → S3 → AA","tips":"Dash ke target dengan S2, burst dengan S1, finish dengan S3."},"marcel":{"combo":"S2 → S1 → S3","tips":"Dash untuk gap close, burst dengan S1 dan S3 combo."},"hirara":{"combo":"S2 → S1 → S3 → AA","tips":"Dash dengan S2 untuk reposition, spam S1 dan basic attack."}}
+{
+  "miya": {
+    "combo": "S2 → S1 → AA",
+    "tips": "Aktifkan S2 dulu untuk immobilize, lalu S1 untuk multi-arrow damage."
+  },
+  "balmond": {
+    "combo": "S1 → S2 → S3 → AA",
+    "tips": "Gunakan S1 untuk closing gap, lalu S2 + ult untuk burst."
+  },
+  "saber": {
+    "combo": "S1 → S3 → AA",
+    "tips": "Pastikan S1 sudah aktif sebelum ult agar damage maksimal."
+  },
+  "alice": {
+    "combo": "S1 → S2 → S3",
+    "tips": "Masuk ke tengah tim musuh dengan S3, gunakan S1 untuk escape jika perlu."
+  },
+  "nana": {
+    "combo": "S2 → S3 → S1",
+    "tips": "Lempar S2 untuk stun area, lalu ult untuk burst damage."
+  },
+  "tigreal": {
+    "combo": "S3 → S2 → S1 → S2",
+    "tips": "S3 + Flicker combo untuk catch musuh yang tidak expect."
+  },
+  "alucard": {
+    "combo": "S1 → S3 → S2 → S3",
+    "tips": "Masuk dengan S1, aktifkan ult, lalu spam skill untuk sustain."
+  },
+  "karina": {
+    "combo": "S1 → S3 → AA → S2",
+    "tips": "Manfaatkan reset cooldown S3 saat mendapat kill."
+  },
+  "akai": {
+    "combo": "S2 → S1 → S3 → AA",
+    "tips": "Gunakan S3 untuk pin musuh ke tembok agar ter-stun."
+  },
+  "franco": {
+    "combo": "S1 → S3 → AA → S2",
+    "tips": "Pastikan hook mengenai target penting sebelum commit."
+  },
+  "bane": {
+    "combo": "S1 → S2 → S3",
+    "tips": "Spam S1 untuk poke, masuk full combo saat tim siap follow up."
+  },
+  "bruno": {
+    "combo": "S1 → S2 → S3",
+    "tips": "Ambil bola rebound untuk burst damage maksimal."
+  },
+  "clint": {
+    "combo": "S2 → S3 → S1 → AA",
+    "tips": "Gunakan S2 untuk dash ke posisi aman lalu spam S3 dan S1."
+  },
+  "rafaela": {
+    "combo": "S1 → S2 → S3",
+    "tips": "Aktifkan S2 untuk heal tim sebelum commit team fight."
+  },
+  "eudora": {
+    "combo": "S2 → S3 → S1",
+    "tips": "Stun dengan S2 dulu, lalu ult untuk burst satu target."
+  },
+  "zilong": {
+    "combo": "S2 → AA → S1 → AA",
+    "tips": "Gunakan S2 untuk gap close, S1 untuk flip musuh ke arah tim."
+  },
+  "fanny": {
+    "combo": "S2 (cables) → S3 → S1 → S2",
+    "tips": "Kuasai cable management dulu; combo ini butuh presisi tinggi."
+  },
+  "layla": {
+    "combo": "S1 → S2 → AA",
+    "tips": "Jaga jarak aman; S1 untuk slow lalu spam basic attack."
+  },
+  "minotaur": {
+    "combo": "S1 → S3",
+    "tips": "Isi rage meter dulu, lalu masuk dengan S3 untuk area stun besar."
+  },
+  "lolita": {
+    "combo": "S3 → S1 → AA",
+    "tips": "Tahan S3 untuk charge, lepas tepat saat musuh masuk range."
+  },
+  "hayabusa": {
+    "combo": "S2 → S1 → S3",
+    "tips": "Tandai target dengan S2 shadow, lalu isolate untuk ult damage."
+  },
+  "freya": {
+    "combo": "S1 → AA → S2 → AA",
+    "tips": "Aktifkan Valkyrie mode dulu untuk boost damage dan defense."
+  },
+  "gord": {
+    "combo": "S1 → S2 → S3",
+    "tips": "Lempar S1 untuk stun, lalu letakkan S2 dan S3 di area yang sama."
+  },
+  "natalia": {
+    "combo": "Passive → S1 → S3 → S1",
+    "tips": "Manfaatkan stealth passive untuk ambush dari belakang."
+  },
+  "kagura": {
+    "combo": "S1 → S3 → S2 → S3 → S1",
+    "tips": "Kuasai posisi payung untuk escape dan damage sekaligus."
+  },
+  "chou": {
+    "combo": "S1 → S1 → S2 → S1 → S3 → S2 → S3",
+    "tips": "S3 → S2 untuk kick musuh ke arah tim, bukan ke arah aman."
+  },
+  "sun": {
+    "combo": "S2 → S3",
+    "tips": "Gunakan S2 untuk clone ke target, lalu spam basic attack dengan clone."
+  },
+  "alpha": {
+    "combo": "S2 → S3 → S1 → AA",
+    "tips": "S3 untuk inisiasi, S2 untuk sustain, S1 untuk finish."
+  },
+  "ruby": {
+    "combo": "S1 → AA → S2 → AA",
+    "tips": "Manfaatkan passive lifesteal setiap skill untuk sustain di lane."
+  },
+  "yi-sun-shin": {
+    "combo": "AA → S1 → AA → S2 → AA → S3",
+    "tips": "Gunakan gun mode dari jarak jauh, pisau saat melee."
+  },
+  "moskov": {
+    "combo": "S1 → S2 → AA",
+    "tips": "S1 untuk reposition, S2 untuk pin ke tembok."
+  },
+  "johnson": {
+    "combo": "S3 → S1 → S2",
+    "tips": "Drive ke target high priority, crash lalu crowd control."
+  },
+  "cyclops": {
+    "combo": "S2 → S1 → S3",
+    "tips": "Aktifkan S2 untuk auto-target, lalu S1 dan S3 untuk burst."
+  },
+  "estes": {
+    "combo": "S1 → S3 → S2 → S1",
+    "tips": "Aktifkan S3 saat team fight untuk heal massif ke seluruh tim."
+  },
+  "hilda": {
+    "combo": "S2 → AA → S1 → S3",
+    "tips": "Gunakan passive di bush untuk regen, masuk combat dengan S2."
+  },
+  "aurora": {
+    "combo": "S3 → S2 → S1",
+    "tips": "Isi freeze gauge dulu, lalu burst dengan full combo saat gauge penuh."
+  },
+  "lapu-lapu": {
+    "combo": "S3 → S1 → S2",
+    "tips": "Masuk dengan ult untuk damage area, lalu chase dengan S1 dan S2."
+  },
+  "vexana": {
+    "combo": "S1 → S2 → S3",
+    "tips": "Kirim S1 untuk summon, lalu S2 dan S3 untuk area burst."
+  },
+  "roger": {
+    "combo": "S3 → S1 → AA → S2",
+    "tips": "Berubah ke wolf untuk melee burst, manfaatkan dash dari S1."
+  },
+  "karrie": {
+    "combo": "S3 → S1 → S2 → AA",
+    "tips": "Aktifkan S3 untuk true damage, spambasic attack ke tank."
+  },
+  "gatotkaca": {
+    "combo": "S3 → S2 → S1 → AA",
+    "tips": "Lompat dengan S3 untuk inisiasi, S2 untuk knock up area."
+  },
+  "harley": {
+    "combo": "S3 → S1 → S2",
+    "tips": "Lempar S3 ke target, spam S1 lalu blink dengan S2."
+  },
+  "irithel": {
+    "combo": "S1 → S3 → S2",
+    "tips": "Aktifkan S3 saat team fight untuk area damage dengan basic attack."
+  },
+  "grock": {
+    "combo": "S2 → S3 → S1",
+    "tips": "Gunakan S2 untuk block jalan, S3 untuk charge ke arah tembok."
+  },
+  "argus": {
+    "combo": "S1 → S2 → AA",
+    "tips": "Aktifkan ult untuk immortal, lalu commit dengan S1 dan spam AA."
+  },
+  "odette": {
+    "combo": "S2 → S1 → S3 → AA",
+    "tips": "Gunakan S2 untuk stun area, lalu ult di tengah musuh."
+  },
+  "lancelot": {
+    "combo": "S1 → AA → S2 → S3",
+    "tips": "Manfaatkan reset S1 saat mengenai target untuk combo panjang."
+  },
+  "diggie": {
+    "combo": "S1 → S2 → AA",
+    "tips": "Kirim S1 ke area team fight untuk crowd control zone."
+  },
+  "hylos": {
+    "combo": "S3 → S2 → S1 → AA",
+    "tips": "Gunakan S3 untuk engage jarak jauh, S2 untuk slow area."
+  },
+  "zhask": {
+    "combo": "S1 → S4 → S3 → S4 → S1",
+    "tips": "Summon Nightmaric dulu, lalu gunakan S4 untuk enhance."
+  },
+  "helcurt": {
+    "combo": "S3 → S1 → AA (full stack) → S2",
+    "tips": "Manfaatkan silence dari S3, kumpulkan stack dulu sebelum S2 burst."
+  },
+  "pharsa": {
+    "combo": "S3 → S3 → S3 → S2 → S1",
+    "tips": "Gunakan S3 dari jarak aman, spam bom lalu escape dengan S2."
+  },
+  "lesley": {
+    "combo": "S1 → AA → S2",
+    "tips": "Aktifkan S1 untuk enhance basic attack, S2 untuk knockback."
+  },
+  "jawhead": {
+    "combo": "S2 → S3 → S1 → S2",
+    "tips": "Gunakan S2 untuk dash ke target, S3 untuk stun, S1 untuk burst."
+  },
+  "angela": {
+    "combo": "S2 → S1 → AA",
+    "tips": "Gunakan S2 untuk CC satu target, lalu support tim dengan heal."
+  },
+  "gusion": {
+    "combo": "S1 → S2 → S3 → S2 → S1 → S2",
+    "tips": "Ingat posisi dagger untuk recall yang tepat."
+  },
+  "valir": {
+    "combo": "S2 + Flicker → S1 → S3",
+    "tips": "Flicker ke depan + S2 untuk knockback surprise, lalu spam S1."
+  },
+  "martis": {
+    "combo": "AA → S1 → S2 → AA → S3",
+    "tips": "Rasakan timing S3 untuk execute target dengan HP rendah."
+  },
+  "uranus": {
+    "combo": "S3 → S1 → S2 → S1",
+    "tips": "Gunakan S3 untuk burst heal saat HP rendah, spam S1 untuk damage."
+  },
+  "hanabi": {
+    "combo": "S3 → AA → S2",
+    "tips": "Lempar S3 untuk immobilize, lalu spam basic attack."
+  },
+  "chang'e": {
+    "combo": "S2 → S3 → S1 → AA",
+    "tips": "Aktifkan S2 untuk enhance skill, lalu ult untuk area damage besar."
+  },
+  "kaja": {
+    "combo": "S3 → S1 → S2 + Flicker backward",
+    "tips": "Tarik target ke arah tim dengan S3, Flicker backward untuk escape."
+  },
+  "selena": {
+    "combo": "S2 (Elven) → S1 (Elven) → S3 → S1 (Abyssal) → S2 → S2",
+    "tips": "Tandai musuh dengan abyssal trap sebelum masuk abyssal form."
+  },
+  "aldous": {
+    "combo": "S3 → S1 → AA → S2 → S1",
+    "tips": "Aktifkan S3 untuk lock target jarak jauh, punch untuk burst."
+  },
+  "claude": {
+    "combo": "S1 → S2 → S2 → S3",
+    "tips": "Build stack di minion dulu, lalu masuk dengan ult saat stack penuh."
+  },
+  "belerick": {
+    "combo": "S3 → S1 → S2",
+    "tips": "Masuk dengan S3 untuk taunt area, S2 untuk root musuh."
+  },
+  "lunox": {
+    "combo": "S4 (Darkening) → S2 → S3 → S1 → S4 (Brilliance)",
+    "tips": "Switch ke dark mode untuk burst damage, light untuk escape."
+  },
+  "thamuz": {
+    "combo": "S3 → S1 → AA",
+    "tips": "Aktifkan S3 untuk lava burst, spam basic attack untuk true damage."
+  },
+  "leomord": {
+    "combo": "S3 → S1 → S2 → S1 → S2",
+    "tips": "Panggil kuda dengan S3 dulu, lalu combo dengan enhanced skill."
+  },
+  "kimmy": {
+    "combo": "S1 → S2 → S1 → S3",
+    "tips": "Spam S1 sambil移动, S3 untuk finish target yang lari."
+  },
+  "harith": {
+    "combo": "S2 → AA → S3 → S2 → AA",
+    "tips": "Manfaatkan dash dari S2 untuk dodge dan damage sekaligus."
+  },
+  "minsitthar": {
+    "combo": "S3 → S1 → S2 → AA",
+    "tips": "Pasang S3 area untuk anti-dash, lalu pick off target."
+  },
+  "hanzo": {
+    "combo": "S3 → S2 → AA → S1",
+    "tips": "Masuk ke demon form dengan S3, spam AA dan S1 untuk damage tinggi."
+  },
+  "kadita": {
+    "combo": "S1 → S2 → S3",
+    "tips": "Dash masuk dengan S1, knock up dengan S2, burst dengan S3."
+  },
+  "badang": {
+    "combo": "S2 → S1 → S3",
+    "tips": "Dash ke target dengan S2, pull dengan S1, lalu ult untuk burst area."
+  },
+  "faramis": {
+    "combo": "S3 → S1 → S2",
+    "tips": "Aktifkan S3 untuk resurrect tim, lalu support dengan S1 dan S2."
+  },
+  "vale": {
+    "combo": "S2 → S3 → S1",
+    "tips": "Lempar S2 untuk knock up, S3 untuk damage area, S1 untuk finish."
+  },
+  "guinevere": {
+    "combo": "S2 → S3 → S1 → AA",
+    "tips": "Jump ke target dengan S2, ult untuk knock up, S1 untuk damage."
+  },
+  "khufra": {
+    "combo": "S1 → Flicker → S3 → S2",
+    "tips": "S1 + Flicker untuk extend range inisiasi, S3 untuk slam ke tembok."
+  },
+  "esmeralda": {
+    "combo": "S1 → S3 → S2 → AA",
+    "tips": "Gunakan S1 untuk shield, masuk dengan S3, spam S2 dan AA."
+  },
+  "granger": {
+    "combo": "S2 → AA → S1 → S3",
+    "tips": "Dash untuk reposition, kumpulkan S1 untuk bullet penuh sebelum shoot."
+  },
+  "terizla": {
+    "combo": "S3 → S1 → S2 → S2 → S2",
+    "tips": "Gunakan S3 untuk pull musuh, spam S2 untuk damage beruntun."
+  },
+  "dyrroth": {
+    "combo": "S2 → S2 → S1 → S3 → AA",
+    "tips": "Charge S2 dua kali untuk burst, lalu ult untuk finish."
+  },
+  "lylia": {
+    "combo": "S2 → S1 → S2 → S2 → S2 → S3",
+    "tips": "Tumpuk S2 charge untuk stacks, meledakkan untuk burst damage."
+  },
+  "x-borg": {
+    "combo": "S2 → S3 + Flicker → S3 → S1",
+    "tips": "Flicker ke tengah musuh saat ult untuk max area damage."
+  },
+  "masha": {
+    "combo": "S1 → AA → S3 → AA → S2",
+    "tips": "Gunakan HP bar ketiga untuk bonus damage, manage HP dengan bijak."
+  },
+  "baxia": {
+    "combo": "S1 → S3 → S2 → AA",
+    "tips": "Roll ke target dengan S1, stun area dengan S3, slow dengan S2."
+  },
+  "ling": {
+    "combo": "S3 → S2 → S1 → S2",
+    "tips": "Dash ke wall dengan S1, masuk dengan S3, burst dengan S2."
+  },
+  "wanwan": {
+    "combo": "AA → S1 → AA → S3",
+    "tips": "Kumpulkan weakness point dengan AA, ult saat semua weakness pecah."
+  },
+  "silvanna": {
+    "combo": "S3 → S2 → S1",
+    "tips": "Dash ke target dengan S3, spam S2 untuk damage, S1 untuk stun."
+  },
+  "carmilla": {
+    "combo": "S3 → S2 → S1",
+    "tips": "Gunakan S3 untuk link musuh, S2 untuk stun area."
+  },
+  "cecilion": {
+    "combo": "S2 → S1 → S3",
+    "tips": "Lempar S2 untuk slow, spam S1 untuk damage, S3 saat team fight."
+  },
+  "atlas": {
+    "combo": "S2 → S1 → S3 → S1",
+    "tips": "Masuk dengan S2, pull musuh dengan S1, stun area dengan S3."
+  },
+  "popol-and-kupa": {
+    "combo": "S3 → S4 → S1 → S2",
+    "tips": "Setup trap area, gunakan Kupa untuk chase dan bite target."
+  },
+  "yu-zhong": {
+    "combo": "S4 → S4 → S1 → S3 → S2 → AA",
+    "tips": "Transform ke dragon form, dive ke backline musuh."
+  },
+  "luo-yi": {
+    "combo": "S2 → S1 → S1 → S1",
+    "tips": "Gunakan S2 untuk mark, spam S1 untuk trigger elemental reaction."
+  },
+  "benedetta": {
+    "combo": "Passive → S3 → S2 → S1 → Passive (escape)",
+    "tips": "Charge passive untuk dash, masuk combo, escape dengan passive."
+  },
+  "khaleed": {
+    "combo": "S3 → S1 → S1",
+    "tips": "Dash ke target dengan S3, spam S1 untuk damage area beruntun."
+  },
+  "barats": {
+    "combo": "S3 → S1 → AA → S2",
+    "tips": "Grow size dulu dengan makan minion, lalu engage dengan ult."
+  },
+  "brody": {
+    "combo": "S1 → AA → S2 → AA → S3",
+    "tips": "Build stack Abyss mark dengan AA, ult untuk execute."
+  },
+  "yve": {
+    "combo": "S1 → AA → S2 → S2 → S3",
+    "tips": "Gunakan S3 di posisi aman untuk area damage besar."
+  },
+  "mathilda": {
+    "combo": "S3 → S1 → S1 → AA → S2",
+    "tips": "Dash ke target dengan S3, spam S1 untuk damage area."
+  },
+  "paquito": {
+    "combo": "S2 → S2 → S1 → S3 → S2",
+    "tips": "Charge S2 untuk enhanced punch, combo dengan ult."
+  },
+  "gloo": {
+    "combo": "S1 → S2 → S3 → S3 → S1 → S2 → AA",
+    "tips": "Stick ke target dengan S3, split untuk dodge damage."
+  },
+  "beatrix": {
+    "combo": "S3 → S2 → S1 → S3",
+    "tips": "Manfaatkan weapon switch untuk situasi berbeda, sniper untuk poke."
+  },
+  "phoveus": {
+    "combo": "S2 → S3 → S1 → S3",
+    "tips": "Dash ke target yang dash, manfaatkan passive untuk damage bonus."
+  },
+  "natan": {
+    "combo": "S3 → S2 → S1 → AA",
+    "tips": "Buka dengan ult untuk slow area, spam S1 dan basic attack."
+  },
+  "aulus": {
+    "combo": "S3 → S2 → AA → S1",
+    "tips": "Aktifkan S3 untuk enhance semua skill, lalu combo burst."
+  },
+  "aamon": {
+    "combo": "AA → S1 → AA → S3",
+    "tips": "Manfaatkan invisibility dari passive, ambush dari dekat."
+  },
+  "valentina": {
+    "combo": "S3 → S1 → S2 → S3",
+    "tips": "Copy ult musuh yang paling berguna sebelum team fight."
+  },
+  "edith": {
+    "combo": "S2 (Phylax) → S1 (Phylax) → S3 → S2 (Edith) → S1 (Edith)",
+    "tips": "Switch form di saat tepat; Phylax untuk tank, Edith untuk burst."
+  },
+  "floryn": {
+    "combo": "S2 → S1 → S3",
+    "tips": "Gunakan S3 global heal saat tim dalam posisi terdesak."
+  },
+  "yin": {
+    "combo": "S3 → S2 → S1 → AA",
+    "tips": "Tarik musuh ke domain dengan S3, burst dengan skill combo."
+  },
+  "melissa": {
+    "combo": "S1 → S2 → S3 → AA",
+    "tips": "Dash dengan S1 untuk reposition, S2 untuk slow, S3 untuk shield."
+  },
+  "xavier": {
+    "combo": "S2 → S1 → S3",
+    "tips": "Lempar S2 untuk immobilize, S1 untuk burst, S3 untuk snipe."
+  },
+  "julian": {
+    "combo": "S1 → S3 → S2 → AA",
+    "tips": "Gunakan kombinasi skill yang tepat berdasarkan situasi."
+  },
+  "fredrinn": {
+    "combo": "S2 → S1 → S3 → S2 → S1 → Ult",
+    "tips": "Build taunt stacks dulu, lalu ult untuk massive damage."
+  },
+  "joy": {
+    "combo": "S1 → S2 → S2 → S2 → S2 → S3 → AA",
+    "tips": "Dash beruntun untuk charge S3, lalu ult untuk burst."
+  },
+  "novaria": {
+    "combo": "S1 → S2 → S3",
+    "tips": "Gunakan S2 untuk teleport, S3 untuk damage area besar."
+  },
+  "arlott": {
+    "combo": "S3 → S2 → S1 → S2",
+    "tips": "Dash ke target dengan S3, manfaatkan passive untuk extra damage."
+  },
+  "ixia": {
+    "combo": "S3 → AA → S2 → S1",
+    "tips": "Aktifkan S3 untuk area control, spam basic attack dan S2."
+  },
+  "nolan": {
+    "combo": "S2 → S1 → AA",
+    "tips": "Dash untuk gap close, S1 untuk burst, finish dengan basic attack."
+  },
+  "cici": {
+    "combo": "S1 → S2 → S3 → AA",
+    "tips": "Gunakan S1 untuk poke, S2 untuk chase, S3 untuk execute."
+  },
+  "chip": {
+    "combo": "S3 → S1 → S2",
+    "tips": "Lempar S3 untuk area damage, S1 dan S2 untuk combo burst."
+  },
+  "zhuxin": {
+    "combo": "S1 → S2 → S3",
+    "tips": "Buka dengan S1 untuk slow, S2 untuk burst, S3 untuk execute."
+  },
+  "suyou": {
+    "combo": "S1 → S2 → S3 → AA",
+    "tips": "Dash dengan S1, CC dengan S2, burst dengan S3."
+  },
+  "lukas": {
+    "combo": "S2 → S1 → S3 → AA",
+    "tips": "Dash ke target dengan S2, burst dengan S1 dan S3."
+  },
+  "kalea": {
+    "combo": "S1 → S2 → S3",
+    "tips": "Spam S1 untuk poke, masuk dengan S2, burst dengan S3."
+  },
+  "zetian": {
+    "combo": "S2 → S1 → S3 → AA",
+    "tips": "Gunakan S2 untuk crowd control, burst dengan S1 dan S3."
+  },
+  "obsidia": {
+    "combo": "S1 → S2 → S3 → AA",
+    "tips": "Buka dengan S1 untuk damage, CC dengan S2, execute dengan S3."
+  },
+  "sora": {
+    "combo": "S2 → S1 → S3 → AA",
+    "tips": "Dash ke target dengan S2, burst dengan S1, finish dengan S3."
+  },
+  "marcel": {
+    "combo": "S2 → S1 → S3",
+    "tips": "Dash untuk gap close, burst dengan S1 dan S3 combo."
+  },
+  "hirara": {
+    "combo": "S2 → S1 → S3 → AA",
+    "tips": "Dash dengan S2 untuk reposition, spam S1 dan basic attack."
+  }
+}

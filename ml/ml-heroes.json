@@ -1,1 +1,800 @@
-[{"s":"miya","n":"Miya","i":"heroes/miya.png","r":"Marksman"},{"s":"balmond","n":"Balmond","i":"heroes/balmond.png","r":"Fighter"},{"s":"saber","n":"Saber","i":"heroes/saber.png","r":"Assassin"},{"s":"alice","n":"Alice","i":"heroes/alice.png","r":"Tank"},{"s":"nana","n":"Nana","i":"heroes/nana.png","r":"Mage"},{"s":"tigreal","n":"Tigreal","i":"heroes/tigreal.png","r":"Tank"},{"s":"alucard","n":"Alucard","i":"heroes/alucard.png","r":"Fighter"},{"s":"karina","n":"Karina","i":"heroes/karina.png","r":"Assassin"},{"s":"akai","n":"Akai","i":"heroes/akai.png","r":"Tank"},{"s":"franco","n":"Franco","i":"heroes/franco.png","r":"Tank"},{"s":"bane","n":"Bane","i":"heroes/bane.png","r":"Fighter"},{"s":"bruno","n":"Bruno","i":"heroes/bruno.png","r":"Marksman"},{"s":"clint","n":"Clint","i":"heroes/clint.png","r":"Marksman"},{"s":"rafaela","n":"Rafaela","i":"heroes/rafaela.png","r":"Support"},{"s":"eudora","n":"Eudora","i":"heroes/eudora.png","r":"Mage"},{"s":"zilong","n":"Zilong","i":"heroes/zilong.png","r":"Fighter"},{"s":"fanny","n":"Fanny","i":"heroes/fanny.png","r":"Assassin"},{"s":"layla","n":"Layla","i":"heroes/layla.png","r":"Marksman"},{"s":"minotaur","n":"Minotaur","i":"heroes/minotaur.png","r":"Tank"},{"s":"lolita","n":"Lolita","i":"heroes/lolita.png","r":"Support"},{"s":"hayabusa","n":"Hayabusa","i":"heroes/hayabusa.png","r":"Assassin"},{"s":"freya","n":"Freya","i":"heroes/freya.png","r":"Fighter"},{"s":"gord","n":"Gord","i":"heroes/gord.png","r":"Mage"},{"s":"natalia","n":"Natalia","i":"heroes/natalia.png","r":"Assassin"},{"s":"kagura","n":"Kagura","i":"heroes/kagura.png","r":"Mage"},{"s":"chou","n":"Chou","i":"heroes/chou.png","r":"Fighter"},{"s":"sun","n":"Sun","i":"heroes/sun.png","r":"Fighter"},{"s":"alpha","n":"Alpha","i":"heroes/alpha.png","r":"Fighter"},{"s":"ruby","n":"Ruby","i":"heroes/ruby.png","r":"Fighter"},{"s":"yi-sun-shin","n":"Yi Sun-shin","i":"heroes/yi-sun-shin.png","r":"Assassin"},{"s":"moskov","n":"Moskov","i":"heroes/moskov.png","r":"Marksman"},{"s":"johnson","n":"Johnson","i":"heroes/johnson.png","r":"Tank"},{"s":"cyclops","n":"Cyclops","i":"heroes/cyclops.png","r":"Mage"},{"s":"estes","n":"Estes","i":"heroes/estes.png","r":"Support"},{"s":"hilda","n":"Hilda","i":"heroes/hilda.png","r":"Fighter"},{"s":"aurora","n":"Aurora","i":"heroes/aurora.png","r":"Mage"},{"s":"lapu-lapu","n":"Lapu-Lapu","i":"heroes/lapu-lapu.png","r":"Fighter"},{"s":"vexana","n":"Vexana","i":"heroes/vexana.png","r":"Mage"},{"s":"roger","n":"Roger","i":"heroes/roger.png","r":"Fighter"},{"s":"karrie","n":"Karrie","i":"heroes/karrie.png","r":"Marksman"},{"s":"gatotkaca","n":"Gatotkaca","i":"heroes/gatotkaca.png","r":"Tank"},{"s":"harley","n":"Harley","i":"heroes/harley.png","r":"Assassin"},{"s":"irithel","n":"Irithel","i":"heroes/irithel.png","r":"Marksman"},{"s":"grock","n":"Grock","i":"heroes/grock.png","r":"Tank"},{"s":"argus","n":"Argus","i":"heroes/argus.png","r":"Fighter"},{"s":"odette","n":"Odette","i":"heroes/odette.png","r":"Mage"},{"s":"lancelot","n":"Lancelot","i":"heroes/lancelot.png","r":"Assassin"},{"s":"diggie","n":"Diggie","i":"heroes/diggie.png","r":"Support"},{"s":"hylos","n":"Hylos","i":"heroes/hylos.png","r":"Tank"},{"s":"zhask","n":"Zhask","i":"heroes/zhask.png","r":"Mage"},{"s":"helcurt","n":"Helcurt","i":"heroes/helcurt.png","r":"Assassin"},{"s":"pharsa","n":"Pharsa","i":"heroes/pharsa.png","r":"Mage"},{"s":"lesley","n":"Lesley","i":"heroes/lesley.png","r":"Marksman"},{"s":"jawhead","n":"Jawhead","i":"heroes/jawhead.png","r":"Fighter"},{"s":"angela","n":"Angela","i":"heroes/angela.png","r":"Support"},{"s":"gusion","n":"Gusion","i":"heroes/gusion.png","r":"Assassin"},{"s":"valir","n":"Valir","i":"heroes/valir.png","r":"Mage"},{"s":"martis","n":"Martis","i":"heroes/martis.png","r":"Fighter"},{"s":"uranus","n":"Uranus","i":"heroes/uranus.png","r":"Tank"},{"s":"hanabi","n":"Hanabi","i":"heroes/hanabi.png","r":"Marksman"},{"s":"chang'e","n":"Chang'e","i":"heroes/chang'e.png","r":"Mage"},{"s":"kaja","n":"Kaja","i":"heroes/kaja.png","r":"Support"},{"s":"selena","n":"Selena","i":"heroes/selena.png","r":"Assassin"},{"s":"aldous","n":"Aldous","i":"heroes/aldous.png","r":"Fighter"},{"s":"claude","n":"Claude","i":"heroes/claude.png","r":"Marksman"},{"s":"vale","n":"Vale","i":"heroes/vale.png","r":"Mage"},{"s":"leomord","n":"Leomord","i":"heroes/leomord.png","r":"Fighter"},{"s":"lunox","n":"Lunox","i":"heroes/lunox.png","r":"Mage"},{"s":"hanzo","n":"Hanzo","i":"heroes/hanzo.png","r":"Assassin"},{"s":"belerick","n":"Belerick","i":"heroes/belerick.png","r":"Tank"},{"s":"kimmy","n":"Kimmy","i":"heroes/kimmy.png","r":"Marksman"},{"s":"thamuz","n":"Thamuz","i":"heroes/thamuz.png","r":"Fighter"},{"s":"harith","n":"Harith","i":"heroes/harith.png","r":"Mage"},{"s":"minsitthar","n":"Minsitthar","i":"heroes/minsitthar.png","r":"Fighter"},{"s":"kadita","n":"Kadita","i":"heroes/kadita.png","r":"Mage"},{"s":"faramis","n":"Faramis","i":"heroes/faramis.png","r":"Support"},{"s":"badang","n":"Badang","i":"heroes/badang.png","r":"Fighter"},{"s":"khufra","n":"Khufra","i":"heroes/khufra.png","r":"Tank"},{"s":"granger","n":"Granger","i":"heroes/granger.png","r":"Marksman"},{"s":"guinevere","n":"Guinevere","i":"heroes/guinevere.png","r":"Fighter"},{"s":"esmeralda","n":"Esmeralda","i":"heroes/esmeralda.png","r":"Tank"},{"s":"terizla","n":"Terizla","i":"heroes/terizla.png","r":"Fighter"},{"s":"x-borg","n":"X.Borg","i":"heroes/x-borg.png","r":"Fighter"},{"s":"ling","n":"Ling","i":"heroes/ling.png","r":"Assassin"},{"s":"dyrroth","n":"Dyrroth","i":"heroes/dyrroth.png","r":"Fighter"},{"s":"lylia","n":"Lylia","i":"heroes/lylia.png","r":"Mage"},{"s":"baxia","n":"Baxia","i":"heroes/baxia.png","r":"Tank"},{"s":"masha","n":"Masha","i":"heroes/masha.png","r":"Fighter"},{"s":"wanwan","n":"Wanwan","i":"heroes/wanwan.png","r":"Marksman"},{"s":"silvanna","n":"Silvanna","i":"heroes/silvanna.png","r":"Fighter"},{"s":"cecilion","n":"Cecilion","i":"heroes/cecilion.png","r":"Mage"},{"s":"carmilla","n":"Carmilla","i":"heroes/carmilla.png","r":"Support"},{"s":"atlas","n":"Atlas","i":"heroes/atlas.png","r":"Tank"},{"s":"popol-and-kupa","n":"Popol and Kupa","i":"heroes/popol-and-kupa.png","r":"Marksman"},{"s":"yu-zhong","n":"Yu Zhong","i":"heroes/yu-zhong.png","r":"Fighter"},{"s":"luo-yi","n":"Luo Yi","i":"heroes/luo-yi.png","r":"Mage"},{"s":"benedetta","n":"Benedetta","i":"heroes/benedetta.png","r":"Assassin"},{"s":"khaleed","n":"Khaleed","i":"heroes/khaleed.png","r":"Fighter"},{"s":"barats","n":"Barats","i":"heroes/barats.png","r":"Tank"},{"s":"brody","n":"Brody","i":"heroes/brody.png","r":"Marksman"},{"s":"yve","n":"Yve","i":"heroes/yve.png","r":"Mage"},{"s":"mathilda","n":"Mathilda","i":"heroes/mathilda.png","r":"Support"},{"s":"paquito","n":"Paquito","i":"heroes/paquito.png","r":"Fighter"},{"s":"gloo","n":"Gloo","i":"heroes/gloo.png","r":"Tank"},{"s":"beatrix","n":"Beatrix","i":"heroes/beatrix.png","r":"Marksman"},{"s":"phoveus","n":"Phoveus","i":"heroes/phoveus.png","r":"Fighter"},{"s":"natan","n":"Natan","i":"heroes/natan.png","r":"Marksman"},{"s":"aulus","n":"Aulus","i":"heroes/aulus.png","r":"Fighter"},{"s":"aamon","n":"Aamon","i":"heroes/aamon.png","r":"Assassin"},{"s":"valentina","n":"Valentina","i":"heroes/valentina.png","r":"Mage"},{"s":"edith","n":"Edith","i":"heroes/edith.png","r":"Tank"},{"s":"floryn","n":"Floryn","i":"heroes/floryn.png","r":"Support"},{"s":"yin","n":"Yin","i":"heroes/yin.png","r":"Fighter"},{"s":"melissa","n":"Melissa","i":"heroes/melissa.png","r":"Marksman"},{"s":"xavier","n":"Xavier","i":"heroes/xavier.png","r":"Mage"},{"s":"julian","n":"Julian","i":"heroes/julian.png","r":"Assassin"},{"s":"fredrinn","n":"Fredrinn","i":"heroes/fredrinn.png","r":"Fighter"},{"s":"joy","n":"Joy","i":"heroes/joy.png","r":"Assassin"},{"s":"novaria","n":"Novaria","i":"heroes/novaria.png","r":"Mage"},{"s":"arlott","n":"Arlott","i":"heroes/arlott.png","r":"Fighter"},{"s":"ixia","n":"Ixia","i":"heroes/ixia.png","r":"Marksman"},{"s":"nolan","n":"Nolan","i":"heroes/nolan.png","r":"Assassin"},{"s":"cici","n":"Cici","i":"heroes/cici.png","r":"Fighter"},{"s":"chip","n":"Chip","i":"heroes/chip.png","r":"Support"},{"s":"zhuxin","n":"Zhuxin","i":"heroes/zhuxin.png","r":"Mage"},{"s":"suyou","n":"Suyou","i":"heroes/suyou.png","r":"Assassin"},{"s":"lukas","n":"Lukas","i":"heroes/lukas.png","r":"Fighter"},{"s":"kalea","n":"Kalea","i":"heroes/kalea.png","r":"Support"},{"s":"zetian","n":"Zetian","i":"heroes/zetian.png","r":"Mage"},{"s":"obsidia","n":"Obsidia","i":"heroes/obsidia.png","r":"Marksman"},{"s":"sora","n":"Sora","i":"heroes/sora.png","r":"Fighter"},{"s":"marcel","n":"Marcel","i":"heroes/marcel.png","r":"Support"},{"s":"hirara","n":"Hirara","i":"heroes/hirara.png","r":"Assassin"}]
+[
+  {
+    "s": "miya",
+    "n": "Miya",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/miya.png",
+    "r": "Marksman"
+  },
+  {
+    "s": "balmond",
+    "n": "Balmond",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/balmond.png",
+    "r": "Fighter"
+  },
+  {
+    "s": "saber",
+    "n": "Saber",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/saber.png",
+    "r": "Assassin"
+  },
+  {
+    "s": "alice",
+    "n": "Alice",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/alice.png",
+    "r": "Tank"
+  },
+  {
+    "s": "nana",
+    "n": "Nana",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/nana.png",
+    "r": "Mage"
+  },
+  {
+    "s": "tigreal",
+    "n": "Tigreal",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/tigreal.png",
+    "r": "Tank"
+  },
+  {
+    "s": "alucard",
+    "n": "Alucard",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/alucard.png",
+    "r": "Fighter"
+  },
+  {
+    "s": "karina",
+    "n": "Karina",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/karina.png",
+    "r": "Assassin"
+  },
+  {
+    "s": "akai",
+    "n": "Akai",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/akai.png",
+    "r": "Tank"
+  },
+  {
+    "s": "franco",
+    "n": "Franco",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/franco.png",
+    "r": "Tank"
+  },
+  {
+    "s": "bane",
+    "n": "Bane",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/bane.png",
+    "r": "Fighter"
+  },
+  {
+    "s": "bruno",
+    "n": "Bruno",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/bruno.png",
+    "r": "Marksman"
+  },
+  {
+    "s": "clint",
+    "n": "Clint",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/clint.png",
+    "r": "Marksman"
+  },
+  {
+    "s": "rafaela",
+    "n": "Rafaela",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/rafaela.png",
+    "r": "Support"
+  },
+  {
+    "s": "eudora",
+    "n": "Eudora",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/eudora.png",
+    "r": "Mage"
+  },
+  {
+    "s": "zilong",
+    "n": "Zilong",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/zilong.png",
+    "r": "Fighter"
+  },
+  {
+    "s": "fanny",
+    "n": "Fanny",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/fanny.png",
+    "r": "Assassin"
+  },
+  {
+    "s": "layla",
+    "n": "Layla",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/layla.png",
+    "r": "Marksman"
+  },
+  {
+    "s": "minotaur",
+    "n": "Minotaur",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/minotaur.png",
+    "r": "Tank"
+  },
+  {
+    "s": "lolita",
+    "n": "Lolita",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/lolita.png",
+    "r": "Support"
+  },
+  {
+    "s": "hayabusa",
+    "n": "Hayabusa",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/hayabusa.png",
+    "r": "Assassin"
+  },
+  {
+    "s": "freya",
+    "n": "Freya",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/freya.png",
+    "r": "Fighter"
+  },
+  {
+    "s": "gord",
+    "n": "Gord",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/gord.png",
+    "r": "Mage"
+  },
+  {
+    "s": "natalia",
+    "n": "Natalia",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/natalia.png",
+    "r": "Assassin"
+  },
+  {
+    "s": "kagura",
+    "n": "Kagura",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/kagura.png",
+    "r": "Mage"
+  },
+  {
+    "s": "chou",
+    "n": "Chou",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/chou.png",
+    "r": "Fighter"
+  },
+  {
+    "s": "sun",
+    "n": "Sun",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/sun.png",
+    "r": "Fighter"
+  },
+  {
+    "s": "alpha",
+    "n": "Alpha",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/alpha.png",
+    "r": "Fighter"
+  },
+  {
+    "s": "ruby",
+    "n": "Ruby",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/ruby.png",
+    "r": "Fighter"
+  },
+  {
+    "s": "yi-sun-shin",
+    "n": "Yi Sun-shin",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/yi-sun-shin.png",
+    "r": "Assassin"
+  },
+  {
+    "s": "moskov",
+    "n": "Moskov",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/moskov.png",
+    "r": "Marksman"
+  },
+  {
+    "s": "johnson",
+    "n": "Johnson",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/johnson.png",
+    "r": "Tank"
+  },
+  {
+    "s": "cyclops",
+    "n": "Cyclops",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/cyclops.png",
+    "r": "Mage"
+  },
+  {
+    "s": "estes",
+    "n": "Estes",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/estes.png",
+    "r": "Support"
+  },
+  {
+    "s": "hilda",
+    "n": "Hilda",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/hilda.png",
+    "r": "Fighter"
+  },
+  {
+    "s": "aurora",
+    "n": "Aurora",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/aurora.png",
+    "r": "Mage"
+  },
+  {
+    "s": "lapu-lapu",
+    "n": "Lapu-Lapu",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/lapu-lapu.png",
+    "r": "Fighter"
+  },
+  {
+    "s": "vexana",
+    "n": "Vexana",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/vexana.png",
+    "r": "Mage"
+  },
+  {
+    "s": "roger",
+    "n": "Roger",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/roger.png",
+    "r": "Fighter"
+  },
+  {
+    "s": "karrie",
+    "n": "Karrie",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/karrie.png",
+    "r": "Marksman"
+  },
+  {
+    "s": "gatotkaca",
+    "n": "Gatotkaca",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/gatotkaca.png",
+    "r": "Tank"
+  },
+  {
+    "s": "harley",
+    "n": "Harley",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/harley.png",
+    "r": "Assassin"
+  },
+  {
+    "s": "irithel",
+    "n": "Irithel",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/irithel.png",
+    "r": "Marksman"
+  },
+  {
+    "s": "grock",
+    "n": "Grock",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/grock.png",
+    "r": "Tank"
+  },
+  {
+    "s": "argus",
+    "n": "Argus",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/argus.png",
+    "r": "Fighter"
+  },
+  {
+    "s": "odette",
+    "n": "Odette",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/odette.png",
+    "r": "Mage"
+  },
+  {
+    "s": "lancelot",
+    "n": "Lancelot",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/lancelot.png",
+    "r": "Assassin"
+  },
+  {
+    "s": "diggie",
+    "n": "Diggie",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/diggie.png",
+    "r": "Support"
+  },
+  {
+    "s": "hylos",
+    "n": "Hylos",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/hylos.png",
+    "r": "Tank"
+  },
+  {
+    "s": "zhask",
+    "n": "Zhask",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/zhask.png",
+    "r": "Mage"
+  },
+  {
+    "s": "helcurt",
+    "n": "Helcurt",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/helcurt.png",
+    "r": "Assassin"
+  },
+  {
+    "s": "pharsa",
+    "n": "Pharsa",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/pharsa.png",
+    "r": "Mage"
+  },
+  {
+    "s": "lesley",
+    "n": "Lesley",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/lesley.png",
+    "r": "Marksman"
+  },
+  {
+    "s": "jawhead",
+    "n": "Jawhead",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/jawhead.png",
+    "r": "Fighter"
+  },
+  {
+    "s": "angela",
+    "n": "Angela",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/angela.png",
+    "r": "Support"
+  },
+  {
+    "s": "gusion",
+    "n": "Gusion",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/gusion.png",
+    "r": "Assassin"
+  },
+  {
+    "s": "valir",
+    "n": "Valir",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/valir.png",
+    "r": "Mage"
+  },
+  {
+    "s": "martis",
+    "n": "Martis",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/martis.png",
+    "r": "Fighter"
+  },
+  {
+    "s": "uranus",
+    "n": "Uranus",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/uranus.png",
+    "r": "Tank"
+  },
+  {
+    "s": "hanabi",
+    "n": "Hanabi",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/hanabi.png",
+    "r": "Marksman"
+  },
+  {
+    "s": "chang'e",
+    "n": "Chang'e",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/chang'e.png",
+    "r": "Mage"
+  },
+  {
+    "s": "kaja",
+    "n": "Kaja",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/kaja.png",
+    "r": "Support"
+  },
+  {
+    "s": "selena",
+    "n": "Selena",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/selena.png",
+    "r": "Assassin"
+  },
+  {
+    "s": "aldous",
+    "n": "Aldous",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/aldous.png",
+    "r": "Fighter"
+  },
+  {
+    "s": "claude",
+    "n": "Claude",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/claude.png",
+    "r": "Marksman"
+  },
+  {
+    "s": "vale",
+    "n": "Vale",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/vale.png",
+    "r": "Mage"
+  },
+  {
+    "s": "leomord",
+    "n": "Leomord",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/leomord.png",
+    "r": "Fighter"
+  },
+  {
+    "s": "lunox",
+    "n": "Lunox",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/lunox.png",
+    "r": "Mage"
+  },
+  {
+    "s": "hanzo",
+    "n": "Hanzo",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/hanzo.png",
+    "r": "Assassin"
+  },
+  {
+    "s": "belerick",
+    "n": "Belerick",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/belerick.png",
+    "r": "Tank"
+  },
+  {
+    "s": "kimmy",
+    "n": "Kimmy",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/kimmy.png",
+    "r": "Marksman"
+  },
+  {
+    "s": "thamuz",
+    "n": "Thamuz",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/thamuz.png",
+    "r": "Fighter"
+  },
+  {
+    "s": "harith",
+    "n": "Harith",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/harith.png",
+    "r": "Mage"
+  },
+  {
+    "s": "minsitthar",
+    "n": "Minsitthar",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/minsitthar.png",
+    "r": "Fighter"
+  },
+  {
+    "s": "kadita",
+    "n": "Kadita",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/kadita.png",
+    "r": "Mage"
+  },
+  {
+    "s": "faramis",
+    "n": "Faramis",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/faramis.png",
+    "r": "Support"
+  },
+  {
+    "s": "badang",
+    "n": "Badang",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/badang.png",
+    "r": "Fighter"
+  },
+  {
+    "s": "khufra",
+    "n": "Khufra",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/khufra.png",
+    "r": "Tank"
+  },
+  {
+    "s": "granger",
+    "n": "Granger",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/granger.png",
+    "r": "Marksman"
+  },
+  {
+    "s": "guinevere",
+    "n": "Guinevere",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/guinevere.png",
+    "r": "Fighter"
+  },
+  {
+    "s": "esmeralda",
+    "n": "Esmeralda",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/esmeralda.png",
+    "r": "Tank"
+  },
+  {
+    "s": "terizla",
+    "n": "Terizla",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/terizla.png",
+    "r": "Fighter"
+  },
+  {
+    "s": "x-borg",
+    "n": "X.Borg",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/x-borg.png",
+    "r": "Fighter"
+  },
+  {
+    "s": "ling",
+    "n": "Ling",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/ling.png",
+    "r": "Assassin"
+  },
+  {
+    "s": "dyrroth",
+    "n": "Dyrroth",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/dyrroth.png",
+    "r": "Fighter"
+  },
+  {
+    "s": "lylia",
+    "n": "Lylia",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/lylia.png",
+    "r": "Mage"
+  },
+  {
+    "s": "baxia",
+    "n": "Baxia",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/baxia.png",
+    "r": "Tank"
+  },
+  {
+    "s": "masha",
+    "n": "Masha",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/masha.png",
+    "r": "Fighter"
+  },
+  {
+    "s": "wanwan",
+    "n": "Wanwan",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/wanwan.png",
+    "r": "Marksman"
+  },
+  {
+    "s": "silvanna",
+    "n": "Silvanna",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/silvanna.png",
+    "r": "Fighter"
+  },
+  {
+    "s": "cecilion",
+    "n": "Cecilion",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/cecilion.png",
+    "r": "Mage"
+  },
+  {
+    "s": "carmilla",
+    "n": "Carmilla",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/carmilla.png",
+    "r": "Support"
+  },
+  {
+    "s": "atlas",
+    "n": "Atlas",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/atlas.png",
+    "r": "Tank"
+  },
+  {
+    "s": "popol-and-kupa",
+    "n": "Popol and Kupa",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/popol-and-kupa.png",
+    "r": "Marksman"
+  },
+  {
+    "s": "yu-zhong",
+    "n": "Yu Zhong",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/yu-zhong.png",
+    "r": "Fighter"
+  },
+  {
+    "s": "luo-yi",
+    "n": "Luo Yi",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/luo-yi.png",
+    "r": "Mage"
+  },
+  {
+    "s": "benedetta",
+    "n": "Benedetta",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/benedetta.png",
+    "r": "Assassin"
+  },
+  {
+    "s": "khaleed",
+    "n": "Khaleed",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/khaleed.png",
+    "r": "Fighter"
+  },
+  {
+    "s": "barats",
+    "n": "Barats",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/barats.png",
+    "r": "Tank"
+  },
+  {
+    "s": "brody",
+    "n": "Brody",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/brody.png",
+    "r": "Marksman"
+  },
+  {
+    "s": "yve",
+    "n": "Yve",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/yve.png",
+    "r": "Mage"
+  },
+  {
+    "s": "mathilda",
+    "n": "Mathilda",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/mathilda.png",
+    "r": "Support"
+  },
+  {
+    "s": "paquito",
+    "n": "Paquito",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/paquito.png",
+    "r": "Fighter"
+  },
+  {
+    "s": "gloo",
+    "n": "Gloo",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/gloo.png",
+    "r": "Tank"
+  },
+  {
+    "s": "beatrix",
+    "n": "Beatrix",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/beatrix.png",
+    "r": "Marksman"
+  },
+  {
+    "s": "phoveus",
+    "n": "Phoveus",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/phoveus.png",
+    "r": "Fighter"
+  },
+  {
+    "s": "natan",
+    "n": "Natan",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/natan.png",
+    "r": "Marksman"
+  },
+  {
+    "s": "aulus",
+    "n": "Aulus",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/aulus.png",
+    "r": "Fighter"
+  },
+  {
+    "s": "aamon",
+    "n": "Aamon",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/aamon.png",
+    "r": "Assassin"
+  },
+  {
+    "s": "valentina",
+    "n": "Valentina",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/valentina.png",
+    "r": "Mage"
+  },
+  {
+    "s": "edith",
+    "n": "Edith",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/edith.png",
+    "r": "Tank"
+  },
+  {
+    "s": "floryn",
+    "n": "Floryn",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/floryn.png",
+    "r": "Support"
+  },
+  {
+    "s": "yin",
+    "n": "Yin",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/yin.png",
+    "r": "Fighter"
+  },
+  {
+    "s": "melissa",
+    "n": "Melissa",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/melissa.png",
+    "r": "Marksman"
+  },
+  {
+    "s": "xavier",
+    "n": "Xavier",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/xavier.png",
+    "r": "Mage"
+  },
+  {
+    "s": "julian",
+    "n": "Julian",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/julian.png",
+    "r": "Assassin"
+  },
+  {
+    "s": "fredrinn",
+    "n": "Fredrinn",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/fredrinn.png",
+    "r": "Fighter"
+  },
+  {
+    "s": "joy",
+    "n": "Joy",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/joy.png",
+    "r": "Assassin"
+  },
+  {
+    "s": "novaria",
+    "n": "Novaria",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/novaria.png",
+    "r": "Mage"
+  },
+  {
+    "s": "arlott",
+    "n": "Arlott",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/arlott.png",
+    "r": "Fighter"
+  },
+  {
+    "s": "ixia",
+    "n": "Ixia",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/ixia.png",
+    "r": "Marksman"
+  },
+  {
+    "s": "nolan",
+    "n": "Nolan",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/nolan.png",
+    "r": "Assassin"
+  },
+  {
+    "s": "cici",
+    "n": "Cici",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/cici.png",
+    "r": "Fighter"
+  },
+  {
+    "s": "chip",
+    "n": "Chip",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/chip.png",
+    "r": "Support"
+  },
+  {
+    "s": "zhuxin",
+    "n": "Zhuxin",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/zhuxin.png",
+    "r": "Mage"
+  },
+  {
+    "s": "suyou",
+    "n": "Suyou",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/suyou.png",
+    "r": "Assassin"
+  },
+  {
+    "s": "lukas",
+    "n": "Lukas",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/lukas.png",
+    "r": "Fighter"
+  },
+  {
+    "s": "kalea",
+    "n": "Kalea",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/kalea.png",
+    "r": "Support"
+  },
+  {
+    "s": "zetian",
+    "n": "Zetian",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/zetian.png",
+    "r": "Mage"
+  },
+  {
+    "s": "obsidia",
+    "n": "Obsidia",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/obsidia.png",
+    "r": "Marksman"
+  },
+  {
+    "s": "sora",
+    "n": "Sora",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/sora.png",
+    "r": "Fighter"
+  },
+  {
+    "s": "marcel",
+    "n": "Marcel",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/marcel.png",
+    "r": "Support"
+  },
+  {
+    "s": "hirara",
+    "n": "Hirara",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/heroes/hirara.png",
+    "r": "Assassin"
+  }
+]

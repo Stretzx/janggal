@@ -1,1 +1,338 @@
-[{"s":"malefic-gun","n":"Malefic Gun","i":"items/Malefic_Gun.png","c":"ATTACK"},{"s":"great-dragon-spear","n":"Great Dragon Spear","i":"items/Great_Dragon_Spear.png","c":"ATTACK"},{"s":"sea-halberd","n":"Sea Halberd","i":"items/Sea_Halberd.png","c":"ATTACK"},{"s":"rose-gold-meteor","n":"Rose Gold Meteor","i":"items/Rose_Gold_Meteor.png","c":"ATTACK"},{"s":"hunter-strike","n":"Hunter Strike","i":"items/Hunter_Strike.png","c":"ATTACK"},{"s":"blade-of-despair","n":"Blade of Despair","i":"items/Blade_of_Despair.png","c":"ATTACK"},{"s":"blade-of-the-heptaseas","n":"Blade of the Heptaseas","i":"items/Blade_of_the_Heptaseas.png","c":"ATTACK"},{"s":"windtalker","n":"Windtalker","i":"items/Windtalker.png","c":"ATTACK"},{"s":"endless-battle","n":"Endless Battle","i":"items/Endless_Battle.png","c":"ATTACK"},{"s":"berserkers-fury","n":"Berserker's Fury","i":"items/Berserker's_Fury.png","c":"ATTACK"},{"s":"haas-claws","n":"Haas' Claws","i":"items/Haas'_Claws.png","c":"ATTACK"},{"s":"malefic-roar","n":"Malefic Roar","i":"items/Malefic_Roar.png","c":"ATTACK"},{"s":"winter-crown","n":"Winter Crown","i":"items/Winter_Crown.png","c":"ATTACK"},{"s":"fleeting-time","n":"Fleeting Time","i":"items/Fleeting_Time.png","c":"ATTACK"},{"s":"sky-piercer","n":"Sky Piercer","i":"items/Sky_Piercer.png","c":"ATTACK"},{"s":"war-axe","n":"War Axe","i":"items/War_Axe.png","c":"ATTACK"},{"s":"wind-of-nature","n":"Wind of Nature","i":"items/Wind_of_Nature.png","c":"ATTACK"},{"s":"golden-staff","n":"Golden Staff","i":"items/Golden_Staff.png","c":"ATTACK"},{"s":"corrosion-scythe","n":"Corrosion Scythe","i":"items/Corrosion_Scythe.png","c":"ATTACK"},{"s":"demon-hunter-sword","n":"Demon Hunter Sword","i":"items/Demon_Hunter_Sword.png","c":"ATTACK"},{"s":"swift-crossbow","n":"Swift Crossbow","i":"items/Swift_Crossbow.png","c":"ATTACK"},{"s":"genius-wand","n":"Genius Wand","i":"items/Genius_Wand.png","c":"MAGIC"},{"s":"lightning-truncheon","n":"Lightning Truncheon","i":"items/Lightning_Truncheon.png","c":"MAGIC"},{"s":"blood-wings","n":"Blood Wings","i":"items/Blood_Wings.png","c":"MAGIC"},{"s":"starlium-scythe","n":"Starlium Scythe","i":"items/Starlium_Scythe.png","c":"MAGIC"},{"s":"glowing-wand","n":"Glowing Wand","i":"items/Glowing_Wand.png","c":"MAGIC"},{"s":"ice-queen-wand","n":"Ice Queen Wand","i":"items/Ice_Queen_Wand.png","c":"MAGIC"},{"s":"concentrated-energy","n":"Concentrated Energy","i":"items/Concentrated_Energy.png","c":"MAGIC"},{"s":"holy-crystal","n":"Holy Crystal","i":"items/Holy_Crystal.png","c":"MAGIC"},{"s":"divine-glaive","n":"Divine Glaive","i":"items/Divine_Glaive.png","c":"MAGIC"},{"s":"clock-of-destiny","n":"Clock of Destiny","i":"items/Clock_of_Destiny.png","c":"MAGIC"},{"s":"feather-of-heaven","n":"Feather of Heaven","i":"items/Feather_of_Heaven.png","c":"MAGIC"},{"s":"enchanted-talisman","n":"Enchanted Talisman","i":"items/Enchanted_Talisman.png","c":"MAGIC"},{"s":"radiant-armor","n":"Radiant Armor","i":"items/Radiant_Armor.png","c":"DEFENSE"},{"s":"chastise-pauldron","n":"Chastise Pauldron","i":"items/Chastise_Pauldron.png","c":"DEFENSE"},{"s":"brute-force-breastplate","n":"Brute Force Breastplate","i":"items/Brute_Force_Breastplate.png","c":"DEFENSE"},{"s":"immortality","n":"Immortality","i":"items/Immortality.png","c":"DEFENSE"},{"s":"dominance-ice","n":"Dominance Ice","i":"items/Dominance_Ice.png","c":"DEFENSE"},{"s":"athenas-shield","n":"Athena's Shield","i":"items/Athena's_Shield.png","c":"DEFENSE"},{"s":"oracle","n":"Oracle","i":"items/Oracle.png","c":"DEFENSE"},{"s":"antique-cuirass","n":"Antique Cuirass","i":"items/Antique_Cuirass.png","c":"DEFENSE"},{"s":"guardian-helmet","n":"Guardian Helmet","i":"items/Guardian_Helmet.png","c":"DEFENSE"},{"s":"cursed-helmet","n":"Cursed Helmet","i":"items/Cursed_Helmet.png","c":"DEFENSE"},{"s":"thunder-belt","n":"Thunder Belt","i":"items/Thunder_Belt.png","c":"DEFENSE"},{"s":"queens-wings","n":"Queen's Wings","i":"items/Queen's_Wings.png","c":"DEFENSE"},{"s":"blade-armor","n":"Blade Armor","i":"items/Blade_Armor.png","c":"DEFENSE"},{"s":"heros-ring","n":"Hero's Ring","i":"items/Hero's_Ring.png","c":"DEFENSE"},{"s":"arcane-boots","n":"Arcane Boots","i":"items/Arcane_Boots.png","c":"MOVEMENT"},{"s":"bloodlust-axe","n":"Bloodlust Axe","i":"items/Bloodlust_Axe.png","c":"ATTACK"},{"s":"courage-mask","n":"Courage Mask","i":"items/Courage_Mask.png","c":"SUPPORT"},{"s":"demon-shoes","n":"Demon Shoes","i":"items/Demon_Shoes.png","c":"MOVEMENT"},{"s":"magic-shoes","n":"Magic Shoes","i":"items/Magic_Shoes.png","c":"MOVEMENT"},{"s":"rapid-boots","n":"Rapid Boots","i":"items/Rapid_Boots.png","c":"MOVEMENT"},{"s":"scarlet-phantom","n":"Scarlet Phantom","i":"items/Scarlet_Phantom.png","c":"ATTACK"},{"s":"swift-boots","n":"Swift Boots","i":"items/Swift_Boots.png","c":"MOVEMENT"},{"s":"tough-boots","n":"Tough Boots","i":"items/Tough_Boots.png","c":"MOVEMENT"}]
+[
+  {
+    "s": "malefic-gun",
+    "n": "Malefic Gun",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Malefic_Gun.png",
+    "c": "ATTACK"
+  },
+  {
+    "s": "great-dragon-spear",
+    "n": "Great Dragon Spear",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Great_Dragon_Spear.png",
+    "c": "ATTACK"
+  },
+  {
+    "s": "sea-halberd",
+    "n": "Sea Halberd",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Sea_Halberd.png",
+    "c": "ATTACK"
+  },
+  {
+    "s": "rose-gold-meteor",
+    "n": "Rose Gold Meteor",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Rose_Gold_Meteor.png",
+    "c": "ATTACK"
+  },
+  {
+    "s": "hunter-strike",
+    "n": "Hunter Strike",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Hunter_Strike.png",
+    "c": "ATTACK"
+  },
+  {
+    "s": "blade-of-despair",
+    "n": "Blade of Despair",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Blade_of_Despair.png",
+    "c": "ATTACK"
+  },
+  {
+    "s": "blade-of-the-heptaseas",
+    "n": "Blade of the Heptaseas",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Blade_of_the_Heptaseas.png",
+    "c": "ATTACK"
+  },
+  {
+    "s": "windtalker",
+    "n": "Windtalker",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Windtalker.png",
+    "c": "ATTACK"
+  },
+  {
+    "s": "endless-battle",
+    "n": "Endless Battle",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Endless_Battle.png",
+    "c": "ATTACK"
+  },
+  {
+    "s": "berserkers-fury",
+    "n": "Berserker's Fury",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Berserker's_Fury.png",
+    "c": "ATTACK"
+  },
+  {
+    "s": "haas-claws",
+    "n": "Haas' Claws",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Haas'_Claws.png",
+    "c": "ATTACK"
+  },
+  {
+    "s": "malefic-roar",
+    "n": "Malefic Roar",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Malefic_Roar.png",
+    "c": "ATTACK"
+  },
+  {
+    "s": "winter-crown",
+    "n": "Winter Crown",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Winter_Crown.png",
+    "c": "ATTACK"
+  },
+  {
+    "s": "fleeting-time",
+    "n": "Fleeting Time",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Fleeting_Time.png",
+    "c": "ATTACK"
+  },
+  {
+    "s": "sky-piercer",
+    "n": "Sky Piercer",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Sky_Piercer.png",
+    "c": "ATTACK"
+  },
+  {
+    "s": "war-axe",
+    "n": "War Axe",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/War_Axe.png",
+    "c": "ATTACK"
+  },
+  {
+    "s": "wind-of-nature",
+    "n": "Wind of Nature",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Wind_of_Nature.png",
+    "c": "ATTACK"
+  },
+  {
+    "s": "golden-staff",
+    "n": "Golden Staff",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Golden_Staff.png",
+    "c": "ATTACK"
+  },
+  {
+    "s": "corrosion-scythe",
+    "n": "Corrosion Scythe",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Corrosion_Scythe.png",
+    "c": "ATTACK"
+  },
+  {
+    "s": "demon-hunter-sword",
+    "n": "Demon Hunter Sword",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Demon_Hunter_Sword.png",
+    "c": "ATTACK"
+  },
+  {
+    "s": "swift-crossbow",
+    "n": "Swift Crossbow",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Swift_Crossbow.png",
+    "c": "ATTACK"
+  },
+  {
+    "s": "genius-wand",
+    "n": "Genius Wand",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Genius_Wand.png",
+    "c": "MAGIC"
+  },
+  {
+    "s": "lightning-truncheon",
+    "n": "Lightning Truncheon",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Lightning_Truncheon.png",
+    "c": "MAGIC"
+  },
+  {
+    "s": "blood-wings",
+    "n": "Blood Wings",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Blood_Wings.png",
+    "c": "MAGIC"
+  },
+  {
+    "s": "starlium-scythe",
+    "n": "Starlium Scythe",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Starlium_Scythe.png",
+    "c": "MAGIC"
+  },
+  {
+    "s": "glowing-wand",
+    "n": "Glowing Wand",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Glowing_Wand.png",
+    "c": "MAGIC"
+  },
+  {
+    "s": "ice-queen-wand",
+    "n": "Ice Queen Wand",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Ice_Queen_Wand.png",
+    "c": "MAGIC"
+  },
+  {
+    "s": "concentrated-energy",
+    "n": "Concentrated Energy",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Concentrated_Energy.png",
+    "c": "MAGIC"
+  },
+  {
+    "s": "holy-crystal",
+    "n": "Holy Crystal",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Holy_Crystal.png",
+    "c": "MAGIC"
+  },
+  {
+    "s": "divine-glaive",
+    "n": "Divine Glaive",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Divine_Glaive.png",
+    "c": "MAGIC"
+  },
+  {
+    "s": "clock-of-destiny",
+    "n": "Clock of Destiny",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Clock_of_Destiny.png",
+    "c": "MAGIC"
+  },
+  {
+    "s": "feather-of-heaven",
+    "n": "Feather of Heaven",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Feather_of_Heaven.png",
+    "c": "MAGIC"
+  },
+  {
+    "s": "enchanted-talisman",
+    "n": "Enchanted Talisman",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Enchanted_Talisman.png",
+    "c": "MAGIC"
+  },
+  {
+    "s": "radiant-armor",
+    "n": "Radiant Armor",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Radiant_Armor.png",
+    "c": "DEFENSE"
+  },
+  {
+    "s": "chastise-pauldron",
+    "n": "Chastise Pauldron",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Chastise_Pauldron.png",
+    "c": "DEFENSE"
+  },
+  {
+    "s": "brute-force-breastplate",
+    "n": "Brute Force Breastplate",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Brute_Force_Breastplate.png",
+    "c": "DEFENSE"
+  },
+  {
+    "s": "immortality",
+    "n": "Immortality",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Immortality.png",
+    "c": "DEFENSE"
+  },
+  {
+    "s": "dominance-ice",
+    "n": "Dominance Ice",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Dominance_Ice.png",
+    "c": "DEFENSE"
+  },
+  {
+    "s": "athenas-shield",
+    "n": "Athena's Shield",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Athena's_Shield.png",
+    "c": "DEFENSE"
+  },
+  {
+    "s": "oracle",
+    "n": "Oracle",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Oracle.png",
+    "c": "DEFENSE"
+  },
+  {
+    "s": "antique-cuirass",
+    "n": "Antique Cuirass",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Antique_Cuirass.png",
+    "c": "DEFENSE"
+  },
+  {
+    "s": "guardian-helmet",
+    "n": "Guardian Helmet",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Guardian_Helmet.png",
+    "c": "DEFENSE"
+  },
+  {
+    "s": "cursed-helmet",
+    "n": "Cursed Helmet",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Cursed_Helmet.png",
+    "c": "DEFENSE"
+  },
+  {
+    "s": "thunder-belt",
+    "n": "Thunder Belt",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Thunder_Belt.png",
+    "c": "DEFENSE"
+  },
+  {
+    "s": "queens-wings",
+    "n": "Queen's Wings",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Queen's_Wings.png",
+    "c": "DEFENSE"
+  },
+  {
+    "s": "blade-armor",
+    "n": "Blade Armor",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Blade_Armor.png",
+    "c": "DEFENSE"
+  },
+  {
+    "s": "heros-ring",
+    "n": "Hero's Ring",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Hero's_Ring.png",
+    "c": "DEFENSE"
+  },
+  {
+    "s": "arcane-boots",
+    "n": "Arcane Boots",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Arcane_Boots.png",
+    "c": "MOVEMENT"
+  },
+  {
+    "s": "bloodlust-axe",
+    "n": "Bloodlust Axe",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Bloodlust_Axe.png",
+    "c": "ATTACK"
+  },
+  {
+    "s": "courage-mask",
+    "n": "Courage Mask",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Courage_Mask.png",
+    "c": "SUPPORT"
+  },
+  {
+    "s": "demon-shoes",
+    "n": "Demon Shoes",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Demon_Shoes.png",
+    "c": "MOVEMENT"
+  },
+  {
+    "s": "magic-shoes",
+    "n": "Magic Shoes",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Magic_Shoes.png",
+    "c": "MOVEMENT"
+  },
+  {
+    "s": "rapid-boots",
+    "n": "Rapid Boots",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Rapid_Boots.png",
+    "c": "MOVEMENT"
+  },
+  {
+    "s": "scarlet-phantom",
+    "n": "Scarlet Phantom",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Scarlet_Phantom.png",
+    "c": "ATTACK"
+  },
+  {
+    "s": "swift-boots",
+    "n": "Swift Boots",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Swift_Boots.png",
+    "c": "MOVEMENT"
+  },
+  {
+    "s": "tough-boots",
+    "n": "Tough Boots",
+    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Tough_Boots.png",
+    "c": "MOVEMENT"
+  }
+]

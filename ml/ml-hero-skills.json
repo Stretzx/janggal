@@ -1,2460 +1,2460 @@
 {
-"akai": {
-"passive": {
-"name": "Tai Chi",
-"img": "skills/akai__passive.png"
-},
-"s1": {
-"name": "Headbutt",
-"img": "skills/akai__s1.png"
-},
-"s2": {
-"name": "Body Slam",
-"img": "skills/akai__s2.png"
-},
-"s3": {
-"name": "Heavy Spin",
-"img": "skills/akai__s3.png"
-}
-},
-"beatrix": {
-"passive": {
-"name": "Mechanical Genius",
-"img": "skills/beatrix__passive.png"
-},
-"s1": {
-"name": "Masterful Gunner",
-"img": "skills/beatrix__s1.png"
-},
-"s2": {
-"name": "Tactical Reposition",
-"img": "skills/beatrix__s2.png"
-},
-"s3": {
-"name": "Renner's Apathy",
-"img": "skills/beatrix__s3.png"
-}
-},
-"benedetta": {
-"passive": {
-"name": "Elapsed Daytime",
-"img": "skills/benedetta__passive.png"
-},
-"s1": {
-"name": "Phantom Slash",
-"img": "skills/benedetta__s1.png"
-},
-"s2": {
-"name": "An Eye for An Eye",
-"img": "skills/benedetta__s2.png"
-},
-"s3": {
-"name": "Alecto: Final Blow",
-"img": "skills/benedetta__s3.png"
-}
-},
-"claude": {
-"passive": {
-"name": "Battle Side-by-side",
-"img": "skills/claude__passive.png"
-},
-"s1": {
-"name": "Art of Thievery",
-"img": "skills/claude__s1.png"
-},
-"s2": {
-"name": "Battle Mirror Image",
-"img": "skills/claude__s2.png"
-},
-"s3": {
-"name": "Blazing Duet",
-"img": "skills/claude__s3.png"
-}
-},
-"cyclops": {
-"passive": {
-"name": "Starlit Hourglass",
-"img": "skills/cyclops__passive.png"
-},
-"s1": {
-"name": "Stardust Shock",
-"img": "skills/cyclops__s1.png"
-},
-"s2": {
-"name": "Planets Attack",
-"img": "skills/cyclops__s2.png"
-},
-"s3": {
-"name": "Star Power Lockdown",
-"img": "skills/cyclops__s3.png"
-}
-},
-"esmeralda": {
-"passive": {
-"name": "Starmoon Casket",
-"img": "skills/esmeralda__passive.png"
-},
-"s1": {
-"name": "Frostmoon Shield",
-"img": "skills/esmeralda__s1.png"
-},
-"s2": {
-"name": "Stardust Dance",
-"img": "skills/esmeralda__s2.png"
-},
-"s3": {
-"name": "Falling Starmoon",
-"img": "skills/esmeralda__s3.png"
-}
-},
-"fanny": {
-"passive": {
-"name": "Air Superiority",
-"img": "skills/fanny__passive.png"
-},
-"s1": {
-"name": "Tornado Strike",
-"img": "skills/fanny__s1.png"
-},
-"s2": {
-"name": "Steel Cable",
-"img": "skills/fanny__s2.png"
-},
-"s3": {
-"name": "Cut Throat",
-"img": "skills/fanny__s3.png"
-}
-},
-"gatotkaca": {
-"passive": {
-"name": "Steel Bones",
-"img": "skills/gatotkaca__passive.png"
-},
-"s1": {
-"name": "Blast Iron Fist",
-"img": "skills/gatotkaca__s1.png"
-},
-"s2": {
-"name": "Unbreakable",
-"img": "skills/gatotkaca__s2.png"
-},
-"s3": {
-"name": "Avatar of the Guardian",
-"img": "skills/gatotkaca__s3.png"
-}
-},
-"harith": {
-"passive": {
-"name": "Key Insight",
-"img": "skills/harith__passive.png"
-},
-"s1": {
-"name": "Synchro Fission",
-"img": "skills/harith__s1.png"
-},
-"s2": {
-"name": "Chrono Dash",
-"img": "skills/harith__s2.png"
-},
-"s3": {
-"name": "Zaman Force",
-"img": "skills/harith__s3.png"
-}
-},
-"hylos": {
-"passive": {
-"name": "Thickened Blood",
-"img": "skills/hylos__passive.png"
-},
-"s1": {
-"name": "Law and Order",
-"img": "skills/hylos__s1.png"
-},
-"s2": {
-"name": "Ring of Punishment",
-"img": "skills/hylos__s2.png"
-},
-"s3": {
-"name": "Glorious Pathway",
-"img": "skills/hylos__s3.png"
-}
-},
-"ixia": {
-"passive": {
-"name": "Siphon Starlium",
-"img": "skills/ixia__passive.png"
-},
-"s1": {
-"name": "Dual Beam",
-"img": "skills/ixia__s1.png"
-},
-"s2": {
-"name": "Star Helix",
-"img": "skills/ixia__s2.png"
-},
-"s3": {
-"name": "Full Barrage",
-"img": "skills/ixia__s3.png"
-}
-},
-"kagura": {
-"passive": {
-"name": "Yin Yang Gathering",
-"img": "skills/kagura__passive.png"
-},
-"s1": {
-"name": "Seimei Umbrella Open",
-"img": "skills/kagura__s1.png"
-},
-"s2": {
-"name": "Rasho Umbrella Flee",
-"img": "skills/kagura__s2.png"
-},
-"s3": {
-"name": "Yin Yang Overturn",
-"img": "skills/kagura__s3.png"
-}
-},
-"miya": {
-"passive": {
-"name": "Moon Blessing",
-"img": "skills/miya__passive.png"
-},
-"s1": {
-"name": "Moon Arrow",
-"img": "skills/miya__s1.png"
-},
-"s2": {
-"name": "Arrow of Eclipse",
-"img": "skills/miya__s2.png"
-},
-"s3": {
-"name": "Hidden Moonlight",
-"img": "skills/miya__s3.png"
-}
-},
-"valir": {
-"passive": {
-"name": "Ashing",
-"img": "skills/valir__passive.png"
-},
-"s1": {
-"name": "Burst Fireball",
-"img": "skills/valir__s1.png"
-},
-"s2": {
-"name": "Searing Torrent",
-"img": "skills/valir__s2.png"
-},
-"s3": {
-"name": "Vengeance Flame",
-"img": "skills/valir__s3.png"
-}
-},
-"wanwan": {
-"passive": {
-"name": "Tiger Pace",
-"img": "skills/wanwan__passive.png"
-},
-"s1": {
-"name": "Swallow's Path",
-"img": "skills/wanwan__s1.png"
-},
-"s2": {
-"name": "Needles in Flowers",
-"img": "skills/wanwan__s2.png"
-},
-"s3": {
-"name": "Crossbow of Tang",
-"img": "skills/wanwan__s3.png"
-}
-},
-"yin": {
-"passive": {
-"name": "Leave It to Me",
-"img": "skills/yin__passive.png"
-},
-"s1": {
-"name": "Charged Punch",
-"img": "skills/yin__s1.png"
-},
-"s2": {
-"name": "Instant Blast",
-"img": "skills/yin__s2.png"
-},
-"s3": {
-"name": "My Turn",
-"img": "skills/yin__s3.png"
-}
-},
-"zetian": {
-"passive": {
-"name": "Celestial Armament",
-"img": "skills/zetian__passive.png"
-},
-"s1": {
-"name": "Phoenix Strike",
-"img": "skills/zetian__s1.png"
-},
-"s2": {
-"name": "Phoenix Descent",
-"img": "skills/zetian__s2.png"
-},
-"s3": {
-"name": "Fury of the Phoenix",
-"img": "skills/zetian__s3.png"
-}
-},
-"balmond": {
-"passive": {
-"name": "Bloodthirst",
-"img": "skills/balmond__passive.png"
-},
-"s1": {
-"name": "Soul Lock",
-"img": "skills/balmond__s1.png"
-},
-"s2": {
-"name": "Cyclone Sweep",
-"img": "skills/balmond__s2.png"
-},
-"s3": {
-"name": "Lethal Counter",
-"img": "skills/balmond__s3.png"
-}
-},
-"franco": {
-"passive": {
-"name": "Wasteland Force",
-"img": "skills/franco__passive.png"
-},
-"s1": {
-"name": "Iron Hook",
-"img": "skills/franco__s1.png"
-},
-"s2": {
-"name": "Fury Shock",
-"img": "skills/franco__s2.png"
-},
-"s3": {
-"name": "Bloody Hunt",
-"img": "skills/franco__s3.png"
-}
-},
-"layla": {
-"passive": {
-"name": "Malefic Gun",
-"img": "skills/layla__passive.png"
-},
-"s1": {
-"name": "Malefic Bomb",
-"img": "skills/layla__s1.png"
-},
-"s2": {
-"name": "Void Projectile",
-"img": "skills/layla__s2.png"
-},
-"s3": {
-"name": "Destruction Rush",
-"img": "skills/layla__s3.png"
-}
-},
-"chou": {
-"passive": {
-"name": "Only Fast",
-"img": "skills/chou__passive.png"
-},
-"s1": {
-"name": "Jeet Kune Do",
-"img": "skills/chou__s1.png"
-},
-"s2": {
-"name": "Shunpo",
-"img": "skills/chou__s2.png"
-},
-"s3": {
-"name": "The Way of Dragon",
-"img": "skills/chou__s3.png"
-}
-},
-"estes": {
-"passive": {
-"name": "Scripture of the Moon Elf",
-"img": "skills/estes__passive.png"
-},
-"s1": {
-"name": "Moonlight Immersion",
-"img": "skills/estes__s1.png"
-},
-"s2": {
-"name": "Domain of Moon Goddess",
-"img": "skills/estes__s2.png"
-},
-"s3": {
-"name": "Blessing of Moon Goddess",
-"img": "skills/estes__s3.png"
-}
-},
-"harley": {
-"passive": {
-"name": "Magic Master",
-"img": "skills/harley__passive.png"
-},
-"s1": {
-"name": "Poker Trick",
-"img": "skills/harley__s1.png"
-},
-"s2": {
-"name": "Space Escape",
-"img": "skills/harley__s2.png"
-},
-"s3": {
-"name": "Deadly Magic",
-"img": "skills/harley__s3.png"
-}
-},
-"zhask": {
-"passive": {
-"name": "Decimation",
-"img": "skills/zhask__passive.png"
-},
-"s1": {
-"name": "Nightmaric Spawn",
-"img": "skills/zhask__s1.png"
-},
-"s2": {
-"name": "Mind Eater",
-"img": "skills/zhask__s2.png"
-},
-"s3": {
-"name": "Dominator's Descent",
-"img": "skills/zhask__s3.png"
-}
-},
-"martis": {
-"passive": {
-"name": "Asura's Wrath",
-"img": "skills/martis__passive.png"
-},
-"s1": {
-"name": "Asura Aura",
-"img": "skills/martis__s1.png"
-},
-"s2": {
-"name": "Mortal Coil",
-"img": "skills/martis__s2.png"
-},
-"s3": {
-"name": "Decimation",
-"img": "skills/martis__s3.png"
-}
-},
-"vale": {
-"passive": {
-"name": "Windtalk",
-"img": "skills/vale__passive.png"
-},
-"s1": {
-"name": "Wind Blade",
-"img": "skills/vale__s1.png"
-},
-"s2": {
-"name": "Windblow",
-"img": "skills/vale__s2.png"
-},
-"s3": {
-"name": "Windstorm",
-"img": "skills/vale__s3.png"
-}
-},
-"minsitthar": {
-"passive": {
-"name": "Mark of the King",
-"img": "skills/minsitthar__passive.png"
-},
-"s1": {
-"name": "Spear of Glory",
-"img": "skills/minsitthar__s1.png"
-},
-"s2": {
-"name": "Shield Assault",
-"img": "skills/minsitthar__s2.png"
-},
-"s3": {
-"name": "King's Calling",
-"img": "skills/minsitthar__s3.png"
-}
-},
-"terizla": {
-"passive": {
-"name": "Body of Smith",
-"img": "skills/terizla__passive.png"
-},
-"s1": {
-"name": "Revenge Strike",
-"img": "skills/terizla__s1.png"
-},
-"s2": {
-"name": "Execution Strike",
-"img": "skills/terizla__s2.png"
-},
-"s3": {
-"name": "Penalty Zone",
-"img": "skills/terizla__s3.png"
-}
-},
-"silvanna": {
-"passive": {
-"name": "Knightess' Resolve",
-"img": "skills/silvanna__passive.png"
-},
-"s1": {
-"name": "Cometic Lance",
-"img": "skills/silvanna__s1.png"
-},
-"s2": {
-"name": "Spiral Strangling",
-"img": "skills/silvanna__s2.png"
-},
-"s3": {
-"name": "Imperial Justice",
-"img": "skills/silvanna__s3.png"
-}
-},
-"khaleed": {
-"passive": {
-"name": "Sand Walk",
-"img": "skills/khaleed__passive.png"
-},
-"s1": {
-"name": "Desert Tornado",
-"img": "skills/khaleed__s1.png"
-},
-"s2": {
-"name": "Quicksand Guard",
-"img": "skills/khaleed__s2.png"
-},
-"s3": {
-"name": "Raging Sandstorm",
-"img": "skills/khaleed__s3.png"
-}
-},
-"phoveus": {
-"passive": {
-"name": "Demonic Force",
-"img": "skills/phoveus__passive.png"
-},
-"s1": {
-"name": "Demonic Impact",
-"img": "skills/phoveus__s1.png"
-},
-"s2": {
-"name": "Dark Wave",
-"img": "skills/phoveus__s2.png"
-},
-"s3": {
-"name": "Infernal Pursuit",
-"img": "skills/phoveus__s3.png"
-}
-},
-"melissa": {
-"passive": {
-"name": "Doll Buster",
-"img": "skills/melissa__passive.png"
-},
-"s1": {
-"name": "Falling!",
-"img": "skills/melissa__s1.png"
-},
-"s2": {
-"name": "Eyes on You!",
-"img": "skills/melissa__s2.png"
-},
-"s3": {
-"name": "Go Away!",
-"img": "skills/melissa__s3.png"
-}
-},
-"nolan": {
-"passive": {
-"name": "Dimensional Rift",
-"img": "skills/nolan__passive.png"
-},
-"s1": {
-"name": "Expansion",
-"img": "skills/nolan__s1.png"
-},
-"s2": {
-"name": "Gauge",
-"img": "skills/nolan__s2.png"
-},
-"s3": {
-"name": "Fracture",
-"img": "skills/nolan__s3.png"
-}
-},
-"obsidia": {
-"passive": {
-"name": "Return to Bone",
-"img": "skills/obsidia__passive.png"
-},
-"s1": {
-"name": "Abyssal Bone Needle",
-"img": "skills/obsidia__s1.png"
-},
-"s2": {
-"name": "Phantom Shadowmeld",
-"img": "skills/obsidia__s2.png"
-},
-"s3": {
-"name": "Hunt of Bone",
-"img": "skills/obsidia__s3.png"
-}
-},
-"saber": {
-"passive": {
-"name": "Enemy's Bane",
-"img": "skills/saber__passive.png"
-},
-"s1": {
-"name": "Orbiting Swords",
-"img": "skills/saber__s1.png"
-},
-"s2": {
-"name": "Charge",
-"img": "skills/saber__s2.png"
-},
-"s3": {
-"name": "Triple Sweep",
-"img": "skills/saber__s3.png"
-}
-},
-"bane": {
-"passive": {
-"name": "Shark Bite",
-"img": "skills/bane__passive.png"
-},
-"s1": {
-"name": "Crab Claw Cannon",
-"img": "skills/bane__s1.png"
-},
-"s2": {
-"name": "Ale",
-"img": "skills/bane__s2.png"
-},
-"s3": {
-"name": "Deadly Catch",
-"img": "skills/bane__s3.png"
-}
-},
-"minotaur": {
-"passive": {
-"name": "Rage Incarnate",
-"img": "skills/minotaur__passive.png"
-},
-"s1": {
-"name": "Despair Stomp",
-"img": "skills/minotaur__s1.png"
-},
-"s2": {
-"name": "Motivation Roar",
-"img": "skills/minotaur__s2.png"
-},
-"s3": {
-"name": "Minoan Fury",
-"img": "skills/minotaur__s3.png"
-}
-},
-"sun": {
-"passive": {
-"name": "Simian God",
-"img": "skills/sun__passive.png"
-},
-"s1": {
-"name": "Endless Variety",
-"img": "skills/sun__s1.png"
-},
-"s2": {
-"name": "Swift Exchange",
-"img": "skills/sun__s2.png"
-},
-"s3": {
-"name": "Clone Techniques",
-"img": "skills/sun__s3.png"
-}
-},
-"hilda": {
-"passive": {
-"name": "Blessing of Wilderness",
-"img": "skills/hilda__passive.png"
-},
-"s1": {
-"name": "Combat Ritual",
-"img": "skills/hilda__s1.png"
-},
-"s2": {
-"name": "Art of Hunting",
-"img": "skills/hilda__s2.png"
-},
-"s3": {
-"name": "Power of Wildness",
-"img": "skills/hilda__s3.png"
-}
-},
-"irithel": {
-"passive": {
-"name": "Jungle Heart",
-"img": "skills/irithel__passive.png"
-},
-"s1": {
-"name": "Strafe",
-"img": "skills/irithel__s1.png"
-},
-"s2": {
-"name": "Force of the Queen",
-"img": "skills/irithel__s2.png"
-},
-"s3": {
-"name": "Heavy Crossbow",
-"img": "skills/irithel__s3.png"
-}
-},
-"helcurt": {
-"passive": {
-"name": "Shadow of Styx",
-"img": "skills/helcurt__passive.png"
-},
-"s1": {
-"name": "Hidden Terror",
-"img": "skills/helcurt__s1.png"
-},
-"s2": {
-"name": "Deadly Stinger",
-"img": "skills/helcurt__s2.png"
-},
-"s3": {
-"name": "Dark Night Falls",
-"img": "skills/helcurt__s3.png"
-}
-},
-"uranus": {
-"passive": {
-"name": "Radiance",
-"img": "skills/uranus__passive.png"
-},
-"s1": {
-"name": "Ionic Edge",
-"img": "skills/uranus__s1.png"
-},
-"s2": {
-"name": "Transcendent Ward",
-"img": "skills/uranus__s2.png"
-},
-"s3": {
-"name": "Consecration",
-"img": "skills/uranus__s3.png"
-}
-},
-"leomord": {
-"passive": {
-"name": "The Oath Keeper",
-"img": "skills/leomord__passive.png"
-},
-"s1": {
-"name": "Momentum",
-"img": "skills/leomord__s1.png"
-},
-"s2": {
-"name": "Decimation Assault",
-"img": "skills/leomord__s2.png"
-},
-"s3": {
-"name": "Phantom Steed",
-"img": "skills/leomord__s3.png"
-}
-},
-"kadita": {
-"passive": {
-"name": "Thalassophobia",
-"img": "skills/kadita__passive.png"
-},
-"s1": {
-"name": "Ocean Ode",
-"img": "skills/kadita__s1.png"
-},
-"s2": {
-"name": "Breath of the Ocean",
-"img": "skills/kadita__s2.png"
-},
-"s3": {
-"name": "Rough Waves",
-"img": "skills/kadita__s3.png"
-}
-},
-"x-borg": {
-"passive": {
-"name": "Firaga Armor",
-"img": "skills/x-borg__passive.png"
-},
-"s1": {
-"name": "Fire Missiles",
-"img": "skills/x-borg__s1.png"
-},
-"s2": {
-"name": "Fire Stake",
-"img": "skills/x-borg__s2.png"
-},
-"s3": {
-"name": "Last Insanity",
-"img": "skills/x-borg__s3.png"
-}
-},
-"cecilion": {
-"passive": {
-"name": "Overflowing",
-"img": "skills/cecilion__passive.png"
-},
-"s1": {
-"name": "Bat Impact",
-"img": "skills/cecilion__s1.png"
-},
-"s2": {
-"name": "Sanguine Claws",
-"img": "skills/cecilion__s2.png"
-},
-"s3": {
-"name": "Bats Feast",
-"img": "skills/cecilion__s3.png"
-}
-},
-"barats": {
-"passive": {
-"name": "Big Guy",
-"img": "skills/barats__passive.png"
-},
-"s1": {
-"name": "So-Called Teamwork",
-"img": "skills/barats__s1.png"
-},
-"s2": {
-"name": "Missile \"Expert\"",
-"img": "skills/barats__s2.png"
-},
-"s3": {
-"name": "Detona's Welcome",
-"img": "skills/barats__s3.png"
-}
-},
-"natan": {
-"passive": {
-"name": "Theory of Everything",
-"img": "skills/natan__passive.png"
-},
-"s1": {
-"name": "Superposition",
-"img": "skills/natan__s1.png"
-},
-"s2": {
-"name": "Interference!",
-"img": "skills/natan__s2.png"
-},
-"s3": {
-"name": "Entropy?",
-"img": "skills/natan__s3.png"
-}
-},
-"xavier": {
-"passive": {
-"name": "Transcendence",
-"img": "skills/xavier__passive.png"
-},
-"s1": {
-"name": "Infinite Extension",
-"img": "skills/xavier__s1.png"
-},
-"s2": {
-"name": "Mystic Field",
-"img": "skills/xavier__s2.png"
-},
-"s3": {
-"name": "Dawning Light",
-"img": "skills/xavier__s3.png"
-}
-},
-"cici": {
-"passive": {
-"name": "Performer's Delight",
-"img": "skills/cici__passive.png"
-},
-"s1": {
-"name": "Yo-Yo Blitz",
-"img": "skills/cici__s1.png"
-},
-"s2": {
-"name": "Buoyant Bounce",
-"img": "skills/cici__s2.png"
-},
-"s3": {
-"name": "Curtain Call",
-"img": "skills/cici__s3.png"
-}
-},
-"sora": {
-"passive": {
-"name": "Mystic Surge",
-"img": "skills/sora__passive.png"
-},
-"s1": {
-"name": "Sundering Strike",
-"img": "skills/sora__s1.png"
-},
-"s2": {
-"name": "Windstride",
-"img": "skills/sora__s2.png"
-},
-"s3": {
-"name": "Shifting Skies",
-"img": "skills/sora__s3.png"
-}
-},
-"alice": {
-"passive": {
-"name": "Crimson Blood Banquet",
-"img": "skills/alice__passive.png"
-},
-"s1": {
-"name": "Crimson Gleam",
-"img": "skills/alice__s1.png"
-},
-"s2": {
-"name": "Doom Waltz",
-"img": "skills/alice__s2.png"
-},
-"s3": {
-"name": "Throne of Ruin",
-"img": "skills/alice__s3.png"
-}
-},
-"bruno": {
-"passive": {
-"name": "Mecha Legs",
-"img": "skills/bruno__passive.png"
-},
-"s1": {
-"name": "Volley Shot",
-"img": "skills/bruno__s1.png"
-},
-"s2": {
-"name": "Flying Tackle",
-"img": "skills/bruno__s2.png"
-},
-"s3": {
-"name": "Worldie",
-"img": "skills/bruno__s3.png"
-}
-},
-"lolita": {
-"passive": {
-"name": "Noumenon Energy Core",
-"img": "skills/lolita__passive.png"
-},
-"s1": {
-"name": "Power Charge",
-"img": "skills/lolita__s1.png"
-},
-"s2": {
-"name": "Guardian's Reflection",
-"img": "skills/lolita__s2.png"
-},
-"s3": {
-"name": "Noumenon Blast",
-"img": "skills/lolita__s3.png"
-}
-},
-"alpha": {
-"passive": {
-"name": "Beta, Advance!",
-"img": "skills/alpha__passive.png"
-},
-"s1": {
-"name": "Rotary Impact",
-"img": "skills/alpha__s1.png"
-},
-"s2": {
-"name": "Force Swing",
-"img": "skills/alpha__s2.png"
-},
-"s3": {
-"name": "Spear of Alpha",
-"img": "skills/alpha__s3.png"
-}
-},
-"aurora": {
-"passive": {
-"name": "Pride of Ice",
-"img": "skills/aurora__passive.png"
-},
-"s1": {
-"name": "Hailstone Blast",
-"img": "skills/aurora__s1.png"
-},
-"s2": {
-"name": "Frosty Breeze",
-"img": "skills/aurora__s2.png"
-},
-"s3": {
-"name": "Frigid Glacier",
-"img": "skills/aurora__s3.png"
-}
-},
-"grock": {
-"passive": {
-"name": "Bastion of Stone",
-"img": "skills/grock__passive.png"
-},
-"s1": {
-"name": "Mighty Swing",
-"img": "skills/grock__s1.png"
-},
-"s2": {
-"name": "Earthen Rampart",
-"img": "skills/grock__s2.png"
-},
-"s3": {
-"name": "Tectonic Charge",
-"img": "skills/grock__s3.png"
-}
-},
-"pharsa": {
-"passive": {
-"name": "Spiritual Unity",
-"img": "skills/pharsa__passive.png"
-},
-"s1": {
-"name": "Curse of Crow",
-"img": "skills/pharsa__s1.png"
-},
-"s2": {
-"name": "Energy Impact",
-"img": "skills/pharsa__s2.png"
-},
-"s3": {
-"name": "Feathered Air Strike",
-"img": "skills/pharsa__s3.png"
-}
-},
-"hanabi": {
-"passive": {
-"name": "Ninjutsu: Petal Barrage",
-"img": "skills/hanabi__passive.png"
-},
-"s1": {
-"name": "Ninjutsu: Equinox",
-"img": "skills/hanabi__s1.png"
-},
-"s2": {
-"name": "Ninjutsu: Soul Scroll",
-"img": "skills/hanabi__s2.png"
-},
-"s3": {
-"name": "Forbidden Jutsu: Higanbana",
-"img": "skills/hanabi__s3.png"
-}
-},
-"lunox": {
-"passive": {
-"name": "Dreamland Twist",
-"img": "skills/lunox__passive.png"
-},
-"s1": {
-"name": "Starlight Pulse",
-"img": "skills/lunox__s1.png"
-},
-"s2": {
-"name": "Chaos Assault",
-"img": "skills/lunox__s2.png"
-},
-"s3": {
-"name": "Cosmic Fission",
-"img": "skills/lunox__s3.png"
-}
-},
-"faramis": {
-"passive": {
-"name": "Vicious Retrieval",
-"img": "skills/faramis__passive.png"
-},
-"s1": {
-"name": "Shadow Stampede",
-"img": "skills/faramis__s1.png"
-},
-"s2": {
-"name": "Ghost Bursters",
-"img": "skills/faramis__s2.png"
-},
-"s3": {
-"name": "Nether Realm",
-"img": "skills/faramis__s3.png"
-}
-},
-"ling": {
-"passive": {
-"name": "Cloud Walker",
-"img": "skills/ling__passive.png"
-},
-"s1": {
-"name": "Finch Poise",
-"img": "skills/ling__s1.png"
-},
-"s2": {
-"name": "Defiant Sword",
-"img": "skills/ling__s2.png"
-},
-"s3": {
-"name": "Tempest of Blades",
-"img": "skills/ling__s3.png"
-}
-},
-"carmilla": {
-"passive": {
-"name": "Vampire Pact",
-"img": "skills/carmilla__passive.png"
-},
-"s1": {
-"name": "Crimson Flower",
-"img": "skills/carmilla__s1.png"
-},
-"s2": {
-"name": "Bloodbath",
-"img": "skills/carmilla__s2.png"
-},
-"s3": {
-"name": "Curse of Blood",
-"img": "skills/carmilla__s3.png"
-}
-},
-"brody": {
-"passive": {
-"name": "Abyss Corrosion",
-"img": "skills/brody__passive.png"
-},
-"s1": {
-"name": "Abyss Impact",
-"img": "skills/brody__s1.png"
-},
-"s2": {
-"name": "Corrosive Strike",
-"img": "skills/brody__s2.png"
-},
-"s3": {
-"name": "Torn-Apart Memory",
-"img": "skills/brody__s3.png"
-}
-},
-"aulus": {
-"passive": {
-"name": "Fighting Spirit",
-"img": "skills/aulus__passive.png"
-},
-"s1": {
-"name": "Aulus, Charge!",
-"img": "skills/aulus__s1.png"
-},
-"s2": {
-"name": "The Power of Axe",
-"img": "skills/aulus__s2.png"
-},
-"s3": {
-"name": "Cleaving Axe",
-"img": "skills/aulus__s3.png"
-}
-},
-"julian": {
-"passive": {
-"name": "Smith's Legacy",
-"img": "skills/julian__passive.png"
-},
-"s1": {
-"name": "Scythe",
-"img": "skills/julian__s1.png"
-},
-"s2": {
-"name": "Sword",
-"img": "skills/julian__s2.png"
-},
-"s3": {
-"name": "Chain",
-"img": "skills/julian__s3.png"
-}
-},
-"chip": {
-"passive": {
-"name": "Snack Time!",
-"img": "skills/chip__passive.png"
-},
-"s1": {
-"name": "Crash Course",
-"img": "skills/chip__s1.png"
-},
-"s2": {
-"name": "Overtime",
-"img": "skills/chip__s2.png"
-},
-"s3": {
-"name": "Shortcut",
-"img": "skills/chip__s3.png"
-}
-},
-"marcel": {
-"passive": {
-"name": "Platinum Snap",
-"img": "skills/marcel__passive.png"
-},
-"s1": {
-"name": "Framed Moment",
-"img": "skills/marcel__s1.png"
-},
-"s2": {
-"name": "Tracking Shot",
-"img": "skills/marcel__s2.png"
-},
-"s3": {
-"name": "Golden Hour",
-"img": "skills/marcel__s3.png"
-}
-},
-"nana": {
-"passive": {
-"name": "Molina's Gift",
-"img": "skills/nana__passive.png"
-},
-"s1": {
-"name": "Magic Boomerang",
-"img": "skills/nana__s1.png"
-},
-"s2": {
-"name": "Molina Smooch",
-"img": "skills/nana__s2.png"
-},
-"s3": {
-"name": "Molina Blitz",
-"img": "skills/nana__s3.png"
-}
-},
-"clint": {
-"passive": {
-"name": "Double Shot",
-"img": "skills/clint__passive.png"
-},
-"s1": {
-"name": "Quick Draw",
-"img": "skills/clint__s1.png"
-},
-"s2": {
-"name": "Trapping Recoil",
-"img": "skills/clint__s2.png"
-},
-"s3": {
-"name": "Grenade Bombardment",
-"img": "skills/clint__s3.png"
-}
-},
-"hayabusa": {
-"passive": {
-"name": "Ninjutsu: Trace of Shadow",
-"img": "skills/hayabusa__passive.png"
-},
-"s1": {
-"name": "Ninjutsu: Phantom Shuriken",
-"img": "skills/hayabusa__s1.png"
-},
-"s2": {
-"name": "Ninjutsu: Quad Shadow",
-"img": "skills/hayabusa__s2.png"
-},
-"s3": {
-"name": "Ougi: Shadow Kill",
-"img": "skills/hayabusa__s3.png"
-}
-},
-"ruby": {
-"passive": {
-"name": "Let's Dance!",
-"img": "skills/ruby__passive.png"
-},
-"s1": {
-"name": "Be Good!",
-"img": "skills/ruby__s1.png"
-},
-"s2": {
-"name": "Don't Run, Wolf King!",
-"img": "skills/ruby__s2.png"
-},
-"s3": {
-"name": "I'm Offended!",
-"img": "skills/ruby__s3.png"
-}
-},
-"lapu-lapu": {
-"passive": {
-"name": "Homeland Defender",
-"img": "skills/lapu-lapu__passive.png"
-},
-"s1": {
-"name": "Justice Blades",
-"img": "skills/lapu-lapu__s1.png"
-},
-"s2": {
-"name": "Jungle Warrior",
-"img": "skills/lapu-lapu__s2.png"
-},
-"s3": {
-"name": "Bravest Fighter",
-"img": "skills/lapu-lapu__s3.png"
-}
-},
-"argus": {
-"passive": {
-"name": "Warmonger",
-"img": "skills/argus__passive.png"
-},
-"s1": {
-"name": "Demonic Grip",
-"img": "skills/argus__s1.png"
-},
-"s2": {
-"name": "Meteoric Sword",
-"img": "skills/argus__s2.png"
-},
-"s3": {
-"name": "Eternal Evil",
-"img": "skills/argus__s3.png"
-}
-},
-"lesley": {
-"passive": {
-"name": "Lethal Shot",
-"img": "skills/lesley__passive.png"
-},
-"s1": {
-"name": "Master of Camouflage",
-"img": "skills/lesley__s1.png"
-},
-"s2": {
-"name": "Tactical Grenade",
-"img": "skills/lesley__s2.png"
-},
-"s3": {
-"name": "Ultimate Snipe",
-"img": "skills/lesley__s3.png"
-}
-},
-"chang'e": {
-"passive": {
-"name": "Trouble Maker",
-"img": "skills/chang'e__passive.png"
-},
-"s1": {
-"name": "Starmoon Shockwave",
-"img": "skills/chang'e__s1.png"
-},
-"s2": {
-"name": "Crescent Moon",
-"img": "skills/chang'e__s2.png"
-},
-"s3": {
-"name": "Meteor Shower",
-"img": "skills/chang'e__s3.png"
-}
-},
-"hanzo": {
-"passive": {
-"name": "Ame No Habakiri",
-"img": "skills/hanzo__passive.png"
-},
-"s1": {
-"name": "Ninjutsu: Demon Feast",
-"img": "skills/hanzo__s1.png"
-},
-"s2": {
-"name": "Ninjutsu: Dark Mist",
-"img": "skills/hanzo__s2.png"
-},
-"s3": {
-"name": "Kinjutsu: Pinnacle Ninja",
-"img": "skills/hanzo__s3.png"
-}
-},
-"badang": {
-"passive": {
-"name": "Chivalry Fist",
-"img": "skills/badang__passive.png"
-},
-"s1": {
-"name": "Fist Wind",
-"img": "skills/badang__s1.png"
-},
-"s2": {
-"name": "Fist Break",
-"img": "skills/badang__s2.png"
-},
-"s3": {
-"name": "Fist Crack",
-"img": "skills/badang__s3.png"
-}
-},
-"dyrroth": {
-"passive": {
-"name": "Wrath of the Abyss",
-"img": "skills/dyrroth__passive.png"
-},
-"s1": {
-"name": "Burst Strike",
-"img": "skills/dyrroth__s1.png"
-},
-"s2": {
-"name": "Spectre Step",
-"img": "skills/dyrroth__s2.png"
-},
-"s3": {
-"name": "Abysm Strike",
-"img": "skills/dyrroth__s3.png"
-}
-},
-"atlas": {
-"passive": {
-"name": "Frigid Breath",
-"img": "skills/atlas__passive.png"
-},
-"s1": {
-"name": "Annihilate",
-"img": "skills/atlas__s1.png"
-},
-"s2": {
-"name": "Perfect Match",
-"img": "skills/atlas__s2.png"
-},
-"s3": {
-"name": "Fatal Links",
-"img": "skills/atlas__s3.png"
-}
-},
-"yve": {
-"passive": {
-"name": "Galactic Power",
-"img": "skills/yve__passive.png"
-},
-"s1": {
-"name": "Void Blast",
-"img": "skills/yve__s1.png"
-},
-"s2": {
-"name": "Void Crystal",
-"img": "skills/yve__s2.png"
-},
-"s3": {
-"name": "Real World Manipulation",
-"img": "skills/yve__s3.png"
-}
-},
-"aamon": {
-"passive": {
-"name": "Invisible Armor",
-"img": "skills/aamon__passive.png"
-},
-"s1": {
-"name": "Soul Shards",
-"img": "skills/aamon__s1.png"
-},
-"s2": {
-"name": "Slayer Shards",
-"img": "skills/aamon__s2.png"
-},
-"s3": {
-"name": "Endless Shards",
-"img": "skills/aamon__s3.png"
-}
-},
-"fredrinn": {
-"passive": {
-"name": "Crystalline Armor",
-"img": "skills/fredrinn__passive.png"
-},
-"s1": {
-"name": "Piercing Strike",
-"img": "skills/fredrinn__s1.png"
-},
-"s2": {
-"name": "Brave Assault",
-"img": "skills/fredrinn__s2.png"
-},
-"s3": {
-"name": "Energy Eruption",
-"img": "skills/fredrinn__s3.png"
-}
-},
-"zhuxin": {
-"passive": {
-"name": "Crimson Butterflies",
-"img": "skills/zhuxin__passive.png"
-},
-"s1": {
-"name": "Fluttering Grace",
-"img": "skills/zhuxin__s1.png"
-},
-"s2": {
-"name": "Lantern Flare",
-"img": "skills/zhuxin__s2.png"
-},
-"s3": {
-"name": "Crimson Beacon",
-"img": "skills/zhuxin__s3.png"
-}
-},
-"hirara": {
-"passive": {
-"name": "Twin Fans: Ukifune",
-"img": "skills/hirara__passive.png"
-},
-"s1": {
-"name": "Meisen-e",
-"img": "skills/hirara__s1.png"
-},
-"s2": {
-"name": "Kaerazu",
-"img": "skills/hirara__s2.png"
-},
-"s3": {
-"name": "Infernal Torrent",
-"img": "skills/hirara__s3.png"
-}
-},
-"tigreal": {
-"passive": {
-"name": "Fearless",
-"img": "skills/tigreal__passive.png"
-},
-"s1": {
-"name": "Attack Wave",
-"img": "skills/tigreal__s1.png"
-},
-"s2": {
-"name": "Sacred Hammer",
-"img": "skills/tigreal__s2.png"
-},
-"s3": {
-"name": "Implosion",
-"img": "skills/tigreal__s3.png"
-}
-},
-"rafaela": {
-"passive": {
-"name": "Divine Resurrection",
-"img": "skills/rafaela__passive.png"
-},
-"s1": {
-"name": "Light of Retribution",
-"img": "skills/rafaela__s1.png"
-},
-"s2": {
-"name": "Holy Healing",
-"img": "skills/rafaela__s2.png"
-},
-"s3": {
-"name": "Holy Baptism",
-"img": "skills/rafaela__s3.png"
-}
-},
-"freya": {
-"passive": {
-"name": "Power of Einherjar",
-"img": "skills/freya__passive.png"
-},
-"s1": {
-"name": "Leap of Faith",
-"img": "skills/freya__s1.png"
-},
-"s2": {
-"name": "Valkyrie Slash",
-"img": "skills/freya__s2.png"
-},
-"s3": {
-"name": "Valkyrie Descent",
-"img": "skills/freya__s3.png"
-}
-},
-"yi-sun-shin": {
-"passive": {
-"name": "Heavenly Vow",
-"img": "skills/yi-sun-shin__passive.png"
-},
-"s1": {
-"name": "Traceless",
-"img": "skills/yi-sun-shin__s1.png"
-},
-"s2": {
-"name": "Blood Floods",
-"img": "skills/yi-sun-shin__s2.png"
-},
-"s3": {
-"name": "Mountain Shocker",
-"img": "skills/yi-sun-shin__s3.png"
-}
-},
-"vexana": {
-"passive": {
-"name": "Nether Touch",
-"img": "skills/vexana__passive.png"
-},
-"s1": {
-"name": "Deathly Grasp",
-"img": "skills/vexana__s1.png"
-},
-"s2": {
-"name": "Cursed Blast",
-"img": "skills/vexana__s2.png"
-},
-"s3": {
-"name": "Eternal Guard",
-"img": "skills/vexana__s3.png"
-}
-},
-"odette": {
-"passive": {
-"name": "Lakeshore Ambience",
-"img": "skills/odette__passive.png"
-},
-"s1": {
-"name": "Avian Authority",
-"img": "skills/odette__s1.png"
-},
-"s2": {
-"name": "Blue Nova",
-"img": "skills/odette__s2.png"
-},
-"s3": {
-"name": "Swan Song",
-"img": "skills/odette__s3.png"
-}
-},
-"jawhead": {
-"passive": {
-"name": "Mecha Suppression",
-"img": "skills/jawhead__passive.png"
-},
-"s1": {
-"name": "Smart Missiles",
-"img": "skills/jawhead__s1.png"
-},
-"s2": {
-"name": "Ejector",
-"img": "skills/jawhead__s2.png"
-},
-"s3": {
-"name": "Unstoppable Force",
-"img": "skills/jawhead__s3.png"
-}
-},
-"kaja": {
-"passive": {
-"name": "Wings of Lightning",
-"img": "skills/kaja__passive.png"
-},
-"s1": {
-"name": "Ring of Order",
-"img": "skills/kaja__s1.png"
-},
-"s2": {
-"name": "Soaring Wings",
-"img": "skills/kaja__s2.png"
-},
-"s3": {
-"name": "Divine Binding",
-"img": "skills/kaja__s3.png"
-}
-},
-"belerick": {
-"passive": {
-"name": "Deadly Thorns",
-"img": "skills/belerick__passive.png"
-},
-"s1": {
-"name": "Ancient Seed",
-"img": "skills/belerick__s1.png"
-},
-"s2": {
-"name": "Nature's Strike",
-"img": "skills/belerick__s2.png"
-},
-"s3": {
-"name": "Wrath of Dryad",
-"img": "skills/belerick__s3.png"
-}
-},
-"khufra": {
-"passive": {
-"name": "Spell Curse",
-"img": "skills/khufra__passive.png"
-},
-"s1": {
-"name": "Tyrant's Revenge",
-"img": "skills/khufra__s1.png"
-},
-"s2": {
-"name": "Bouncing Ball",
-"img": "skills/khufra__s2.png"
-},
-"s3": {
-"name": "Tyrant's Rage",
-"img": "skills/khufra__s3.png"
-}
-},
-"lylia": {
-"passive": {
-"name": "Angry Gloom",
-"img": "skills/lylia__passive.png"
-},
-"s1": {
-"name": "Magic Shockwave",
-"img": "skills/lylia__s1.png"
-},
-"s2": {
-"name": "Shadow Energy",
-"img": "skills/lylia__s2.png"
-},
-"s3": {
-"name": "Black Shoes",
-"img": "skills/lylia__s3.png"
-}
-},
-"popol-and-kupa": {
-"passive": {
-"name": "We Are Friends",
-"img": "skills/popol-and-kupa__passive.png"
-},
-"s1": {
-"name": "Bite 'em, Kupa!",
-"img": "skills/popol-and-kupa__s1.png"
-},
-"s2": {
-"name": "Kupa, Help!",
-"img": "skills/popol-and-kupa__s2.png"
-},
-"s3": {
-"name": "Popol's Surprise",
-"img": "skills/popol-and-kupa__s3.png"
-}
-},
-"mathilda": {
-"passive": {
-"name": "Ancestral Guidance",
-"img": "skills/mathilda__passive.png"
-},
-"s1": {
-"name": "Soul Bloom",
-"img": "skills/mathilda__s1.png"
-},
-"s2": {
-"name": "Guiding Wind",
-"img": "skills/mathilda__s2.png"
-},
-"s3": {
-"name": "Circling Eagle",
-"img": "skills/mathilda__s3.png"
-}
-},
-"valentina": {
-"passive": {
-"name": "Primal Force",
-"img": "skills/valentina__passive.png"
-},
-"s1": {
-"name": "Shadow Strike",
-"img": "skills/valentina__s1.png"
-},
-"s2": {
-"name": "Arcane Shade",
-"img": "skills/valentina__s2.png"
-},
-"s3": {
-"name": "I Am You",
-"img": "skills/valentina__s3.png"
-}
-},
-"joy": {
-"passive": {
-"name": "Humph, Joy's Angry!",
-"img": "skills/joy__passive.png"
-},
-"s1": {
-"name": "Look, Leonin Crystal!",
-"img": "skills/joy__s1.png"
-},
-"s2": {
-"name": "Meow, Rhythm of Joy!",
-"img": "skills/joy__s2.png"
-},
-"s3": {
-"name": "Ha, Electrifying Beats!",
-"img": "skills/joy__s3.png"
-}
-},
-"suyou": {
-"passive": {
-"name": "Transient Immortal",
-"img": "skills/suyou__passive.png"
-},
-"s1": {
-"name": "Blade Surge",
-"img": "skills/suyou__s1.png"
-},
-"s2": {
-"name": "Soul Sever",
-"img": "skills/suyou__s2.png"
-},
-"s3": {
-"name": "Evil Queller",
-"img": "skills/suyou__s3.png"
-}
-},
-"alucard": {
-"passive": {
-"name": "Pursuit",
-"img": "skills/alucard__passive.png"
-},
-"s1": {
-"name": "Groundsplitter",
-"img": "skills/alucard__s1.png"
-},
-"s2": {
-"name": "Whirling Smash",
-"img": "skills/alucard__s2.png"
-},
-"s3": {
-"name": "Fission Wave",
-"img": "skills/alucard__s3.png"
-}
-},
-"eudora": {
-"passive": {
-"name": "Superconductor",
-"img": "skills/eudora__passive.png"
-},
-"s1": {
-"name": "Forked Lightning",
-"img": "skills/eudora__s1.png"
-},
-"s2": {
-"name": "Ball Lightning",
-"img": "skills/eudora__s2.png"
-},
-"s3": {
-"name": "Thunder's Wrath",
-"img": "skills/eudora__s3.png"
-}
-},
-"gord": {
-"passive": {
-"name": "Mystic Favor",
-"img": "skills/gord__passive.png"
-},
-"s1": {
-"name": "Mystic Projectile",
-"img": "skills/gord__s1.png"
-},
-"s2": {
-"name": "Mystic Injunction",
-"img": "skills/gord__s2.png"
-},
-"s3": {
-"name": "Mystic Gush",
-"img": "skills/gord__s3.png"
-}
-},
-"moskov": {
-"passive": {
-"name": "Spear of Quiescence",
-"img": "skills/moskov__passive.png"
-},
-"s1": {
-"name": "Abyss Walker",
-"img": "skills/moskov__s1.png"
-},
-"s2": {
-"name": "Spear of Misery",
-"img": "skills/moskov__s2.png"
-},
-"s3": {
-"name": "Spear of Destruction",
-"img": "skills/moskov__s3.png"
-}
-},
-"roger": {
-"passive": {
-"name": "Full Moon Curse",
-"img": "skills/roger__passive.png"
-},
-"s1": {
-"name": "Open Fire",
-"img": "skills/roger__s1.png"
-},
-"s2": {
-"name": "Hunter's Steps",
-"img": "skills/roger__s2.png"
-},
-"s3": {
-"name": "Wolf Transformation",
-"img": "skills/roger__s3.png"
-}
-},
-"lancelot": {
-"passive": {
-"name": "Soul Cutter",
-"img": "skills/lancelot__passive.png"
-},
-"s1": {
-"name": "Puncture",
-"img": "skills/lancelot__s1.png"
-},
-"s2": {
-"name": "Thorned Rose",
-"img": "skills/lancelot__s2.png"
-},
-"s3": {
-"name": "Phantom Execution",
-"img": "skills/lancelot__s3.png"
-}
-},
-"angela": {
-"passive": {
-"name": "Smart Heart",
-"img": "skills/angela__passive.png"
-},
-"s1": {
-"name": "Love Waves",
-"img": "skills/angela__s1.png"
-},
-"s2": {
-"name": "Puppet-on-a-String",
-"img": "skills/angela__s2.png"
-},
-"s3": {
-"name": "Heartguard",
-"img": "skills/angela__s3.png"
-}
-},
-"selena": {
-"passive": {
-"name": "Symbiosis",
-"img": "skills/selena__passive.png"
-},
-"s1": {
-"name": "Abyssal Trap",
-"img": "skills/selena__s1.png"
-},
-"s2": {
-"name": "Abyssal Arrow",
-"img": "skills/selena__s2.png"
-},
-"s3": {
-"name": "Primal Darkness",
-"img": "skills/selena__s3.png"
-}
-},
-"kimmy": {
-"passive": {
-"name": "Aerial Dominance",
-"img": "skills/kimmy__passive.png"
-},
-"s1": {
-"name": "Anti-Grav Thruster",
-"img": "skills/kimmy__s1.png"
-},
-"s2": {
-"name": "Starlium Beam",
-"img": "skills/kimmy__s2.png"
-},
-"s3": {
-"name": "Traction Pulse",
-"img": "skills/kimmy__s3.png"
-}
-},
-"granger": {
-"passive": {
-"name": "Capriccio",
-"img": "skills/granger__passive.png"
-},
-"s1": {
-"name": "Rhapsody",
-"img": "skills/granger__s1.png"
-},
-"s2": {
-"name": "Rondo",
-"img": "skills/granger__s2.png"
-},
-"s3": {
-"name": "Death Sonata",
-"img": "skills/granger__s3.png"
-}
-},
-"baxia": {
-"passive": {
-"name": "Baxia Mark",
-"img": "skills/baxia__passive.png"
-},
-"s1": {
-"name": "Baxia-Shield Unity",
-"img": "skills/baxia__s1.png"
-},
-"s2": {
-"name": "Shield of Spirit",
-"img": "skills/baxia__s2.png"
-},
-"s3": {
-"name": "Tortoise's Puissance",
-"img": "skills/baxia__s3.png"
-}
-},
-"yu-zhong": {
-"passive": {
-"name": "Cursing Touch",
-"img": "skills/yu-zhong__passive.png"
-},
-"s1": {
-"name": "Dragon Tail",
-"img": "skills/yu-zhong__s1.png"
-},
-"s2": {
-"name": "Soul Grip",
-"img": "skills/yu-zhong__s2.png"
-},
-"s3": {
-"name": "Black Dragon Form",
-"img": "skills/yu-zhong__s3.png"
-}
-},
-"paquito": {
-"passive": {
-"name": "Champ Stance",
-"img": "skills/paquito__passive.png"
-},
-"s1": {
-"name": "Heavy Left Punch",
-"img": "skills/paquito__s1.png"
-},
-"s2": {
-"name": "Jab",
-"img": "skills/paquito__s2.png"
-},
-"s3": {
-"name": "Knockout Strike",
-"img": "skills/paquito__s3.png"
-}
-},
-"edith": {
-"passive": {
-"name": "Overload",
-"img": "skills/edith__passive.png"
-},
-"s1": {
-"name": "Earth Shatter",
-"img": "skills/edith__s1.png"
-},
-"s2": {
-"name": "Onward",
-"img": "skills/edith__s2.png"
-},
-"s3": {
-"name": "Primal Wrath",
-"img": "skills/edith__s3.png"
-}
-},
-"novaria": {
-"passive": {
-"name": "Star Trail",
-"img": "skills/novaria__passive.png"
-},
-"s1": {
-"name": "Astral Meteor",
-"img": "skills/novaria__s1.png"
-},
-"s2": {
-"name": "Astral Recall",
-"img": "skills/novaria__s2.png"
-},
-"s3": {
-"name": "Astral Echo",
-"img": "skills/novaria__s3.png"
-}
-},
-"lukas": {
-"passive": {
-"name": "Hero's Resolve",
-"img": "skills/lukas__passive.png"
-},
-"s1": {
-"name": "Flash Combo",
-"img": "skills/lukas__s1.png"
-},
-"s2": {
-"name": "Flash Step",
-"img": "skills/lukas__s2.png"
-},
-"s3": {
-"name": "Unleash the Beast",
-"img": "skills/lukas__s3.png"
-}
-},
-"karina": {
-"passive": {
-"name": "Shadow Combo",
-"img": "skills/karina__passive.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Shadow_Combo.png"
-},
-"s1": {
-"name": "Dance of Blades",
-"img": "skills/karina__s1.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Dance_of_Blades.png"
-},
-"s2": {
-"name": "Dance of Death",
-"img": "skills/karina__s2.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Dance_of_Death.png"
-},
-"s3": {
-"name": "Shadow Assault",
-"img": "skills/karina__s3.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Shadow_Assault.png"
-}
-},
-"zilong": {
-"passive": {
-"name": "Dragon Flurry",
-"img": "skills/zilong__passive.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Dragon_Flurry.png"
-},
-"s1": {
-"name": "Spear Flip",
-"img": "skills/zilong__s1.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Spear_Flip.png"
-},
-"s2": {
-"name": "Spear Strike",
-"img": "skills/zilong__s2.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/b/b6/Spear_Strike.png"
-},
-"s3": {
-"name": "Supreme Warrior",
-"img": "skills/zilong__s3.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Supreme_Warrior.png"
-}
-},
-"natalia": {
-"passive": {
-"name": "Assassin Instinct",
-"img": "skills/natalia__passive.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Assassin_Instinct.png"
-},
-"s1": {
-"name": "Claw Dash",
-"img": "skills/natalia__s1.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Claw_Dash.png"
-},
-"s2": {
-"name": "Smoke Bomb",
-"img": "skills/natalia__s2.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Smoke_Bomb.png"
-},
-"s3": {
-"name": "The Hunt",
-"img": "skills/natalia__s3.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/c/c8/The_Hunt.png"
-}
-},
-"johnson": {
-"passive": {
-"name": "Electro Airbag",
-"img": "skills/johnson__passive.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Electro_Airbag.png"
-},
-"s1": {
-"name": "Impact Wrench",
-"img": "skills/johnson__s1.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Impact_Wrench.png"
-},
-"s2": {
-"name": "Electromagnetic Waves",
-"img": "skills/johnson__s2.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/5/5f/Electromagnetic_Waves.png"
-},
-"s3": {
-"name": "Full Throttle",
-"img": "skills/johnson__s3.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Full_Throttle.png"
-}
-},
-"karrie": {
-"passive": {
-"name": "Lightwheel Mark",
-"img": "skills/karrie__passive.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Lightwheel_Mark.png"
-},
-"s1": {
-"name": "Spinning Lightwheel",
-"img": "skills/karrie__s1.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Spinning_Lightwheel.png"
-},
-"s2": {
-"name": "Phantom Step",
-"img": "skills/karrie__s2.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Phantom_Step.png"
-},
-"s3": {
-"name": "Speedy Lightwheel",
-"img": "skills/karrie__s3.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Speedy_Lightwheel.png"
-}
-},
-"diggie": {
-"passive": {
-"name": "Young Again",
-"img": "skills/diggie__passive.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Young_Again.png"
-},
-"s1": {
-"name": "Auto Alarm Bomb",
-"img": "skills/diggie__s1.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/4/4b/Auto_Alarm_Bomb.png"
-},
-"s2": {
-"name": "Reverse Time",
-"img": "skills/diggie__s2.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Reverse_Time.png"
-},
-"s3": {
-"name": "Time Journey",
-"img": "skills/diggie__s3.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Time_Journey.png"
-}
-},
-"gusion": {
-"passive": {
-"name": "Dagger Specialist",
-"img": "skills/gusion__passive.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Dagger_Specialist.png"
-},
-"s1": {
-"name": "Sword Spike",
-"img": "skills/gusion__s1.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Sword_Spike.png"
-},
-"s2": {
-"name": "Shadowblade Slaughter",
-"img": "skills/gusion__s2.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/c/c8/Shadowblade_Slaughter.png"
-},
-"s3": {
-"name": "Incandescence",
-"img": "skills/gusion__s3.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/5/52/Incandescence.png"
-}
-},
-"aldous": {
-"passive": {
-"name": "Contract: Transform",
-"img": "skills/aldous__passive.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Contract_Transform.png"
-},
-"s1": {
-"name": "Contract: Soul Steal",
-"img": "skills/aldous__s1.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Contract_Soul_Steal.png"
-},
-"s2": {
-"name": "Contract: Explosion",
-"img": "skills/aldous__s2.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Contract_Explosion.png"
-},
-"s3": {
-"name": "Contract: Chase Fate",
-"img": "skills/aldous__s3.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Contract_Chase_Fate.png"
-}
-},
-"thamuz": {
-"passive": {
-"name": "Grand Lord Lava",
-"img": "skills/thamuz__passive.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/Grand_Lord_Lava.png"
-},
-"s1": {
-"name": "Molten Scythes",
-"img": "skills/thamuz__s1.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Molten_Scythes.png"
-},
-"s2": {
-"name": "Chasm Trample",
-"img": "skills/thamuz__s2.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Chasm_Trample.png"
-},
-"s3": {
-"name": "Cauterant Inferno",
-"img": "skills/thamuz__s3.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Cauterant_Inferno.png"
-}
-},
-"guinevere": {
-"passive": {
-"name": "Super Magic",
-"img": "skills/guinevere__passive.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Super_Magic.png"
-},
-"s1": {
-"name": "Energy Wave",
-"img": "skills/guinevere__s1.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Energy_Wave.png"
-},
-"s2": {
-"name": "Spatial Migration",
-"img": "skills/guinevere__s2.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Spatial_Migration.png"
-},
-"s3": {
-"name": "Violet Requiem",
-"img": "skills/guinevere__s3.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Violet_Requiem.png"
-}
-},
-"masha": {
-"passive": {
-"name": "Ancient Strength",
-"img": "skills/masha__passive.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Ancient_Strength.png"
-},
-"s1": {
-"name": "Wild Power",
-"img": "skills/masha__s1.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Wild_Power.png"
-},
-"s2": {
-"name": "Howl Shock",
-"img": "skills/masha__s2.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Howl_Shock.png"
-},
-"s3": {
-"name": "Thunderclap",
-"img": "skills/masha__s3.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Thunderclap.png"
-}
-},
-"luo-yi": {
-"passive": {
-"name": "Duality",
-"img": "skills/luo-yi__passive.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Duality.png"
-},
-"s1": {
-"name": "Dispersion",
-"img": "skills/luo-yi__s1.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Dispersion.png"
-},
-"s2": {
-"name": "Rotation",
-"img": "skills/luo-yi__s2.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/c/c9/Rotation.png"
-},
-"s3": {
-"name": "Diversion",
-"img": "skills/luo-yi__s3.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Diversion.png"
-}
-},
-"gloo": {
-"passive": {
-"name": "Stick, Stick",
-"img": "skills/gloo__passive.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Stick%2C_Stick.png"
-},
-"s1": {
-"name": "Slam, Slam",
-"img": "skills/gloo__s1.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Slam%2C_Slam.png"
-},
-"s2": {
-"name": "Spread, Spread",
-"img": "skills/gloo__s2.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/5/53/Spread%2C_Spread.png"
-},
-"s3": {
-"name": "Grab, Grab",
-"img": "skills/gloo__s3.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Grab%2C_Grab.png"
-}
-},
-"floryn": {
-"passive": {
-"name": "Dew",
-"img": "skills/floryn__passive.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Dew.png"
-},
-"s1": {
-"name": "Sow",
-"img": "skills/floryn__s1.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Sow.png"
-},
-"s2": {
-"name": "Sprout",
-"img": "skills/floryn__s2.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Sprout.png"
-},
-"s3": {
-"name": "Bloom",
-"img": "skills/floryn__s3.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Bloom.png"
-}
-},
-"arlott": {
-"passive": {
-"name": "Demon Gaze",
-"img": "skills/arlott__passive.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/4/48/Demon_Gaze.png"
-},
-"s1": {
-"name": "Dauntless Strike",
-"img": "skills/arlott__s1.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Dauntless_Strike.png"
-},
-"s2": {
-"name": "Vengeance",
-"img": "skills/arlott__s2.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Vengeance_%28Arlott%29.png"
-},
-"s3": {
-"name": "Final Slash",
-"img": "skills/arlott__s3.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Final_Slash.png"
-}
-},
-"kalea": {
-"passive": {
-"name": "Surge of Life",
-"img": "skills/kalea__passive.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Surge_of_Life.png"
-},
-"s1": {
-"name": "Wavebreaker",
-"img": "skills/kalea__s1.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Wavebreaker.png"
-},
-"s2": {
-"name": "Tidal Strike",
-"img": "skills/kalea__s2.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/9/91/Tidal_Strike.png"
-},
-"s3": {
-"name": "Tsunami Slam",
-"img": "skills/kalea__s3.png",
-"url": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Tsunami_Slam.png"
-}
-}
+  "akai": {
+    "passive": {
+      "name": "Tai Chi",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/akai__passive.png"
+    },
+    "s1": {
+      "name": "Headbutt",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/akai__s1.png"
+    },
+    "s2": {
+      "name": "Body Slam",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/akai__s2.png"
+    },
+    "s3": {
+      "name": "Heavy Spin",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/akai__s3.png"
+    }
+  },
+  "beatrix": {
+    "passive": {
+      "name": "Mechanical Genius",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/beatrix__passive.png"
+    },
+    "s1": {
+      "name": "Masterful Gunner",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/beatrix__s1.png"
+    },
+    "s2": {
+      "name": "Tactical Reposition",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/beatrix__s2.png"
+    },
+    "s3": {
+      "name": "Renner's Apathy",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/beatrix__s3.png"
+    }
+  },
+  "benedetta": {
+    "passive": {
+      "name": "Elapsed Daytime",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/benedetta__passive.png"
+    },
+    "s1": {
+      "name": "Phantom Slash",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/benedetta__s1.png"
+    },
+    "s2": {
+      "name": "An Eye for An Eye",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/benedetta__s2.png"
+    },
+    "s3": {
+      "name": "Alecto: Final Blow",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/benedetta__s3.png"
+    }
+  },
+  "claude": {
+    "passive": {
+      "name": "Battle Side-by-side",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/claude__passive.png"
+    },
+    "s1": {
+      "name": "Art of Thievery",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/claude__s1.png"
+    },
+    "s2": {
+      "name": "Battle Mirror Image",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/claude__s2.png"
+    },
+    "s3": {
+      "name": "Blazing Duet",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/claude__s3.png"
+    }
+  },
+  "cyclops": {
+    "passive": {
+      "name": "Starlit Hourglass",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/cyclops__passive.png"
+    },
+    "s1": {
+      "name": "Stardust Shock",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/cyclops__s1.png"
+    },
+    "s2": {
+      "name": "Planets Attack",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/cyclops__s2.png"
+    },
+    "s3": {
+      "name": "Star Power Lockdown",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/cyclops__s3.png"
+    }
+  },
+  "esmeralda": {
+    "passive": {
+      "name": "Starmoon Casket",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/esmeralda__passive.png"
+    },
+    "s1": {
+      "name": "Frostmoon Shield",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/esmeralda__s1.png"
+    },
+    "s2": {
+      "name": "Stardust Dance",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/esmeralda__s2.png"
+    },
+    "s3": {
+      "name": "Falling Starmoon",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/esmeralda__s3.png"
+    }
+  },
+  "fanny": {
+    "passive": {
+      "name": "Air Superiority",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/fanny__passive.png"
+    },
+    "s1": {
+      "name": "Tornado Strike",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/fanny__s1.png"
+    },
+    "s2": {
+      "name": "Steel Cable",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/fanny__s2.png"
+    },
+    "s3": {
+      "name": "Cut Throat",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/fanny__s3.png"
+    }
+  },
+  "gatotkaca": {
+    "passive": {
+      "name": "Steel Bones",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/gatotkaca__passive.png"
+    },
+    "s1": {
+      "name": "Blast Iron Fist",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/gatotkaca__s1.png"
+    },
+    "s2": {
+      "name": "Unbreakable",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/gatotkaca__s2.png"
+    },
+    "s3": {
+      "name": "Avatar of the Guardian",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/gatotkaca__s3.png"
+    }
+  },
+  "harith": {
+    "passive": {
+      "name": "Key Insight",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/harith__passive.png"
+    },
+    "s1": {
+      "name": "Synchro Fission",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/harith__s1.png"
+    },
+    "s2": {
+      "name": "Chrono Dash",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/harith__s2.png"
+    },
+    "s3": {
+      "name": "Zaman Force",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/harith__s3.png"
+    }
+  },
+  "hylos": {
+    "passive": {
+      "name": "Thickened Blood",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/hylos__passive.png"
+    },
+    "s1": {
+      "name": "Law and Order",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/hylos__s1.png"
+    },
+    "s2": {
+      "name": "Ring of Punishment",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/hylos__s2.png"
+    },
+    "s3": {
+      "name": "Glorious Pathway",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/hylos__s3.png"
+    }
+  },
+  "ixia": {
+    "passive": {
+      "name": "Siphon Starlium",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/ixia__passive.png"
+    },
+    "s1": {
+      "name": "Dual Beam",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/ixia__s1.png"
+    },
+    "s2": {
+      "name": "Star Helix",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/ixia__s2.png"
+    },
+    "s3": {
+      "name": "Full Barrage",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/ixia__s3.png"
+    }
+  },
+  "kagura": {
+    "passive": {
+      "name": "Yin Yang Gathering",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/kagura__passive.png"
+    },
+    "s1": {
+      "name": "Seimei Umbrella Open",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/kagura__s1.png"
+    },
+    "s2": {
+      "name": "Rasho Umbrella Flee",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/kagura__s2.png"
+    },
+    "s3": {
+      "name": "Yin Yang Overturn",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/kagura__s3.png"
+    }
+  },
+  "miya": {
+    "passive": {
+      "name": "Moon Blessing",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/miya__passive.png"
+    },
+    "s1": {
+      "name": "Moon Arrow",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/miya__s1.png"
+    },
+    "s2": {
+      "name": "Arrow of Eclipse",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/miya__s2.png"
+    },
+    "s3": {
+      "name": "Hidden Moonlight",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/miya__s3.png"
+    }
+  },
+  "valir": {
+    "passive": {
+      "name": "Ashing",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/valir__passive.png"
+    },
+    "s1": {
+      "name": "Burst Fireball",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/valir__s1.png"
+    },
+    "s2": {
+      "name": "Searing Torrent",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/valir__s2.png"
+    },
+    "s3": {
+      "name": "Vengeance Flame",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/valir__s3.png"
+    }
+  },
+  "wanwan": {
+    "passive": {
+      "name": "Tiger Pace",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/wanwan__passive.png"
+    },
+    "s1": {
+      "name": "Swallow's Path",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/wanwan__s1.png"
+    },
+    "s2": {
+      "name": "Needles in Flowers",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/wanwan__s2.png"
+    },
+    "s3": {
+      "name": "Crossbow of Tang",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/wanwan__s3.png"
+    }
+  },
+  "yin": {
+    "passive": {
+      "name": "Leave It to Me",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/yin__passive.png"
+    },
+    "s1": {
+      "name": "Charged Punch",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/yin__s1.png"
+    },
+    "s2": {
+      "name": "Instant Blast",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/yin__s2.png"
+    },
+    "s3": {
+      "name": "My Turn",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/yin__s3.png"
+    }
+  },
+  "zetian": {
+    "passive": {
+      "name": "Celestial Armament",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/zetian__passive.png"
+    },
+    "s1": {
+      "name": "Phoenix Strike",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/zetian__s1.png"
+    },
+    "s2": {
+      "name": "Phoenix Descent",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/zetian__s2.png"
+    },
+    "s3": {
+      "name": "Fury of the Phoenix",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/zetian__s3.png"
+    }
+  },
+  "balmond": {
+    "passive": {
+      "name": "Bloodthirst",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/balmond__passive.png"
+    },
+    "s1": {
+      "name": "Soul Lock",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/balmond__s1.png"
+    },
+    "s2": {
+      "name": "Cyclone Sweep",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/balmond__s2.png"
+    },
+    "s3": {
+      "name": "Lethal Counter",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/balmond__s3.png"
+    }
+  },
+  "franco": {
+    "passive": {
+      "name": "Wasteland Force",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/franco__passive.png"
+    },
+    "s1": {
+      "name": "Iron Hook",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/franco__s1.png"
+    },
+    "s2": {
+      "name": "Fury Shock",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/franco__s2.png"
+    },
+    "s3": {
+      "name": "Bloody Hunt",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/franco__s3.png"
+    }
+  },
+  "layla": {
+    "passive": {
+      "name": "Malefic Gun",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/layla__passive.png"
+    },
+    "s1": {
+      "name": "Malefic Bomb",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/layla__s1.png"
+    },
+    "s2": {
+      "name": "Void Projectile",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/layla__s2.png"
+    },
+    "s3": {
+      "name": "Destruction Rush",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/layla__s3.png"
+    }
+  },
+  "chou": {
+    "passive": {
+      "name": "Only Fast",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/chou__passive.png"
+    },
+    "s1": {
+      "name": "Jeet Kune Do",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/chou__s1.png"
+    },
+    "s2": {
+      "name": "Shunpo",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/chou__s2.png"
+    },
+    "s3": {
+      "name": "The Way of Dragon",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/chou__s3.png"
+    }
+  },
+  "estes": {
+    "passive": {
+      "name": "Scripture of the Moon Elf",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/estes__passive.png"
+    },
+    "s1": {
+      "name": "Moonlight Immersion",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/estes__s1.png"
+    },
+    "s2": {
+      "name": "Domain of Moon Goddess",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/estes__s2.png"
+    },
+    "s3": {
+      "name": "Blessing of Moon Goddess",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/estes__s3.png"
+    }
+  },
+  "harley": {
+    "passive": {
+      "name": "Magic Master",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/harley__passive.png"
+    },
+    "s1": {
+      "name": "Poker Trick",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/harley__s1.png"
+    },
+    "s2": {
+      "name": "Space Escape",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/harley__s2.png"
+    },
+    "s3": {
+      "name": "Deadly Magic",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/harley__s3.png"
+    }
+  },
+  "zhask": {
+    "passive": {
+      "name": "Decimation",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/zhask__passive.png"
+    },
+    "s1": {
+      "name": "Nightmaric Spawn",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/zhask__s1.png"
+    },
+    "s2": {
+      "name": "Mind Eater",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/zhask__s2.png"
+    },
+    "s3": {
+      "name": "Dominator's Descent",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/zhask__s3.png"
+    }
+  },
+  "martis": {
+    "passive": {
+      "name": "Asura's Wrath",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/martis__passive.png"
+    },
+    "s1": {
+      "name": "Asura Aura",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/martis__s1.png"
+    },
+    "s2": {
+      "name": "Mortal Coil",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/martis__s2.png"
+    },
+    "s3": {
+      "name": "Decimation",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/martis__s3.png"
+    }
+  },
+  "vale": {
+    "passive": {
+      "name": "Windtalk",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/vale__passive.png"
+    },
+    "s1": {
+      "name": "Wind Blade",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/vale__s1.png"
+    },
+    "s2": {
+      "name": "Windblow",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/vale__s2.png"
+    },
+    "s3": {
+      "name": "Windstorm",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/vale__s3.png"
+    }
+  },
+  "minsitthar": {
+    "passive": {
+      "name": "Mark of the King",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/minsitthar__passive.png"
+    },
+    "s1": {
+      "name": "Spear of Glory",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/minsitthar__s1.png"
+    },
+    "s2": {
+      "name": "Shield Assault",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/minsitthar__s2.png"
+    },
+    "s3": {
+      "name": "King's Calling",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/minsitthar__s3.png"
+    }
+  },
+  "terizla": {
+    "passive": {
+      "name": "Body of Smith",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/terizla__passive.png"
+    },
+    "s1": {
+      "name": "Revenge Strike",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/terizla__s1.png"
+    },
+    "s2": {
+      "name": "Execution Strike",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/terizla__s2.png"
+    },
+    "s3": {
+      "name": "Penalty Zone",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/terizla__s3.png"
+    }
+  },
+  "silvanna": {
+    "passive": {
+      "name": "Knightess' Resolve",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/silvanna__passive.png"
+    },
+    "s1": {
+      "name": "Cometic Lance",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/silvanna__s1.png"
+    },
+    "s2": {
+      "name": "Spiral Strangling",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/silvanna__s2.png"
+    },
+    "s3": {
+      "name": "Imperial Justice",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/silvanna__s3.png"
+    }
+  },
+  "khaleed": {
+    "passive": {
+      "name": "Sand Walk",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/khaleed__passive.png"
+    },
+    "s1": {
+      "name": "Desert Tornado",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/khaleed__s1.png"
+    },
+    "s2": {
+      "name": "Quicksand Guard",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/khaleed__s2.png"
+    },
+    "s3": {
+      "name": "Raging Sandstorm",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/khaleed__s3.png"
+    }
+  },
+  "phoveus": {
+    "passive": {
+      "name": "Demonic Force",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/phoveus__passive.png"
+    },
+    "s1": {
+      "name": "Demonic Impact",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/phoveus__s1.png"
+    },
+    "s2": {
+      "name": "Dark Wave",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/phoveus__s2.png"
+    },
+    "s3": {
+      "name": "Infernal Pursuit",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/phoveus__s3.png"
+    }
+  },
+  "melissa": {
+    "passive": {
+      "name": "Doll Buster",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/melissa__passive.png"
+    },
+    "s1": {
+      "name": "Falling!",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/melissa__s1.png"
+    },
+    "s2": {
+      "name": "Eyes on You!",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/melissa__s2.png"
+    },
+    "s3": {
+      "name": "Go Away!",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/melissa__s3.png"
+    }
+  },
+  "nolan": {
+    "passive": {
+      "name": "Dimensional Rift",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/nolan__passive.png"
+    },
+    "s1": {
+      "name": "Expansion",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/nolan__s1.png"
+    },
+    "s2": {
+      "name": "Gauge",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/nolan__s2.png"
+    },
+    "s3": {
+      "name": "Fracture",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/nolan__s3.png"
+    }
+  },
+  "obsidia": {
+    "passive": {
+      "name": "Return to Bone",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/obsidia__passive.png"
+    },
+    "s1": {
+      "name": "Abyssal Bone Needle",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/obsidia__s1.png"
+    },
+    "s2": {
+      "name": "Phantom Shadowmeld",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/obsidia__s2.png"
+    },
+    "s3": {
+      "name": "Hunt of Bone",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/obsidia__s3.png"
+    }
+  },
+  "saber": {
+    "passive": {
+      "name": "Enemy's Bane",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/saber__passive.png"
+    },
+    "s1": {
+      "name": "Orbiting Swords",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/saber__s1.png"
+    },
+    "s2": {
+      "name": "Charge",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/saber__s2.png"
+    },
+    "s3": {
+      "name": "Triple Sweep",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/saber__s3.png"
+    }
+  },
+  "bane": {
+    "passive": {
+      "name": "Shark Bite",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/bane__passive.png"
+    },
+    "s1": {
+      "name": "Crab Claw Cannon",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/bane__s1.png"
+    },
+    "s2": {
+      "name": "Ale",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/bane__s2.png"
+    },
+    "s3": {
+      "name": "Deadly Catch",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/bane__s3.png"
+    }
+  },
+  "minotaur": {
+    "passive": {
+      "name": "Rage Incarnate",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/minotaur__passive.png"
+    },
+    "s1": {
+      "name": "Despair Stomp",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/minotaur__s1.png"
+    },
+    "s2": {
+      "name": "Motivation Roar",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/minotaur__s2.png"
+    },
+    "s3": {
+      "name": "Minoan Fury",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/minotaur__s3.png"
+    }
+  },
+  "sun": {
+    "passive": {
+      "name": "Simian God",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/sun__passive.png"
+    },
+    "s1": {
+      "name": "Endless Variety",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/sun__s1.png"
+    },
+    "s2": {
+      "name": "Swift Exchange",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/sun__s2.png"
+    },
+    "s3": {
+      "name": "Clone Techniques",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/sun__s3.png"
+    }
+  },
+  "hilda": {
+    "passive": {
+      "name": "Blessing of Wilderness",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/hilda__passive.png"
+    },
+    "s1": {
+      "name": "Combat Ritual",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/hilda__s1.png"
+    },
+    "s2": {
+      "name": "Art of Hunting",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/hilda__s2.png"
+    },
+    "s3": {
+      "name": "Power of Wildness",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/hilda__s3.png"
+    }
+  },
+  "irithel": {
+    "passive": {
+      "name": "Jungle Heart",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/irithel__passive.png"
+    },
+    "s1": {
+      "name": "Strafe",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/irithel__s1.png"
+    },
+    "s2": {
+      "name": "Force of the Queen",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/irithel__s2.png"
+    },
+    "s3": {
+      "name": "Heavy Crossbow",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/irithel__s3.png"
+    }
+  },
+  "helcurt": {
+    "passive": {
+      "name": "Shadow of Styx",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/helcurt__passive.png"
+    },
+    "s1": {
+      "name": "Hidden Terror",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/helcurt__s1.png"
+    },
+    "s2": {
+      "name": "Deadly Stinger",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/helcurt__s2.png"
+    },
+    "s3": {
+      "name": "Dark Night Falls",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/helcurt__s3.png"
+    }
+  },
+  "uranus": {
+    "passive": {
+      "name": "Radiance",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/uranus__passive.png"
+    },
+    "s1": {
+      "name": "Ionic Edge",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/uranus__s1.png"
+    },
+    "s2": {
+      "name": "Transcendent Ward",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/uranus__s2.png"
+    },
+    "s3": {
+      "name": "Consecration",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/uranus__s3.png"
+    }
+  },
+  "leomord": {
+    "passive": {
+      "name": "The Oath Keeper",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/leomord__passive.png"
+    },
+    "s1": {
+      "name": "Momentum",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/leomord__s1.png"
+    },
+    "s2": {
+      "name": "Decimation Assault",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/leomord__s2.png"
+    },
+    "s3": {
+      "name": "Phantom Steed",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/leomord__s3.png"
+    }
+  },
+  "kadita": {
+    "passive": {
+      "name": "Thalassophobia",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/kadita__passive.png"
+    },
+    "s1": {
+      "name": "Ocean Ode",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/kadita__s1.png"
+    },
+    "s2": {
+      "name": "Breath of the Ocean",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/kadita__s2.png"
+    },
+    "s3": {
+      "name": "Rough Waves",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/kadita__s3.png"
+    }
+  },
+  "x-borg": {
+    "passive": {
+      "name": "Firaga Armor",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/x-borg__passive.png"
+    },
+    "s1": {
+      "name": "Fire Missiles",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/x-borg__s1.png"
+    },
+    "s2": {
+      "name": "Fire Stake",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/x-borg__s2.png"
+    },
+    "s3": {
+      "name": "Last Insanity",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/x-borg__s3.png"
+    }
+  },
+  "cecilion": {
+    "passive": {
+      "name": "Overflowing",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/cecilion__passive.png"
+    },
+    "s1": {
+      "name": "Bat Impact",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/cecilion__s1.png"
+    },
+    "s2": {
+      "name": "Sanguine Claws",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/cecilion__s2.png"
+    },
+    "s3": {
+      "name": "Bats Feast",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/cecilion__s3.png"
+    }
+  },
+  "barats": {
+    "passive": {
+      "name": "Big Guy",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/barats__passive.png"
+    },
+    "s1": {
+      "name": "So-Called Teamwork",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/barats__s1.png"
+    },
+    "s2": {
+      "name": "Missile \"Expert\"",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/barats__s2.png"
+    },
+    "s3": {
+      "name": "Detona's Welcome",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/barats__s3.png"
+    }
+  },
+  "natan": {
+    "passive": {
+      "name": "Theory of Everything",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/natan__passive.png"
+    },
+    "s1": {
+      "name": "Superposition",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/natan__s1.png"
+    },
+    "s2": {
+      "name": "Interference!",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/natan__s2.png"
+    },
+    "s3": {
+      "name": "Entropy?",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/natan__s3.png"
+    }
+  },
+  "xavier": {
+    "passive": {
+      "name": "Transcendence",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/xavier__passive.png"
+    },
+    "s1": {
+      "name": "Infinite Extension",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/xavier__s1.png"
+    },
+    "s2": {
+      "name": "Mystic Field",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/xavier__s2.png"
+    },
+    "s3": {
+      "name": "Dawning Light",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/xavier__s3.png"
+    }
+  },
+  "cici": {
+    "passive": {
+      "name": "Performer's Delight",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/cici__passive.png"
+    },
+    "s1": {
+      "name": "Yo-Yo Blitz",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/cici__s1.png"
+    },
+    "s2": {
+      "name": "Buoyant Bounce",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/cici__s2.png"
+    },
+    "s3": {
+      "name": "Curtain Call",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/cici__s3.png"
+    }
+  },
+  "sora": {
+    "passive": {
+      "name": "Mystic Surge",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/sora__passive.png"
+    },
+    "s1": {
+      "name": "Sundering Strike",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/sora__s1.png"
+    },
+    "s2": {
+      "name": "Windstride",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/sora__s2.png"
+    },
+    "s3": {
+      "name": "Shifting Skies",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/sora__s3.png"
+    }
+  },
+  "alice": {
+    "passive": {
+      "name": "Crimson Blood Banquet",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/alice__passive.png"
+    },
+    "s1": {
+      "name": "Crimson Gleam",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/alice__s1.png"
+    },
+    "s2": {
+      "name": "Doom Waltz",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/alice__s2.png"
+    },
+    "s3": {
+      "name": "Throne of Ruin",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/alice__s3.png"
+    }
+  },
+  "bruno": {
+    "passive": {
+      "name": "Mecha Legs",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/bruno__passive.png"
+    },
+    "s1": {
+      "name": "Volley Shot",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/bruno__s1.png"
+    },
+    "s2": {
+      "name": "Flying Tackle",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/bruno__s2.png"
+    },
+    "s3": {
+      "name": "Worldie",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/bruno__s3.png"
+    }
+  },
+  "lolita": {
+    "passive": {
+      "name": "Noumenon Energy Core",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/lolita__passive.png"
+    },
+    "s1": {
+      "name": "Power Charge",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/lolita__s1.png"
+    },
+    "s2": {
+      "name": "Guardian's Reflection",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/lolita__s2.png"
+    },
+    "s3": {
+      "name": "Noumenon Blast",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/lolita__s3.png"
+    }
+  },
+  "alpha": {
+    "passive": {
+      "name": "Beta, Advance!",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/alpha__passive.png"
+    },
+    "s1": {
+      "name": "Rotary Impact",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/alpha__s1.png"
+    },
+    "s2": {
+      "name": "Force Swing",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/alpha__s2.png"
+    },
+    "s3": {
+      "name": "Spear of Alpha",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/alpha__s3.png"
+    }
+  },
+  "aurora": {
+    "passive": {
+      "name": "Pride of Ice",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/aurora__passive.png"
+    },
+    "s1": {
+      "name": "Hailstone Blast",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/aurora__s1.png"
+    },
+    "s2": {
+      "name": "Frosty Breeze",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/aurora__s2.png"
+    },
+    "s3": {
+      "name": "Frigid Glacier",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/aurora__s3.png"
+    }
+  },
+  "grock": {
+    "passive": {
+      "name": "Bastion of Stone",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/grock__passive.png"
+    },
+    "s1": {
+      "name": "Mighty Swing",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/grock__s1.png"
+    },
+    "s2": {
+      "name": "Earthen Rampart",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/grock__s2.png"
+    },
+    "s3": {
+      "name": "Tectonic Charge",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/grock__s3.png"
+    }
+  },
+  "pharsa": {
+    "passive": {
+      "name": "Spiritual Unity",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/pharsa__passive.png"
+    },
+    "s1": {
+      "name": "Curse of Crow",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/pharsa__s1.png"
+    },
+    "s2": {
+      "name": "Energy Impact",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/pharsa__s2.png"
+    },
+    "s3": {
+      "name": "Feathered Air Strike",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/pharsa__s3.png"
+    }
+  },
+  "hanabi": {
+    "passive": {
+      "name": "Ninjutsu: Petal Barrage",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/hanabi__passive.png"
+    },
+    "s1": {
+      "name": "Ninjutsu: Equinox",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/hanabi__s1.png"
+    },
+    "s2": {
+      "name": "Ninjutsu: Soul Scroll",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/hanabi__s2.png"
+    },
+    "s3": {
+      "name": "Forbidden Jutsu: Higanbana",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/hanabi__s3.png"
+    }
+  },
+  "lunox": {
+    "passive": {
+      "name": "Dreamland Twist",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/lunox__passive.png"
+    },
+    "s1": {
+      "name": "Starlight Pulse",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/lunox__s1.png"
+    },
+    "s2": {
+      "name": "Chaos Assault",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/lunox__s2.png"
+    },
+    "s3": {
+      "name": "Cosmic Fission",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/lunox__s3.png"
+    }
+  },
+  "faramis": {
+    "passive": {
+      "name": "Vicious Retrieval",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/faramis__passive.png"
+    },
+    "s1": {
+      "name": "Shadow Stampede",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/faramis__s1.png"
+    },
+    "s2": {
+      "name": "Ghost Bursters",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/faramis__s2.png"
+    },
+    "s3": {
+      "name": "Nether Realm",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/faramis__s3.png"
+    }
+  },
+  "ling": {
+    "passive": {
+      "name": "Cloud Walker",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/ling__passive.png"
+    },
+    "s1": {
+      "name": "Finch Poise",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/ling__s1.png"
+    },
+    "s2": {
+      "name": "Defiant Sword",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/ling__s2.png"
+    },
+    "s3": {
+      "name": "Tempest of Blades",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/ling__s3.png"
+    }
+  },
+  "carmilla": {
+    "passive": {
+      "name": "Vampire Pact",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/carmilla__passive.png"
+    },
+    "s1": {
+      "name": "Crimson Flower",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/carmilla__s1.png"
+    },
+    "s2": {
+      "name": "Bloodbath",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/carmilla__s2.png"
+    },
+    "s3": {
+      "name": "Curse of Blood",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/carmilla__s3.png"
+    }
+  },
+  "brody": {
+    "passive": {
+      "name": "Abyss Corrosion",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/brody__passive.png"
+    },
+    "s1": {
+      "name": "Abyss Impact",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/brody__s1.png"
+    },
+    "s2": {
+      "name": "Corrosive Strike",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/brody__s2.png"
+    },
+    "s3": {
+      "name": "Torn-Apart Memory",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/brody__s3.png"
+    }
+  },
+  "aulus": {
+    "passive": {
+      "name": "Fighting Spirit",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/aulus__passive.png"
+    },
+    "s1": {
+      "name": "Aulus, Charge!",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/aulus__s1.png"
+    },
+    "s2": {
+      "name": "The Power of Axe",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/aulus__s2.png"
+    },
+    "s3": {
+      "name": "Cleaving Axe",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/aulus__s3.png"
+    }
+  },
+  "julian": {
+    "passive": {
+      "name": "Smith's Legacy",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/julian__passive.png"
+    },
+    "s1": {
+      "name": "Scythe",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/julian__s1.png"
+    },
+    "s2": {
+      "name": "Sword",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/julian__s2.png"
+    },
+    "s3": {
+      "name": "Chain",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/julian__s3.png"
+    }
+  },
+  "chip": {
+    "passive": {
+      "name": "Snack Time!",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/chip__passive.png"
+    },
+    "s1": {
+      "name": "Crash Course",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/chip__s1.png"
+    },
+    "s2": {
+      "name": "Overtime",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/chip__s2.png"
+    },
+    "s3": {
+      "name": "Shortcut",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/chip__s3.png"
+    }
+  },
+  "marcel": {
+    "passive": {
+      "name": "Platinum Snap",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/marcel__passive.png"
+    },
+    "s1": {
+      "name": "Framed Moment",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/marcel__s1.png"
+    },
+    "s2": {
+      "name": "Tracking Shot",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/marcel__s2.png"
+    },
+    "s3": {
+      "name": "Golden Hour",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/marcel__s3.png"
+    }
+  },
+  "nana": {
+    "passive": {
+      "name": "Molina's Gift",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/nana__passive.png"
+    },
+    "s1": {
+      "name": "Magic Boomerang",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/nana__s1.png"
+    },
+    "s2": {
+      "name": "Molina Smooch",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/nana__s2.png"
+    },
+    "s3": {
+      "name": "Molina Blitz",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/nana__s3.png"
+    }
+  },
+  "clint": {
+    "passive": {
+      "name": "Double Shot",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/clint__passive.png"
+    },
+    "s1": {
+      "name": "Quick Draw",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/clint__s1.png"
+    },
+    "s2": {
+      "name": "Trapping Recoil",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/clint__s2.png"
+    },
+    "s3": {
+      "name": "Grenade Bombardment",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/clint__s3.png"
+    }
+  },
+  "hayabusa": {
+    "passive": {
+      "name": "Ninjutsu: Trace of Shadow",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/hayabusa__passive.png"
+    },
+    "s1": {
+      "name": "Ninjutsu: Phantom Shuriken",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/hayabusa__s1.png"
+    },
+    "s2": {
+      "name": "Ninjutsu: Quad Shadow",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/hayabusa__s2.png"
+    },
+    "s3": {
+      "name": "Ougi: Shadow Kill",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/hayabusa__s3.png"
+    }
+  },
+  "ruby": {
+    "passive": {
+      "name": "Let's Dance!",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/ruby__passive.png"
+    },
+    "s1": {
+      "name": "Be Good!",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/ruby__s1.png"
+    },
+    "s2": {
+      "name": "Don't Run, Wolf King!",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/ruby__s2.png"
+    },
+    "s3": {
+      "name": "I'm Offended!",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/ruby__s3.png"
+    }
+  },
+  "lapu-lapu": {
+    "passive": {
+      "name": "Homeland Defender",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/lapu-lapu__passive.png"
+    },
+    "s1": {
+      "name": "Justice Blades",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/lapu-lapu__s1.png"
+    },
+    "s2": {
+      "name": "Jungle Warrior",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/lapu-lapu__s2.png"
+    },
+    "s3": {
+      "name": "Bravest Fighter",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/lapu-lapu__s3.png"
+    }
+  },
+  "argus": {
+    "passive": {
+      "name": "Warmonger",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/argus__passive.png"
+    },
+    "s1": {
+      "name": "Demonic Grip",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/argus__s1.png"
+    },
+    "s2": {
+      "name": "Meteoric Sword",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/argus__s2.png"
+    },
+    "s3": {
+      "name": "Eternal Evil",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/argus__s3.png"
+    }
+  },
+  "lesley": {
+    "passive": {
+      "name": "Lethal Shot",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/lesley__passive.png"
+    },
+    "s1": {
+      "name": "Master of Camouflage",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/lesley__s1.png"
+    },
+    "s2": {
+      "name": "Tactical Grenade",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/lesley__s2.png"
+    },
+    "s3": {
+      "name": "Ultimate Snipe",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/lesley__s3.png"
+    }
+  },
+  "chang'e": {
+    "passive": {
+      "name": "Trouble Maker",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/chang'e__passive.png"
+    },
+    "s1": {
+      "name": "Starmoon Shockwave",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/chang'e__s1.png"
+    },
+    "s2": {
+      "name": "Crescent Moon",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/chang'e__s2.png"
+    },
+    "s3": {
+      "name": "Meteor Shower",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/chang'e__s3.png"
+    }
+  },
+  "hanzo": {
+    "passive": {
+      "name": "Ame No Habakiri",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/hanzo__passive.png"
+    },
+    "s1": {
+      "name": "Ninjutsu: Demon Feast",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/hanzo__s1.png"
+    },
+    "s2": {
+      "name": "Ninjutsu: Dark Mist",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/hanzo__s2.png"
+    },
+    "s3": {
+      "name": "Kinjutsu: Pinnacle Ninja",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/hanzo__s3.png"
+    }
+  },
+  "badang": {
+    "passive": {
+      "name": "Chivalry Fist",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/badang__passive.png"
+    },
+    "s1": {
+      "name": "Fist Wind",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/badang__s1.png"
+    },
+    "s2": {
+      "name": "Fist Break",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/badang__s2.png"
+    },
+    "s3": {
+      "name": "Fist Crack",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/badang__s3.png"
+    }
+  },
+  "dyrroth": {
+    "passive": {
+      "name": "Wrath of the Abyss",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/dyrroth__passive.png"
+    },
+    "s1": {
+      "name": "Burst Strike",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/dyrroth__s1.png"
+    },
+    "s2": {
+      "name": "Spectre Step",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/dyrroth__s2.png"
+    },
+    "s3": {
+      "name": "Abysm Strike",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/dyrroth__s3.png"
+    }
+  },
+  "atlas": {
+    "passive": {
+      "name": "Frigid Breath",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/atlas__passive.png"
+    },
+    "s1": {
+      "name": "Annihilate",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/atlas__s1.png"
+    },
+    "s2": {
+      "name": "Perfect Match",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/atlas__s2.png"
+    },
+    "s3": {
+      "name": "Fatal Links",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/atlas__s3.png"
+    }
+  },
+  "yve": {
+    "passive": {
+      "name": "Galactic Power",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/yve__passive.png"
+    },
+    "s1": {
+      "name": "Void Blast",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/yve__s1.png"
+    },
+    "s2": {
+      "name": "Void Crystal",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/yve__s2.png"
+    },
+    "s3": {
+      "name": "Real World Manipulation",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/yve__s3.png"
+    }
+  },
+  "aamon": {
+    "passive": {
+      "name": "Invisible Armor",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/aamon__passive.png"
+    },
+    "s1": {
+      "name": "Soul Shards",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/aamon__s1.png"
+    },
+    "s2": {
+      "name": "Slayer Shards",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/aamon__s2.png"
+    },
+    "s3": {
+      "name": "Endless Shards",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/aamon__s3.png"
+    }
+  },
+  "fredrinn": {
+    "passive": {
+      "name": "Crystalline Armor",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/fredrinn__passive.png"
+    },
+    "s1": {
+      "name": "Piercing Strike",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/fredrinn__s1.png"
+    },
+    "s2": {
+      "name": "Brave Assault",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/fredrinn__s2.png"
+    },
+    "s3": {
+      "name": "Energy Eruption",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/fredrinn__s3.png"
+    }
+  },
+  "zhuxin": {
+    "passive": {
+      "name": "Crimson Butterflies",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/zhuxin__passive.png"
+    },
+    "s1": {
+      "name": "Fluttering Grace",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/zhuxin__s1.png"
+    },
+    "s2": {
+      "name": "Lantern Flare",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/zhuxin__s2.png"
+    },
+    "s3": {
+      "name": "Crimson Beacon",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/zhuxin__s3.png"
+    }
+  },
+  "hirara": {
+    "passive": {
+      "name": "Twin Fans: Ukifune",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/hirara__passive.png"
+    },
+    "s1": {
+      "name": "Meisen-e",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/hirara__s1.png"
+    },
+    "s2": {
+      "name": "Kaerazu",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/hirara__s2.png"
+    },
+    "s3": {
+      "name": "Infernal Torrent",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/hirara__s3.png"
+    }
+  },
+  "tigreal": {
+    "passive": {
+      "name": "Fearless",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/tigreal__passive.png"
+    },
+    "s1": {
+      "name": "Attack Wave",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/tigreal__s1.png"
+    },
+    "s2": {
+      "name": "Sacred Hammer",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/tigreal__s2.png"
+    },
+    "s3": {
+      "name": "Implosion",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/tigreal__s3.png"
+    }
+  },
+  "rafaela": {
+    "passive": {
+      "name": "Divine Resurrection",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/rafaela__passive.png"
+    },
+    "s1": {
+      "name": "Light of Retribution",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/rafaela__s1.png"
+    },
+    "s2": {
+      "name": "Holy Healing",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/rafaela__s2.png"
+    },
+    "s3": {
+      "name": "Holy Baptism",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/rafaela__s3.png"
+    }
+  },
+  "freya": {
+    "passive": {
+      "name": "Power of Einherjar",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/freya__passive.png"
+    },
+    "s1": {
+      "name": "Leap of Faith",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/freya__s1.png"
+    },
+    "s2": {
+      "name": "Valkyrie Slash",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/freya__s2.png"
+    },
+    "s3": {
+      "name": "Valkyrie Descent",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/freya__s3.png"
+    }
+  },
+  "yi-sun-shin": {
+    "passive": {
+      "name": "Heavenly Vow",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/yi-sun-shin__passive.png"
+    },
+    "s1": {
+      "name": "Traceless",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/yi-sun-shin__s1.png"
+    },
+    "s2": {
+      "name": "Blood Floods",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/yi-sun-shin__s2.png"
+    },
+    "s3": {
+      "name": "Mountain Shocker",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/yi-sun-shin__s3.png"
+    }
+  },
+  "vexana": {
+    "passive": {
+      "name": "Nether Touch",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/vexana__passive.png"
+    },
+    "s1": {
+      "name": "Deathly Grasp",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/vexana__s1.png"
+    },
+    "s2": {
+      "name": "Cursed Blast",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/vexana__s2.png"
+    },
+    "s3": {
+      "name": "Eternal Guard",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/vexana__s3.png"
+    }
+  },
+  "odette": {
+    "passive": {
+      "name": "Lakeshore Ambience",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/odette__passive.png"
+    },
+    "s1": {
+      "name": "Avian Authority",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/odette__s1.png"
+    },
+    "s2": {
+      "name": "Blue Nova",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/odette__s2.png"
+    },
+    "s3": {
+      "name": "Swan Song",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/odette__s3.png"
+    }
+  },
+  "jawhead": {
+    "passive": {
+      "name": "Mecha Suppression",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/jawhead__passive.png"
+    },
+    "s1": {
+      "name": "Smart Missiles",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/jawhead__s1.png"
+    },
+    "s2": {
+      "name": "Ejector",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/jawhead__s2.png"
+    },
+    "s3": {
+      "name": "Unstoppable Force",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/jawhead__s3.png"
+    }
+  },
+  "kaja": {
+    "passive": {
+      "name": "Wings of Lightning",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/kaja__passive.png"
+    },
+    "s1": {
+      "name": "Ring of Order",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/kaja__s1.png"
+    },
+    "s2": {
+      "name": "Soaring Wings",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/kaja__s2.png"
+    },
+    "s3": {
+      "name": "Divine Binding",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/kaja__s3.png"
+    }
+  },
+  "belerick": {
+    "passive": {
+      "name": "Deadly Thorns",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/belerick__passive.png"
+    },
+    "s1": {
+      "name": "Ancient Seed",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/belerick__s1.png"
+    },
+    "s2": {
+      "name": "Nature's Strike",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/belerick__s2.png"
+    },
+    "s3": {
+      "name": "Wrath of Dryad",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/belerick__s3.png"
+    }
+  },
+  "khufra": {
+    "passive": {
+      "name": "Spell Curse",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/khufra__passive.png"
+    },
+    "s1": {
+      "name": "Tyrant's Revenge",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/khufra__s1.png"
+    },
+    "s2": {
+      "name": "Bouncing Ball",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/khufra__s2.png"
+    },
+    "s3": {
+      "name": "Tyrant's Rage",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/khufra__s3.png"
+    }
+  },
+  "lylia": {
+    "passive": {
+      "name": "Angry Gloom",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/lylia__passive.png"
+    },
+    "s1": {
+      "name": "Magic Shockwave",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/lylia__s1.png"
+    },
+    "s2": {
+      "name": "Shadow Energy",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/lylia__s2.png"
+    },
+    "s3": {
+      "name": "Black Shoes",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/lylia__s3.png"
+    }
+  },
+  "popol-and-kupa": {
+    "passive": {
+      "name": "We Are Friends",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/popol-and-kupa__passive.png"
+    },
+    "s1": {
+      "name": "Bite 'em, Kupa!",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/popol-and-kupa__s1.png"
+    },
+    "s2": {
+      "name": "Kupa, Help!",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/popol-and-kupa__s2.png"
+    },
+    "s3": {
+      "name": "Popol's Surprise",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/popol-and-kupa__s3.png"
+    }
+  },
+  "mathilda": {
+    "passive": {
+      "name": "Ancestral Guidance",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/mathilda__passive.png"
+    },
+    "s1": {
+      "name": "Soul Bloom",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/mathilda__s1.png"
+    },
+    "s2": {
+      "name": "Guiding Wind",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/mathilda__s2.png"
+    },
+    "s3": {
+      "name": "Circling Eagle",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/mathilda__s3.png"
+    }
+  },
+  "valentina": {
+    "passive": {
+      "name": "Primal Force",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/valentina__passive.png"
+    },
+    "s1": {
+      "name": "Shadow Strike",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/valentina__s1.png"
+    },
+    "s2": {
+      "name": "Arcane Shade",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/valentina__s2.png"
+    },
+    "s3": {
+      "name": "I Am You",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/valentina__s3.png"
+    }
+  },
+  "joy": {
+    "passive": {
+      "name": "Humph, Joy's Angry!",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/joy__passive.png"
+    },
+    "s1": {
+      "name": "Look, Leonin Crystal!",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/joy__s1.png"
+    },
+    "s2": {
+      "name": "Meow, Rhythm of Joy!",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/joy__s2.png"
+    },
+    "s3": {
+      "name": "Ha, Electrifying Beats!",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/joy__s3.png"
+    }
+  },
+  "suyou": {
+    "passive": {
+      "name": "Transient Immortal",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/suyou__passive.png"
+    },
+    "s1": {
+      "name": "Blade Surge",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/suyou__s1.png"
+    },
+    "s2": {
+      "name": "Soul Sever",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/suyou__s2.png"
+    },
+    "s3": {
+      "name": "Evil Queller",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/suyou__s3.png"
+    }
+  },
+  "alucard": {
+    "passive": {
+      "name": "Pursuit",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/alucard__passive.png"
+    },
+    "s1": {
+      "name": "Groundsplitter",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/alucard__s1.png"
+    },
+    "s2": {
+      "name": "Whirling Smash",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/alucard__s2.png"
+    },
+    "s3": {
+      "name": "Fission Wave",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/alucard__s3.png"
+    }
+  },
+  "eudora": {
+    "passive": {
+      "name": "Superconductor",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/eudora__passive.png"
+    },
+    "s1": {
+      "name": "Forked Lightning",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/eudora__s1.png"
+    },
+    "s2": {
+      "name": "Ball Lightning",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/eudora__s2.png"
+    },
+    "s3": {
+      "name": "Thunder's Wrath",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/eudora__s3.png"
+    }
+  },
+  "gord": {
+    "passive": {
+      "name": "Mystic Favor",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/gord__passive.png"
+    },
+    "s1": {
+      "name": "Mystic Projectile",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/gord__s1.png"
+    },
+    "s2": {
+      "name": "Mystic Injunction",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/gord__s2.png"
+    },
+    "s3": {
+      "name": "Mystic Gush",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/gord__s3.png"
+    }
+  },
+  "moskov": {
+    "passive": {
+      "name": "Spear of Quiescence",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/moskov__passive.png"
+    },
+    "s1": {
+      "name": "Abyss Walker",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/moskov__s1.png"
+    },
+    "s2": {
+      "name": "Spear of Misery",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/moskov__s2.png"
+    },
+    "s3": {
+      "name": "Spear of Destruction",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/moskov__s3.png"
+    }
+  },
+  "roger": {
+    "passive": {
+      "name": "Full Moon Curse",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/roger__passive.png"
+    },
+    "s1": {
+      "name": "Open Fire",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/roger__s1.png"
+    },
+    "s2": {
+      "name": "Hunter's Steps",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/roger__s2.png"
+    },
+    "s3": {
+      "name": "Wolf Transformation",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/roger__s3.png"
+    }
+  },
+  "lancelot": {
+    "passive": {
+      "name": "Soul Cutter",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/lancelot__passive.png"
+    },
+    "s1": {
+      "name": "Puncture",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/lancelot__s1.png"
+    },
+    "s2": {
+      "name": "Thorned Rose",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/lancelot__s2.png"
+    },
+    "s3": {
+      "name": "Phantom Execution",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/lancelot__s3.png"
+    }
+  },
+  "angela": {
+    "passive": {
+      "name": "Smart Heart",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/angela__passive.png"
+    },
+    "s1": {
+      "name": "Love Waves",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/angela__s1.png"
+    },
+    "s2": {
+      "name": "Puppet-on-a-String",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/angela__s2.png"
+    },
+    "s3": {
+      "name": "Heartguard",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/angela__s3.png"
+    }
+  },
+  "selena": {
+    "passive": {
+      "name": "Symbiosis",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/selena__passive.png"
+    },
+    "s1": {
+      "name": "Abyssal Trap",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/selena__s1.png"
+    },
+    "s2": {
+      "name": "Abyssal Arrow",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/selena__s2.png"
+    },
+    "s3": {
+      "name": "Primal Darkness",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/selena__s3.png"
+    }
+  },
+  "kimmy": {
+    "passive": {
+      "name": "Aerial Dominance",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/kimmy__passive.png"
+    },
+    "s1": {
+      "name": "Anti-Grav Thruster",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/kimmy__s1.png"
+    },
+    "s2": {
+      "name": "Starlium Beam",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/kimmy__s2.png"
+    },
+    "s3": {
+      "name": "Traction Pulse",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/kimmy__s3.png"
+    }
+  },
+  "granger": {
+    "passive": {
+      "name": "Capriccio",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/granger__passive.png"
+    },
+    "s1": {
+      "name": "Rhapsody",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/granger__s1.png"
+    },
+    "s2": {
+      "name": "Rondo",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/granger__s2.png"
+    },
+    "s3": {
+      "name": "Death Sonata",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/granger__s3.png"
+    }
+  },
+  "baxia": {
+    "passive": {
+      "name": "Baxia Mark",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/baxia__passive.png"
+    },
+    "s1": {
+      "name": "Baxia-Shield Unity",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/baxia__s1.png"
+    },
+    "s2": {
+      "name": "Shield of Spirit",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/baxia__s2.png"
+    },
+    "s3": {
+      "name": "Tortoise's Puissance",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/baxia__s3.png"
+    }
+  },
+  "yu-zhong": {
+    "passive": {
+      "name": "Cursing Touch",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/yu-zhong__passive.png"
+    },
+    "s1": {
+      "name": "Dragon Tail",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/yu-zhong__s1.png"
+    },
+    "s2": {
+      "name": "Soul Grip",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/yu-zhong__s2.png"
+    },
+    "s3": {
+      "name": "Black Dragon Form",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/yu-zhong__s3.png"
+    }
+  },
+  "paquito": {
+    "passive": {
+      "name": "Champ Stance",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/paquito__passive.png"
+    },
+    "s1": {
+      "name": "Heavy Left Punch",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/paquito__s1.png"
+    },
+    "s2": {
+      "name": "Jab",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/paquito__s2.png"
+    },
+    "s3": {
+      "name": "Knockout Strike",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/paquito__s3.png"
+    }
+  },
+  "edith": {
+    "passive": {
+      "name": "Overload",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/edith__passive.png"
+    },
+    "s1": {
+      "name": "Earth Shatter",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/edith__s1.png"
+    },
+    "s2": {
+      "name": "Onward",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/edith__s2.png"
+    },
+    "s3": {
+      "name": "Primal Wrath",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/edith__s3.png"
+    }
+  },
+  "novaria": {
+    "passive": {
+      "name": "Star Trail",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/novaria__passive.png"
+    },
+    "s1": {
+      "name": "Astral Meteor",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/novaria__s1.png"
+    },
+    "s2": {
+      "name": "Astral Recall",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/novaria__s2.png"
+    },
+    "s3": {
+      "name": "Astral Echo",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/novaria__s3.png"
+    }
+  },
+  "lukas": {
+    "passive": {
+      "name": "Hero's Resolve",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/lukas__passive.png"
+    },
+    "s1": {
+      "name": "Flash Combo",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/lukas__s1.png"
+    },
+    "s2": {
+      "name": "Flash Step",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/lukas__s2.png"
+    },
+    "s3": {
+      "name": "Unleash the Beast",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/lukas__s3.png"
+    }
+  },
+  "karina": {
+    "passive": {
+      "name": "Shadow Combo",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/karina__passive.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Shadow_Combo.png"
+    },
+    "s1": {
+      "name": "Dance of Blades",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/karina__s1.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Dance_of_Blades.png"
+    },
+    "s2": {
+      "name": "Dance of Death",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/karina__s2.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Dance_of_Death.png"
+    },
+    "s3": {
+      "name": "Shadow Assault",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/karina__s3.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Shadow_Assault.png"
+    }
+  },
+  "zilong": {
+    "passive": {
+      "name": "Dragon Flurry",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/zilong__passive.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Dragon_Flurry.png"
+    },
+    "s1": {
+      "name": "Spear Flip",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/zilong__s1.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Spear_Flip.png"
+    },
+    "s2": {
+      "name": "Spear Strike",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/zilong__s2.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/b/b6/Spear_Strike.png"
+    },
+    "s3": {
+      "name": "Supreme Warrior",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/zilong__s3.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Supreme_Warrior.png"
+    }
+  },
+  "natalia": {
+    "passive": {
+      "name": "Assassin Instinct",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/natalia__passive.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Assassin_Instinct.png"
+    },
+    "s1": {
+      "name": "Claw Dash",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/natalia__s1.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Claw_Dash.png"
+    },
+    "s2": {
+      "name": "Smoke Bomb",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/natalia__s2.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Smoke_Bomb.png"
+    },
+    "s3": {
+      "name": "The Hunt",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/natalia__s3.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/c/c8/The_Hunt.png"
+    }
+  },
+  "johnson": {
+    "passive": {
+      "name": "Electro Airbag",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/johnson__passive.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Electro_Airbag.png"
+    },
+    "s1": {
+      "name": "Impact Wrench",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/johnson__s1.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Impact_Wrench.png"
+    },
+    "s2": {
+      "name": "Electromagnetic Waves",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/johnson__s2.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/5/5f/Electromagnetic_Waves.png"
+    },
+    "s3": {
+      "name": "Full Throttle",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/johnson__s3.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Full_Throttle.png"
+    }
+  },
+  "karrie": {
+    "passive": {
+      "name": "Lightwheel Mark",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/karrie__passive.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Lightwheel_Mark.png"
+    },
+    "s1": {
+      "name": "Spinning Lightwheel",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/karrie__s1.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Spinning_Lightwheel.png"
+    },
+    "s2": {
+      "name": "Phantom Step",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/karrie__s2.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Phantom_Step.png"
+    },
+    "s3": {
+      "name": "Speedy Lightwheel",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/karrie__s3.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Speedy_Lightwheel.png"
+    }
+  },
+  "diggie": {
+    "passive": {
+      "name": "Young Again",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/diggie__passive.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Young_Again.png"
+    },
+    "s1": {
+      "name": "Auto Alarm Bomb",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/diggie__s1.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/4/4b/Auto_Alarm_Bomb.png"
+    },
+    "s2": {
+      "name": "Reverse Time",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/diggie__s2.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Reverse_Time.png"
+    },
+    "s3": {
+      "name": "Time Journey",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/diggie__s3.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Time_Journey.png"
+    }
+  },
+  "gusion": {
+    "passive": {
+      "name": "Dagger Specialist",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/gusion__passive.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Dagger_Specialist.png"
+    },
+    "s1": {
+      "name": "Sword Spike",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/gusion__s1.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Sword_Spike.png"
+    },
+    "s2": {
+      "name": "Shadowblade Slaughter",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/gusion__s2.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/c/c8/Shadowblade_Slaughter.png"
+    },
+    "s3": {
+      "name": "Incandescence",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/gusion__s3.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/5/52/Incandescence.png"
+    }
+  },
+  "aldous": {
+    "passive": {
+      "name": "Contract: Transform",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/aldous__passive.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Contract_Transform.png"
+    },
+    "s1": {
+      "name": "Contract: Soul Steal",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/aldous__s1.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Contract_Soul_Steal.png"
+    },
+    "s2": {
+      "name": "Contract: Explosion",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/aldous__s2.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Contract_Explosion.png"
+    },
+    "s3": {
+      "name": "Contract: Chase Fate",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/aldous__s3.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Contract_Chase_Fate.png"
+    }
+  },
+  "thamuz": {
+    "passive": {
+      "name": "Grand Lord Lava",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/thamuz__passive.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/Grand_Lord_Lava.png"
+    },
+    "s1": {
+      "name": "Molten Scythes",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/thamuz__s1.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Molten_Scythes.png"
+    },
+    "s2": {
+      "name": "Chasm Trample",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/thamuz__s2.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Chasm_Trample.png"
+    },
+    "s3": {
+      "name": "Cauterant Inferno",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/thamuz__s3.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Cauterant_Inferno.png"
+    }
+  },
+  "guinevere": {
+    "passive": {
+      "name": "Super Magic",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/guinevere__passive.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Super_Magic.png"
+    },
+    "s1": {
+      "name": "Energy Wave",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/guinevere__s1.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Energy_Wave.png"
+    },
+    "s2": {
+      "name": "Spatial Migration",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/guinevere__s2.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Spatial_Migration.png"
+    },
+    "s3": {
+      "name": "Violet Requiem",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/guinevere__s3.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Violet_Requiem.png"
+    }
+  },
+  "masha": {
+    "passive": {
+      "name": "Ancient Strength",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/masha__passive.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Ancient_Strength.png"
+    },
+    "s1": {
+      "name": "Wild Power",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/masha__s1.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Wild_Power.png"
+    },
+    "s2": {
+      "name": "Howl Shock",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/masha__s2.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Howl_Shock.png"
+    },
+    "s3": {
+      "name": "Thunderclap",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/masha__s3.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Thunderclap.png"
+    }
+  },
+  "luo-yi": {
+    "passive": {
+      "name": "Duality",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/luo-yi__passive.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Duality.png"
+    },
+    "s1": {
+      "name": "Dispersion",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/luo-yi__s1.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Dispersion.png"
+    },
+    "s2": {
+      "name": "Rotation",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/luo-yi__s2.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/c/c9/Rotation.png"
+    },
+    "s3": {
+      "name": "Diversion",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/luo-yi__s3.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Diversion.png"
+    }
+  },
+  "gloo": {
+    "passive": {
+      "name": "Stick, Stick",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/gloo__passive.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Stick%2C_Stick.png"
+    },
+    "s1": {
+      "name": "Slam, Slam",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/gloo__s1.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Slam%2C_Slam.png"
+    },
+    "s2": {
+      "name": "Spread, Spread",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/gloo__s2.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/5/53/Spread%2C_Spread.png"
+    },
+    "s3": {
+      "name": "Grab, Grab",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/gloo__s3.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Grab%2C_Grab.png"
+    }
+  },
+  "floryn": {
+    "passive": {
+      "name": "Dew",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/floryn__passive.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Dew.png"
+    },
+    "s1": {
+      "name": "Sow",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/floryn__s1.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Sow.png"
+    },
+    "s2": {
+      "name": "Sprout",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/floryn__s2.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Sprout.png"
+    },
+    "s3": {
+      "name": "Bloom",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/floryn__s3.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Bloom.png"
+    }
+  },
+  "arlott": {
+    "passive": {
+      "name": "Demon Gaze",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/arlott__passive.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/4/48/Demon_Gaze.png"
+    },
+    "s1": {
+      "name": "Dauntless Strike",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/arlott__s1.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Dauntless_Strike.png"
+    },
+    "s2": {
+      "name": "Vengeance",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/arlott__s2.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Vengeance_%28Arlott%29.png"
+    },
+    "s3": {
+      "name": "Final Slash",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/arlott__s3.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Final_Slash.png"
+    }
+  },
+  "kalea": {
+    "passive": {
+      "name": "Surge of Life",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/kalea__passive.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Surge_of_Life.png"
+    },
+    "s1": {
+      "name": "Wavebreaker",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/kalea__s1.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Wavebreaker.png"
+    },
+    "s2": {
+      "name": "Tidal Strike",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/kalea__s2.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/9/91/Tidal_Strike.png"
+    },
+    "s3": {
+      "name": "Tsunami Slam",
+      "img": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/skills/kalea__s3.png",
+      "url": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Tsunami_Slam.png"
+    }
+  }
 }

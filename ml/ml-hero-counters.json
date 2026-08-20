@@ -1,1 +1,1864 @@
-{"miya":[{"i":"ling","w":"Mobilitas tinggi, burst"},{"i":"fanny","w":"Burst cepat, susah dipegang"},{"i":"gusion","w":"Burst + dash"}],"balmond":[{"i":"sea-halberd","w":"Anti-lifesteal 50%"},{"i":"glowing-wand","w":"Anti-regen + burn"},{"i":"winter-crown","w":"Immune burst 2 dtk"}],"saber":[{"i":"diggie","w":"Anti-CC: kunci setter"},{"i":"franco","w":"Hook + suppression"},{"i":"winter-crown","w":"Immune burst 2 dtk"}],"alice":[{"i":"sea-halberd","w":"Anti-lifesteal 50%"},{"i":"glowing-wand","w":"Anti-regen + burn"},{"i":"dominance-ice","w":"Kurangi AS & heal musuh"}],"nana":[{"i":"diggie","w":"Anti-CC: kunci setter"},{"i":"kaja","w":"Suppression tarik + ult"},{"i":"franco","w":"Hook + suppression"}],"tigreal":[{"i":"diggie","w":"Anti-CC: kunci setter"},{"i":"valir","w":"Knockback terus-menerus"},{"i":"chou","w":"Kick combo interrupt"}],"alucard":[{"i":"sea-halberd","w":"Anti-lifesteal 50%"},{"i":"glowing-wand","w":"Anti-regen + burn"},{"i":"winter-crown","w":"Immune burst 2 dtk"}],"karina":[{"i":"diggie","w":"Anti-CC: kunci setter"},{"i":"valir","w":"Knockback terus-menerus"},{"i":"franco","w":"Hook + suppression"}],"akai":[{"i":"diggie","w":"Anti-CC: kunci setter"},{"i":"valir","w":"Knockback terus-menerus"},{"i":"chou","w":"Kick combo interrupt"}],"franco":[{"i":"diggie","w":"Anti-CC: kunci setter"},{"i":"valir","w":"Knockback terus-menerus"},{"i":"chou","w":"Kick combo interrupt"}],"bane":[{"i":"sea-halberd","w":"Anti-lifesteal 50%"},{"i":"glowing-wand","w":"Anti-regen + burn"},{"i":"winter-crown","w":"Immune burst 2 dtk"}],"bruno":[{"i":"ling","w":"Mobilitas tinggi, burst"},{"i":"fanny","w":"Burst cepat, susah dipegang"},{"i":"gusion","w":"Burst + dash"}],"clint":[{"i":"ling","w":"Mobilitas tinggi, burst"},{"i":"saber","w":"Burst target tunggal"},{"i":"gusion","w":"Burst + dash"}],"rafaela":[{"i":"diggie","w":"Anti-CC: kunci setter"},{"i":"franco","w":"Hook + suppression"},{"i":"kaja","w":"Suppression tarik + ult"}],"eudora":[{"i":"ling","w":"Mobilitas tinggi, burst"},{"i":"fanny","w":"Burst cepat, susah dipegang"},{"i":"saber","w":"Burst target tunggal"}],"zilong":[{"i":"khufra","w":"Ult anti-dash: mobilitas mati"},{"i":"valir","w":"Knockback terus-menerus"},{"i":"nana","w":"Morph Molina: escape mati"}],"fanny":[{"i":"khufra","w":"Ult anti-dash: mobilitas mati"},{"i":"minsitthar","w":"Ult anti-dash + cage"},{"i":"nana","w":"Morph Molina: escape mati"}],"layla":[{"i":"ling","w":"Mobilitas tinggi, burst"},{"i":"fanny","w":"Burst cepat, susah dipegang"},{"i":"saber","w":"Burst target tunggal"}],"minotaur":[{"i":"diggie","w":"Anti-CC: kunci setter"},{"i":"valir","w":"Knockback terus-menerus"},{"i":"chou","w":"Kick combo interrupt"}],"lolita":[{"i":"winter-crown","w":"Immune burst 2 dtk"},{"i":"immortality","w":"Bangkit setelah tumbang"},{"i":"athenas-shield","w":"Shield serap burst magic"}],"hayabusa":[{"i":"khufra","w":"Ult anti-dash: mobilitas mati"},{"i":"minsitthar","w":"Ult anti-dash + cage"},{"i":"franco","w":"Hook + suppression"}],"freya":[{"i":"antique-cuirass","w":"Kurangi damage phys"},{"i":"winter-crown","w":"Immune burst 2 dtk"},{"i":"blade-armor","w":"Pantul basic attack"}],"gord":[{"i":"ling","w":"Mobilitas tinggi, burst"},{"i":"fanny","w":"Burst cepat, susah dipegang"},{"i":"saber","w":"Burst target tunggal"}],"natalia":[{"i":"winter-crown","w":"Immune burst 2 dtk"},{"i":"immortality","w":"Bangkit setelah tumbang"},{"i":"antique-cuirass","w":"Kurangi damage phys"}],"kagura":[{"i":"franco","w":"Hook + suppression"},{"i":"kaja","w":"Suppression tarik + ult"},{"i":"khufra","w":"Ult anti-dash: mobilitas mati"}],"chou":[{"i":"khufra","w":"Ult anti-dash: mobilitas mati"},{"i":"valir","w":"Knockback terus-menerus"},{"i":"nana","w":"Morph Molina: escape mati"}],"sun":[{"i":"khufra","w":"Ult anti-dash: mobilitas mati"},{"i":"valir","w":"Knockback terus-menerus"},{"i":"winter-crown","w":"Immune burst 2 dtk"}],"alpha":[{"i":"antique-cuirass","w":"Kurangi damage phys"},{"i":"winter-crown","w":"Immune burst 2 dtk"},{"i":"dominance-ice","w":"Kurangi AS & heal musuh"}],"ruby":[{"i":"sea-halberd","w":"Anti-lifesteal 50%"},{"i":"glowing-wand","w":"Anti-regen + burn"},{"i":"dominance-ice","w":"Kurangi AS & heal musuh"}],"yi-sun-shin":[{"i":"winter-crown","w":"Immune burst 2 dtk"},{"i":"immortality","w":"Bangkit setelah tumbang"},{"i":"antique-cuirass","w":"Kurangi damage phys"}],"moskov":[{"i":"blade-armor","w":"Pantul basic attack"},{"i":"dominance-ice","w":"Kurangi AS & heal musuh"},{"i":"antique-cuirass","w":"Kurangi damage phys"}],"johnson":[{"i":"malefic-roar","w":"Penetrasi armor"},{"i":"hunter-strike","w":"Penetrasi armor + MS"},{"i":"demon-hunter-sword","w":"Damage % max HP"}],"cyclops":[{"i":"athenas-shield","w":"Shield serap burst magic"},{"i":"radiant-armor","w":"Tahan damage magic"},{"i":"winter-crown","w":"Immune burst 2 dtk"}],"estes":[{"i":"diggie","w":"Anti-CC: kunci setter"},{"i":"franco","w":"Hook + suppression"},{"i":"kaja","w":"Suppression tarik + ult"}],"hilda":[{"i":"antique-cuirass","w":"Kurangi damage phys"},{"i":"winter-crown","w":"Immune burst 2 dtk"},{"i":"blade-armor","w":"Pantul basic attack"}],"aurora":[{"i":"ling","w":"Mobilitas tinggi, burst"},{"i":"fanny","w":"Burst cepat, susah dipegang"},{"i":"gusion","w":"Burst + dash"}],"lapu-lapu":[{"i":"antique-cuirass","w":"Kurangi damage phys"},{"i":"winter-crown","w":"Immune burst 2 dtk"},{"i":"blade-armor","w":"Pantul basic attack"}],"vexana":[{"i":"ling","w":"Mobilitas tinggi, burst"},{"i":"fanny","w":"Burst cepat, susah dipegang"},{"i":"chou","w":"Kick combo interrupt"}],"roger":[{"i":"khufra","w":"Ult anti-dash: mobilitas mati"},{"i":"nana","w":"Morph Molina: escape mati"},{"i":"winter-crown","w":"Immune burst 2 dtk"}],"karrie":[{"i":"blade-armor","w":"Pantul basic attack"},{"i":"dominance-ice","w":"Kurangi AS & heal musuh"},{"i":"antique-cuirass","w":"Kurangi damage phys"}],"gatotkaca":[{"i":"malefic-roar","w":"Penetrasi armor"},{"i":"hunter-strike","w":"Penetrasi armor + MS"},{"i":"demon-hunter-sword","w":"Damage % max HP"}],"harley":[{"i":"winter-crown","w":"Immune burst 2 dtk"},{"i":"immortality","w":"Bangkit setelah tumbang"},{"i":"antique-cuirass","w":"Kurangi damage phys"}],"irithel":[{"i":"blade-armor","w":"Pantul basic attack"},{"i":"dominance-ice","w":"Kurangi AS & heal musuh"},{"i":"antique-cuirass","w":"Kurangi damage phys"}],"grock":[{"i":"diggie","w":"Anti-CC: kunci setter"},{"i":"valir","w":"Knockback terus-menerus"},{"i":"chou","w":"Kick combo interrupt"}],"argus":[{"i":"diggie","w":"Anti-CC: kunci setter"},{"i":"valir","w":"Knockback terus-menerus"},{"i":"winter-crown","w":"Immune burst 2 dtk"}],"odette":[{"i":"chou","w":"Kick combo interrupt"},{"i":"ling","w":"Mobilitas tinggi, burst"},{"i":"khufra","w":"Ult anti-dash: mobilitas mati"}],"lancelot":[{"i":"khufra","w":"Ult anti-dash: mobilitas mati"},{"i":"kaja","w":"Suppression tarik + ult"},{"i":"minsitthar","w":"Ult anti-dash + cage"}],"diggie":[{"i":"ling","w":"Mobilitas tinggi, burst"},{"i":"fanny","w":"Burst cepat, susah dipegang"},{"i":"lancelot","w":"Burst + i-frames"}],"hylos":[{"i":"karrie","w":"True dmg lawan tank"},{"i":"dyrroth","w":"Penetrasi armor lawan tank"},{"i":"malefic-roar","w":"Penetrasi armor"}],"zhask":[{"i":"athenas-shield","w":"Shield serap burst magic"},{"i":"radiant-armor","w":"Tahan damage magic"},{"i":"winter-crown","w":"Immune burst 2 dtk"}],"helcurt":[{"i":"diggie","w":"Anti-CC: kunci setter"},{"i":"franco","w":"Hook + suppression"},{"i":"kaja","w":"Suppression tarik + ult"}],"pharsa":[{"i":"ling","w":"Mobilitas tinggi, burst"},{"i":"fanny","w":"Burst cepat, susah dipegang"},{"i":"lancelot","w":"Burst + i-frames"}],"lesley":[{"i":"ling","w":"Mobilitas tinggi, burst"},{"i":"fanny","w":"Burst cepat, susah dipegang"},{"i":"karina","w":"Reset kill burst"}],"jawhead":[{"i":"diggie","w":"Anti-CC: kunci setter"},{"i":"valir","w":"Knockback terus-menerus"},{"i":"kaja","w":"Suppression tarik + ult"}],"angela":[{"i":"diggie","w":"Anti-CC: kunci setter"},{"i":"franco","w":"Hook + suppression"},{"i":"kaja","w":"Suppression tarik + ult"}],"gusion":[{"i":"khufra","w":"Ult anti-dash: mobilitas mati"},{"i":"chou","w":"Kick combo interrupt"},{"i":"kaja","w":"Suppression tarik + ult"}],"valir":[{"i":"ling","w":"Mobilitas tinggi, burst"},{"i":"fanny","w":"Burst cepat, susah dipegang"},{"i":"lancelot","w":"Burst + i-frames"}],"martis":[{"i":"diggie","w":"Anti-CC: kunci setter"},{"i":"valir","w":"Knockback terus-menerus"},{"i":"kaja","w":"Suppression tarik + ult"}],"uranus":[{"i":"sea-halberd","w":"Anti-lifesteal 50%"},{"i":"glowing-wand","w":"Anti-regen + burn"},{"i":"dominance-ice","w":"Kurangi AS & heal musuh"}],"hanabi":[{"i":"ling","w":"Mobilitas tinggi, burst"},{"i":"fanny","w":"Burst cepat, susah dipegang"},{"i":"lancelot","w":"Burst + i-frames"}],"chang'e":[{"i":"athenas-shield","w":"Shield serap burst magic"},{"i":"radiant-armor","w":"Tahan damage magic"},{"i":"winter-crown","w":"Immune burst 2 dtk"}],"kaja":[{"i":"diggie","w":"Anti-CC: kunci setter"},{"i":"valir","w":"Knockback terus-menerus"},{"i":"winter-crown","w":"Immune burst 2 dtk"}],"selena":[{"i":"diggie","w":"Anti-CC: kunci setter"},{"i":"franco","w":"Hook + suppression"},{"i":"kaja","w":"Suppression tarik + ult"}],"aldous":[{"i":"antique-cuirass","w":"Kurangi damage phys"},{"i":"winter-crown","w":"Immune burst 2 dtk"},{"i":"blade-armor","w":"Pantul basic attack"}],"claude":[{"i":"blade-armor","w":"Pantul basic attack"},{"i":"dominance-ice","w":"Kurangi AS & heal musuh"},{"i":"antique-cuirass","w":"Kurangi damage phys"}],"vale":[{"i":"ling","w":"Mobilitas tinggi, burst"},{"i":"fanny","w":"Burst cepat, susah dipegang"},{"i":"saber","w":"Burst target tunggal"}],"leomord":[{"i":"diggie","w":"Anti-CC: kunci setter"},{"i":"valir","w":"Knockback terus-menerus"},{"i":"kaja","w":"Suppression tarik + ult"}],"lunox":[{"i":"khufra","w":"Ult anti-dash: mobilitas mati"},{"i":"kaja","w":"Suppression tarik + ult"},{"i":"franco","w":"Hook + suppression"}],"hanzo":[{"i":"franco","w":"Hook + suppression"},{"i":"kaja","w":"Suppression tarik + ult"},{"i":"minsitthar","w":"Ult anti-dash + cage"}],"belerick":[{"i":"karrie","w":"True dmg lawan tank"},{"i":"dyrroth","w":"Penetrasi armor lawan tank"},{"i":"sea-halberd","w":"Anti-lifesteal 50%"}],"kimmy":[{"i":"blade-armor","w":"Pantul basic attack"},{"i":"dominance-ice","w":"Kurangi AS & heal musuh"},{"i":"antique-cuirass","w":"Kurangi damage phys"}],"thamuz":[{"i":"sea-halberd","w":"Anti-lifesteal 50%"},{"i":"glowing-wand","w":"Anti-regen + burn"},{"i":"dominance-ice","w":"Kurangi AS & heal musuh"}],"harith":[{"i":"khufra","w":"Ult anti-dash: mobilitas mati"},{"i":"valir","w":"Knockback terus-menerus"},{"i":"nana","w":"Morph Molina: escape mati"}],"minsitthar":[{"i":"diggie","w":"Anti-CC: kunci setter"},{"i":"valir","w":"Knockback terus-menerus"},{"i":"chou","w":"Kick combo interrupt"}],"kadita":[{"i":"diggie","w":"Anti-CC: kunci setter"},{"i":"franco","w":"Hook + suppression"},{"i":"kaja","w":"Suppression tarik + ult"}],"faramis":[{"i":"diggie","w":"Anti-CC: kunci setter"},{"i":"franco","w":"Hook + suppression"},{"i":"kaja","w":"Suppression tarik + ult"}],"badang":[{"i":"diggie","w":"Anti-CC: kunci setter"},{"i":"valir","w":"Knockback terus-menerus"},{"i":"kaja","w":"Suppression tarik + ult"}],"khufra":[{"i":"diggie","w":"Anti-CC: kunci setter"},{"i":"valir","w":"Knockback terus-menerus"},{"i":"kaja","w":"Suppression tarik + ult"}],"granger":[{"i":"ling","w":"Mobilitas tinggi, burst"},{"i":"fanny","w":"Burst cepat, susah dipegang"},{"i":"lancelot","w":"Burst + i-frames"}],"guinevere":[{"i":"antique-cuirass","w":"Kurangi damage phys"},{"i":"winter-crown","w":"Immune burst 2 dtk"},{"i":"blade-armor","w":"Pantul basic attack"}],"esmeralda":[{"i":"sea-halberd","w":"Anti-lifesteal 50%"},{"i":"glowing-wand","w":"Anti-regen + burn"},{"i":"athenas-shield","w":"Shield serap burst magic"}],"terizla":[{"i":"antique-cuirass","w":"Kurangi damage phys"},{"i":"winter-crown","w":"Immune burst 2 dtk"},{"i":"sea-halberd","w":"Anti-lifesteal 50%"}],"x-borg":[{"i":"antique-cuirass","w":"Kurangi damage phys"},{"i":"winter-crown","w":"Immune burst 2 dtk"},{"i":"sea-halberd","w":"Anti-lifesteal 50%"}],"ling":[{"i":"khufra","w":"Ult anti-dash: mobilitas mati"},{"i":"nana","w":"Morph Molina: escape mati"},{"i":"franco","w":"Hook + suppression"}],"dyrroth":[{"i":"antique-cuirass","w":"Kurangi damage phys"},{"i":"winter-crown","w":"Immune burst 2 dtk"},{"i":"dominance-ice","w":"Kurangi AS & heal musuh"}],"lylia":[{"i":"ling","w":"Mobilitas tinggi, burst"},{"i":"fanny","w":"Burst cepat, susah dipegang"},{"i":"saber","w":"Burst target tunggal"}],"baxia":[{"i":"malefic-roar","w":"Penetrasi armor"},{"i":"hunter-strike","w":"Penetrasi armor + MS"},{"i":"demon-hunter-sword","w":"Damage % max HP"}],"masha":[{"i":"karrie","w":"True dmg lawan tank"},{"i":"dyrroth","w":"Penetrasi armor lawan tank"},{"i":"malefic-roar","w":"Penetrasi armor"}],"wanwan":[{"i":"blade-armor","w":"Pantul basic attack"},{"i":"dominance-ice","w":"Kurangi AS & heal musuh"},{"i":"antique-cuirass","w":"Kurangi damage phys"}],"silvanna":[{"i":"diggie","w":"Anti-CC: kunci setter"},{"i":"valir","w":"Knockback terus-menerus"},{"i":"kaja","w":"Suppression tarik + ult"}],"cecilion":[{"i":"ling","w":"Mobilitas tinggi, burst"},{"i":"fanny","w":"Burst cepat, susah dipegang"},{"i":"khufra","w":"Ult anti-dash: mobilitas mati"}],"carmilla":[{"i":"winter-crown","w":"Immune burst 2 dtk"},{"i":"immortality","w":"Bangkit setelah tumbang"},{"i":"athenas-shield","w":"Shield serap burst magic"}],"atlas":[{"i":"diggie","w":"Anti-CC: kunci setter"},{"i":"valir","w":"Knockback terus-menerus"},{"i":"chou","w":"Kick combo interrupt"}],"popol-and-kupa":[{"i":"blade-armor","w":"Pantul basic attack"},{"i":"dominance-ice","w":"Kurangi AS & heal musuh"},{"i":"antique-cuirass","w":"Kurangi damage phys"}],"yu-zhong":[{"i":"sea-halberd","w":"Anti-lifesteal 50%"},{"i":"glowing-wand","w":"Anti-regen + burn"},{"i":"dominance-ice","w":"Kurangi AS & heal musuh"}],"luo-yi":[{"i":"ling","w":"Mobilitas tinggi, burst"},{"i":"fanny","w":"Burst cepat, susah dipegang"},{"i":"lancelot","w":"Burst + i-frames"}],"benedetta":[{"i":"khufra","w":"Ult anti-dash: mobilitas mati"},{"i":"valir","w":"Knockback terus-menerus"},{"i":"kaja","w":"Suppression tarik + ult"}],"khaleed":[{"i":"antique-cuirass","w":"Kurangi damage phys"},{"i":"winter-crown","w":"Immune burst 2 dtk"},{"i":"blade-armor","w":"Pantul basic attack"}],"barats":[{"i":"diggie","w":"Anti-CC: kunci setter"},{"i":"valir","w":"Knockback terus-menerus"},{"i":"sea-halberd","w":"Anti-lifesteal 50%"}],"brody":[{"i":"blade-armor","w":"Pantul basic attack"},{"i":"dominance-ice","w":"Kurangi AS & heal musuh"},{"i":"antique-cuirass","w":"Kurangi damage phys"}],"yve":[{"i":"ling","w":"Mobilitas tinggi, burst"},{"i":"fanny","w":"Burst cepat, susah dipegang"},{"i":"khufra","w":"Ult anti-dash: mobilitas mati"}],"mathilda":[{"i":"diggie","w":"Anti-CC: kunci setter"},{"i":"franco","w":"Hook + suppression"},{"i":"kaja","w":"Suppression tarik + ult"}],"paquito":[{"i":"khufra","w":"Ult anti-dash: mobilitas mati"},{"i":"valir","w":"Knockback terus-menerus"},{"i":"nana","w":"Morph Molina: escape mati"}],"gloo":[{"i":"karrie","w":"True dmg lawan tank"},{"i":"dyrroth","w":"Penetrasi armor lawan tank"},{"i":"glowing-wand","w":"Anti-regen + burn"}],"beatrix":[{"i":"blade-armor","w":"Pantul basic attack"},{"i":"dominance-ice","w":"Kurangi AS & heal musuh"},{"i":"antique-cuirass","w":"Kurangi damage phys"}],"phoveus":[{"i":"antique-cuirass","w":"Kurangi damage phys"},{"i":"winter-crown","w":"Immune burst 2 dtk"},{"i":"blade-armor","w":"Pantul basic attack"}],"natan":[{"i":"blade-armor","w":"Pantul basic attack"},{"i":"dominance-ice","w":"Kurangi AS & heal musuh"},{"i":"antique-cuirass","w":"Kurangi damage phys"}],"aulus":[{"i":"antique-cuirass","w":"Kurangi damage phys"},{"i":"winter-crown","w":"Immune burst 2 dtk"},{"i":"blade-armor","w":"Pantul basic attack"}],"aamon":[{"i":"winter-crown","w":"Immune burst 2 dtk"},{"i":"immortality","w":"Bangkit setelah tumbang"},{"i":"antique-cuirass","w":"Kurangi damage phys"}],"valentina":[{"i":"athenas-shield","w":"Shield serap burst magic"},{"i":"radiant-armor","w":"Tahan damage magic"},{"i":"winter-crown","w":"Immune burst 2 dtk"}],"edith":[{"i":"diggie","w":"Anti-CC: kunci setter"},{"i":"valir","w":"Knockback terus-menerus"},{"i":"winter-crown","w":"Immune burst 2 dtk"}],"floryn":[{"i":"diggie","w":"Anti-CC: kunci setter"},{"i":"franco","w":"Hook + suppression"},{"i":"kaja","w":"Suppression tarik + ult"}],"yin":[{"i":"antique-cuirass","w":"Kurangi damage phys"},{"i":"winter-crown","w":"Immune burst 2 dtk"},{"i":"blade-armor","w":"Pantul basic attack"}],"melissa":[{"i":"blade-armor","w":"Pantul basic attack"},{"i":"dominance-ice","w":"Kurangi AS & heal musuh"},{"i":"antique-cuirass","w":"Kurangi damage phys"}],"xavier":[{"i":"ling","w":"Mobilitas tinggi, burst"},{"i":"fanny","w":"Burst cepat, susah dipegang"},{"i":"lancelot","w":"Burst + i-frames"}],"julian":[{"i":"khufra","w":"Ult anti-dash: mobilitas mati"},{"i":"valir","w":"Knockback terus-menerus"},{"i":"nana","w":"Morph Molina: escape mati"}],"fredrinn":[{"i":"sea-halberd","w":"Anti-lifesteal 50%"},{"i":"glowing-wand","w":"Anti-regen + burn"},{"i":"winter-crown","w":"Immune burst 2 dtk"}],"joy":[{"i":"khufra","w":"Ult anti-dash: mobilitas mati"},{"i":"valir","w":"Knockback terus-menerus"},{"i":"diggie","w":"Anti-CC: kunci setter"}],"novaria":[{"i":"athenas-shield","w":"Shield serap burst magic"},{"i":"radiant-armor","w":"Tahan damage magic"},{"i":"winter-crown","w":"Immune burst 2 dtk"}],"arlott":[{"i":"khufra","w":"Ult anti-dash: mobilitas mati"},{"i":"valir","w":"Knockback terus-menerus"},{"i":"nana","w":"Morph Molina: escape mati"}],"ixia":[{"i":"blade-armor","w":"Pantul basic attack"},{"i":"dominance-ice","w":"Kurangi AS & heal musuh"},{"i":"antique-cuirass","w":"Kurangi damage phys"}],"nolan":[{"i":"khufra","w":"Ult anti-dash: mobilitas mati"},{"i":"nana","w":"Morph Molina: escape mati"},{"i":"valir","w":"Knockback terus-menerus"}],"cici":[{"i":"khufra","w":"Ult anti-dash: mobilitas mati"},{"i":"valir","w":"Knockback terus-menerus"},{"i":"nana","w":"Morph Molina: escape mati"}],"chip":[{"i":"winter-crown","w":"Immune burst 2 dtk"},{"i":"immortality","w":"Bangkit setelah tumbang"},{"i":"athenas-shield","w":"Shield serap burst magic"}],"zhuxin":[{"i":"khufra","w":"Ult anti-dash: mobilitas mati"},{"i":"nana","w":"Morph Molina: escape mati"},{"i":"valir","w":"Knockback terus-menerus"}],"suyou":[{"i":"khufra","w":"Ult anti-dash: mobilitas mati"},{"i":"valir","w":"Knockback terus-menerus"},{"i":"nana","w":"Morph Molina: escape mati"}],"lukas":[{"i":"khufra","w":"Ult anti-dash: mobilitas mati"},{"i":"valir","w":"Knockback terus-menerus"},{"i":"sea-halberd","w":"Anti-lifesteal 50%"}],"kalea":[{"i":"diggie","w":"Anti-CC: kunci setter"},{"i":"valir","w":"Knockback terus-menerus"},{"i":"kaja","w":"Suppression tarik + ult"}],"zetian":[{"i":"athenas-shield","w":"Shield serap burst magic"},{"i":"radiant-armor","w":"Tahan damage magic"},{"i":"winter-crown","w":"Immune burst 2 dtk"}],"obsidia":[{"i":"blade-armor","w":"Pantul basic attack"},{"i":"dominance-ice","w":"Kurangi AS & heal musuh"},{"i":"antique-cuirass","w":"Kurangi damage phys"}],"sora":[{"i":"antique-cuirass","w":"Kurangi damage phys"},{"i":"winter-crown","w":"Immune burst 2 dtk"},{"i":"blade-armor","w":"Pantul basic attack"}],"marcel":[{"i":"winter-crown","w":"Immune burst 2 dtk"},{"i":"immortality","w":"Bangkit setelah tumbang"},{"i":"athenas-shield","w":"Shield serap burst magic"}],"hirara":[{"i":"winter-crown","w":"Immune burst 2 dtk"},{"i":"immortality","w":"Bangkit setelah tumbang"},{"i":"antique-cuirass","w":"Kurangi damage phys"}]}
+{
+  "miya": [
+    {
+      "i": "ling",
+      "w": "Mobilitas tinggi, burst"
+    },
+    {
+      "i": "fanny",
+      "w": "Burst cepat, susah dipegang"
+    },
+    {
+      "i": "gusion",
+      "w": "Burst + dash"
+    }
+  ],
+  "balmond": [
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    },
+    {
+      "i": "glowing-wand",
+      "w": "Anti-regen + burn"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    }
+  ],
+  "saber": [
+    {
+      "i": "diggie",
+      "w": "Anti-CC: kunci setter"
+    },
+    {
+      "i": "franco",
+      "w": "Hook + suppression"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    }
+  ],
+  "alice": [
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    },
+    {
+      "i": "glowing-wand",
+      "w": "Anti-regen + burn"
+    },
+    {
+      "i": "dominance-ice",
+      "w": "Kurangi AS & heal musuh"
+    }
+  ],
+  "nana": [
+    {
+      "i": "diggie",
+      "w": "Anti-CC: kunci setter"
+    },
+    {
+      "i": "kaja",
+      "w": "Suppression tarik + ult"
+    },
+    {
+      "i": "franco",
+      "w": "Hook + suppression"
+    }
+  ],
+  "tigreal": [
+    {
+      "i": "diggie",
+      "w": "Anti-CC: kunci setter"
+    },
+    {
+      "i": "valir",
+      "w": "Knockback terus-menerus"
+    },
+    {
+      "i": "chou",
+      "w": "Kick combo interrupt"
+    }
+  ],
+  "alucard": [
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    },
+    {
+      "i": "glowing-wand",
+      "w": "Anti-regen + burn"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    }
+  ],
+  "karina": [
+    {
+      "i": "diggie",
+      "w": "Anti-CC: kunci setter"
+    },
+    {
+      "i": "valir",
+      "w": "Knockback terus-menerus"
+    },
+    {
+      "i": "franco",
+      "w": "Hook + suppression"
+    }
+  ],
+  "akai": [
+    {
+      "i": "diggie",
+      "w": "Anti-CC: kunci setter"
+    },
+    {
+      "i": "valir",
+      "w": "Knockback terus-menerus"
+    },
+    {
+      "i": "chou",
+      "w": "Kick combo interrupt"
+    }
+  ],
+  "franco": [
+    {
+      "i": "diggie",
+      "w": "Anti-CC: kunci setter"
+    },
+    {
+      "i": "valir",
+      "w": "Knockback terus-menerus"
+    },
+    {
+      "i": "chou",
+      "w": "Kick combo interrupt"
+    }
+  ],
+  "bane": [
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    },
+    {
+      "i": "glowing-wand",
+      "w": "Anti-regen + burn"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    }
+  ],
+  "bruno": [
+    {
+      "i": "ling",
+      "w": "Mobilitas tinggi, burst"
+    },
+    {
+      "i": "fanny",
+      "w": "Burst cepat, susah dipegang"
+    },
+    {
+      "i": "gusion",
+      "w": "Burst + dash"
+    }
+  ],
+  "clint": [
+    {
+      "i": "ling",
+      "w": "Mobilitas tinggi, burst"
+    },
+    {
+      "i": "saber",
+      "w": "Burst target tunggal"
+    },
+    {
+      "i": "gusion",
+      "w": "Burst + dash"
+    }
+  ],
+  "rafaela": [
+    {
+      "i": "diggie",
+      "w": "Anti-CC: kunci setter"
+    },
+    {
+      "i": "franco",
+      "w": "Hook + suppression"
+    },
+    {
+      "i": "kaja",
+      "w": "Suppression tarik + ult"
+    }
+  ],
+  "eudora": [
+    {
+      "i": "ling",
+      "w": "Mobilitas tinggi, burst"
+    },
+    {
+      "i": "fanny",
+      "w": "Burst cepat, susah dipegang"
+    },
+    {
+      "i": "saber",
+      "w": "Burst target tunggal"
+    }
+  ],
+  "zilong": [
+    {
+      "i": "khufra",
+      "w": "Ult anti-dash: mobilitas mati"
+    },
+    {
+      "i": "valir",
+      "w": "Knockback terus-menerus"
+    },
+    {
+      "i": "nana",
+      "w": "Morph Molina: escape mati"
+    }
+  ],
+  "fanny": [
+    {
+      "i": "khufra",
+      "w": "Ult anti-dash: mobilitas mati"
+    },
+    {
+      "i": "minsitthar",
+      "w": "Ult anti-dash + cage"
+    },
+    {
+      "i": "nana",
+      "w": "Morph Molina: escape mati"
+    }
+  ],
+  "layla": [
+    {
+      "i": "ling",
+      "w": "Mobilitas tinggi, burst"
+    },
+    {
+      "i": "fanny",
+      "w": "Burst cepat, susah dipegang"
+    },
+    {
+      "i": "saber",
+      "w": "Burst target tunggal"
+    }
+  ],
+  "minotaur": [
+    {
+      "i": "diggie",
+      "w": "Anti-CC: kunci setter"
+    },
+    {
+      "i": "valir",
+      "w": "Knockback terus-menerus"
+    },
+    {
+      "i": "chou",
+      "w": "Kick combo interrupt"
+    }
+  ],
+  "lolita": [
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "immortality",
+      "w": "Bangkit setelah tumbang"
+    },
+    {
+      "i": "athenas-shield",
+      "w": "Shield serap burst magic"
+    }
+  ],
+  "hayabusa": [
+    {
+      "i": "khufra",
+      "w": "Ult anti-dash: mobilitas mati"
+    },
+    {
+      "i": "minsitthar",
+      "w": "Ult anti-dash + cage"
+    },
+    {
+      "i": "franco",
+      "w": "Hook + suppression"
+    }
+  ],
+  "freya": [
+    {
+      "i": "antique-cuirass",
+      "w": "Kurangi damage phys"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "blade-armor",
+      "w": "Pantul basic attack"
+    }
+  ],
+  "gord": [
+    {
+      "i": "ling",
+      "w": "Mobilitas tinggi, burst"
+    },
+    {
+      "i": "fanny",
+      "w": "Burst cepat, susah dipegang"
+    },
+    {
+      "i": "saber",
+      "w": "Burst target tunggal"
+    }
+  ],
+  "natalia": [
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "immortality",
+      "w": "Bangkit setelah tumbang"
+    },
+    {
+      "i": "antique-cuirass",
+      "w": "Kurangi damage phys"
+    }
+  ],
+  "kagura": [
+    {
+      "i": "franco",
+      "w": "Hook + suppression"
+    },
+    {
+      "i": "kaja",
+      "w": "Suppression tarik + ult"
+    },
+    {
+      "i": "khufra",
+      "w": "Ult anti-dash: mobilitas mati"
+    }
+  ],
+  "chou": [
+    {
+      "i": "khufra",
+      "w": "Ult anti-dash: mobilitas mati"
+    },
+    {
+      "i": "valir",
+      "w": "Knockback terus-menerus"
+    },
+    {
+      "i": "nana",
+      "w": "Morph Molina: escape mati"
+    }
+  ],
+  "sun": [
+    {
+      "i": "khufra",
+      "w": "Ult anti-dash: mobilitas mati"
+    },
+    {
+      "i": "valir",
+      "w": "Knockback terus-menerus"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    }
+  ],
+  "alpha": [
+    {
+      "i": "antique-cuirass",
+      "w": "Kurangi damage phys"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "dominance-ice",
+      "w": "Kurangi AS & heal musuh"
+    }
+  ],
+  "ruby": [
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    },
+    {
+      "i": "glowing-wand",
+      "w": "Anti-regen + burn"
+    },
+    {
+      "i": "dominance-ice",
+      "w": "Kurangi AS & heal musuh"
+    }
+  ],
+  "yi-sun-shin": [
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "immortality",
+      "w": "Bangkit setelah tumbang"
+    },
+    {
+      "i": "antique-cuirass",
+      "w": "Kurangi damage phys"
+    }
+  ],
+  "moskov": [
+    {
+      "i": "blade-armor",
+      "w": "Pantul basic attack"
+    },
+    {
+      "i": "dominance-ice",
+      "w": "Kurangi AS & heal musuh"
+    },
+    {
+      "i": "antique-cuirass",
+      "w": "Kurangi damage phys"
+    }
+  ],
+  "johnson": [
+    {
+      "i": "malefic-roar",
+      "w": "Penetrasi armor"
+    },
+    {
+      "i": "hunter-strike",
+      "w": "Penetrasi armor + MS"
+    },
+    {
+      "i": "demon-hunter-sword",
+      "w": "Damage % max HP"
+    }
+  ],
+  "cyclops": [
+    {
+      "i": "athenas-shield",
+      "w": "Shield serap burst magic"
+    },
+    {
+      "i": "radiant-armor",
+      "w": "Tahan damage magic"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    }
+  ],
+  "estes": [
+    {
+      "i": "diggie",
+      "w": "Anti-CC: kunci setter"
+    },
+    {
+      "i": "franco",
+      "w": "Hook + suppression"
+    },
+    {
+      "i": "kaja",
+      "w": "Suppression tarik + ult"
+    }
+  ],
+  "hilda": [
+    {
+      "i": "antique-cuirass",
+      "w": "Kurangi damage phys"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "blade-armor",
+      "w": "Pantul basic attack"
+    }
+  ],
+  "aurora": [
+    {
+      "i": "ling",
+      "w": "Mobilitas tinggi, burst"
+    },
+    {
+      "i": "fanny",
+      "w": "Burst cepat, susah dipegang"
+    },
+    {
+      "i": "gusion",
+      "w": "Burst + dash"
+    }
+  ],
+  "lapu-lapu": [
+    {
+      "i": "antique-cuirass",
+      "w": "Kurangi damage phys"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "blade-armor",
+      "w": "Pantul basic attack"
+    }
+  ],
+  "vexana": [
+    {
+      "i": "ling",
+      "w": "Mobilitas tinggi, burst"
+    },
+    {
+      "i": "fanny",
+      "w": "Burst cepat, susah dipegang"
+    },
+    {
+      "i": "chou",
+      "w": "Kick combo interrupt"
+    }
+  ],
+  "roger": [
+    {
+      "i": "khufra",
+      "w": "Ult anti-dash: mobilitas mati"
+    },
+    {
+      "i": "nana",
+      "w": "Morph Molina: escape mati"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    }
+  ],
+  "karrie": [
+    {
+      "i": "blade-armor",
+      "w": "Pantul basic attack"
+    },
+    {
+      "i": "dominance-ice",
+      "w": "Kurangi AS & heal musuh"
+    },
+    {
+      "i": "antique-cuirass",
+      "w": "Kurangi damage phys"
+    }
+  ],
+  "gatotkaca": [
+    {
+      "i": "malefic-roar",
+      "w": "Penetrasi armor"
+    },
+    {
+      "i": "hunter-strike",
+      "w": "Penetrasi armor + MS"
+    },
+    {
+      "i": "demon-hunter-sword",
+      "w": "Damage % max HP"
+    }
+  ],
+  "harley": [
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "immortality",
+      "w": "Bangkit setelah tumbang"
+    },
+    {
+      "i": "antique-cuirass",
+      "w": "Kurangi damage phys"
+    }
+  ],
+  "irithel": [
+    {
+      "i": "blade-armor",
+      "w": "Pantul basic attack"
+    },
+    {
+      "i": "dominance-ice",
+      "w": "Kurangi AS & heal musuh"
+    },
+    {
+      "i": "antique-cuirass",
+      "w": "Kurangi damage phys"
+    }
+  ],
+  "grock": [
+    {
+      "i": "diggie",
+      "w": "Anti-CC: kunci setter"
+    },
+    {
+      "i": "valir",
+      "w": "Knockback terus-menerus"
+    },
+    {
+      "i": "chou",
+      "w": "Kick combo interrupt"
+    }
+  ],
+  "argus": [
+    {
+      "i": "diggie",
+      "w": "Anti-CC: kunci setter"
+    },
+    {
+      "i": "valir",
+      "w": "Knockback terus-menerus"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    }
+  ],
+  "odette": [
+    {
+      "i": "chou",
+      "w": "Kick combo interrupt"
+    },
+    {
+      "i": "ling",
+      "w": "Mobilitas tinggi, burst"
+    },
+    {
+      "i": "khufra",
+      "w": "Ult anti-dash: mobilitas mati"
+    }
+  ],
+  "lancelot": [
+    {
+      "i": "khufra",
+      "w": "Ult anti-dash: mobilitas mati"
+    },
+    {
+      "i": "kaja",
+      "w": "Suppression tarik + ult"
+    },
+    {
+      "i": "minsitthar",
+      "w": "Ult anti-dash + cage"
+    }
+  ],
+  "diggie": [
+    {
+      "i": "ling",
+      "w": "Mobilitas tinggi, burst"
+    },
+    {
+      "i": "fanny",
+      "w": "Burst cepat, susah dipegang"
+    },
+    {
+      "i": "lancelot",
+      "w": "Burst + i-frames"
+    }
+  ],
+  "hylos": [
+    {
+      "i": "karrie",
+      "w": "True dmg lawan tank"
+    },
+    {
+      "i": "dyrroth",
+      "w": "Penetrasi armor lawan tank"
+    },
+    {
+      "i": "malefic-roar",
+      "w": "Penetrasi armor"
+    }
+  ],
+  "zhask": [
+    {
+      "i": "athenas-shield",
+      "w": "Shield serap burst magic"
+    },
+    {
+      "i": "radiant-armor",
+      "w": "Tahan damage magic"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    }
+  ],
+  "helcurt": [
+    {
+      "i": "diggie",
+      "w": "Anti-CC: kunci setter"
+    },
+    {
+      "i": "franco",
+      "w": "Hook + suppression"
+    },
+    {
+      "i": "kaja",
+      "w": "Suppression tarik + ult"
+    }
+  ],
+  "pharsa": [
+    {
+      "i": "ling",
+      "w": "Mobilitas tinggi, burst"
+    },
+    {
+      "i": "fanny",
+      "w": "Burst cepat, susah dipegang"
+    },
+    {
+      "i": "lancelot",
+      "w": "Burst + i-frames"
+    }
+  ],
+  "lesley": [
+    {
+      "i": "ling",
+      "w": "Mobilitas tinggi, burst"
+    },
+    {
+      "i": "fanny",
+      "w": "Burst cepat, susah dipegang"
+    },
+    {
+      "i": "karina",
+      "w": "Reset kill burst"
+    }
+  ],
+  "jawhead": [
+    {
+      "i": "diggie",
+      "w": "Anti-CC: kunci setter"
+    },
+    {
+      "i": "valir",
+      "w": "Knockback terus-menerus"
+    },
+    {
+      "i": "kaja",
+      "w": "Suppression tarik + ult"
+    }
+  ],
+  "angela": [
+    {
+      "i": "diggie",
+      "w": "Anti-CC: kunci setter"
+    },
+    {
+      "i": "franco",
+      "w": "Hook + suppression"
+    },
+    {
+      "i": "kaja",
+      "w": "Suppression tarik + ult"
+    }
+  ],
+  "gusion": [
+    {
+      "i": "khufra",
+      "w": "Ult anti-dash: mobilitas mati"
+    },
+    {
+      "i": "chou",
+      "w": "Kick combo interrupt"
+    },
+    {
+      "i": "kaja",
+      "w": "Suppression tarik + ult"
+    }
+  ],
+  "valir": [
+    {
+      "i": "ling",
+      "w": "Mobilitas tinggi, burst"
+    },
+    {
+      "i": "fanny",
+      "w": "Burst cepat, susah dipegang"
+    },
+    {
+      "i": "lancelot",
+      "w": "Burst + i-frames"
+    }
+  ],
+  "martis": [
+    {
+      "i": "diggie",
+      "w": "Anti-CC: kunci setter"
+    },
+    {
+      "i": "valir",
+      "w": "Knockback terus-menerus"
+    },
+    {
+      "i": "kaja",
+      "w": "Suppression tarik + ult"
+    }
+  ],
+  "uranus": [
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    },
+    {
+      "i": "glowing-wand",
+      "w": "Anti-regen + burn"
+    },
+    {
+      "i": "dominance-ice",
+      "w": "Kurangi AS & heal musuh"
+    }
+  ],
+  "hanabi": [
+    {
+      "i": "ling",
+      "w": "Mobilitas tinggi, burst"
+    },
+    {
+      "i": "fanny",
+      "w": "Burst cepat, susah dipegang"
+    },
+    {
+      "i": "lancelot",
+      "w": "Burst + i-frames"
+    }
+  ],
+  "chang'e": [
+    {
+      "i": "athenas-shield",
+      "w": "Shield serap burst magic"
+    },
+    {
+      "i": "radiant-armor",
+      "w": "Tahan damage magic"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    }
+  ],
+  "kaja": [
+    {
+      "i": "diggie",
+      "w": "Anti-CC: kunci setter"
+    },
+    {
+      "i": "valir",
+      "w": "Knockback terus-menerus"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    }
+  ],
+  "selena": [
+    {
+      "i": "diggie",
+      "w": "Anti-CC: kunci setter"
+    },
+    {
+      "i": "franco",
+      "w": "Hook + suppression"
+    },
+    {
+      "i": "kaja",
+      "w": "Suppression tarik + ult"
+    }
+  ],
+  "aldous": [
+    {
+      "i": "antique-cuirass",
+      "w": "Kurangi damage phys"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "blade-armor",
+      "w": "Pantul basic attack"
+    }
+  ],
+  "claude": [
+    {
+      "i": "blade-armor",
+      "w": "Pantul basic attack"
+    },
+    {
+      "i": "dominance-ice",
+      "w": "Kurangi AS & heal musuh"
+    },
+    {
+      "i": "antique-cuirass",
+      "w": "Kurangi damage phys"
+    }
+  ],
+  "vale": [
+    {
+      "i": "ling",
+      "w": "Mobilitas tinggi, burst"
+    },
+    {
+      "i": "fanny",
+      "w": "Burst cepat, susah dipegang"
+    },
+    {
+      "i": "saber",
+      "w": "Burst target tunggal"
+    }
+  ],
+  "leomord": [
+    {
+      "i": "diggie",
+      "w": "Anti-CC: kunci setter"
+    },
+    {
+      "i": "valir",
+      "w": "Knockback terus-menerus"
+    },
+    {
+      "i": "kaja",
+      "w": "Suppression tarik + ult"
+    }
+  ],
+  "lunox": [
+    {
+      "i": "khufra",
+      "w": "Ult anti-dash: mobilitas mati"
+    },
+    {
+      "i": "kaja",
+      "w": "Suppression tarik + ult"
+    },
+    {
+      "i": "franco",
+      "w": "Hook + suppression"
+    }
+  ],
+  "hanzo": [
+    {
+      "i": "franco",
+      "w": "Hook + suppression"
+    },
+    {
+      "i": "kaja",
+      "w": "Suppression tarik + ult"
+    },
+    {
+      "i": "minsitthar",
+      "w": "Ult anti-dash + cage"
+    }
+  ],
+  "belerick": [
+    {
+      "i": "karrie",
+      "w": "True dmg lawan tank"
+    },
+    {
+      "i": "dyrroth",
+      "w": "Penetrasi armor lawan tank"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    }
+  ],
+  "kimmy": [
+    {
+      "i": "blade-armor",
+      "w": "Pantul basic attack"
+    },
+    {
+      "i": "dominance-ice",
+      "w": "Kurangi AS & heal musuh"
+    },
+    {
+      "i": "antique-cuirass",
+      "w": "Kurangi damage phys"
+    }
+  ],
+  "thamuz": [
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    },
+    {
+      "i": "glowing-wand",
+      "w": "Anti-regen + burn"
+    },
+    {
+      "i": "dominance-ice",
+      "w": "Kurangi AS & heal musuh"
+    }
+  ],
+  "harith": [
+    {
+      "i": "khufra",
+      "w": "Ult anti-dash: mobilitas mati"
+    },
+    {
+      "i": "valir",
+      "w": "Knockback terus-menerus"
+    },
+    {
+      "i": "nana",
+      "w": "Morph Molina: escape mati"
+    }
+  ],
+  "minsitthar": [
+    {
+      "i": "diggie",
+      "w": "Anti-CC: kunci setter"
+    },
+    {
+      "i": "valir",
+      "w": "Knockback terus-menerus"
+    },
+    {
+      "i": "chou",
+      "w": "Kick combo interrupt"
+    }
+  ],
+  "kadita": [
+    {
+      "i": "diggie",
+      "w": "Anti-CC: kunci setter"
+    },
+    {
+      "i": "franco",
+      "w": "Hook + suppression"
+    },
+    {
+      "i": "kaja",
+      "w": "Suppression tarik + ult"
+    }
+  ],
+  "faramis": [
+    {
+      "i": "diggie",
+      "w": "Anti-CC: kunci setter"
+    },
+    {
+      "i": "franco",
+      "w": "Hook + suppression"
+    },
+    {
+      "i": "kaja",
+      "w": "Suppression tarik + ult"
+    }
+  ],
+  "badang": [
+    {
+      "i": "diggie",
+      "w": "Anti-CC: kunci setter"
+    },
+    {
+      "i": "valir",
+      "w": "Knockback terus-menerus"
+    },
+    {
+      "i": "kaja",
+      "w": "Suppression tarik + ult"
+    }
+  ],
+  "khufra": [
+    {
+      "i": "diggie",
+      "w": "Anti-CC: kunci setter"
+    },
+    {
+      "i": "valir",
+      "w": "Knockback terus-menerus"
+    },
+    {
+      "i": "kaja",
+      "w": "Suppression tarik + ult"
+    }
+  ],
+  "granger": [
+    {
+      "i": "ling",
+      "w": "Mobilitas tinggi, burst"
+    },
+    {
+      "i": "fanny",
+      "w": "Burst cepat, susah dipegang"
+    },
+    {
+      "i": "lancelot",
+      "w": "Burst + i-frames"
+    }
+  ],
+  "guinevere": [
+    {
+      "i": "antique-cuirass",
+      "w": "Kurangi damage phys"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "blade-armor",
+      "w": "Pantul basic attack"
+    }
+  ],
+  "esmeralda": [
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    },
+    {
+      "i": "glowing-wand",
+      "w": "Anti-regen + burn"
+    },
+    {
+      "i": "athenas-shield",
+      "w": "Shield serap burst magic"
+    }
+  ],
+  "terizla": [
+    {
+      "i": "antique-cuirass",
+      "w": "Kurangi damage phys"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    }
+  ],
+  "x-borg": [
+    {
+      "i": "antique-cuirass",
+      "w": "Kurangi damage phys"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    }
+  ],
+  "ling": [
+    {
+      "i": "khufra",
+      "w": "Ult anti-dash: mobilitas mati"
+    },
+    {
+      "i": "nana",
+      "w": "Morph Molina: escape mati"
+    },
+    {
+      "i": "franco",
+      "w": "Hook + suppression"
+    }
+  ],
+  "dyrroth": [
+    {
+      "i": "antique-cuirass",
+      "w": "Kurangi damage phys"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "dominance-ice",
+      "w": "Kurangi AS & heal musuh"
+    }
+  ],
+  "lylia": [
+    {
+      "i": "ling",
+      "w": "Mobilitas tinggi, burst"
+    },
+    {
+      "i": "fanny",
+      "w": "Burst cepat, susah dipegang"
+    },
+    {
+      "i": "saber",
+      "w": "Burst target tunggal"
+    }
+  ],
+  "baxia": [
+    {
+      "i": "malefic-roar",
+      "w": "Penetrasi armor"
+    },
+    {
+      "i": "hunter-strike",
+      "w": "Penetrasi armor + MS"
+    },
+    {
+      "i": "demon-hunter-sword",
+      "w": "Damage % max HP"
+    }
+  ],
+  "masha": [
+    {
+      "i": "karrie",
+      "w": "True dmg lawan tank"
+    },
+    {
+      "i": "dyrroth",
+      "w": "Penetrasi armor lawan tank"
+    },
+    {
+      "i": "malefic-roar",
+      "w": "Penetrasi armor"
+    }
+  ],
+  "wanwan": [
+    {
+      "i": "blade-armor",
+      "w": "Pantul basic attack"
+    },
+    {
+      "i": "dominance-ice",
+      "w": "Kurangi AS & heal musuh"
+    },
+    {
+      "i": "antique-cuirass",
+      "w": "Kurangi damage phys"
+    }
+  ],
+  "silvanna": [
+    {
+      "i": "diggie",
+      "w": "Anti-CC: kunci setter"
+    },
+    {
+      "i": "valir",
+      "w": "Knockback terus-menerus"
+    },
+    {
+      "i": "kaja",
+      "w": "Suppression tarik + ult"
+    }
+  ],
+  "cecilion": [
+    {
+      "i": "ling",
+      "w": "Mobilitas tinggi, burst"
+    },
+    {
+      "i": "fanny",
+      "w": "Burst cepat, susah dipegang"
+    },
+    {
+      "i": "khufra",
+      "w": "Ult anti-dash: mobilitas mati"
+    }
+  ],
+  "carmilla": [
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "immortality",
+      "w": "Bangkit setelah tumbang"
+    },
+    {
+      "i": "athenas-shield",
+      "w": "Shield serap burst magic"
+    }
+  ],
+  "atlas": [
+    {
+      "i": "diggie",
+      "w": "Anti-CC: kunci setter"
+    },
+    {
+      "i": "valir",
+      "w": "Knockback terus-menerus"
+    },
+    {
+      "i": "chou",
+      "w": "Kick combo interrupt"
+    }
+  ],
+  "popol-and-kupa": [
+    {
+      "i": "blade-armor",
+      "w": "Pantul basic attack"
+    },
+    {
+      "i": "dominance-ice",
+      "w": "Kurangi AS & heal musuh"
+    },
+    {
+      "i": "antique-cuirass",
+      "w": "Kurangi damage phys"
+    }
+  ],
+  "yu-zhong": [
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    },
+    {
+      "i": "glowing-wand",
+      "w": "Anti-regen + burn"
+    },
+    {
+      "i": "dominance-ice",
+      "w": "Kurangi AS & heal musuh"
+    }
+  ],
+  "luo-yi": [
+    {
+      "i": "ling",
+      "w": "Mobilitas tinggi, burst"
+    },
+    {
+      "i": "fanny",
+      "w": "Burst cepat, susah dipegang"
+    },
+    {
+      "i": "lancelot",
+      "w": "Burst + i-frames"
+    }
+  ],
+  "benedetta": [
+    {
+      "i": "khufra",
+      "w": "Ult anti-dash: mobilitas mati"
+    },
+    {
+      "i": "valir",
+      "w": "Knockback terus-menerus"
+    },
+    {
+      "i": "kaja",
+      "w": "Suppression tarik + ult"
+    }
+  ],
+  "khaleed": [
+    {
+      "i": "antique-cuirass",
+      "w": "Kurangi damage phys"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "blade-armor",
+      "w": "Pantul basic attack"
+    }
+  ],
+  "barats": [
+    {
+      "i": "diggie",
+      "w": "Anti-CC: kunci setter"
+    },
+    {
+      "i": "valir",
+      "w": "Knockback terus-menerus"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    }
+  ],
+  "brody": [
+    {
+      "i": "blade-armor",
+      "w": "Pantul basic attack"
+    },
+    {
+      "i": "dominance-ice",
+      "w": "Kurangi AS & heal musuh"
+    },
+    {
+      "i": "antique-cuirass",
+      "w": "Kurangi damage phys"
+    }
+  ],
+  "yve": [
+    {
+      "i": "ling",
+      "w": "Mobilitas tinggi, burst"
+    },
+    {
+      "i": "fanny",
+      "w": "Burst cepat, susah dipegang"
+    },
+    {
+      "i": "khufra",
+      "w": "Ult anti-dash: mobilitas mati"
+    }
+  ],
+  "mathilda": [
+    {
+      "i": "diggie",
+      "w": "Anti-CC: kunci setter"
+    },
+    {
+      "i": "franco",
+      "w": "Hook + suppression"
+    },
+    {
+      "i": "kaja",
+      "w": "Suppression tarik + ult"
+    }
+  ],
+  "paquito": [
+    {
+      "i": "khufra",
+      "w": "Ult anti-dash: mobilitas mati"
+    },
+    {
+      "i": "valir",
+      "w": "Knockback terus-menerus"
+    },
+    {
+      "i": "nana",
+      "w": "Morph Molina: escape mati"
+    }
+  ],
+  "gloo": [
+    {
+      "i": "karrie",
+      "w": "True dmg lawan tank"
+    },
+    {
+      "i": "dyrroth",
+      "w": "Penetrasi armor lawan tank"
+    },
+    {
+      "i": "glowing-wand",
+      "w": "Anti-regen + burn"
+    }
+  ],
+  "beatrix": [
+    {
+      "i": "blade-armor",
+      "w": "Pantul basic attack"
+    },
+    {
+      "i": "dominance-ice",
+      "w": "Kurangi AS & heal musuh"
+    },
+    {
+      "i": "antique-cuirass",
+      "w": "Kurangi damage phys"
+    }
+  ],
+  "phoveus": [
+    {
+      "i": "antique-cuirass",
+      "w": "Kurangi damage phys"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "blade-armor",
+      "w": "Pantul basic attack"
+    }
+  ],
+  "natan": [
+    {
+      "i": "blade-armor",
+      "w": "Pantul basic attack"
+    },
+    {
+      "i": "dominance-ice",
+      "w": "Kurangi AS & heal musuh"
+    },
+    {
+      "i": "antique-cuirass",
+      "w": "Kurangi damage phys"
+    }
+  ],
+  "aulus": [
+    {
+      "i": "antique-cuirass",
+      "w": "Kurangi damage phys"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "blade-armor",
+      "w": "Pantul basic attack"
+    }
+  ],
+  "aamon": [
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "immortality",
+      "w": "Bangkit setelah tumbang"
+    },
+    {
+      "i": "antique-cuirass",
+      "w": "Kurangi damage phys"
+    }
+  ],
+  "valentina": [
+    {
+      "i": "athenas-shield",
+      "w": "Shield serap burst magic"
+    },
+    {
+      "i": "radiant-armor",
+      "w": "Tahan damage magic"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    }
+  ],
+  "edith": [
+    {
+      "i": "diggie",
+      "w": "Anti-CC: kunci setter"
+    },
+    {
+      "i": "valir",
+      "w": "Knockback terus-menerus"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    }
+  ],
+  "floryn": [
+    {
+      "i": "diggie",
+      "w": "Anti-CC: kunci setter"
+    },
+    {
+      "i": "franco",
+      "w": "Hook + suppression"
+    },
+    {
+      "i": "kaja",
+      "w": "Suppression tarik + ult"
+    }
+  ],
+  "yin": [
+    {
+      "i": "antique-cuirass",
+      "w": "Kurangi damage phys"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "blade-armor",
+      "w": "Pantul basic attack"
+    }
+  ],
+  "melissa": [
+    {
+      "i": "blade-armor",
+      "w": "Pantul basic attack"
+    },
+    {
+      "i": "dominance-ice",
+      "w": "Kurangi AS & heal musuh"
+    },
+    {
+      "i": "antique-cuirass",
+      "w": "Kurangi damage phys"
+    }
+  ],
+  "xavier": [
+    {
+      "i": "ling",
+      "w": "Mobilitas tinggi, burst"
+    },
+    {
+      "i": "fanny",
+      "w": "Burst cepat, susah dipegang"
+    },
+    {
+      "i": "lancelot",
+      "w": "Burst + i-frames"
+    }
+  ],
+  "julian": [
+    {
+      "i": "khufra",
+      "w": "Ult anti-dash: mobilitas mati"
+    },
+    {
+      "i": "valir",
+      "w": "Knockback terus-menerus"
+    },
+    {
+      "i": "nana",
+      "w": "Morph Molina: escape mati"
+    }
+  ],
+  "fredrinn": [
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    },
+    {
+      "i": "glowing-wand",
+      "w": "Anti-regen + burn"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    }
+  ],
+  "joy": [
+    {
+      "i": "khufra",
+      "w": "Ult anti-dash: mobilitas mati"
+    },
+    {
+      "i": "valir",
+      "w": "Knockback terus-menerus"
+    },
+    {
+      "i": "diggie",
+      "w": "Anti-CC: kunci setter"
+    }
+  ],
+  "novaria": [
+    {
+      "i": "athenas-shield",
+      "w": "Shield serap burst magic"
+    },
+    {
+      "i": "radiant-armor",
+      "w": "Tahan damage magic"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    }
+  ],
+  "arlott": [
+    {
+      "i": "khufra",
+      "w": "Ult anti-dash: mobilitas mati"
+    },
+    {
+      "i": "valir",
+      "w": "Knockback terus-menerus"
+    },
+    {
+      "i": "nana",
+      "w": "Morph Molina: escape mati"
+    }
+  ],
+  "ixia": [
+    {
+      "i": "blade-armor",
+      "w": "Pantul basic attack"
+    },
+    {
+      "i": "dominance-ice",
+      "w": "Kurangi AS & heal musuh"
+    },
+    {
+      "i": "antique-cuirass",
+      "w": "Kurangi damage phys"
+    }
+  ],
+  "nolan": [
+    {
+      "i": "khufra",
+      "w": "Ult anti-dash: mobilitas mati"
+    },
+    {
+      "i": "nana",
+      "w": "Morph Molina: escape mati"
+    },
+    {
+      "i": "valir",
+      "w": "Knockback terus-menerus"
+    }
+  ],
+  "cici": [
+    {
+      "i": "khufra",
+      "w": "Ult anti-dash: mobilitas mati"
+    },
+    {
+      "i": "valir",
+      "w": "Knockback terus-menerus"
+    },
+    {
+      "i": "nana",
+      "w": "Morph Molina: escape mati"
+    }
+  ],
+  "chip": [
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "immortality",
+      "w": "Bangkit setelah tumbang"
+    },
+    {
+      "i": "athenas-shield",
+      "w": "Shield serap burst magic"
+    }
+  ],
+  "zhuxin": [
+    {
+      "i": "khufra",
+      "w": "Ult anti-dash: mobilitas mati"
+    },
+    {
+      "i": "nana",
+      "w": "Morph Molina: escape mati"
+    },
+    {
+      "i": "valir",
+      "w": "Knockback terus-menerus"
+    }
+  ],
+  "suyou": [
+    {
+      "i": "khufra",
+      "w": "Ult anti-dash: mobilitas mati"
+    },
+    {
+      "i": "valir",
+      "w": "Knockback terus-menerus"
+    },
+    {
+      "i": "nana",
+      "w": "Morph Molina: escape mati"
+    }
+  ],
+  "lukas": [
+    {
+      "i": "khufra",
+      "w": "Ult anti-dash: mobilitas mati"
+    },
+    {
+      "i": "valir",
+      "w": "Knockback terus-menerus"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    }
+  ],
+  "kalea": [
+    {
+      "i": "diggie",
+      "w": "Anti-CC: kunci setter"
+    },
+    {
+      "i": "valir",
+      "w": "Knockback terus-menerus"
+    },
+    {
+      "i": "kaja",
+      "w": "Suppression tarik + ult"
+    }
+  ],
+  "zetian": [
+    {
+      "i": "athenas-shield",
+      "w": "Shield serap burst magic"
+    },
+    {
+      "i": "radiant-armor",
+      "w": "Tahan damage magic"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    }
+  ],
+  "obsidia": [
+    {
+      "i": "blade-armor",
+      "w": "Pantul basic attack"
+    },
+    {
+      "i": "dominance-ice",
+      "w": "Kurangi AS & heal musuh"
+    },
+    {
+      "i": "antique-cuirass",
+      "w": "Kurangi damage phys"
+    }
+  ],
+  "sora": [
+    {
+      "i": "antique-cuirass",
+      "w": "Kurangi damage phys"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "blade-armor",
+      "w": "Pantul basic attack"
+    }
+  ],
+  "marcel": [
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "immortality",
+      "w": "Bangkit setelah tumbang"
+    },
+    {
+      "i": "athenas-shield",
+      "w": "Shield serap burst magic"
+    }
+  ],
+  "hirara": [
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "immortality",
+      "w": "Bangkit setelah tumbang"
+    },
+    {
+      "i": "antique-cuirass",
+      "w": "Kurangi damage phys"
+    }
+  ]
+}

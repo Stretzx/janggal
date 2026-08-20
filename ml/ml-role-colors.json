@@ -1,1 +1,8 @@
-{"Tank":"#4DD0E1","Fighter":"#FF8A65","Assassin":"#B388FF","Mage":"#4FC3F7","Marksman":"#81C784","Support":"#FFB74D"}
+{
+  "Tank": "#4DD0E1",
+  "Fighter": "#FF8A65",
+  "Assassin": "#B388FF",
+  "Mage": "#4FC3F7",
+  "Marksman": "#81C784",
+  "Support": "#FFB74D"
+}
