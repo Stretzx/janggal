@@ -1,338 +1,524 @@
 [
   {
-    "s": "malefic-gun",
-    "n": "Malefic Gun",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Malefic_Gun.png",
-    "c": "ATTACK"
-  },
-  {
-    "s": "great-dragon-spear",
-    "n": "Great Dragon Spear",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Great_Dragon_Spear.png",
-    "c": "ATTACK"
-  },
-  {
-    "s": "sea-halberd",
-    "n": "Sea Halberd",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Sea_Halberd.png",
-    "c": "ATTACK"
-  },
-  {
-    "s": "rose-gold-meteor",
-    "n": "Rose Gold Meteor",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Rose_Gold_Meteor.png",
-    "c": "ATTACK"
-  },
-  {
-    "s": "hunter-strike",
-    "n": "Hunter Strike",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Hunter_Strike.png",
-    "c": "ATTACK"
-  },
-  {
-    "s": "blade-of-despair",
-    "n": "Blade of Despair",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Blade_of_Despair.png",
-    "c": "ATTACK"
-  },
-  {
-    "s": "blade-of-the-heptaseas",
-    "n": "Blade of the Heptaseas",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Blade_of_the_Heptaseas.png",
-    "c": "ATTACK"
-  },
-  {
-    "s": "windtalker",
-    "n": "Windtalker",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Windtalker.png",
-    "c": "ATTACK"
-  },
-  {
-    "s": "endless-battle",
-    "n": "Endless Battle",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Endless_Battle.png",
-    "c": "ATTACK"
-  },
-  {
-    "s": "berserkers-fury",
-    "n": "Berserker's Fury",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Berserker's_Fury.png",
-    "c": "ATTACK"
-  },
-  {
-    "s": "haas-claws",
-    "n": "Haas' Claws",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Haas'_Claws.png",
-    "c": "ATTACK"
-  },
-  {
-    "s": "malefic-roar",
-    "n": "Malefic Roar",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Malefic_Roar.png",
-    "c": "ATTACK"
-  },
-  {
-    "s": "winter-crown",
-    "n": "Winter Crown",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Winter_Crown.png",
-    "c": "ATTACK"
-  },
-  {
-    "s": "fleeting-time",
-    "n": "Fleeting Time",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Fleeting_Time.png",
-    "c": "ATTACK"
-  },
-  {
-    "s": "sky-piercer",
-    "n": "Sky Piercer",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Sky_Piercer.png",
-    "c": "ATTACK"
-  },
-  {
-    "s": "war-axe",
-    "n": "War Axe",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/War_Axe.png",
-    "c": "ATTACK"
-  },
-  {
-    "s": "wind-of-nature",
-    "n": "Wind of Nature",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Wind_of_Nature.png",
-    "c": "ATTACK"
-  },
-  {
-    "s": "golden-staff",
-    "n": "Golden Staff",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Golden_Staff.png",
-    "c": "ATTACK"
-  },
-  {
-    "s": "corrosion-scythe",
-    "n": "Corrosion Scythe",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Corrosion_Scythe.png",
-    "c": "ATTACK"
-  },
-  {
-    "s": "demon-hunter-sword",
-    "n": "Demon Hunter Sword",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Demon_Hunter_Sword.png",
-    "c": "ATTACK"
-  },
-  {
-    "s": "swift-crossbow",
-    "n": "Swift Crossbow",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Swift_Crossbow.png",
-    "c": "ATTACK"
-  },
-  {
-    "s": "genius-wand",
-    "n": "Genius Wand",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Genius_Wand.png",
-    "c": "MAGIC"
-  },
-  {
-    "s": "lightning-truncheon",
-    "n": "Lightning Truncheon",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Lightning_Truncheon.png",
-    "c": "MAGIC"
-  },
-  {
-    "s": "blood-wings",
-    "n": "Blood Wings",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Blood_Wings.png",
-    "c": "MAGIC"
-  },
-  {
-    "s": "starlium-scythe",
-    "n": "Starlium Scythe",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Starlium_Scythe.png",
-    "c": "MAGIC"
-  },
-  {
-    "s": "glowing-wand",
-    "n": "Glowing Wand",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Glowing_Wand.png",
-    "c": "MAGIC"
-  },
-  {
-    "s": "ice-queen-wand",
-    "n": "Ice Queen Wand",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Ice_Queen_Wand.png",
-    "c": "MAGIC"
-  },
-  {
-    "s": "concentrated-energy",
-    "n": "Concentrated Energy",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Concentrated_Energy.png",
-    "c": "MAGIC"
-  },
-  {
-    "s": "holy-crystal",
-    "n": "Holy Crystal",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Holy_Crystal.png",
-    "c": "MAGIC"
-  },
-  {
-    "s": "divine-glaive",
-    "n": "Divine Glaive",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Divine_Glaive.png",
-    "c": "MAGIC"
-  },
-  {
-    "s": "clock-of-destiny",
-    "n": "Clock of Destiny",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Clock_of_Destiny.png",
-    "c": "MAGIC"
-  },
-  {
-    "s": "feather-of-heaven",
-    "n": "Feather of Heaven",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Feather_of_Heaven.png",
-    "c": "MAGIC"
-  },
-  {
-    "s": "enchanted-talisman",
-    "n": "Enchanted Talisman",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Enchanted_Talisman.png",
-    "c": "MAGIC"
-  },
-  {
-    "s": "radiant-armor",
-    "n": "Radiant Armor",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Radiant_Armor.png",
-    "c": "DEFENSE"
-  },
-  {
-    "s": "chastise-pauldron",
-    "n": "Chastise Pauldron",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Chastise_Pauldron.png",
-    "c": "DEFENSE"
-  },
-  {
-    "s": "brute-force-breastplate",
-    "n": "Brute Force Breastplate",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Brute_Force_Breastplate.png",
-    "c": "DEFENSE"
-  },
-  {
-    "s": "immortality",
-    "n": "Immortality",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Immortality.png",
-    "c": "DEFENSE"
-  },
-  {
-    "s": "dominance-ice",
-    "n": "Dominance Ice",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Dominance_Ice.png",
-    "c": "DEFENSE"
-  },
-  {
-    "s": "athenas-shield",
-    "n": "Athena's Shield",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Athena's_Shield.png",
-    "c": "DEFENSE"
-  },
-  {
-    "s": "oracle",
-    "n": "Oracle",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Oracle.png",
-    "c": "DEFENSE"
-  },
-  {
     "s": "antique-cuirass",
     "n": "Antique Cuirass",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Antique_Cuirass.png",
-    "c": "DEFENSE"
-  },
-  {
-    "s": "guardian-helmet",
-    "n": "Guardian Helmet",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Guardian_Helmet.png",
-    "c": "DEFENSE"
-  },
-  {
-    "s": "cursed-helmet",
-    "n": "Cursed Helmet",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Cursed_Helmet.png",
-    "c": "DEFENSE"
-  },
-  {
-    "s": "thunder-belt",
-    "n": "Thunder Belt",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Thunder_Belt.png",
-    "c": "DEFENSE"
-  },
-  {
-    "s": "queens-wings",
-    "n": "Queen's Wings",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Queen's_Wings.png",
-    "c": "DEFENSE"
-  },
-  {
-    "s": "blade-armor",
-    "n": "Blade Armor",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Blade_Armor.png",
-    "c": "DEFENSE"
-  },
-  {
-    "s": "heros-ring",
-    "n": "Hero's Ring",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Hero's_Ring.png",
-    "c": "DEFENSE"
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Antique_Cuirass.png",
+    "c": "Defense"
   },
   {
     "s": "arcane-boots",
     "n": "Arcane Boots",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Arcane_Boots.png",
-    "c": "MOVEMENT"
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Arcane_Boots.png",
+    "c": "Movement"
   },
   {
-    "s": "bloodlust-axe",
-    "n": "Bloodlust Axe",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Bloodlust_Axe.png",
-    "c": "ATTACK"
+    "s": "ares-belt",
+    "n": "Ares Belt",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Ares_Belt.png",
+    "c": "Defense"
   },
   {
-    "s": "courage-mask",
-    "n": "Courage Mask",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Courage_Mask.png",
-    "c": "SUPPORT"
+    "s": "athenas-shield",
+    "n": "Athena's Shield",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Athena%27s_Shield.png",
+    "c": "Defense"
+  },
+  {
+    "s": "azure-blade",
+    "n": "Azure Blade",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Azure_Blade.png",
+    "c": "Attack"
+  },
+  {
+    "s": "berserker-fury",
+    "n": "Berserker Fury",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Berserker%27s_Fury.png",
+    "c": "Attack"
+  },
+  {
+    "s": "black-ice-shield",
+    "n": "Black Ice Shield",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Black_Ice_Shield.png",
+    "c": "Defense"
+  },
+  {
+    "s": "blade-armor",
+    "n": "Blade Armor",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Blade_Armor.png",
+    "c": "Defense"
+  },
+  {
+    "s": "blade-of-despair",
+    "n": "Blade of Despair",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Blade_of_Despair.png",
+    "c": "Attack"
+  },
+  {
+    "s": "blade-of-the-heptaseas",
+    "n": "Blade of the Heptaseas",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Blade_of_the_Heptaseas.png",
+    "c": "Attack"
+  },
+  {
+    "s": "blood-wings",
+    "n": "Blood Wings",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Blood_Wings.png",
+    "c": "Magic"
+  },
+  {
+    "s": "book-of-sages",
+    "n": "Book of Sages",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Book_of_Sages.png",
+    "c": "Magic"
+  },
+  {
+    "s": "boots",
+    "n": "Boots",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Boots.png",
+    "c": "Movement"
+  },
+  {
+    "s": "brute-force-breastplate",
+    "n": "Brute Force Breastplate",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Brute_Force_Breastplate.png",
+    "c": "Defense"
+  },
+  {
+    "s": "chastise-pauldron",
+    "n": "Chastise Pauldron",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Chastise_Pauldron.png",
+    "c": "Defense"
+  },
+  {
+    "s": "clock-of-destiny",
+    "n": "Clock of Destiny",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Clock_of_Destiny.png",
+    "c": "Magic"
+  },
+  {
+    "s": "concentrated-energy",
+    "n": "Concentrated Energy",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Concentrated_Energy.png",
+    "c": "Magic"
+  },
+  {
+    "s": "corrosion-scythe",
+    "n": "Corrosion Scythe",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Corrosion_Scythe.png",
+    "c": "Attack"
+  },
+  {
+    "s": "cursed-helmet",
+    "n": "Cursed Helmet",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Cursed_Helmet.png",
+    "c": "Defense"
+  },
+  {
+    "s": "dagger",
+    "n": "Dagger",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Dagger.png",
+    "c": "Attack"
+  },
+  {
+    "s": "demon-hunter-sword",
+    "n": "Demon Hunter Sword",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Demon_Hunter_Sword.png",
+    "c": "Attack"
   },
   {
     "s": "demon-shoes",
     "n": "Demon Shoes",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Demon_Shoes.png",
-    "c": "MOVEMENT"
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Demon_Shoes.png",
+    "c": "Movement"
   },
   {
-    "s": "magic-shoes",
-    "n": "Magic Shoes",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Magic_Shoes.png",
-    "c": "MOVEMENT"
+    "s": "divine-glaive",
+    "n": "Divine Glaive",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Divine_Glaive.png",
+    "c": "Magic"
+  },
+  {
+    "s": "dominance-ice",
+    "n": "Dominance Ice",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Dominance_Ice.png",
+    "c": "Defense"
+  },
+  {
+    "s": "dreadnaught-armor",
+    "n": "Dreadnaught Armor",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Dreadnaught_Armor.png",
+    "c": "Defense"
+  },
+  {
+    "s": "elegant-gem",
+    "n": "Elegant Gem",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Elegant_Gem.png",
+    "c": "Magic"
+  },
+  {
+    "s": "enchanted-talisman",
+    "n": "Enchanted Talisman",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Enchanted_Talisman.png",
+    "c": "Magic"
+  },
+  {
+    "s": "endless-battle",
+    "n": "Endless Battle",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Endless_Battle.png",
+    "c": "Attack"
+  },
+  {
+    "s": "exotic-veil",
+    "n": "Exotic Veil",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/Exotic_Veil.png",
+    "c": "Magic"
+  },
+  {
+    "s": "expert-gloves",
+    "n": "Expert Gloves",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Expert_Gloves.png",
+    "c": "Attack"
+  },
+  {
+    "s": "feather-of-heaven",
+    "n": "Feather of Heaven",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Feather_of_Heaven.png",
+    "c": "Magic"
+  },
+  {
+    "s": "flask-of-the-oasis",
+    "n": "Flask of the Oasis",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Flask_of_the_Oasis.png",
+    "c": "Magic"
+  },
+  {
+    "s": "fleeting-time",
+    "n": "Fleeting Time",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/Fleeting_Time.png",
+    "c": "Attack"
+  },
+  {
+    "s": "fury-hammer",
+    "n": "Fury Hammer",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/5/52/Fury_Hammer.png",
+    "c": "Attack"
+  },
+  {
+    "s": "genius-wand",
+    "n": "Genius Wand",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Genius_Wand.png",
+    "c": "Magic"
+  },
+  {
+    "s": "glowing-wand",
+    "n": "Glowing Wand",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Glowing_Wand.png",
+    "c": "Magic"
+  },
+  {
+    "s": "golden-staff",
+    "n": "Golden Staff",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Golden_Staff.png",
+    "c": "Attack"
+  },
+  {
+    "s": "great-dragon-spear",
+    "n": "Great Dragon Spear",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Great_Dragon_Spear.png",
+    "c": "Attack"
+  },
+  {
+    "s": "guardian-helmet",
+    "n": "Guardian Helmet",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Guardian_Helmet.png",
+    "c": "Defense"
+  },
+  {
+    "s": "haas-claws",
+    "n": "Haas Claws",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Haas%27_Claws.png",
+    "c": "Attack"
+  },
+  {
+    "s": "healing-necklace",
+    "n": "Healing Necklace",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Healing_Necklace.png",
+    "c": "Defense"
+  },
+  {
+    "s": "heros-ring",
+    "n": "Hero's Ring",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/9/91/Hero%27s_Ring.png",
+    "c": "Defense"
+  },
+  {
+    "s": "holy-crystal",
+    "n": "Holy Crystal",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
+    "c": "Magic"
+  },
+  {
+    "s": "hunter-strike",
+    "n": "Hunter Strike",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hunter_Strike.png",
+    "c": "Attack"
+  },
+  {
+    "s": "ice-queen-wand",
+    "n": "Ice Queen Wand",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Ice_Queen_Wand.png",
+    "c": "Magic"
+  },
+  {
+    "s": "immortality",
+    "n": "Immortality",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Immortality.png",
+    "c": "Defense"
+  },
+  {
+    "s": "javelin",
+    "n": "Javelin",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Javelin.png",
+    "c": "Attack"
+  },
+  {
+    "s": "knife",
+    "n": "Knife",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Knife.png",
+    "c": "Attack"
+  },
+  {
+    "s": "leather-jerkin",
+    "n": "Leather Jerkin",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Leather_Jerkin.png",
+    "c": "Defense"
+  },
+  {
+    "s": "legion-sword",
+    "n": "Legion Sword",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Legion_Sword.png",
+    "c": "Attack"
+  },
+  {
+    "s": "lightning-truncheon",
+    "n": "Lightning Truncheon",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Lightning_Truncheon.png",
+    "c": "Magic"
+  },
+  {
+    "s": "magic-blade",
+    "n": "Magic Blade",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Magic_Blade.png",
+    "c": "Attack"
+  },
+  {
+    "s": "magic-boots",
+    "n": "Magic Boots",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Magic_Shoes.png",
+    "c": "Movement"
+  },
+  {
+    "s": "magic-necklace",
+    "n": "Magic Necklace",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Magic_Necklace.png",
+    "c": "Magic"
+  },
+  {
+    "s": "magic-resist-cloak",
+    "n": "Magic Resist Cloak",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Magic_Resist_Cloak.png",
+    "c": "Defense"
+  },
+  {
+    "s": "magic-wand",
+    "n": "Magic Wand",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Magic_Wand.png",
+    "c": "Magic"
+  },
+  {
+    "s": "malefic-gun",
+    "n": "Malefic Gun",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Malefic_Gun.png",
+    "c": "Attack"
+  },
+  {
+    "s": "malefic-roar",
+    "n": "Malefic Roar",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Malefic_Roar.png",
+    "c": "Attack"
+  },
+  {
+    "s": "molten-essence",
+    "n": "Molten Essence",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Molten_Essence.png",
+    "c": "Defense"
+  },
+  {
+    "s": "my",
+    "n": "My",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Mystery_Codex.png",
+    "c": "Magic"
+  },
+  {
+    "s": "mystic-container",
+    "n": "Mystic Container",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Mystic_Container.png",
+    "c": "Magic"
+  },
+  {
+    "s": "oracle",
+    "n": "Oracle",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Oracle.png",
+    "c": "Defense"
+  },
+  {
+    "s": "power-crystal",
+    "n": "Power Crystal",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Power_Crystal.png",
+    "c": "Magic"
+  },
+  {
+    "s": "queens-wings",
+    "n": "Queen's Wings",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Queen%27s_Wings.png",
+    "c": "Defense"
+  },
+  {
+    "s": "radiant-armor",
+    "n": "Radiant Armor",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Radiant_Armor.png",
+    "c": "Defense"
   },
   {
     "s": "rapid-boots",
     "n": "Rapid Boots",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Rapid_Boots.png",
-    "c": "MOVEMENT"
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Rapid_Boots.png",
+    "c": "Movement"
   },
   {
-    "s": "scarlet-phantom",
-    "n": "Scarlet Phantom",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Scarlet_Phantom.png",
-    "c": "ATTACK"
+    "s": "regular-spear",
+    "n": "Regular Spear",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Regular_Spear.png",
+    "c": "Attack"
+  },
+  {
+    "s": "rose-gold-meteor",
+    "n": "Rose Gold Meteor",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Rose_Gold_Meteor.png",
+    "c": "Attack"
+  },
+  {
+    "s": "sea-halberd",
+    "n": "Sea Halberd",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Sea_Halberd.png",
+    "c": "Attack"
+  },
+  {
+    "s": "silence-robe",
+    "n": "Silence Robe",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Silence_Robe.png",
+    "c": "Defense"
+  },
+  {
+    "s": "sky-piercer",
+    "n": "Sky Piercer",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Sky_Piercer.png",
+    "c": "Attack"
+  },
+  {
+    "s": "starlium-scythe",
+    "n": "Starlium Scythe",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlium_Scythe.png",
+    "c": "Magic"
+  },
+  {
+    "s": "steel-legplates",
+    "n": "Steel Legplates",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Steel_Legplates.png",
+    "c": "Defense"
   },
   {
     "s": "swift-boots",
     "n": "Swift Boots",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Swift_Boots.png",
-    "c": "MOVEMENT"
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Swift_Boots.png",
+    "c": "Movement"
   },
   {
-    "s": "tough-boots",
-    "n": "Tough Boots",
-    "i": "https://raw.githubusercontent.com/Stretzx/janggal/main/ml/items/Tough_Boots.png",
-    "c": "MOVEMENT"
+    "s": "swift-crossbow",
+    "n": "Swift Crossbow",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Swift_Crossbow.png",
+    "c": "Attack"
+  },
+  {
+    "s": "thunder-belt",
+    "n": "Thunder Belt",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/d/dd/Thunder_Belt.png",
+    "c": "Defense"
+  },
+  {
+    "s": "tome-of-evil",
+    "n": "Tome Of Evil",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Tome_of_Evil.png",
+    "c": "Magic"
+  },
+  {
+    "s": "tought-boots",
+    "n": "Tought Boots",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Tough_Boots.png",
+    "c": "Movement"
+  },
+  {
+    "s": "vampire-mallet",
+    "n": "Vampire Mallet",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Vampire_Mallet.png",
+    "c": "Attack"
+  },
+  {
+    "s": "vit",
+    "n": "Vit",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Vitality_Crystal.png",
+    "c": "Defense"
+  },
+  {
+    "s": "war-axe",
+    "n": "War Axe",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/War_Axe.png",
+    "c": "Attack"
+  },
+  {
+    "s": "warrior-boots",
+    "n": "Warrior Boots",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/4/4b/Warrior_Boots.png",
+    "c": "Movement"
+  },
+  {
+    "s": "wind-of-nature",
+    "n": "Wind of Nature",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Wind_of_Nature.png",
+    "c": "Defense"
+  },
+  {
+    "s": "wind-of-nature",
+    "n": "Wind of Nature",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Wind_of_Nature.png",
+    "c": "Attack"
+  },
+  {
+    "s": "windtalker",
+    "n": "Windtalker",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Windtalker.png",
+    "c": "Attack"
+  },
+  {
+    "s": "winter-crown",
+    "n": "Winter Crown",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Winter_Crown.png",
+    "c": "Attack"
+  },
+  {
+    "s": "wishing-lantern",
+    "n": "Wishing Lantern",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Wishing_Lantern.png",
+    "c": "Magic"
   }
 ]
