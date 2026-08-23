@@ -1,0 +1,191 @@
+{
+  "hero": "Nana",
+  "slug": "nana",
+  "hero_id": "577f5cb2-f1d9-47c4-8b25-c95dac8bab08",
+  "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d3ef9fa051f8643b1345accd72c48abf.png",
+  "builds": [
+    {
+      "id": "95a0db50-4f8f-4129-b855-557f0e14b42e",
+      "title": "crazy full burst v2",
+      "description": "",
+      "tips": "",
+      "likes": 1,
+      "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
+      "items": [
+        {
+          "id": "3a11d865-1fff-4d8f-b919-5023703fb31a",
+          "name": "Blood Wings",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Blood_Wings.png",
+          "price": 2100
+        },
+        {
+          "id": "cdbfc89a-2fac-4466-ba07-1fba1e357847",
+          "name": "Genius Wand",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Genius_Wand.png",
+          "price": 2000
+        },
+        {
+          "id": "2184fd07-4ced-48d6-b6f0-04f99122a4e0",
+          "name": "Lightning Truncheon",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Lightning_Truncheon.png",
+          "price": 2250
+        },
+        {
+          "id": "59a45ae3-4662-4bee-8471-73751dcee211",
+          "name": "Divine Glaive",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Divine_Glaive.png",
+          "price": 1970
+        },
+        {
+          "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
+          "name": "Holy Crystal",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
+          "price": 3000
+        },
+        {
+          "id": "ece51f8f-c4c8-47cb-9992-314e83af317b",
+          "name": "Wishing Lantern",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Wishing_Lantern.png",
+          "price": 2250
+        }
+      ],
+      "emblem": {
+        "id": "5e0b6bcf-c296-4117-b0d4-4d6dae8f1618",
+        "name": "Mage",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Custom_Mage_Emblem.png"
+      },
+      "spell": {
+        "id": "234c17a1-89ce-4289-b5df-9e2625a4a8b6",
+        "name": "Flameshot",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f2/Flameshot.png"
+      },
+      "conditional_items": [
+        "41468f7c-e36e-40fd-b9cb-796235ec44c7",
+        "a6ec810a-08da-4bbf-a137-8d23531920c9"
+      ],
+      "created_at": "2026-07-21T06:03:12.773376+00:00"
+    },
+    {
+      "id": "e061b44d-e3c1-48cd-a1f3-7f58b427dd91",
+      "title": "crazy full burst",
+      "description": "slow dikit gak ngaruh",
+      "tips": "",
+      "likes": 1,
+      "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
+      "items": [
+        {
+          "id": "3a11d865-1fff-4d8f-b919-5023703fb31a",
+          "name": "Blood Wings",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Blood_Wings.png",
+          "price": 2100
+        },
+        {
+          "id": "cdbfc89a-2fac-4466-ba07-1fba1e357847",
+          "name": "Genius Wand",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Genius_Wand.png",
+          "price": 2000
+        },
+        {
+          "id": "2184fd07-4ced-48d6-b6f0-04f99122a4e0",
+          "name": "Lightning Truncheon",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Lightning_Truncheon.png",
+          "price": 2250
+        },
+        {
+          "id": "59a45ae3-4662-4bee-8471-73751dcee211",
+          "name": "Divine Glaive",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Divine_Glaive.png",
+          "price": 1970
+        },
+        {
+          "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
+          "name": "Holy Crystal",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
+          "price": 3000
+        },
+        {
+          "id": "ece51f8f-c4c8-47cb-9992-314e83af317b",
+          "name": "Wishing Lantern",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Wishing_Lantern.png",
+          "price": 2250
+        }
+      ],
+      "emblem": {
+        "id": "5e0b6bcf-c296-4117-b0d4-4d6dae8f1618",
+        "name": "Mage",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Custom_Mage_Emblem.png"
+      },
+      "spell": {
+        "id": "234c17a1-89ce-4289-b5df-9e2625a4a8b6",
+        "name": "Flameshot",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f2/Flameshot.png"
+      },
+      "conditional_items": [
+        "41468f7c-e36e-40fd-b9cb-796235ec44c7",
+        "a6ec810a-08da-4bbf-a137-8d23531920c9"
+      ],
+      "created_at": "2026-07-21T06:00:45.51342+00:00"
+    },
+    {
+      "id": "67820261-0f3b-4673-8404-e4338c7acf27",
+      "title": "full burst",
+      "description": "for squishy hero",
+      "tips": "(skill 2, skill ulti, skill1) or (skill 1, skill 2, skill 3, skill1)",
+      "likes": 1,
+      "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
+      "items": [
+        {
+          "id": "a6ec810a-08da-4bbf-a137-8d23531920c9",
+          "name": "Arcane Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Arcane_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "cdbfc89a-2fac-4466-ba07-1fba1e357847",
+          "name": "Genius Wand",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Genius_Wand.png",
+          "price": 2000
+        },
+        {
+          "id": "2184fd07-4ced-48d6-b6f0-04f99122a4e0",
+          "name": "Lightning Truncheon",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Lightning_Truncheon.png",
+          "price": 2250
+        },
+        {
+          "id": "59a45ae3-4662-4bee-8471-73751dcee211",
+          "name": "Divine Glaive",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Divine_Glaive.png",
+          "price": 1970
+        },
+        {
+          "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
+          "name": "Holy Crystal",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
+          "price": 3000
+        },
+        {
+          "id": "ece51f8f-c4c8-47cb-9992-314e83af317b",
+          "name": "Wishing Lantern",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Wishing_Lantern.png",
+          "price": 2250
+        }
+      ],
+      "emblem": {
+        "id": "5e0b6bcf-c296-4117-b0d4-4d6dae8f1618",
+        "name": "Mage",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Custom_Mage_Emblem.png"
+      },
+      "spell": {
+        "id": "234c17a1-89ce-4289-b5df-9e2625a4a8b6",
+        "name": "Flameshot",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f2/Flameshot.png"
+      },
+      "conditional_items": [
+        "3a11d865-1fff-4d8f-b919-5023703fb31a",
+        "78f73686-df75-42b1-8bb1-fbf9d5f33a70"
+      ],
+      "created_at": "2026-07-21T05:54:28.614647+00:00"
+    }
+  ]
+}

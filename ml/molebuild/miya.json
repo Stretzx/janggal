@@ -1,0 +1,191 @@
+{
+  "hero": "Miya",
+  "slug": "miya",
+  "hero_id": "1a4239c4-b2b4-4a6e-8900-0da8cee0eeab",
+  "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_32c0d9d3a727a9052754296af6251435.png",
+  "builds": [
+    {
+      "id": "d7574564-fbcb-4dbf-966a-8926a65fd753",
+      "title": "atack speed",
+      "description": "",
+      "tips": "",
+      "likes": 7,
+      "patch_id": "a3c48a7d-f457-469a-8207-c1953b6be3a9",
+      "items": [
+        {
+          "id": "30b36662-b7db-46c6-9a63-346eae2b1c45",
+          "name": "Swift Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Swift_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "85ca390d-2fd5-4428-84ca-cdda78d395d2",
+          "name": "Corrosion Scythe",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Corrosion_Scythe.png",
+          "price": 2050
+        },
+        {
+          "id": "a67fa43a-b139-4b0b-9d0f-43537ef95a24",
+          "name": "Windtalker",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Windtalker.png",
+          "price": 1880
+        },
+        {
+          "id": "fbd7ae0a-37da-493e-aed1-9932a2ea5317",
+          "name": "Berserker Fury",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Berserker%27s_Fury.png",
+          "price": 2390
+        },
+        {
+          "id": "382823c5-fac2-4cc4-859d-3f54d6b2b793",
+          "name": "Demon Hunter Sword",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Demon_Hunter_Sword.png",
+          "price": 2180
+        },
+        {
+          "id": "a80b1b94-e5a3-4c09-af16-3112a6ae9985",
+          "name": "Malefic Roar",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Malefic_Roar.png",
+          "price": 2060
+        }
+      ],
+      "emblem": {
+        "id": "0477a4cd-825b-408f-92dc-d5e9229c7a50",
+        "name": "Marksman",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Custom_Marksman_Emblem.png"
+      },
+      "spell": {
+        "id": "62a0cb78-66c8-4066-831c-91c49eefc0af",
+        "name": "Inspire",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Inspire.png"
+      },
+      "conditional_items": [
+        "c49ed4f8-8b73-42c8-87e2-fa83bccade0d",
+        "9b0c5b28-b617-42e8-8bdb-5aef5514b6ce"
+      ],
+      "created_at": "2026-01-21T01:32:43.073339+00:00"
+    },
+    {
+      "id": "227740cb-15f0-485e-8e30-cbb57c7bdf33",
+      "title": "Miya sakit ",
+      "description": "build miya tersakit \n\n",
+      "tips": "",
+      "likes": 4,
+      "patch_id": "be77a09b-50cc-45fb-b5fa-623daa196557",
+      "items": [
+        {
+          "id": "30b36662-b7db-46c6-9a63-346eae2b1c45",
+          "name": "Swift Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Swift_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "a67fa43a-b139-4b0b-9d0f-43537ef95a24",
+          "name": "Windtalker",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Windtalker.png",
+          "price": 1880
+        },
+        {
+          "id": "fbd7ae0a-37da-493e-aed1-9932a2ea5317",
+          "name": "Berserker Fury",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Berserker%27s_Fury.png",
+          "price": 2390
+        },
+        {
+          "id": "6c3c144b-fe6d-4fa5-b597-4f0240825528",
+          "name": "Golden Staff",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Golden_Staff.png",
+          "price": 2000
+        },
+        {
+          "id": "9d21f19b-e352-4d3e-b6b0-8c742a8078e7",
+          "name": "Malefic Gun",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Malefic_Gun.png",
+          "price": 2120
+        },
+        {
+          "id": "2c6757ba-8522-4d3c-a894-407f2c4f16e9",
+          "name": "Sea Halberd",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Sea_Halberd.png",
+          "price": 2050
+        }
+      ],
+      "emblem": {
+        "id": "0477a4cd-825b-408f-92dc-d5e9229c7a50",
+        "name": "Marksman",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Custom_Marksman_Emblem.png"
+      },
+      "spell": {
+        "id": "62a0cb78-66c8-4066-831c-91c49eefc0af",
+        "name": "Inspire",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Inspire.png"
+      },
+      "conditional_items": [
+        "8408352d-1f00-4c68-b3ba-7abc320588ce",
+        "5b97529a-e569-400f-b8f8-7e9a76b42e7a"
+      ],
+      "created_at": "2026-04-05T08:36:44.561809+00:00"
+    },
+    {
+      "id": "53ab4fbf-e781-47f7-8793-5f401c564084",
+      "title": "Miya Sigma",
+      "description": "",
+      "tips": "",
+      "likes": 3,
+      "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
+      "items": [
+        {
+          "id": "85ca390d-2fd5-4428-84ca-cdda78d395d2",
+          "name": "Corrosion Scythe",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Corrosion_Scythe.png",
+          "price": 2050
+        },
+        {
+          "id": "a67fa43a-b139-4b0b-9d0f-43537ef95a24",
+          "name": "Windtalker",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Windtalker.png",
+          "price": 1880
+        },
+        {
+          "id": "fbd7ae0a-37da-493e-aed1-9932a2ea5317",
+          "name": "Berserker Fury",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Berserker%27s_Fury.png",
+          "price": 2390
+        },
+        {
+          "id": "bd3e52c0-6890-4eee-ad81-9815f3b65eaf",
+          "name": "Haas Claws",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Haas%27_Claws.png",
+          "price": 2020
+        },
+        {
+          "id": "9d21f19b-e352-4d3e-b6b0-8c742a8078e7",
+          "name": "Malefic Gun",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Malefic_Gun.png",
+          "price": 2120
+        },
+        {
+          "id": "2c6757ba-8522-4d3c-a894-407f2c4f16e9",
+          "name": "Sea Halberd",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Sea_Halberd.png",
+          "price": 2050
+        }
+      ],
+      "emblem": {
+        "id": "20ca33c9-d514-45d0-a956-98beb83e86ef",
+        "name": "Fighter",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Custom_Fighter_Emblem.png"
+      },
+      "spell": {
+        "id": "62a0cb78-66c8-4066-831c-91c49eefc0af",
+        "name": "Inspire",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Inspire.png"
+      },
+      "conditional_items": [
+        "c49ed4f8-8b73-42c8-87e2-fa83bccade0d",
+        "5b97529a-e569-400f-b8f8-7e9a76b42e7a"
+      ],
+      "created_at": "2026-07-14T13:48:19.76105+00:00"
+    }
+  ]
+}

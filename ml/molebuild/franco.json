@@ -1,0 +1,188 @@
+{
+  "hero": "Franco",
+  "slug": "franco",
+  "hero_id": "7c66d58e-fb32-4a74-bc2f-420f570cac10",
+  "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d9a0d6432cc0610a2232b2d2ed5e09ce.png",
+  "builds": [
+    {
+      "id": "189e25b6-cb12-4f15-a236-c704a9d6d28b",
+      "title": "H nyuri build dari teman",
+      "description": "H",
+      "tips": "",
+      "likes": 2,
+      "patch_id": "be77a09b-50cc-45fb-b5fa-623daa196557",
+      "items": [
+        {
+          "id": "d946f868-c61d-4433-80f3-3feec9b1af98",
+          "name": "Tought Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Tough_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "5e7dbecb-76e4-4c51-808c-712efa14974a",
+          "name": "Blade of the Heptaseas",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Blade_of_the_Heptaseas.png",
+          "price": 1950
+        },
+        {
+          "id": "3fd98472-74a6-4f2e-8f2c-82e12251ca28",
+          "name": "Hunter Strike",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hunter_Strike.png",
+          "price": 2010
+        },
+        {
+          "id": "2c6757ba-8522-4d3c-a894-407f2c4f16e9",
+          "name": "Sea Halberd",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Sea_Halberd.png",
+          "price": 2050
+        },
+        {
+          "id": "a80b1b94-e5a3-4c09-af16-3112a6ae9985",
+          "name": "Malefic Roar",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Malefic_Roar.png",
+          "price": 2060
+        },
+        {
+          "id": "5b97529a-e569-400f-b8f8-7e9a76b42e7a",
+          "name": "Rose Gold Meteor",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Rose_Gold_Meteor.png",
+          "price": 2030
+        }
+      ],
+      "emblem": {
+        "id": "6f783459-4751-414f-b371-85282443cfd4",
+        "name": "Assassin",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Custom_Assassin_Emblem.png"
+      },
+      "spell": {
+        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
+        "name": "Flicker",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
+      },
+      "conditional_items": [],
+      "created_at": "2026-03-19T04:24:13.529475+00:00"
+    },
+    {
+      "id": "c5467eba-68a0-4f9b-9b41-31b92a6ce717",
+      "title": "Build Attack ",
+      "description": "Tarik Flicker ULTI skill 2 (Kalau ada mm Hanabi,Granger,lasley lebih bagu)\nNote: kalau exp kalian xborg,Hilda, Bellerick buat TB ",
+      "tips": "",
+      "likes": 2,
+      "patch_id": "50548097-d34a-4265-8e93-f27176454d15",
+      "items": [
+        {
+          "id": "1433cb2c-1ad9-4f7d-b594-793ac4c9e6b6",
+          "name": "Rapid Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Rapid_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "0f52e11b-4c01-4652-8a64-c3bfc6a489b8",
+          "name": "War Axe",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/War_Axe.png",
+          "price": 2100
+        },
+        {
+          "id": "27361867-2d35-4ad8-8d4d-ba0266b04109",
+          "name": "Blade of Despair",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Blade_of_Despair.png",
+          "price": 3010
+        },
+        {
+          "id": "60d82125-ae14-43f5-9368-cadd62bb070a",
+          "name": "Endless Battle",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Endless_Battle.png",
+          "price": 2330
+        },
+        {
+          "id": "8408352d-1f00-4c68-b3ba-7abc320588ce",
+          "name": "Sky Piercer",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Sky_Piercer.png",
+          "price": 1500
+        },
+        {
+          "id": "9b0c5b28-b617-42e8-8bdb-5aef5514b6ce",
+          "name": "Winter Crown",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Winter_Crown.png",
+          "price": 1910
+        }
+      ],
+      "emblem": {
+        "id": "6f783459-4751-414f-b371-85282443cfd4",
+        "name": "Assassin",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Custom_Assassin_Emblem.png"
+      },
+      "spell": {
+        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
+        "name": "Flicker",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
+      },
+      "conditional_items": [
+        "27361867-2d35-4ad8-8d4d-ba0266b04109",
+        "b5543f4a-6463-48f1-812f-ad08633494a1"
+      ],
+      "created_at": "2026-02-24T04:55:05.15752+00:00"
+    },
+    {
+      "id": "51016946-8bf7-4f80-9653-08520c1fe7fa",
+      "title": "Global Franco",
+      "description": "spill\n",
+      "tips": "",
+      "likes": 2,
+      "patch_id": "a3c48a7d-f457-469a-8207-c1953b6be3a9",
+      "items": [
+        {
+          "id": "dde20fc5-a6fa-4f15-8a03-46b43698f724",
+          "name": "Warrior Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4b/Warrior_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "f0e350a8-9b23-4216-ba1a-03f7849d07d3",
+          "name": "Fleeting Time",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/Fleeting_Time.png",
+          "price": 2050
+        },
+        {
+          "id": "9b0c5b28-b617-42e8-8bdb-5aef5514b6ce",
+          "name": "Winter Crown",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Winter_Crown.png",
+          "price": 1910
+        },
+        {
+          "id": "f8e4e2b5-2b5d-42ab-9b2d-f99520df1f90",
+          "name": "Athena's Shield",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Athena%27s_Shield.png",
+          "price": 2150
+        },
+        {
+          "id": "45e33c00-9674-44d3-950b-073425a1f922",
+          "name": "Dominance Ice",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Dominance_Ice.png",
+          "price": 2010
+        },
+        {
+          "id": "f8f538b8-5cf0-4fd4-a4e6-dff974a0b715",
+          "name": "Guardian Helmet",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Guardian_Helmet.png",
+          "price": 2500
+        }
+      ],
+      "emblem": {
+        "id": "19b50db4-0112-4bc6-8801-b106c92900c9",
+        "name": "Common",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Basic_Common_Emblem.png"
+      },
+      "spell": {
+        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
+        "name": "Flicker",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
+      },
+      "conditional_items": [
+        "2f707623-6044-4dc4-8183-5095409c5078",
+        "421314fd-557c-427b-8e74-b016c8dcf33a"
+      ],
+      "created_at": "2025-12-26T18:15:57.022232+00:00"
+    }
+  ]
+}

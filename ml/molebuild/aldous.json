@@ -1,0 +1,188 @@
+{
+  "hero": "Aldous",
+  "slug": "aldous",
+  "hero_id": "f6708df1-9d02-4c82-8d1e-3981a7880583",
+  "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c2f6866ffc797395ee35f97a74bbea20.png",
+  "builds": [
+    {
+      "id": "8824922e-6864-4cb4-a1e1-4a7edfd1d327",
+      "title": "Build 1 hit dijamin mati",
+      "description": "Full stack atau diatas 500 stack ",
+      "tips": "",
+      "likes": 4,
+      "patch_id": "50548097-d34a-4265-8e93-f27176454d15",
+      "items": [
+        {
+          "id": "d946f868-c61d-4433-80f3-3feec9b1af98",
+          "name": "Tought Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Tough_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "5e7dbecb-76e4-4c51-808c-712efa14974a",
+          "name": "Blade of the Heptaseas",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Blade_of_the_Heptaseas.png",
+          "price": 1950
+        },
+        {
+          "id": "60d82125-ae14-43f5-9368-cadd62bb070a",
+          "name": "Endless Battle",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Endless_Battle.png",
+          "price": 2330
+        },
+        {
+          "id": "a80b1b94-e5a3-4c09-af16-3112a6ae9985",
+          "name": "Malefic Roar",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Malefic_Roar.png",
+          "price": 2060
+        },
+        {
+          "id": "8408352d-1f00-4c68-b3ba-7abc320588ce",
+          "name": "Sky Piercer",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Sky_Piercer.png",
+          "price": 1500
+        },
+        {
+          "id": "27361867-2d35-4ad8-8d4d-ba0266b04109",
+          "name": "Blade of Despair",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Blade_of_Despair.png",
+          "price": 3010
+        }
+      ],
+      "emblem": {
+        "id": "6f783459-4751-414f-b371-85282443cfd4",
+        "name": "Assassin",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Custom_Assassin_Emblem.png"
+      },
+      "spell": {
+        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
+        "name": "Flicker",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
+      },
+      "conditional_items": [
+        "5b97529a-e569-400f-b8f8-7e9a76b42e7a",
+        "9b0c5b28-b617-42e8-8bdb-5aef5514b6ce"
+      ],
+      "created_at": "2026-03-07T14:30:21.234773+00:00"
+    },
+    {
+      "id": "a3a69610-f6cf-4bf9-99f7-c111a21eb111",
+      "title": "build lifesteal ",
+      "description": "hit and run",
+      "tips": "",
+      "likes": 2,
+      "patch_id": "c6153242-aa0e-47fc-9d09-edfb495a997d",
+      "items": [
+        {
+          "id": "60d82125-ae14-43f5-9368-cadd62bb070a",
+          "name": "Endless Battle",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Endless_Battle.png",
+          "price": 2330
+        },
+        {
+          "id": "1433cb2c-1ad9-4f7d-b594-793ac4c9e6b6",
+          "name": "Rapid Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Rapid_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "5e7dbecb-76e4-4c51-808c-712efa14974a",
+          "name": "Blade of the Heptaseas",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Blade_of_the_Heptaseas.png",
+          "price": 1950
+        },
+        {
+          "id": "bd3e52c0-6890-4eee-ad81-9815f3b65eaf",
+          "name": "Haas Claws",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Haas%27_Claws.png",
+          "price": 2020
+        },
+        {
+          "id": "5b97529a-e569-400f-b8f8-7e9a76b42e7a",
+          "name": "Rose Gold Meteor",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Rose_Gold_Meteor.png",
+          "price": 2030
+        },
+        {
+          "id": "70ae58cf-dc12-42f2-832f-75f9bbbfc0e1",
+          "name": "Oracle",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Oracle.png",
+          "price": 1860
+        }
+      ],
+      "emblem": {
+        "id": "6f783459-4751-414f-b371-85282443cfd4",
+        "name": "Assassin",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Custom_Assassin_Emblem.png"
+      },
+      "spell": {
+        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
+        "name": "Flicker",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
+      },
+      "conditional_items": [
+        "a80b1b94-e5a3-4c09-af16-3112a6ae9985",
+        "9b0c5b28-b617-42e8-8bdb-5aef5514b6ce"
+      ],
+      "created_at": "2026-05-10T17:15:53.571865+00:00"
+    },
+    {
+      "id": "c215266b-df24-4a7f-9125-0c2b4ba6ab6d",
+      "title": "1 hit",
+      "description": "",
+      "tips": "",
+      "likes": 2,
+      "patch_id": "c6153242-aa0e-47fc-9d09-edfb495a997d",
+      "items": [
+        {
+          "id": "1433cb2c-1ad9-4f7d-b594-793ac4c9e6b6",
+          "name": "Rapid Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Rapid_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "5e7dbecb-76e4-4c51-808c-712efa14974a",
+          "name": "Blade of the Heptaseas",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Blade_of_the_Heptaseas.png",
+          "price": 1950
+        },
+        {
+          "id": "60d82125-ae14-43f5-9368-cadd62bb070a",
+          "name": "Endless Battle",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Endless_Battle.png",
+          "price": 2330
+        },
+        {
+          "id": "8408352d-1f00-4c68-b3ba-7abc320588ce",
+          "name": "Sky Piercer",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Sky_Piercer.png",
+          "price": 1500
+        },
+        {
+          "id": "fbd7ae0a-37da-493e-aed1-9932a2ea5317",
+          "name": "Berserker Fury",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Berserker%27s_Fury.png",
+          "price": 2390
+        },
+        {
+          "id": "a80b1b94-e5a3-4c09-af16-3112a6ae9985",
+          "name": "Malefic Roar",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Malefic_Roar.png",
+          "price": 2060
+        }
+      ],
+      "emblem": {
+        "id": "6f783459-4751-414f-b371-85282443cfd4",
+        "name": "Assassin",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Custom_Assassin_Emblem.png"
+      },
+      "spell": {
+        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
+        "name": "Flicker",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
+      },
+      "conditional_items": [],
+      "created_at": "2026-04-23T18:29:11.730801+00:00"
+    }
+  ]
+}

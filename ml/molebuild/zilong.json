@@ -1,0 +1,185 @@
+{
+  "hero": "Zilong",
+  "slug": "zilong",
+  "hero_id": "23543196-6f66-401b-b39a-8f797892d34a",
+  "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e22227fa343e8c5bffd83bb78d1bd292.png",
+  "builds": [
+    {
+      "id": "2c8c608b-1dd7-45d5-af04-ddc28f1ba401",
+      "title": "Zilong Racing",
+      "description": "Tidak disarankan di rank, cuma buat have fun aja. Jika ingin main di rank coba aja :v",
+      "tips": "",
+      "likes": 3,
+      "patch_id": "c6153242-aa0e-47fc-9d09-edfb495a997d",
+      "items": [
+        {
+          "id": "1433cb2c-1ad9-4f7d-b594-793ac4c9e6b6",
+          "name": "Rapid Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Rapid_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "85ca390d-2fd5-4428-84ca-cdda78d395d2",
+          "name": "Corrosion Scythe",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Corrosion_Scythe.png",
+          "price": 2050
+        },
+        {
+          "id": "74901507-8882-467c-9d4a-e0b4b817d8d5",
+          "name": "Great Dragon Spear",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Great_Dragon_Spear.png",
+          "price": 2140
+        },
+        {
+          "id": "a67fa43a-b139-4b0b-9d0f-43537ef95a24",
+          "name": "Windtalker",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Windtalker.png",
+          "price": 1880
+        },
+        {
+          "id": "a67fa43a-b139-4b0b-9d0f-43537ef95a24",
+          "name": "Windtalker",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Windtalker.png",
+          "price": 1880
+        },
+        {
+          "id": "3a11d865-1fff-4d8f-b919-5023703fb31a",
+          "name": "Blood Wings",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Blood_Wings.png",
+          "price": 2100
+        }
+      ],
+      "emblem": {
+        "id": "548cd559-72f6-45b4-a0d5-f4b7aafcb2a9",
+        "name": "Support",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Custom_Support_Emblem.png"
+      },
+      "spell": {
+        "id": "c4ec9da3-fa75-473a-9abf-f0e1d8fae6c4",
+        "name": "Sprint",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Sprint.png"
+      },
+      "conditional_items": [],
+      "created_at": "2026-04-27T05:36:31.703971+00:00"
+    },
+    {
+      "id": "bd4d7853-45a1-4394-89ba-6b2383930561",
+      "title": "Zilong tersakit",
+      "description": "Build auto savage ",
+      "tips": "",
+      "likes": 2,
+      "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
+      "items": [
+        {
+          "id": "30b36662-b7db-46c6-9a63-346eae2b1c45",
+          "name": "Swift Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Swift_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "a67fa43a-b139-4b0b-9d0f-43537ef95a24",
+          "name": "Windtalker",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Windtalker.png",
+          "price": 1880
+        },
+        {
+          "id": "8408352d-1f00-4c68-b3ba-7abc320588ce",
+          "name": "Sky Piercer",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Sky_Piercer.png",
+          "price": 1500
+        },
+        {
+          "id": "bd3e52c0-6890-4eee-ad81-9815f3b65eaf",
+          "name": "Haas Claws",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Haas%27_Claws.png",
+          "price": 2020
+        },
+        {
+          "id": "27361867-2d35-4ad8-8d4d-ba0266b04109",
+          "name": "Blade of Despair",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Blade_of_Despair.png",
+          "price": 3010
+        },
+        {
+          "id": "74901507-8882-467c-9d4a-e0b4b817d8d5",
+          "name": "Great Dragon Spear",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Great_Dragon_Spear.png",
+          "price": 2140
+        }
+      ],
+      "emblem": {
+        "id": "6f783459-4751-414f-b371-85282443cfd4",
+        "name": "Assassin",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Custom_Assassin_Emblem.png"
+      },
+      "spell": {
+        "id": "62a0cb78-66c8-4066-831c-91c49eefc0af",
+        "name": "Inspire",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Inspire.png"
+      },
+      "conditional_items": [
+        "5b97529a-e569-400f-b8f8-7e9a76b42e7a",
+        "a80b1b94-e5a3-4c09-af16-3112a6ae9985"
+      ],
+      "created_at": "2026-06-21T05:08:08.423565+00:00"
+    },
+    {
+      "id": "80bdb8e0-9709-4182-9a3d-ef26b22a75e8",
+      "title": "Full CRIT + ULTI ngebut & irit mana",
+      "description": "Up skill 2 di early game dan arahkan skill 2 kalian ke lawan, jika skill nya cooldown maka usahakan last hit Minion dan serang lagi lawan dengan skill 2. Dan jika Minion terakhir dimenit pertama telah habis langsung gunakan inspirasi untuk menghabisi lawan.",
+      "tips": "",
+      "likes": 2,
+      "patch_id": "50548097-d34a-4265-8e93-f27176454d15",
+      "items": [
+        {
+          "id": "8408352d-1f00-4c68-b3ba-7abc320588ce",
+          "name": "Sky Piercer",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Sky_Piercer.png",
+          "price": 1500
+        },
+        {
+          "id": "1433cb2c-1ad9-4f7d-b594-793ac4c9e6b6",
+          "name": "Rapid Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Rapid_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "bd3e52c0-6890-4eee-ad81-9815f3b65eaf",
+          "name": "Haas Claws",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Haas%27_Claws.png",
+          "price": 2020
+        },
+        {
+          "id": "fbd7ae0a-37da-493e-aed1-9932a2ea5317",
+          "name": "Berserker Fury",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Berserker%27s_Fury.png",
+          "price": 2390
+        },
+        {
+          "id": "a67fa43a-b139-4b0b-9d0f-43537ef95a24",
+          "name": "Windtalker",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Windtalker.png",
+          "price": 1880
+        },
+        {
+          "id": "74901507-8882-467c-9d4a-e0b4b817d8d5",
+          "name": "Great Dragon Spear",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Great_Dragon_Spear.png",
+          "price": 2140
+        }
+      ],
+      "emblem": {
+        "id": "19b50db4-0112-4bc6-8801-b106c92900c9",
+        "name": "Common",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Basic_Common_Emblem.png"
+      },
+      "spell": {
+        "id": "62a0cb78-66c8-4066-831c-91c49eefc0af",
+        "name": "Inspire",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Inspire.png"
+      },
+      "conditional_items": [],
+      "created_at": "2026-02-26T07:37:46.05915+00:00"
+    }
+  ]
+}

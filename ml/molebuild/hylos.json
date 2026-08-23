@@ -1,0 +1,176 @@
+{
+  "hero": "Hylos",
+  "slug": "hylos",
+  "hero_id": "d23c7ec4-29ff-4c33-b95b-df3fa8c09053",
+  "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_22d8716de16d99253671c2f9e59d9ef3.png",
+  "builds": [
+    {
+      "id": "70e82ca8-7194-4501-aa02-98ddeaef3781",
+      "title": "BUILD HYLOS by black1ack.",
+      "description": "INI BUILD YANG SAYA REKOMENDASI💬",
+      "tips": "",
+      "likes": 2,
+      "patch_id": "a3c48a7d-f457-469a-8207-c1953b6be3a9",
+      "items": [
+        {
+          "id": "d946f868-c61d-4433-80f3-3feec9b1af98",
+          "name": "Tought Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Tough_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "0ca98826-ae22-42fd-8caf-0ac50dfedbd8",
+          "name": "Clock of Destiny",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Clock_of_Destiny.png",
+          "price": 2030
+        },
+        {
+          "id": "45e33c00-9674-44d3-950b-073425a1f922",
+          "name": "Dominance Ice",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Dominance_Ice.png",
+          "price": 2010
+        },
+        {
+          "id": "93514bd9-2483-40ef-b301-86a6c796e2be",
+          "name": "Antique Cuirass",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Antique_Cuirass.png",
+          "price": 2170
+        },
+        {
+          "id": "3585dc9e-2722-44f6-9bbb-100b777c5a86",
+          "name": "Radiant Armor",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Radiant_Armor.png",
+          "price": 1880
+        },
+        {
+          "id": "2f707623-6044-4dc4-8183-5095409c5078",
+          "name": "Immortality",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Immortality.png",
+          "price": 2120
+        }
+      ],
+      "emblem": {
+        "id": "c0c1e80e-c705-4a36-ae5f-f930130489ba",
+        "name": "Tank",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Custom_Tank_Emblem.png"
+      },
+      "spell": {
+        "id": "b68d9e4c-db6e-4107-a36f-ea24b16fb978",
+        "name": "Revitalize",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Revitalize.png"
+      },
+      "conditional_items": [
+        "f8f538b8-5cf0-4fd4-a4e6-dff974a0b715",
+        "cd59334a-2214-4e1b-a528-1ea8ae74458a"
+      ],
+      "created_at": "2026-01-07T10:49:42.878782+00:00"
+    },
+    {
+      "id": "2652db1a-25b3-41fe-ac92-aee60b491a45",
+      "title": "Hylos paling tebel semuka bumi",
+      "description": "Ngabisin waktu musuh",
+      "tips": "Rusuh jungler dan ganking gold lane",
+      "likes": 1,
+      "patch_id": "be77a09b-50cc-45fb-b5fa-623daa196557",
+      "items": [
+        {
+          "id": "d946f868-c61d-4433-80f3-3feec9b1af98",
+          "name": "Tought Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Tough_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "45e33c00-9674-44d3-950b-073425a1f922",
+          "name": "Dominance Ice",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Dominance_Ice.png",
+          "price": 2010
+        },
+        {
+          "id": "93514bd9-2483-40ef-b301-86a6c796e2be",
+          "name": "Antique Cuirass",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Antique_Cuirass.png",
+          "price": 2170
+        },
+        {
+          "id": "421314fd-557c-427b-8e74-b016c8dcf33a",
+          "name": "Chastise Pauldron",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Chastise_Pauldron.png",
+          "price": 2100
+        },
+        {
+          "id": "f8f538b8-5cf0-4fd4-a4e6-dff974a0b715",
+          "name": "Guardian Helmet",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Guardian_Helmet.png",
+          "price": 2500
+        },
+        {
+          "id": "cd59334a-2214-4e1b-a528-1ea8ae74458a",
+          "name": "Blade Armor",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Blade_Armor.png",
+          "price": 1910
+        }
+      ],
+      "emblem": {
+        "id": "c0c1e80e-c705-4a36-ae5f-f930130489ba",
+        "name": "Tank",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Custom_Tank_Emblem.png"
+      },
+      "spell": {
+        "id": "b68d9e4c-db6e-4107-a36f-ea24b16fb978",
+        "name": "Revitalize",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Revitalize.png"
+      },
+      "conditional_items": [
+        "70ae58cf-dc12-42f2-832f-75f9bbbfc0e1",
+        "2f707623-6044-4dc4-8183-5095409c5078"
+      ],
+      "created_at": "2026-04-14T13:02:16.285807+00:00"
+    },
+    {
+      "id": "18c259bb-1e85-47dc-9dd5-936d86c098f5",
+      "title": "MPL ID S17 WEEK 2 DAY 2 BTR.Finn",
+      "description": "( GEEK VS BTR GAME 2 ) MPL INDONESIA SEASON 17 WEEK 2 DAY 2 4 APRIL 2026",
+      "tips": "",
+      "likes": 1,
+      "patch_id": "be77a09b-50cc-45fb-b5fa-623daa196557",
+      "items": [
+        {
+          "id": "d946f868-c61d-4433-80f3-3feec9b1af98",
+          "name": "Tought Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Tough_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "72f33a36-d847-4bd7-b092-79269fd6c044",
+          "name": "Elegant Gem",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Elegant_Gem.png",
+          "price": 700
+        },
+        {
+          "id": "93514bd9-2483-40ef-b301-86a6c796e2be",
+          "name": "Antique Cuirass",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Antique_Cuirass.png",
+          "price": 2170
+        },
+        {
+          "id": "3585dc9e-2722-44f6-9bbb-100b777c5a86",
+          "name": "Radiant Armor",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Radiant_Armor.png",
+          "price": 1880
+        }
+      ],
+      "emblem": {
+        "id": "c0c1e80e-c705-4a36-ae5f-f930130489ba",
+        "name": "Tank",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Custom_Tank_Emblem.png"
+      },
+      "spell": {
+        "id": "b68d9e4c-db6e-4107-a36f-ea24b16fb978",
+        "name": "Revitalize",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Revitalize.png"
+      },
+      "conditional_items": [],
+      "created_at": "2026-04-04T17:06:41.57278+00:00"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "hero": "Bruno",
+  "slug": "bruno",
+  "hero_id": "652b5443-9311-4cfa-b4aa-cdcdaea36c72",
+  "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68d7ca30f69cb691125e3f03cd782a53.png",
+  "builds": [
+    {
+      "id": "29d1eb4a-1903-4920-8e7c-c297e8bb4a7e",
+      "title": "M7 SWISS STAGE DAY 4 ONIC.Skylar",
+      "description": "( ONIC VS TS GAME 1 ) M7 WORLD CHAMPIONSHIP SWISS STAGE 13 JANUARI 2026",
+      "tips": "",
+      "likes": 2,
+      "patch_id": "a3c48a7d-f457-469a-8207-c1953b6be3a9",
+      "items": [
+        {
+          "id": "dde20fc5-a6fa-4f15-8a03-46b43698f724",
+          "name": "Warrior Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4b/Warrior_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "fbd7ae0a-37da-493e-aed1-9932a2ea5317",
+          "name": "Berserker Fury",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Berserker%27s_Fury.png",
+          "price": 2390
+        },
+        {
+          "id": "bd3e52c0-6890-4eee-ad81-9815f3b65eaf",
+          "name": "Haas Claws",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Haas%27_Claws.png",
+          "price": 2020
+        },
+        {
+          "id": "2c6757ba-8522-4d3c-a894-407f2c4f16e9",
+          "name": "Sea Halberd",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Sea_Halberd.png",
+          "price": 2050
+        },
+        {
+          "id": "9d21f19b-e352-4d3e-b6b0-8c742a8078e7",
+          "name": "Malefic Gun",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Malefic_Gun.png",
+          "price": 2120
+        }
+      ],
+      "emblem": {
+        "id": "20ca33c9-d514-45d0-a956-98beb83e86ef",
+        "name": "Fighter",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Custom_Fighter_Emblem.png"
+      },
+      "spell": {
+        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
+        "name": "Flicker",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
+      },
+      "conditional_items": [],
+      "created_at": "2026-01-13T11:51:40.056046+00:00"
+    },
+    {
+      "id": "214e036c-a547-4bd2-9cf8-5dac502d7b69",
+      "title": "Build auto savage",
+      "description": "COBAIN KALO MAU IMO",
+      "tips": "",
+      "likes": 1,
+      "patch_id": "be77a09b-50cc-45fb-b5fa-623daa196557",
+      "items": [
+        {
+          "id": "bd3e52c0-6890-4eee-ad81-9815f3b65eaf",
+          "name": "Haas Claws",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Haas%27_Claws.png",
+          "price": 2020
+        },
+        {
+          "id": "fbd7ae0a-37da-493e-aed1-9932a2ea5317",
+          "name": "Berserker Fury",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Berserker%27s_Fury.png",
+          "price": 2390
+        },
+        {
+          "id": "8408352d-1f00-4c68-b3ba-7abc320588ce",
+          "name": "Sky Piercer",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Sky_Piercer.png",
+          "price": 1500
+        },
+        {
+          "id": "a67fa43a-b139-4b0b-9d0f-43537ef95a24",
+          "name": "Windtalker",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Windtalker.png",
+          "price": 1880
+        },
+        {
+          "id": "74901507-8882-467c-9d4a-e0b4b817d8d5",
+          "name": "Great Dragon Spear",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Great_Dragon_Spear.png",
+          "price": 2140
+        },
+        {
+          "id": "27361867-2d35-4ad8-8d4d-ba0266b04109",
+          "name": "Blade of Despair",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Blade_of_Despair.png",
+          "price": 3010
+        }
+      ],
+      "emblem": {
+        "id": "0477a4cd-825b-408f-92dc-d5e9229c7a50",
+        "name": "Marksman",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Custom_Marksman_Emblem.png"
+      },
+      "spell": {
+        "id": "4b128f1d-6404-4e60-a219-9b9c4bdd74aa",
+        "name": "Aegis",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e5/Aegis.png"
+      },
+      "conditional_items": [
+        "9b0c5b28-b617-42e8-8bdb-5aef5514b6ce",
+        "c49ed4f8-8b73-42c8-87e2-fa83bccade0d"
+      ],
+      "created_at": "2026-03-20T07:20:07.032308+00:00"
+    },
+    {
+      "id": "3cf9ff55-6de6-43a0-9d8b-0edf261ebebc",
+      "title": "critical ",
+      "description": "late game",
+      "tips": "",
+      "likes": 1,
+      "patch_id": "a3c48a7d-f457-469a-8207-c1953b6be3a9",
+      "items": [
+        {
+          "id": "dde20fc5-a6fa-4f15-8a03-46b43698f724",
+          "name": "Warrior Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4b/Warrior_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "bd3e52c0-6890-4eee-ad81-9815f3b65eaf",
+          "name": "Haas Claws",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Haas%27_Claws.png",
+          "price": 2020
+        },
+        {
+          "id": "fbd7ae0a-37da-493e-aed1-9932a2ea5317",
+          "name": "Berserker Fury",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Berserker%27s_Fury.png",
+          "price": 2390
+        },
+        {
+          "id": "a67fa43a-b139-4b0b-9d0f-43537ef95a24",
+          "name": "Windtalker",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Windtalker.png",
+          "price": 1880
+        },
+        {
+          "id": "9d21f19b-e352-4d3e-b6b0-8c742a8078e7",
+          "name": "Malefic Gun",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Malefic_Gun.png",
+          "price": 2120
+        },
+        {
+          "id": "5b97529a-e569-400f-b8f8-7e9a76b42e7a",
+          "name": "Rose Gold Meteor",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Rose_Gold_Meteor.png",
+          "price": 2030
+        }
+      ],
+      "emblem": {
+        "id": "6f783459-4751-414f-b371-85282443cfd4",
+        "name": "Assassin",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Custom_Assassin_Emblem.png"
+      },
+      "spell": {
+        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
+        "name": "Flicker",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
+      },
+      "conditional_items": [
+        "2f707623-6044-4dc4-8183-5095409c5078",
+        "9b0c5b28-b617-42e8-8bdb-5aef5514b6ce"
+      ],
+      "created_at": "2025-12-23T02:59:40.155242+00:00"
+    }
+  ]
+}

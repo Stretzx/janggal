@@ -1,0 +1,191 @@
+{
+  "hero": "Change",
+  "slug": "change",
+  "hero_id": "d4a3a088-7f74-46ac-abe6-ac364c69384d",
+  "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4a2db83b0fb92b826f039955d1b8b5df.png",
+  "builds": [
+    {
+      "id": "7633629b-2682-4411-b8a3-cd638eaae56e",
+      "title": "Chang'e attack spedd",
+      "description": "Build chang'e viralll",
+      "tips": "",
+      "likes": 1,
+      "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
+      "items": [
+        {
+          "id": "30b36662-b7db-46c6-9a63-346eae2b1c45",
+          "name": "Swift Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Swift_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "a2e62bd7-ba81-43cd-9b63-1a8e0ddcbe7f",
+          "name": "Feather of Heaven",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Feather_of_Heaven.png",
+          "price": 2030
+        },
+        {
+          "id": "6c3c144b-fe6d-4fa5-b597-4f0240825528",
+          "name": "Golden Staff",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Golden_Staff.png",
+          "price": 2000
+        },
+        {
+          "id": "a67fa43a-b139-4b0b-9d0f-43537ef95a24",
+          "name": "Windtalker",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Windtalker.png",
+          "price": 1880
+        },
+        {
+          "id": "fbd7ae0a-37da-493e-aed1-9932a2ea5317",
+          "name": "Berserker Fury",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Berserker%27s_Fury.png",
+          "price": 2390
+        },
+        {
+          "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
+          "name": "Holy Crystal",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
+          "price": 3000
+        }
+      ],
+      "emblem": {
+        "id": "5e0b6bcf-c296-4117-b0d4-4d6dae8f1618",
+        "name": "Mage",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Custom_Mage_Emblem.png"
+      },
+      "spell": {
+        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
+        "name": "Flicker",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
+      },
+      "conditional_items": [
+        "78f73686-df75-42b1-8bb1-fbf9d5f33a70",
+        "59a45ae3-4662-4bee-8471-73751dcee211"
+      ],
+      "created_at": "2026-07-03T16:52:12.277393+00:00"
+    },
+    {
+      "id": "9b7f216b-9923-4db7-9988-77a9106e7040",
+      "title": "Change Full Dmg + Att Speed",
+      "description": "",
+      "tips": "",
+      "likes": 1,
+      "patch_id": "c6153242-aa0e-47fc-9d09-edfb495a997d",
+      "items": [
+        {
+          "id": "a6ec810a-08da-4bbf-a137-8d23531920c9",
+          "name": "Arcane Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Arcane_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "8408352d-1f00-4c68-b3ba-7abc320588ce",
+          "name": "Sky Piercer",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Sky_Piercer.png",
+          "price": 1500
+        },
+        {
+          "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
+          "name": "Holy Crystal",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
+          "price": 3000
+        },
+        {
+          "id": "59a45ae3-4662-4bee-8471-73751dcee211",
+          "name": "Divine Glaive",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Divine_Glaive.png",
+          "price": 1970
+        },
+        {
+          "id": "2184fd07-4ced-48d6-b6f0-04f99122a4e0",
+          "name": "Lightning Truncheon",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Lightning_Truncheon.png",
+          "price": 2250
+        },
+        {
+          "id": "a2e62bd7-ba81-43cd-9b63-1a8e0ddcbe7f",
+          "name": "Feather of Heaven",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Feather_of_Heaven.png",
+          "price": 2030
+        }
+      ],
+      "emblem": {
+        "id": "6f783459-4751-414f-b371-85282443cfd4",
+        "name": "Assassin",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Custom_Assassin_Emblem.png"
+      },
+      "spell": {
+        "id": "234c17a1-89ce-4289-b5df-9e2625a4a8b6",
+        "name": "Flameshot",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f2/Flameshot.png"
+      },
+      "conditional_items": [
+        "b5543f4a-6463-48f1-812f-ad08633494a1",
+        "cdbfc89a-2fac-4466-ba07-1fba1e357847"
+      ],
+      "created_at": "2026-05-14T16:14:15.012838+00:00"
+    },
+    {
+      "id": "7f2807a9-6847-4326-a624-d345257c2e90",
+      "title": "sakit abis",
+      "description": "full penet",
+      "tips": "",
+      "likes": 1,
+      "patch_id": "c6153242-aa0e-47fc-9d09-edfb495a997d",
+      "items": [
+        {
+          "id": "a6ec810a-08da-4bbf-a137-8d23531920c9",
+          "name": "Arcane Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Arcane_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "cdbfc89a-2fac-4466-ba07-1fba1e357847",
+          "name": "Genius Wand",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Genius_Wand.png",
+          "price": 2000
+        },
+        {
+          "id": "2184fd07-4ced-48d6-b6f0-04f99122a4e0",
+          "name": "Lightning Truncheon",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Lightning_Truncheon.png",
+          "price": 2250
+        },
+        {
+          "id": "8408352d-1f00-4c68-b3ba-7abc320588ce",
+          "name": "Sky Piercer",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Sky_Piercer.png",
+          "price": 1500
+        },
+        {
+          "id": "59a45ae3-4662-4bee-8471-73751dcee211",
+          "name": "Divine Glaive",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Divine_Glaive.png",
+          "price": 1970
+        },
+        {
+          "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
+          "name": "Holy Crystal",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
+          "price": 3000
+        }
+      ],
+      "emblem": {
+        "id": "5e0b6bcf-c296-4117-b0d4-4d6dae8f1618",
+        "name": "Mage",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Custom_Mage_Emblem.png"
+      },
+      "spell": {
+        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
+        "name": "Flicker",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
+      },
+      "conditional_items": [
+        "78f73686-df75-42b1-8bb1-fbf9d5f33a70",
+        "9b0c5b28-b617-42e8-8bdb-5aef5514b6ce"
+      ],
+      "created_at": "2026-05-02T15:14:31.528662+00:00"
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "hero": "Argus",
+  "slug": "argus",
+  "hero_id": "f065da64-430c-4d1e-9950-a1a815140450",
+  "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ee4f9ddb2f82ef0dfc99bb72e0a8f557.png",
+  "builds": [
+    {
+      "id": "1442aa98-c6d2-424d-9fdc-c398905e3616",
+      "title": "𝘼𝙧𝙜𝙪𝙨 𝘼𝙜𝙚 𝘼𝙜𝙚",
+      "description": "𝙇𝙚𝙢𝙖𝙝 𝙙𝙞 𝙚𝙖𝙧𝙡𝙮 𝙜𝙖𝙢𝙚 𝙩𝙖𝙥𝙞 𝙠𝙪𝙖𝙩 𝙙𝙞 𝙡𝙖𝙩𝙚 𝙜𝙖𝙢𝙚",
+      "tips": "",
+      "likes": 7,
+      "patch_id": "a3c48a7d-f457-469a-8207-c1953b6be3a9",
+      "items": [
+        {
+          "id": "85ca390d-2fd5-4428-84ca-cdda78d395d2",
+          "name": "Corrosion Scythe",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Corrosion_Scythe.png",
+          "price": 2050
+        },
+        {
+          "id": "a67fa43a-b139-4b0b-9d0f-43537ef95a24",
+          "name": "Windtalker",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Windtalker.png",
+          "price": 1880
+        },
+        {
+          "id": "fbd7ae0a-37da-493e-aed1-9932a2ea5317",
+          "name": "Berserker Fury",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Berserker%27s_Fury.png",
+          "price": 2390
+        },
+        {
+          "id": "bd3e52c0-6890-4eee-ad81-9815f3b65eaf",
+          "name": "Haas Claws",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Haas%27_Claws.png",
+          "price": 2020
+        },
+        {
+          "id": "27361867-2d35-4ad8-8d4d-ba0266b04109",
+          "name": "Blade of Despair",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Blade_of_Despair.png",
+          "price": 3010
+        },
+        {
+          "id": "74901507-8882-467c-9d4a-e0b4b817d8d5",
+          "name": "Great Dragon Spear",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Great_Dragon_Spear.png",
+          "price": 2140
+        }
+      ],
+      "emblem": {
+        "id": "0477a4cd-825b-408f-92dc-d5e9229c7a50",
+        "name": "Marksman",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Custom_Marksman_Emblem.png"
+      },
+      "spell": {
+        "id": "62a0cb78-66c8-4066-831c-91c49eefc0af",
+        "name": "Inspire",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Inspire.png"
+      },
+      "conditional_items": [
+        "2c6757ba-8522-4d3c-a894-407f2c4f16e9",
+        "a80b1b94-e5a3-4c09-af16-3112a6ae9985"
+      ],
+      "created_at": "2026-01-04T07:41:06.144803+00:00"
+    },
+    {
+      "id": "68ee9bdb-ce27-4593-8c78-2ea410c183c8",
+      "title": "Full damage+Leaking tank",
+      "description": "Build yang bisa kill Hero tipis dan tank :) \nGunakan Malefic Roar untuk hero tank ( ganti dengan Great Dragon dan beli di slot 3/4) dan gunakan Sea Halberd kalau musuh full heal/healing ( ganti dengan slot Great Dragon dan beli Sea Halberd di slot 2",
+      "tips": "Gunakan Malefic Roar untuk hero tank ( ganti dengan Great Dragon dan beli di slot 3/4) dan gunakan Sea Halberd kalau musuh full heal/healing ( ganti dengan slot Great Dragon dan beli Sea Halberd di slot 2",
+      "likes": 4,
+      "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
+      "items": [
+        {
+          "id": "85ca390d-2fd5-4428-84ca-cdda78d395d2",
+          "name": "Corrosion Scythe",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Corrosion_Scythe.png",
+          "price": 2050
+        },
+        {
+          "id": "a67fa43a-b139-4b0b-9d0f-43537ef95a24",
+          "name": "Windtalker",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Windtalker.png",
+          "price": 1880
+        },
+        {
+          "id": "fbd7ae0a-37da-493e-aed1-9932a2ea5317",
+          "name": "Berserker Fury",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Berserker%27s_Fury.png",
+          "price": 2390
+        },
+        {
+          "id": "bd3e52c0-6890-4eee-ad81-9815f3b65eaf",
+          "name": "Haas Claws",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Haas%27_Claws.png",
+          "price": 2020
+        },
+        {
+          "id": "27361867-2d35-4ad8-8d4d-ba0266b04109",
+          "name": "Blade of Despair",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Blade_of_Despair.png",
+          "price": 3010
+        },
+        {
+          "id": "74901507-8882-467c-9d4a-e0b4b817d8d5",
+          "name": "Great Dragon Spear",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Great_Dragon_Spear.png",
+          "price": 2140
+        }
+      ],
+      "emblem": {
+        "id": "0477a4cd-825b-408f-92dc-d5e9229c7a50",
+        "name": "Marksman",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Custom_Marksman_Emblem.png"
+      },
+      "spell": {
+        "id": "62a0cb78-66c8-4066-831c-91c49eefc0af",
+        "name": "Inspire",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Inspire.png"
+      },
+      "conditional_items": [
+        "a80b1b94-e5a3-4c09-af16-3112a6ae9985",
+        "2c6757ba-8522-4d3c-a894-407f2c4f16e9"
+      ],
+      "created_at": "2026-06-19T18:30:19.335462+00:00"
+    },
+    {
+      "id": "fab5bc8a-c482-46d2-a9ab-5e2303e5f1b0",
+      "title": "New build argus",
+      "description": "",
+      "tips": "",
+      "likes": 3,
+      "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
+      "items": [
+        {
+          "id": "a67fa43a-b139-4b0b-9d0f-43537ef95a24",
+          "name": "Windtalker",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Windtalker.png",
+          "price": 1880
+        },
+        {
+          "id": "1433cb2c-1ad9-4f7d-b594-793ac4c9e6b6",
+          "name": "Rapid Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Rapid_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "85ca390d-2fd5-4428-84ca-cdda78d395d2",
+          "name": "Corrosion Scythe",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Corrosion_Scythe.png",
+          "price": 2050
+        },
+        {
+          "id": "bd3e52c0-6890-4eee-ad81-9815f3b65eaf",
+          "name": "Haas Claws",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Haas%27_Claws.png",
+          "price": 2020
+        },
+        {
+          "id": "fbd7ae0a-37da-493e-aed1-9932a2ea5317",
+          "name": "Berserker Fury",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Berserker%27s_Fury.png",
+          "price": 2390
+        },
+        {
+          "id": "5b97529a-e569-400f-b8f8-7e9a76b42e7a",
+          "name": "Rose Gold Meteor",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Rose_Gold_Meteor.png",
+          "price": 2030
+        }
+      ],
+      "emblem": {
+        "id": "0477a4cd-825b-408f-92dc-d5e9229c7a50",
+        "name": "Marksman",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Custom_Marksman_Emblem.png"
+      },
+      "spell": {
+        "id": "62a0cb78-66c8-4066-831c-91c49eefc0af",
+        "name": "Inspire",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Inspire.png"
+      },
+      "conditional_items": [
+        "74901507-8882-467c-9d4a-e0b4b817d8d5",
+        "2f707623-6044-4dc4-8183-5095409c5078"
+      ],
+      "created_at": "2026-07-02T14:37:16.959001+00:00"
+    }
+  ]
+}

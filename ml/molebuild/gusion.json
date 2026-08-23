@@ -1,0 +1,188 @@
+{
+  "hero": "Gusion",
+  "slug": "gusion",
+  "hero_id": "fbbd5f4c-edec-425c-9488-6f790db09373",
+  "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_82dbd20a7d0f274520895007898199e0.png",
+  "builds": [
+    {
+      "id": "9941e713-6b73-4925-af72-d10b51253b08",
+      "title": "Build Letuzawa",
+      "description": "",
+      "tips": "",
+      "likes": 4,
+      "patch_id": "a3c48a7d-f457-469a-8207-c1953b6be3a9",
+      "items": [
+        {
+          "id": "a6ec810a-08da-4bbf-a137-8d23531920c9",
+          "name": "Arcane Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Arcane_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "cdbfc89a-2fac-4466-ba07-1fba1e357847",
+          "name": "Genius Wand",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Genius_Wand.png",
+          "price": 2000
+        },
+        {
+          "id": "8408352d-1f00-4c68-b3ba-7abc320588ce",
+          "name": "Sky Piercer",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Sky_Piercer.png",
+          "price": 1500
+        },
+        {
+          "id": "2184fd07-4ced-48d6-b6f0-04f99122a4e0",
+          "name": "Lightning Truncheon",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Lightning_Truncheon.png",
+          "price": 2250
+        },
+        {
+          "id": "59a45ae3-4662-4bee-8471-73751dcee211",
+          "name": "Divine Glaive",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Divine_Glaive.png",
+          "price": 1970
+        },
+        {
+          "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
+          "name": "Holy Crystal",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
+          "price": 3000
+        }
+      ],
+      "emblem": {
+        "id": "6f783459-4751-414f-b371-85282443cfd4",
+        "name": "Assassin",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Custom_Assassin_Emblem.png"
+      },
+      "spell": {
+        "id": "a812d5d9-149b-48b0-b77e-fcf2bc2fe7ae",
+        "name": "Flame Retribution",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Flame_Retribution.png"
+      },
+      "conditional_items": [
+        "2f707623-6044-4dc4-8183-5095409c5078",
+        "9b0c5b28-b617-42e8-8bdb-5aef5514b6ce"
+      ],
+      "created_at": "2026-01-15T07:21:05.61999+00:00"
+    },
+    {
+      "id": "81f38c3f-795b-444c-b40b-0535aa50e2dd",
+      "title": "MPL ID S17 WEEK 2 DAY 3 RRQ.SuperKenn",
+      "description": "( RRQ VS TLID GAME 2 ) MPL INDONESIA SEASON 17 WEEK 2 DAY 3 5 APRIL 2026",
+      "tips": "",
+      "likes": 3,
+      "patch_id": "be77a09b-50cc-45fb-b5fa-623daa196557",
+      "items": [
+        {
+          "id": "32da3955-3a13-4a18-ac27-7d9b064f3fa2",
+          "name": "Magic Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Magic_Shoes.png",
+          "price": 720
+        },
+        {
+          "id": "cdbfc89a-2fac-4466-ba07-1fba1e357847",
+          "name": "Genius Wand",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Genius_Wand.png",
+          "price": 2000
+        },
+        {
+          "id": "59a45ae3-4662-4bee-8471-73751dcee211",
+          "name": "Divine Glaive",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Divine_Glaive.png",
+          "price": 1970
+        },
+        {
+          "id": "2184fd07-4ced-48d6-b6f0-04f99122a4e0",
+          "name": "Lightning Truncheon",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Lightning_Truncheon.png",
+          "price": 2250
+        },
+        {
+          "id": "3a11d865-1fff-4d8f-b919-5023703fb31a",
+          "name": "Blood Wings",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Blood_Wings.png",
+          "price": 2100
+        },
+        {
+          "id": "9b0c5b28-b617-42e8-8bdb-5aef5514b6ce",
+          "name": "Winter Crown",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Winter_Crown.png",
+          "price": 1910
+        }
+      ],
+      "emblem": {
+        "id": "5e0b6bcf-c296-4117-b0d4-4d6dae8f1618",
+        "name": "Mage",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Custom_Mage_Emblem.png"
+      },
+      "spell": {
+        "id": "a812d5d9-149b-48b0-b77e-fcf2bc2fe7ae",
+        "name": "Flame Retribution",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Flame_Retribution.png"
+      },
+      "conditional_items": [],
+      "created_at": "2026-04-05T13:26:14.763392+00:00"
+    },
+    {
+      "id": "15deba63-3a9f-43bb-80eb-17923ce038d3",
+      "title": "Build instan kill (Mid laner)",
+      "description": "Kalo musuh banyak tank = assassin, kalo banyak Hero tipis = mage , bisa Flicker jika musuh banyak Hero culik/ hero initiator, dan bisa petrify untuk ngelock damage dealer musuh, bisa skypiercer kalo snowball, kalo gak ya ganti item defense kalo,gak item counter hero musuh",
+      "tips": "",
+      "likes": 3,
+      "patch_id": "be77a09b-50cc-45fb-b5fa-623daa196557",
+      "items": [
+        {
+          "id": "a6ec810a-08da-4bbf-a137-8d23531920c9",
+          "name": "Arcane Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Arcane_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "cdbfc89a-2fac-4466-ba07-1fba1e357847",
+          "name": "Genius Wand",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Genius_Wand.png",
+          "price": 2000
+        },
+        {
+          "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
+          "name": "Holy Crystal",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
+          "price": 3000
+        },
+        {
+          "id": "8408352d-1f00-4c68-b3ba-7abc320588ce",
+          "name": "Sky Piercer",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Sky_Piercer.png",
+          "price": 1500
+        },
+        {
+          "id": "2184fd07-4ced-48d6-b6f0-04f99122a4e0",
+          "name": "Lightning Truncheon",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Lightning_Truncheon.png",
+          "price": 2250
+        },
+        {
+          "id": "59a45ae3-4662-4bee-8471-73751dcee211",
+          "name": "Divine Glaive",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Divine_Glaive.png",
+          "price": 1970
+        }
+      ],
+      "emblem": {
+        "id": "6f783459-4751-414f-b371-85282443cfd4",
+        "name": "Assassin",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Custom_Assassin_Emblem.png"
+      },
+      "spell": {
+        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
+        "name": "Flicker",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
+      },
+      "conditional_items": [
+        "2f707623-6044-4dc4-8183-5095409c5078",
+        "9b0c5b28-b617-42e8-8bdb-5aef5514b6ce"
+      ],
+      "created_at": "2026-03-15T13:15:28.065886+00:00"
+    }
+  ]
+}

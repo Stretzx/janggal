@@ -1,0 +1,190 @@
+{
+  "hero": "Roger",
+  "slug": "roger",
+  "hero_id": "2680b334-4ae2-4068-9c88-5893cab95c5d",
+  "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d518759b615468fc3bc4f6a3ad2c598f.png",
+  "builds": [
+    {
+      "id": "0bee2cdb-c5a2-4ed4-9ed9-959de760a193",
+      "title": "Roger ngabret (roam)",
+      "description": "Pake roam conceal\nKalo corrosion udah jadi dan lu kill di atas 3 dan lu belum mati langsung sky aja.",
+      "tips": "",
+      "likes": 1,
+      "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
+      "items": [
+        {
+          "id": "1433cb2c-1ad9-4f7d-b594-793ac4c9e6b6",
+          "name": "Rapid Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Rapid_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "85ca390d-2fd5-4428-84ca-cdda78d395d2",
+          "name": "Corrosion Scythe",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Corrosion_Scythe.png",
+          "price": 2050
+        },
+        {
+          "id": "382823c5-fac2-4cc4-859d-3f54d6b2b793",
+          "name": "Demon Hunter Sword",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Demon_Hunter_Sword.png",
+          "price": 2180
+        },
+        {
+          "id": "6c3c144b-fe6d-4fa5-b597-4f0240825528",
+          "name": "Golden Staff",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Golden_Staff.png",
+          "price": 2000
+        },
+        {
+          "id": "9d21f19b-e352-4d3e-b6b0-8c742a8078e7",
+          "name": "Malefic Gun",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Malefic_Gun.png",
+          "price": 2120
+        },
+        {
+          "id": "5b97529a-e569-400f-b8f8-7e9a76b42e7a",
+          "name": "Rose Gold Meteor",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Rose_Gold_Meteor.png",
+          "price": 2030
+        }
+      ],
+      "emblem": {
+        "id": "0477a4cd-825b-408f-92dc-d5e9229c7a50",
+        "name": "Marksman",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Custom_Marksman_Emblem.png"
+      },
+      "spell": {
+        "id": "c4ec9da3-fa75-473a-9abf-f0e1d8fae6c4",
+        "name": "Sprint",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Sprint.png"
+      },
+      "conditional_items": [
+        "8408352d-1f00-4c68-b3ba-7abc320588ce",
+        "2c6757ba-8522-4d3c-a894-407f2c4f16e9"
+      ],
+      "created_at": "2026-07-14T14:20:50.405544+00:00"
+    },
+    {
+      "id": "1568a39a-2755-492e-a2af-1d217333814f",
+      "title": "GGS",
+      "description": "Gameplay:\n- ngeflank (kalau bisa).\n- Tunggu CC lawan keluar.\n- Masuk ke MM atau Mage.\n- Keluar lagi.\n- Jangan duel lama. (bisa gas, gabisa tarik ulur)",
+      "tips": "",
+      "likes": 1,
+      "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
+      "items": [
+        {
+          "id": "d946f868-c61d-4433-80f3-3feec9b1af98",
+          "name": "Tought Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Tough_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "0f52e11b-4c01-4652-8a64-c3bfc6a489b8",
+          "name": "War Axe",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/War_Axe.png",
+          "price": 2100
+        },
+        {
+          "id": "3fd98472-74a6-4f2e-8f2c-82e12251ca28",
+          "name": "Hunter Strike",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hunter_Strike.png",
+          "price": 2010
+        },
+        {
+          "id": "60d82125-ae14-43f5-9368-cadd62bb070a",
+          "name": "Endless Battle",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Endless_Battle.png",
+          "price": 2330
+        },
+        {
+          "id": "27361867-2d35-4ad8-8d4d-ba0266b04109",
+          "name": "Blade of Despair",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Blade_of_Despair.png",
+          "price": 3010
+        },
+        {
+          "id": "5b97529a-e569-400f-b8f8-7e9a76b42e7a",
+          "name": "Rose Gold Meteor",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Rose_Gold_Meteor.png",
+          "price": 2030
+        }
+      ],
+      "emblem": {
+        "id": "6f783459-4751-414f-b371-85282443cfd4",
+        "name": "Assassin",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Custom_Assassin_Emblem.png"
+      },
+      "spell": {
+        "id": "a812d5d9-149b-48b0-b77e-fcf2bc2fe7ae",
+        "name": "Flame Retribution",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Flame_Retribution.png"
+      },
+      "conditional_items": [
+        "2f707623-6044-4dc4-8183-5095409c5078"
+      ],
+      "created_at": "2026-06-30T09:42:21.736229+00:00"
+    },
+    {
+      "id": "43cfbf51-3c46-4484-b02b-ef2bbaf5c323",
+      "title": "FRONT TO BACK (From Patch 2.1.74)",
+      "description": "Gameplay:\n- Jangan langsung berubah serigala\n- Manfaatkan mode manusia buat ngikis darah frontline\n- Saat HP target sudah rendah (gua biasanya 50% an), baru masuk mode serigala buat eksekusi dan ngejar",
+      "tips": "",
+      "likes": 1,
+      "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
+      "items": [
+        {
+          "id": "d946f868-c61d-4433-80f3-3feec9b1af98",
+          "name": "Tought Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Tough_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "60d82125-ae14-43f5-9368-cadd62bb070a",
+          "name": "Endless Battle",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Endless_Battle.png",
+          "price": 2330
+        },
+        {
+          "id": "a67fa43a-b139-4b0b-9d0f-43537ef95a24",
+          "name": "Windtalker",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Windtalker.png",
+          "price": 1880
+        },
+        {
+          "id": "3fd98472-74a6-4f2e-8f2c-82e12251ca28",
+          "name": "Hunter Strike",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hunter_Strike.png",
+          "price": 2010
+        },
+        {
+          "id": "2c6757ba-8522-4d3c-a894-407f2c4f16e9",
+          "name": "Sea Halberd",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Sea_Halberd.png",
+          "price": 2050
+        },
+        {
+          "id": "9f95098c-0aa7-46c2-a6c4-6e8d4ce9e1f7",
+          "name": "Queen's Wings",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Queen%27s_Wings.png",
+          "price": 2250
+        }
+      ],
+      "emblem": {
+        "id": "20ca33c9-d514-45d0-a956-98beb83e86ef",
+        "name": "Fighter",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Custom_Fighter_Emblem.png"
+      },
+      "spell": {
+        "id": "a812d5d9-149b-48b0-b77e-fcf2bc2fe7ae",
+        "name": "Flame Retribution",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Flame_Retribution.png"
+      },
+      "conditional_items": [
+        "382823c5-fac2-4cc4-859d-3f54d6b2b793",
+        "a80b1b94-e5a3-4c09-af16-3112a6ae9985"
+      ],
+      "created_at": "2026-06-30T09:34:35.163+00:00"
+    }
+  ]
+}

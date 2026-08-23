@@ -1,0 +1,191 @@
+{
+  "hero": "Floryn",
+  "slug": "floryn",
+  "hero_id": "6df9306d-f86a-4068-b96e-4e6c3fc74b19",
+  "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5168f0a54304b2f20f976a1ffa96e1dc.png",
+  "builds": [
+    {
+      "id": "1f4d6751-6927-4b1a-aea6-9f2b0f0afef8",
+      "title": "Heal gak ngotak",
+      "description": "",
+      "tips": "",
+      "likes": 1,
+      "patch_id": "be77a09b-50cc-45fb-b5fa-623daa196557",
+      "items": [
+        {
+          "id": "d946f868-c61d-4433-80f3-3feec9b1af98",
+          "name": "Tought Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Tough_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "85779626-b5f7-445b-b77d-c44074f94e2c",
+          "name": "Flask of the Oasis",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Flask_of_the_Oasis.png",
+          "price": 1850
+        },
+        {
+          "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
+          "name": "Holy Crystal",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
+          "price": 3000
+        },
+        {
+          "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
+          "name": "Holy Crystal",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
+          "price": 3000
+        },
+        {
+          "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
+          "name": "Holy Crystal",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
+          "price": 3000
+        },
+        {
+          "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
+          "name": "Holy Crystal",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
+          "price": 3000
+        }
+      ],
+      "emblem": {
+        "id": "548cd559-72f6-45b4-a0d5-f4b7aafcb2a9",
+        "name": "Support",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Custom_Support_Emblem.png"
+      },
+      "spell": {
+        "id": "b68d9e4c-db6e-4107-a36f-ea24b16fb978",
+        "name": "Revitalize",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Revitalize.png"
+      },
+      "conditional_items": [
+        "71a22f00-526e-494b-8062-f5b9efe496bd",
+        "ece51f8f-c4c8-47cb-9992-314e83af317b"
+      ],
+      "created_at": "2026-03-18T05:19:16.734771+00:00"
+    },
+    {
+      "id": "f863a26d-ad8a-4ecc-bcea-5ffafa287921",
+      "title": "Floryn ks ",
+      "description": "Build ini cocok untuk support yang ingin ks dan mvp",
+      "tips": "",
+      "likes": 1,
+      "patch_id": "50548097-d34a-4265-8e93-f27176454d15",
+      "items": [
+        {
+          "id": "49c4ef2a-d6e0-4c9a-b2d9-49740e7f4772",
+          "name": "Demon Shoes",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Demon_Shoes.png",
+          "price": 720
+        },
+        {
+          "id": "8408352d-1f00-4c68-b3ba-7abc320588ce",
+          "name": "Sky Piercer",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Sky_Piercer.png",
+          "price": 1500
+        },
+        {
+          "id": "85779626-b5f7-445b-b77d-c44074f94e2c",
+          "name": "Flask of the Oasis",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Flask_of_the_Oasis.png",
+          "price": 1850
+        },
+        {
+          "id": "78f73686-df75-42b1-8bb1-fbf9d5f33a70",
+          "name": "Glowing Wand",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Glowing_Wand.png",
+          "price": 2150
+        },
+        {
+          "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
+          "name": "Holy Crystal",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
+          "price": 3000
+        },
+        {
+          "id": "70ae58cf-dc12-42f2-832f-75f9bbbfc0e1",
+          "name": "Oracle",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Oracle.png",
+          "price": 1860
+        }
+      ],
+      "emblem": {
+        "id": "548cd559-72f6-45b4-a0d5-f4b7aafcb2a9",
+        "name": "Support",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Custom_Support_Emblem.png"
+      },
+      "spell": {
+        "id": "b68d9e4c-db6e-4107-a36f-ea24b16fb978",
+        "name": "Revitalize",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Revitalize.png"
+      },
+      "conditional_items": [
+        "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
+        "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa"
+      ],
+      "created_at": "2026-03-07T08:37:41.871373+00:00"
+    },
+    {
+      "id": "7e19a8e5-7bc8-41e7-a2a1-074c690c288d",
+      "title": "Heal Deras",
+      "description": "",
+      "tips": "",
+      "likes": 0,
+      "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
+      "items": [
+        {
+          "id": "49c4ef2a-d6e0-4c9a-b2d9-49740e7f4772",
+          "name": "Demon Shoes",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Demon_Shoes.png",
+          "price": 720
+        },
+        {
+          "id": "85779626-b5f7-445b-b77d-c44074f94e2c",
+          "name": "Flask of the Oasis",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Flask_of_the_Oasis.png",
+          "price": 1850
+        },
+        {
+          "id": "f0e350a8-9b23-4216-ba1a-03f7849d07d3",
+          "name": "Fleeting Time",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/Fleeting_Time.png",
+          "price": 2050
+        },
+        {
+          "id": "78f73686-df75-42b1-8bb1-fbf9d5f33a70",
+          "name": "Glowing Wand",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Glowing_Wand.png",
+          "price": 2150
+        },
+        {
+          "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
+          "name": "Holy Crystal",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
+          "price": 3000
+        },
+        {
+          "id": "2f707623-6044-4dc4-8183-5095409c5078",
+          "name": "Immortality",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Immortality.png",
+          "price": 2120
+        }
+      ],
+      "emblem": {
+        "id": "548cd559-72f6-45b4-a0d5-f4b7aafcb2a9",
+        "name": "Support",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Custom_Support_Emblem.png"
+      },
+      "spell": {
+        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
+        "name": "Flicker",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
+      },
+      "conditional_items": [
+        "9b0c5b28-b617-42e8-8bdb-5aef5514b6ce",
+        "2f707623-6044-4dc4-8183-5095409c5078"
+      ],
+      "created_at": "2026-08-17T07:57:02.414078+00:00"
+    }
+  ]
+}

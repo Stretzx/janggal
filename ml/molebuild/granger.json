@@ -1,0 +1,179 @@
+{
+  "hero": "Granger",
+  "slug": "granger",
+  "hero_id": "cbef6441-0760-4431-b05d-86682490579f",
+  "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_22/100_9ed57f48f91012fd110935258cd1ab61.png",
+  "builds": [
+    {
+      "id": "f19750e4-3e23-43c4-a796-846e716ca8c0",
+      "title": "MPL ID S17 WEEK 5 DAY 3 DEWA.Maybeee",
+      "description": "( DEWA VS TLID GAME 1 ) MPL INDONESIA SEASON 17 WEEK 5 DAY 3 26 APRIL 2026",
+      "tips": "",
+      "likes": 13,
+      "patch_id": "c6153242-aa0e-47fc-9d09-edfb495a997d",
+      "items": [
+        {
+          "id": "d946f868-c61d-4433-80f3-3feec9b1af98",
+          "name": "Tought Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Tough_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "8408352d-1f00-4c68-b3ba-7abc320588ce",
+          "name": "Sky Piercer",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Sky_Piercer.png",
+          "price": 1500
+        },
+        {
+          "id": "3fd98472-74a6-4f2e-8f2c-82e12251ca28",
+          "name": "Hunter Strike",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hunter_Strike.png",
+          "price": 2010
+        },
+        {
+          "id": "27361867-2d35-4ad8-8d4d-ba0266b04109",
+          "name": "Blade of Despair",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Blade_of_Despair.png",
+          "price": 3010
+        },
+        {
+          "id": "a80b1b94-e5a3-4c09-af16-3112a6ae9985",
+          "name": "Malefic Roar",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Malefic_Roar.png",
+          "price": 2060
+        }
+      ],
+      "emblem": {
+        "id": "6f783459-4751-414f-b371-85282443cfd4",
+        "name": "Assassin",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Custom_Assassin_Emblem.png"
+      },
+      "spell": {
+        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
+        "name": "Flicker",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
+      },
+      "conditional_items": [],
+      "created_at": "2026-04-26T16:06:02.050955+00:00"
+    },
+    {
+      "id": "075c28af-637e-4573-a98e-0b2de73e5678",
+      "title": "Bocor",
+      "description": "",
+      "tips": "",
+      "likes": 3,
+      "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
+      "items": [
+        {
+          "id": "1433cb2c-1ad9-4f7d-b594-793ac4c9e6b6",
+          "name": "Rapid Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Rapid_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "3fd98472-74a6-4f2e-8f2c-82e12251ca28",
+          "name": "Hunter Strike",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hunter_Strike.png",
+          "price": 2010
+        },
+        {
+          "id": "8408352d-1f00-4c68-b3ba-7abc320588ce",
+          "name": "Sky Piercer",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Sky_Piercer.png",
+          "price": 1500
+        },
+        {
+          "id": "a80b1b94-e5a3-4c09-af16-3112a6ae9985",
+          "name": "Malefic Roar",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Malefic_Roar.png",
+          "price": 2060
+        },
+        {
+          "id": "27361867-2d35-4ad8-8d4d-ba0266b04109",
+          "name": "Blade of Despair",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Blade_of_Despair.png",
+          "price": 3010
+        },
+        {
+          "id": "5b97529a-e569-400f-b8f8-7e9a76b42e7a",
+          "name": "Rose Gold Meteor",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Rose_Gold_Meteor.png",
+          "price": 2030
+        }
+      ],
+      "emblem": {
+        "id": "6f783459-4751-414f-b371-85282443cfd4",
+        "name": "Assassin",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Custom_Assassin_Emblem.png"
+      },
+      "spell": {
+        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
+        "name": "Flicker",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
+      },
+      "conditional_items": [],
+      "created_at": "2026-07-05T12:44:55.374611+00:00"
+    },
+    {
+      "id": "20a1a73e-d346-4b53-82f3-1f5f7b310fff",
+      "title": "Build by caderaa",
+      "description": "",
+      "tips": "Kenapa grengger pake master weapone karna, setelah gw pake itu kurang banget damage nya jadi kita akalin pake weapon master dan menambahkan dameg 8% dari si weapone master +talent+epuament sama embelem, weapon di tambah tril 16+8 =24% jadi pas udah memasuki erly game beli Fury hemer terlebih dahulu dan abis tuh sky picher sehabis Sky picher jadi\", in sepatu sehabis sepatu Fury Hamer tadi jadiin hunter stireak dan kenapa grenggergw make in heptasis jadi di heptasis nya itu menambahkan damage jadi udah murah menambahkan damage + Fury Hamer lgi jadi nambah sakit cuman klo musuh banyak heal beli aja ke halberd klo dh late game jual sepatu ke halberd klo di erly kalian pengen make heptasis jadi segitu dlu untuk penjelasan nya klo build nya kurang enak mohon maaf ya😊🙏",
+      "likes": 3,
+      "patch_id": "50548097-d34a-4265-8e93-f27176454d15",
+      "items": [
+        {
+          "id": "3fd98472-74a6-4f2e-8f2c-82e12251ca28",
+          "name": "Hunter Strike",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hunter_Strike.png",
+          "price": 2010
+        },
+        {
+          "id": "8408352d-1f00-4c68-b3ba-7abc320588ce",
+          "name": "Sky Piercer",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Sky_Piercer.png",
+          "price": 1500
+        },
+        {
+          "id": "1433cb2c-1ad9-4f7d-b594-793ac4c9e6b6",
+          "name": "Rapid Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Rapid_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "27361867-2d35-4ad8-8d4d-ba0266b04109",
+          "name": "Blade of Despair",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Blade_of_Despair.png",
+          "price": 3010
+        },
+        {
+          "id": "5e7dbecb-76e4-4c51-808c-712efa14974a",
+          "name": "Blade of the Heptaseas",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Blade_of_the_Heptaseas.png",
+          "price": 1950
+        },
+        {
+          "id": "a80b1b94-e5a3-4c09-af16-3112a6ae9985",
+          "name": "Malefic Roar",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Malefic_Roar.png",
+          "price": 2060
+        }
+      ],
+      "emblem": {
+        "id": "20ca33c9-d514-45d0-a956-98beb83e86ef",
+        "name": "Fighter",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Custom_Fighter_Emblem.png"
+      },
+      "spell": {
+        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
+        "name": "Flicker",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
+      },
+      "conditional_items": [
+        "2c6757ba-8522-4d3c-a894-407f2c4f16e9",
+        "5b97529a-e569-400f-b8f8-7e9a76b42e7a"
+      ],
+      "created_at": "2026-02-04T03:53:59.953899+00:00"
+    }
+  ]
+}

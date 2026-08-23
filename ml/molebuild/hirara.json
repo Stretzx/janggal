@@ -1,0 +1,191 @@
+{
+  "hero": "Hirara",
+  "slug": "hirara",
+  "hero_id": "5081740b-4772-408c-81ca-febb0529e41e",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero1331-portrait.png",
+  "builds": [
+    {
+      "id": "02e9b3a7-ddae-47a0-a843-be88bb5a973d",
+      "title": "Build one combo.",
+      "description": "",
+      "tips": "",
+      "likes": 6,
+      "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
+      "items": [
+        {
+          "id": "3fd98472-74a6-4f2e-8f2c-82e12251ca28",
+          "name": "Hunter Strike",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hunter_Strike.png",
+          "price": 2010
+        },
+        {
+          "id": "32da3955-3a13-4a18-ac27-7d9b064f3fa2",
+          "name": "Magic Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Magic_Shoes.png",
+          "price": 720
+        },
+        {
+          "id": "8408352d-1f00-4c68-b3ba-7abc320588ce",
+          "name": "Sky Piercer",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Sky_Piercer.png",
+          "price": 1500
+        },
+        {
+          "id": "0f52e11b-4c01-4652-8a64-c3bfc6a489b8",
+          "name": "War Axe",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/War_Axe.png",
+          "price": 2100
+        },
+        {
+          "id": "a80b1b94-e5a3-4c09-af16-3112a6ae9985",
+          "name": "Malefic Roar",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Malefic_Roar.png",
+          "price": 2060
+        },
+        {
+          "id": "ad17db6e-8002-48c1-a561-bd794da0e283",
+          "name": "Brute Force Breastplate",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Brute_Force_Breastplate.png",
+          "price": 2070
+        }
+      ],
+      "emblem": {
+        "id": "6f783459-4751-414f-b371-85282443cfd4",
+        "name": "Assassin",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Custom_Assassin_Emblem.png"
+      },
+      "spell": {
+        "id": "4bd8e270-d8a4-4638-8cd7-e1b25f67e86a",
+        "name": "Ice Retribution",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Ice_Retribution.png"
+      },
+      "conditional_items": [
+        "2f707623-6044-4dc4-8183-5095409c5078",
+        "2c6757ba-8522-4d3c-a894-407f2c4f16e9"
+      ],
+      "created_at": "2026-06-22T17:35:28.232975+00:00"
+    },
+    {
+      "id": "6e01e663-b966-4c98-9dac-ad93a462796f",
+      "title": "Hirara exp or hyper sustain build",
+      "description": "bisa dipake di exp ama jungle but ini buat sustain melawan hero enemy yang punya banyak sustain hero or fighter",
+      "tips": "",
+      "likes": 1,
+      "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
+      "items": [
+        {
+          "id": "32da3955-3a13-4a18-ac27-7d9b064f3fa2",
+          "name": "Magic Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Magic_Shoes.png",
+          "price": 720
+        },
+        {
+          "id": "3fd98472-74a6-4f2e-8f2c-82e12251ca28",
+          "name": "Hunter Strike",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hunter_Strike.png",
+          "price": 2010
+        },
+        {
+          "id": "0f52e11b-4c01-4652-8a64-c3bfc6a489b8",
+          "name": "War Axe",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/War_Axe.png",
+          "price": 2100
+        },
+        {
+          "id": "9f95098c-0aa7-46c2-a6c4-6e8d4ce9e1f7",
+          "name": "Queen's Wings",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Queen%27s_Wings.png",
+          "price": 2250
+        },
+        {
+          "id": "ad17db6e-8002-48c1-a561-bd794da0e283",
+          "name": "Brute Force Breastplate",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Brute_Force_Breastplate.png",
+          "price": 2070
+        },
+        {
+          "id": "70ae58cf-dc12-42f2-832f-75f9bbbfc0e1",
+          "name": "Oracle",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Oracle.png",
+          "price": 1860
+        }
+      ],
+      "emblem": {
+        "id": "20ca33c9-d514-45d0-a956-98beb83e86ef",
+        "name": "Fighter",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Custom_Fighter_Emblem.png"
+      },
+      "spell": {
+        "id": "4b128f1d-6404-4e60-a219-9b9c4bdd74aa",
+        "name": "Aegis",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e5/Aegis.png"
+      },
+      "conditional_items": [
+        "a80b1b94-e5a3-4c09-af16-3112a6ae9985",
+        "2f707623-6044-4dc4-8183-5095409c5078"
+      ],
+      "created_at": "2026-08-15T02:38:43.748165+00:00"
+    },
+    {
+      "id": "bf4bfea8-cc0e-46fd-beee-7b203aae3774",
+      "title": "30%cdr bawah 5minit",
+      "description": "situation ",
+      "tips": "",
+      "likes": 1,
+      "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
+      "items": [
+        {
+          "id": "32da3955-3a13-4a18-ac27-7d9b064f3fa2",
+          "name": "Magic Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Magic_Shoes.png",
+          "price": 720
+        },
+        {
+          "id": "3fd98472-74a6-4f2e-8f2c-82e12251ca28",
+          "name": "Hunter Strike",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hunter_Strike.png",
+          "price": 2010
+        },
+        {
+          "id": "8408352d-1f00-4c68-b3ba-7abc320588ce",
+          "name": "Sky Piercer",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Sky_Piercer.png",
+          "price": 1500
+        },
+        {
+          "id": "0f52e11b-4c01-4652-8a64-c3bfc6a489b8",
+          "name": "War Axe",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/War_Axe.png",
+          "price": 2100
+        },
+        {
+          "id": "a80b1b94-e5a3-4c09-af16-3112a6ae9985",
+          "name": "Malefic Roar",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Malefic_Roar.png",
+          "price": 2060
+        },
+        {
+          "id": "ad17db6e-8002-48c1-a561-bd794da0e283",
+          "name": "Brute Force Breastplate",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Brute_Force_Breastplate.png",
+          "price": 2070
+        }
+      ],
+      "emblem": {
+        "id": "548cd559-72f6-45b4-a0d5-f4b7aafcb2a9",
+        "name": "Support",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Custom_Support_Emblem.png"
+      },
+      "spell": {
+        "id": "a812d5d9-149b-48b0-b77e-fcf2bc2fe7ae",
+        "name": "Flame Retribution",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Flame_Retribution.png"
+      },
+      "conditional_items": [
+        "27361867-2d35-4ad8-8d4d-ba0266b04109",
+        "5b97529a-e569-400f-b8f8-7e9a76b42e7a"
+      ],
+      "created_at": "2026-08-10T13:11:07.966858+00:00"
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "hero": "Helcurt",
+  "slug": "helcurt",
+  "hero_id": "77578b57-b4e9-4dcc-a4b5-49bb5e4c9cfb",
+  "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ffd27cd02c46f7075caedcd51de80d9a.png",
+  "builds": [
+    {
+      "id": "044a1edc-38d7-4439-9ea6-44280b660347",
+      "title": "M7 KNOCKOUT STAGE DAY 1 ONIC.Kiboy",
+      "description": "( ONIC VS AE GAME 2 ) M7 WORLD CHAMPIONSHIP KNOCKOUT STAGE 18 JANUARI 2026",
+      "tips": "",
+      "likes": 4,
+      "patch_id": "a3c48a7d-f457-469a-8207-c1953b6be3a9",
+      "items": [
+        {
+          "id": "1433cb2c-1ad9-4f7d-b594-793ac4c9e6b6",
+          "name": "Rapid Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Rapid_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "5e7dbecb-76e4-4c51-808c-712efa14974a",
+          "name": "Blade of the Heptaseas",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Blade_of_the_Heptaseas.png",
+          "price": 1950
+        },
+        {
+          "id": "3fd98472-74a6-4f2e-8f2c-82e12251ca28",
+          "name": "Hunter Strike",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hunter_Strike.png",
+          "price": 2010
+        },
+        {
+          "id": "382823c5-fac2-4cc4-859d-3f54d6b2b793",
+          "name": "Demon Hunter Sword",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Demon_Hunter_Sword.png",
+          "price": 2180
+        },
+        {
+          "id": "27361867-2d35-4ad8-8d4d-ba0266b04109",
+          "name": "Blade of Despair",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Blade_of_Despair.png",
+          "price": 3010
+        },
+        {
+          "id": "a80b1b94-e5a3-4c09-af16-3112a6ae9985",
+          "name": "Malefic Roar",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Malefic_Roar.png",
+          "price": 2060
+        }
+      ],
+      "emblem": {
+        "id": "6f783459-4751-414f-b371-85282443cfd4",
+        "name": "Assassin",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Custom_Assassin_Emblem.png"
+      },
+      "spell": {
+        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
+        "name": "Flicker",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
+      },
+      "conditional_items": [],
+      "created_at": "2026-01-18T15:00:35.465585+00:00"
+    },
+    {
+      "id": "aee651f1-4790-4d2d-b27b-d31f678c1362",
+      "title": "burst damage (1kali hit)",
+      "description": "Dengan menggunakan build ini anda akan selalu mendapatkan instan kill/solo kill di karenakan dengan menggunakan skil 1 lalu skil 2 musuh akan langsung mati",
+      "tips": "",
+      "likes": 3,
+      "patch_id": "a3c48a7d-f457-469a-8207-c1953b6be3a9",
+      "items": [
+        {
+          "id": "d946f868-c61d-4433-80f3-3feec9b1af98",
+          "name": "Tought Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Tough_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "5e7dbecb-76e4-4c51-808c-712efa14974a",
+          "name": "Blade of the Heptaseas",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Blade_of_the_Heptaseas.png",
+          "price": 1950
+        },
+        {
+          "id": "8408352d-1f00-4c68-b3ba-7abc320588ce",
+          "name": "Sky Piercer",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Sky_Piercer.png",
+          "price": 1500
+        },
+        {
+          "id": "382823c5-fac2-4cc4-859d-3f54d6b2b793",
+          "name": "Demon Hunter Sword",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Demon_Hunter_Sword.png",
+          "price": 2180
+        },
+        {
+          "id": "a80b1b94-e5a3-4c09-af16-3112a6ae9985",
+          "name": "Malefic Roar",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Malefic_Roar.png",
+          "price": 2060
+        },
+        {
+          "id": "27361867-2d35-4ad8-8d4d-ba0266b04109",
+          "name": "Blade of Despair",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Blade_of_Despair.png",
+          "price": 3010
+        }
+      ],
+      "emblem": {
+        "id": "6f783459-4751-414f-b371-85282443cfd4",
+        "name": "Assassin",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Custom_Assassin_Emblem.png"
+      },
+      "spell": {
+        "id": "4bd8e270-d8a4-4638-8cd7-e1b25f67e86a",
+        "name": "Ice Retribution",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Ice_Retribution.png"
+      },
+      "conditional_items": [
+        "9d21f19b-e352-4d3e-b6b0-8c742a8078e7",
+        "9b0c5b28-b617-42e8-8bdb-5aef5514b6ce"
+      ],
+      "created_at": "2025-12-20T09:42:05.72457+00:00"
+    },
+    {
+      "id": "a7e5d855-3618-4196-b39d-2c64f4646dc5",
+      "title": "Paling sakit",
+      "description": "Untuk Hero tipis",
+      "tips": "",
+      "likes": 2,
+      "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
+      "items": [
+        {
+          "id": "1433cb2c-1ad9-4f7d-b594-793ac4c9e6b6",
+          "name": "Rapid Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Rapid_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "85ca390d-2fd5-4428-84ca-cdda78d395d2",
+          "name": "Corrosion Scythe",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Corrosion_Scythe.png",
+          "price": 2050
+        },
+        {
+          "id": "8408352d-1f00-4c68-b3ba-7abc320588ce",
+          "name": "Sky Piercer",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Sky_Piercer.png",
+          "price": 1500
+        },
+        {
+          "id": "382823c5-fac2-4cc4-859d-3f54d6b2b793",
+          "name": "Demon Hunter Sword",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Demon_Hunter_Sword.png",
+          "price": 2180
+        },
+        {
+          "id": "5e7dbecb-76e4-4c51-808c-712efa14974a",
+          "name": "Blade of the Heptaseas",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Blade_of_the_Heptaseas.png",
+          "price": 1950
+        },
+        {
+          "id": "27361867-2d35-4ad8-8d4d-ba0266b04109",
+          "name": "Blade of Despair",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Blade_of_Despair.png",
+          "price": 3010
+        }
+      ],
+      "emblem": {
+        "id": "6f783459-4751-414f-b371-85282443cfd4",
+        "name": "Assassin",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Custom_Assassin_Emblem.png"
+      },
+      "spell": {
+        "id": "5c127219-bbdd-4373-99fb-e34ec4c341c1",
+        "name": "Petrify",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Petrify.png"
+      },
+      "conditional_items": [
+        "a80b1b94-e5a3-4c09-af16-3112a6ae9985",
+        "2c6757ba-8522-4d3c-a894-407f2c4f16e9"
+      ],
+      "created_at": "2026-06-27T14:29:23.542989+00:00"
+    }
+  ]
+}

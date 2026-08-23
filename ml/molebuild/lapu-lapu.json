@@ -1,0 +1,185 @@
+{
+  "hero": "Lapu-Lapu",
+  "slug": "lapu-lapu",
+  "hero_id": "b9b6c8db-4ef7-4361-9728-9a782ec1a6ef",
+  "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b72b473b98494269cedbba84d4888409.png",
+  "builds": [
+    {
+      "id": "1a412d9a-cfcc-4a5c-9e9e-0a7c745ba5ce",
+      "title": "M7 KNOCKOUT STAGE DAY 3 TL.Sanford",
+      "description": "( ONIC VS TL GAME 2 ) MVP OF THE GAME M7 WORLD CHAMPIONSHIP KNOCKOUT STAGE 22 JANUARI 2026",
+      "tips": "",
+      "likes": 6,
+      "patch_id": "a3c48a7d-f457-469a-8207-c1953b6be3a9",
+      "items": [
+        {
+          "id": "d946f868-c61d-4433-80f3-3feec9b1af98",
+          "name": "Tought Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Tough_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "0f52e11b-4c01-4652-8a64-c3bfc6a489b8",
+          "name": "War Axe",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/War_Axe.png",
+          "price": 2100
+        },
+        {
+          "id": "70ae58cf-dc12-42f2-832f-75f9bbbfc0e1",
+          "name": "Oracle",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Oracle.png",
+          "price": 1860
+        },
+        {
+          "id": "9f95098c-0aa7-46c2-a6c4-6e8d4ce9e1f7",
+          "name": "Queen's Wings",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Queen%27s_Wings.png",
+          "price": 2250
+        },
+        {
+          "id": "f8e4e2b5-2b5d-42ab-9b2d-f99520df1f90",
+          "name": "Athena's Shield",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Athena%27s_Shield.png",
+          "price": 2150
+        },
+        {
+          "id": "421314fd-557c-427b-8e74-b016c8dcf33a",
+          "name": "Chastise Pauldron",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Chastise_Pauldron.png",
+          "price": 2100
+        }
+      ],
+      "emblem": {
+        "id": "20ca33c9-d514-45d0-a956-98beb83e86ef",
+        "name": "Fighter",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Custom_Fighter_Emblem.png"
+      },
+      "spell": {
+        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
+        "name": "Flicker",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
+      },
+      "conditional_items": [],
+      "created_at": "2026-01-22T12:44:51.473637+00:00"
+    },
+    {
+      "id": "f8ef38ba-bd7c-404c-870c-c196f2a7c0b0",
+      "title": "MPL ID S17 WEEK 7 DAY 3 EVOS.Luke",
+      "description": "( EVOS VS TLID GAME 2 ) MPL INDONESIA SEASON 17 WEEK 7 DAY 3 10 MEI 2026",
+      "tips": null,
+      "likes": 2,
+      "patch_id": "c6153242-aa0e-47fc-9d09-edfb495a997d",
+      "items": [
+        {
+          "id": "d946f868-c61d-4433-80f3-3feec9b1af98",
+          "name": "Tought Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Tough_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "0f52e11b-4c01-4652-8a64-c3bfc6a489b8",
+          "name": "War Axe",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/War_Axe.png",
+          "price": 2100
+        },
+        {
+          "id": "3585dc9e-2722-44f6-9bbb-100b777c5a86",
+          "name": "Radiant Armor",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Radiant_Armor.png",
+          "price": 1880
+        },
+        {
+          "id": "9f95098c-0aa7-46c2-a6c4-6e8d4ce9e1f7",
+          "name": "Queen's Wings",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Queen%27s_Wings.png",
+          "price": 2250
+        },
+        {
+          "id": "421314fd-557c-427b-8e74-b016c8dcf33a",
+          "name": "Chastise Pauldron",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Chastise_Pauldron.png",
+          "price": 2100
+        },
+        {
+          "id": "2f707623-6044-4dc4-8183-5095409c5078",
+          "name": "Immortality",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Immortality.png",
+          "price": 2120
+        }
+      ],
+      "emblem": {
+        "id": "20ca33c9-d514-45d0-a956-98beb83e86ef",
+        "name": "Fighter",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Custom_Fighter_Emblem.png"
+      },
+      "spell": {
+        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
+        "name": "Flicker",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
+      },
+      "conditional_items": [],
+      "created_at": "2026-05-11T09:36:39.899492+00:00"
+    },
+    {
+      "id": "4e75bcfb-0ef9-46e2-a42d-2f354efad9ee",
+      "title": "Build Lapu yang tergantung situasi",
+      "description": "Kalau snowball, jadiin Fury Hammer jadi Hunter Strike. Kalo enggak, ganti Fury Hammer sama Brute Force. Guardian Helmet bisa diganti dengan item yang ngecounter yang paling kaya dari musuh, juga Tought Boots bisa diganti sama Warior Boots ",
+      "tips": "",
+      "likes": 2,
+      "patch_id": "50548097-d34a-4265-8e93-f27176454d15",
+      "items": [
+        {
+          "id": "d946f868-c61d-4433-80f3-3feec9b1af98",
+          "name": "Tought Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Tough_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "8120169f-564a-4188-b506-6ae5dc3298ab",
+          "name": "Fury Hammer",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/52/Fury_Hammer.png",
+          "price": 830
+        },
+        {
+          "id": "0f52e11b-4c01-4652-8a64-c3bfc6a489b8",
+          "name": "War Axe",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/War_Axe.png",
+          "price": 2100
+        },
+        {
+          "id": "9f95098c-0aa7-46c2-a6c4-6e8d4ce9e1f7",
+          "name": "Queen's Wings",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Queen%27s_Wings.png",
+          "price": 2250
+        },
+        {
+          "id": "70ae58cf-dc12-42f2-832f-75f9bbbfc0e1",
+          "name": "Oracle",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Oracle.png",
+          "price": 1860
+        },
+        {
+          "id": "f8f538b8-5cf0-4fd4-a4e6-dff974a0b715",
+          "name": "Guardian Helmet",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Guardian_Helmet.png",
+          "price": 2500
+        }
+      ],
+      "emblem": {
+        "id": "20ca33c9-d514-45d0-a956-98beb83e86ef",
+        "name": "Fighter",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Custom_Fighter_Emblem.png"
+      },
+      "spell": {
+        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
+        "name": "Flicker",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
+      },
+      "conditional_items": [
+        "421314fd-557c-427b-8e74-b016c8dcf33a",
+        "ad17db6e-8002-48c1-a561-bd794da0e283"
+      ],
+      "created_at": "2026-02-24T03:34:06.874712+00:00"
+    }
+  ]
+}

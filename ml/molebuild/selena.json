@@ -1,0 +1,187 @@
+{
+  "hero": "Selena",
+  "slug": "selena",
+  "hero_id": "4179f83c-2fb1-47db-b038-6fdf9a34c55b",
+  "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_547ce6e3351ef7a46c02b51d0c4e452c.png",
+  "builds": [
+    {
+      "id": "4e020083-2f79-4eee-a674-b7d2eeef0c40",
+      "title": "Selena 1 hit nih",
+      "description": "",
+      "tips": "",
+      "likes": 1,
+      "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
+      "items": [
+        {
+          "id": "a6ec810a-08da-4bbf-a137-8d23531920c9",
+          "name": "Arcane Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Arcane_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "cdbfc89a-2fac-4466-ba07-1fba1e357847",
+          "name": "Genius Wand",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Genius_Wand.png",
+          "price": 2000
+        },
+        {
+          "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
+          "name": "Holy Crystal",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
+          "price": 3000
+        },
+        {
+          "id": "fbd7ae0a-37da-493e-aed1-9932a2ea5317",
+          "name": "Berserker Fury",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Berserker%27s_Fury.png",
+          "price": 2390
+        },
+        {
+          "id": "74901507-8882-467c-9d4a-e0b4b817d8d5",
+          "name": "Great Dragon Spear",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Great_Dragon_Spear.png",
+          "price": 2140
+        },
+        {
+          "id": "59a45ae3-4662-4bee-8471-73751dcee211",
+          "name": "Divine Glaive",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Divine_Glaive.png",
+          "price": 1970
+        }
+      ],
+      "emblem": {
+        "id": "5e0b6bcf-c296-4117-b0d4-4d6dae8f1618",
+        "name": "Mage",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Custom_Mage_Emblem.png"
+      },
+      "spell": {
+        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
+        "name": "Flicker",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
+      },
+      "conditional_items": [
+        "9b0c5b28-b617-42e8-8bdb-5aef5514b6ce"
+      ],
+      "created_at": "2026-08-14T22:57:44.547151+00:00"
+    },
+    {
+      "id": "e2edd3ab-f4af-4905-b9be-3cb1d9722909",
+      "title": "Jungler nyampah",
+      "description": "",
+      "tips": "",
+      "likes": 1,
+      "patch_id": "c6153242-aa0e-47fc-9d09-edfb495a997d",
+      "items": [
+        {
+          "id": "32da3955-3a13-4a18-ac27-7d9b064f3fa2",
+          "name": "Magic Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Magic_Shoes.png",
+          "price": 720
+        },
+        {
+          "id": "8408352d-1f00-4c68-b3ba-7abc320588ce",
+          "name": "Sky Piercer",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Sky_Piercer.png",
+          "price": 1500
+        },
+        {
+          "id": "71a22f00-526e-494b-8062-f5b9efe496bd",
+          "name": "Starlium Scythe",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlium_Scythe.png",
+          "price": 2120
+        },
+        {
+          "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
+          "name": "Holy Crystal",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
+          "price": 3000
+        },
+        {
+          "id": "78f73686-df75-42b1-8bb1-fbf9d5f33a70",
+          "name": "Glowing Wand",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Glowing_Wand.png",
+          "price": 2150
+        },
+        {
+          "id": "cdbfc89a-2fac-4466-ba07-1fba1e357847",
+          "name": "Genius Wand",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Genius_Wand.png",
+          "price": 2000
+        }
+      ],
+      "emblem": {
+        "id": "5e0b6bcf-c296-4117-b0d4-4d6dae8f1618",
+        "name": "Mage",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Custom_Mage_Emblem.png"
+      },
+      "spell": {
+        "id": "4bd8e270-d8a4-4638-8cd7-e1b25f67e86a",
+        "name": "Ice Retribution",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Ice_Retribution.png"
+      },
+      "conditional_items": [],
+      "created_at": "2026-06-15T12:45:09.848237+00:00"
+    },
+    {
+      "id": "4b0a91ee-2e05-4532-999a-d67695008e32",
+      "title": "Lempar lempar lele",
+      "description": "",
+      "tips": "",
+      "likes": 1,
+      "patch_id": "c6153242-aa0e-47fc-9d09-edfb495a997d",
+      "items": [
+        {
+          "id": "32da3955-3a13-4a18-ac27-7d9b064f3fa2",
+          "name": "Magic Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Magic_Shoes.png",
+          "price": 720
+        },
+        {
+          "id": "c7e4e03f-4c5c-45ff-8535-65a74229b52d",
+          "name": "Enchanted Talisman",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Enchanted_Talisman.png",
+          "price": 1870
+        },
+        {
+          "id": "2184fd07-4ced-48d6-b6f0-04f99122a4e0",
+          "name": "Lightning Truncheon",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Lightning_Truncheon.png",
+          "price": 2250
+        },
+        {
+          "id": "78f73686-df75-42b1-8bb1-fbf9d5f33a70",
+          "name": "Glowing Wand",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Glowing_Wand.png",
+          "price": 2150
+        },
+        {
+          "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
+          "name": "Holy Crystal",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
+          "price": 3000
+        },
+        {
+          "id": "cdbfc89a-2fac-4466-ba07-1fba1e357847",
+          "name": "Genius Wand",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Genius_Wand.png",
+          "price": 2000
+        }
+      ],
+      "emblem": {
+        "id": "5e0b6bcf-c296-4117-b0d4-4d6dae8f1618",
+        "name": "Mage",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Custom_Mage_Emblem.png"
+      },
+      "spell": {
+        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
+        "name": "Flicker",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
+      },
+      "conditional_items": [
+        "cdbfc89a-2fac-4466-ba07-1fba1e357847",
+        "71a22f00-526e-494b-8062-f5b9efe496bd"
+      ],
+      "created_at": "2026-06-15T12:39:55.990424+00:00"
+    }
+  ]
+}

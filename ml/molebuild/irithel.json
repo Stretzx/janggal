@@ -1,0 +1,176 @@
+{
+  "hero": "Irithel",
+  "slug": "irithel",
+  "hero_id": "49606dd8-f850-4980-b1c1-c1cfcf713eef",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero431-portrait.png",
+  "builds": [
+    {
+      "id": "77f1244f-5064-4bb8-bdd1-41ec2c9f68f6",
+      "title": "MPL ID S17 WEEK 2 DAY 3 BTR.EMANN",
+      "description": "( BTR VS EVOS GAME 1 ) MPL INDONESIA SEASON 17 WEEK 2 DAY 3 5 APRIL 2026",
+      "tips": "",
+      "likes": 3,
+      "patch_id": "be77a09b-50cc-45fb-b5fa-623daa196557",
+      "items": [
+        {
+          "id": "dde20fc5-a6fa-4f15-8a03-46b43698f724",
+          "name": "Warrior Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4b/Warrior_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "a67fa43a-b139-4b0b-9d0f-43537ef95a24",
+          "name": "Windtalker",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Windtalker.png",
+          "price": 1880
+        },
+        {
+          "id": "bd3e52c0-6890-4eee-ad81-9815f3b65eaf",
+          "name": "Haas Claws",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Haas%27_Claws.png",
+          "price": 2020
+        },
+        {
+          "id": "fbd7ae0a-37da-493e-aed1-9932a2ea5317",
+          "name": "Berserker Fury",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Berserker%27s_Fury.png",
+          "price": 2390
+        },
+        {
+          "id": "9d21f19b-e352-4d3e-b6b0-8c742a8078e7",
+          "name": "Malefic Gun",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Malefic_Gun.png",
+          "price": 2120
+        },
+        {
+          "id": "c49ed4f8-8b73-42c8-87e2-fa83bccade0d",
+          "name": "Wind of Nature",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Wind_of_Nature.png",
+          "price": 1910
+        }
+      ],
+      "emblem": {
+        "id": "20ca33c9-d514-45d0-a956-98beb83e86ef",
+        "name": "Fighter",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Custom_Fighter_Emblem.png"
+      },
+      "spell": {
+        "id": "c4ec9da3-fa75-473a-9abf-f0e1d8fae6c4",
+        "name": "Sprint",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Sprint.png"
+      },
+      "conditional_items": [],
+      "created_at": "2026-04-05T15:02:53.911551+00:00"
+    },
+    {
+      "id": "d6c82134-db3d-411e-a64b-ba0ba410fd96",
+      "title": "MPL ID S17 WEEK 9 DAY 3 ONIC.Kelra",
+      "description": "( EVOS VS ONIC GAME 2 ) MPL INDONESIA SEASON 17 WEEK 9 DAY 3 24 MEI 2026",
+      "tips": null,
+      "likes": 2,
+      "patch_id": "c6153242-aa0e-47fc-9d09-edfb495a997d",
+      "items": [
+        {
+          "id": "bd3e52c0-6890-4eee-ad81-9815f3b65eaf",
+          "name": "Haas Claws",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Haas%27_Claws.png",
+          "price": 2020
+        },
+        {
+          "id": "fbd7ae0a-37da-493e-aed1-9932a2ea5317",
+          "name": "Berserker Fury",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Berserker%27s_Fury.png",
+          "price": 2390
+        },
+        {
+          "id": "382823c5-fac2-4cc4-859d-3f54d6b2b793",
+          "name": "Demon Hunter Sword",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Demon_Hunter_Sword.png",
+          "price": 2180
+        },
+        {
+          "id": "9d21f19b-e352-4d3e-b6b0-8c742a8078e7",
+          "name": "Malefic Gun",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Malefic_Gun.png",
+          "price": 2120
+        },
+        {
+          "id": "5b97529a-e569-400f-b8f8-7e9a76b42e7a",
+          "name": "Rose Gold Meteor",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Rose_Gold_Meteor.png",
+          "price": 2030
+        },
+        {
+          "id": "74901507-8882-467c-9d4a-e0b4b817d8d5",
+          "name": "Great Dragon Spear",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Great_Dragon_Spear.png",
+          "price": 2140
+        }
+      ],
+      "emblem": {
+        "id": "6f783459-4751-414f-b371-85282443cfd4",
+        "name": "Assassin",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Custom_Assassin_Emblem.png"
+      },
+      "spell": {
+        "id": "c4ec9da3-fa75-473a-9abf-f0e1d8fae6c4",
+        "name": "Sprint",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Sprint.png"
+      },
+      "conditional_items": [],
+      "created_at": "2026-05-25T13:28:28.217796+00:00"
+    },
+    {
+      "id": "0199ab8e-af1b-4d4e-8f5b-67de61dc55f8",
+      "title": "MPL PH S17 WEEK 8 DAY 2 OMG.Netskie",
+      "description": "( OMG VS RORA GAME 3 ) MPL PHILIPPINES SEASON 17 WEEK 8 DAY 2 16 MEI 2026",
+      "tips": null,
+      "likes": 1,
+      "patch_id": "c6153242-aa0e-47fc-9d09-edfb495a997d",
+      "items": [
+        {
+          "id": "d946f868-c61d-4433-80f3-3feec9b1af98",
+          "name": "Tought Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Tough_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "bd3e52c0-6890-4eee-ad81-9815f3b65eaf",
+          "name": "Haas Claws",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Haas%27_Claws.png",
+          "price": 2020
+        },
+        {
+          "id": "fbd7ae0a-37da-493e-aed1-9932a2ea5317",
+          "name": "Berserker Fury",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Berserker%27s_Fury.png",
+          "price": 2390
+        },
+        {
+          "id": "9d21f19b-e352-4d3e-b6b0-8c742a8078e7",
+          "name": "Malefic Gun",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Malefic_Gun.png",
+          "price": 2120
+        },
+        {
+          "id": "74901507-8882-467c-9d4a-e0b4b817d8d5",
+          "name": "Great Dragon Spear",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Great_Dragon_Spear.png",
+          "price": 2140
+        }
+      ],
+      "emblem": {
+        "id": "20ca33c9-d514-45d0-a956-98beb83e86ef",
+        "name": "Fighter",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Custom_Fighter_Emblem.png"
+      },
+      "spell": {
+        "id": "c4ec9da3-fa75-473a-9abf-f0e1d8fae6c4",
+        "name": "Sprint",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Sprint.png"
+      },
+      "conditional_items": [],
+      "created_at": "2026-05-16T14:02:14.327962+00:00"
+    }
+  ]
+}

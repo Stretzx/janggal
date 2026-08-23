@@ -1,0 +1,188 @@
+{
+  "hero": "Fredrinn",
+  "slug": "fredrinn",
+  "hero_id": "cdea5c0e-1182-45e7-b407-bcdb626fb457",
+  "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3f574825bd9192094f047a4abc6d5d05.png",
+  "builds": [
+    {
+      "id": "cc75f746-c774-4cd4-a000-93730996a2de",
+      "title": "MPL PH S17 WEEK 6 DAY 3 TLPH.KarlTzy",
+      "description": "( TLPH VS APBR GAME 2 ) MPL PHILIPPINES SEASON 17 WEEK 6 DAY 3 3 MEI 2026",
+      "tips": "",
+      "likes": 3,
+      "patch_id": "c6153242-aa0e-47fc-9d09-edfb495a997d",
+      "items": [
+        {
+          "id": "d946f868-c61d-4433-80f3-3feec9b1af98",
+          "name": "Tought Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Tough_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "93514bd9-2483-40ef-b301-86a6c796e2be",
+          "name": "Antique Cuirass",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Antique_Cuirass.png",
+          "price": 2170
+        },
+        {
+          "id": "f8e4e2b5-2b5d-42ab-9b2d-f99520df1f90",
+          "name": "Athena's Shield",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Athena%27s_Shield.png",
+          "price": 2150
+        },
+        {
+          "id": "421314fd-557c-427b-8e74-b016c8dcf33a",
+          "name": "Chastise Pauldron",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Chastise_Pauldron.png",
+          "price": 2100
+        },
+        {
+          "id": "ad17db6e-8002-48c1-a561-bd794da0e283",
+          "name": "Brute Force Breastplate",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Brute_Force_Breastplate.png",
+          "price": 2070
+        },
+        {
+          "id": "2f707623-6044-4dc4-8183-5095409c5078",
+          "name": "Immortality",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Immortality.png",
+          "price": 2120
+        }
+      ],
+      "emblem": {
+        "id": "c0c1e80e-c705-4a36-ae5f-f930130489ba",
+        "name": "Tank",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Custom_Tank_Emblem.png"
+      },
+      "spell": {
+        "id": "4bd8e270-d8a4-4638-8cd7-e1b25f67e86a",
+        "name": "Ice Retribution",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Ice_Retribution.png"
+      },
+      "conditional_items": [],
+      "created_at": "2026-05-03T13:15:08.648949+00:00"
+    },
+    {
+      "id": "be2d2c00-f031-4645-a8b4-ca108c52581e",
+      "title": "sakit tapi tetap tebel",
+      "description": "usahakan agar selalu bermain tarik ulur, jaga stack jangan sampai putus",
+      "tips": "",
+      "likes": 3,
+      "patch_id": "a3c48a7d-f457-469a-8207-c1953b6be3a9",
+      "items": [
+        {
+          "id": "d946f868-c61d-4433-80f3-3feec9b1af98",
+          "name": "Tought Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Tough_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "ad17db6e-8002-48c1-a561-bd794da0e283",
+          "name": "Brute Force Breastplate",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Brute_Force_Breastplate.png",
+          "price": 2070
+        },
+        {
+          "id": "0f52e11b-4c01-4652-8a64-c3bfc6a489b8",
+          "name": "War Axe",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/War_Axe.png",
+          "price": 2100
+        },
+        {
+          "id": "93514bd9-2483-40ef-b301-86a6c796e2be",
+          "name": "Antique Cuirass",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Antique_Cuirass.png",
+          "price": 2170
+        },
+        {
+          "id": "70ae58cf-dc12-42f2-832f-75f9bbbfc0e1",
+          "name": "Oracle",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Oracle.png",
+          "price": 1860
+        },
+        {
+          "id": "9f95098c-0aa7-46c2-a6c4-6e8d4ce9e1f7",
+          "name": "Queen's Wings",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Queen%27s_Wings.png",
+          "price": 2250
+        }
+      ],
+      "emblem": {
+        "id": "548cd559-72f6-45b4-a0d5-f4b7aafcb2a9",
+        "name": "Support",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Custom_Support_Emblem.png"
+      },
+      "spell": {
+        "id": "4bd8e270-d8a4-4638-8cd7-e1b25f67e86a",
+        "name": "Ice Retribution",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Ice_Retribution.png"
+      },
+      "conditional_items": [
+        "f8e4e2b5-2b5d-42ab-9b2d-f99520df1f90",
+        "3585dc9e-2722-44f6-9bbb-100b777c5a86"
+      ],
+      "created_at": "2025-12-26T16:41:39.248267+00:00"
+    },
+    {
+      "id": "5cf4fe07-8334-4c4e-b5cf-461769e6e6e2",
+      "title": "auto top global..",
+      "description": "barbar",
+      "tips": "",
+      "likes": 1,
+      "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
+      "items": [
+        {
+          "id": "ad17db6e-8002-48c1-a561-bd794da0e283",
+          "name": "Brute Force Breastplate",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Brute_Force_Breastplate.png",
+          "price": 2070
+        },
+        {
+          "id": "d946f868-c61d-4433-80f3-3feec9b1af98",
+          "name": "Tought Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Tough_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "70ae58cf-dc12-42f2-832f-75f9bbbfc0e1",
+          "name": "Oracle",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Oracle.png",
+          "price": 1860
+        },
+        {
+          "id": "0f52e11b-4c01-4652-8a64-c3bfc6a489b8",
+          "name": "War Axe",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/War_Axe.png",
+          "price": 2100
+        },
+        {
+          "id": "9f95098c-0aa7-46c2-a6c4-6e8d4ce9e1f7",
+          "name": "Queen's Wings",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Queen%27s_Wings.png",
+          "price": 2250
+        },
+        {
+          "id": "421314fd-557c-427b-8e74-b016c8dcf33a",
+          "name": "Chastise Pauldron",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Chastise_Pauldron.png",
+          "price": 2100
+        }
+      ],
+      "emblem": {
+        "id": "548cd559-72f6-45b4-a0d5-f4b7aafcb2a9",
+        "name": "Support",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Custom_Support_Emblem.png"
+      },
+      "spell": {
+        "id": "d8bbd0c3-3d55-4d45-926a-cc3b834c318b",
+        "name": "Bloody Retribution",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Bloody_Retribution.png"
+      },
+      "conditional_items": [
+        "3585dc9e-2722-44f6-9bbb-100b777c5a86",
+        "2f707623-6044-4dc4-8183-5095409c5078"
+      ],
+      "created_at": "2026-08-03T14:34:52.732143+00:00"
+    }
+  ]
+}

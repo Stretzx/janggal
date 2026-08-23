@@ -1,0 +1,182 @@
+{
+  "hero": "Chip",
+  "slug": "chip",
+  "hero_id": "c3940478-4ea3-4fb9-8369-b843b05d78d3",
+  "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_85e15c66733cab7d8d73f7f725f31f1e.png",
+  "builds": [
+    {
+      "id": "991d3176-a300-4fc0-b073-9013a884a136",
+      "title": "MPL ID S17 WEEK 9 DAY 3 EVOS.Kyy",
+      "description": "( EVOS VS ONIC GAME 1 ) MPL INDONESIA SEASON 17 WEEK 9 DAY 3 24 MEI 2026",
+      "tips": null,
+      "likes": 1,
+      "patch_id": "c6153242-aa0e-47fc-9d09-edfb495a997d",
+      "items": [
+        {
+          "id": "1433cb2c-1ad9-4f7d-b594-793ac4c9e6b6",
+          "name": "Rapid Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Rapid_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "f0e350a8-9b23-4216-ba1a-03f7849d07d3",
+          "name": "Fleeting Time",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/Fleeting_Time.png",
+          "price": 2050
+        },
+        {
+          "id": "3585dc9e-2722-44f6-9bbb-100b777c5a86",
+          "name": "Radiant Armor",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Radiant_Armor.png",
+          "price": 1880
+        },
+        {
+          "id": "45e33c00-9674-44d3-950b-073425a1f922",
+          "name": "Dominance Ice",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Dominance_Ice.png",
+          "price": 2010
+        },
+        {
+          "id": "421314fd-557c-427b-8e74-b016c8dcf33a",
+          "name": "Chastise Pauldron",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Chastise_Pauldron.png",
+          "price": 2100
+        },
+        {
+          "id": "2f707623-6044-4dc4-8183-5095409c5078",
+          "name": "Immortality",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Immortality.png",
+          "price": 2120
+        }
+      ],
+      "emblem": {
+        "id": "c0c1e80e-c705-4a36-ae5f-f930130489ba",
+        "name": "Tank",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Custom_Tank_Emblem.png"
+      },
+      "spell": {
+        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
+        "name": "Flicker",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
+      },
+      "conditional_items": [],
+      "created_at": "2026-05-25T13:19:32.193655+00:00"
+    },
+    {
+      "id": "9a481475-2971-4cf4-8038-3a1afa3bd69f",
+      "title": "MPL ID S18 WEEK 2 DAY 1 TLID.Lyoni",
+      "description": "( NAVI VS TLID GAME 2 ) MPL INDONESIA SEASON 18 WEEK 2 DAY 1 21 AGUSTUS 2026",
+      "tips": null,
+      "likes": 0,
+      "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
+      "items": [
+        {
+          "id": "93514bd9-2483-40ef-b301-86a6c796e2be",
+          "name": "Antique Cuirass",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Antique_Cuirass.png",
+          "price": 2170
+        },
+        {
+          "id": "d946f868-c61d-4433-80f3-3feec9b1af98",
+          "name": "Tought Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Tough_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "f8e4e2b5-2b5d-42ab-9b2d-f99520df1f90",
+          "name": "Athena's Shield",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Athena%27s_Shield.png",
+          "price": 2150
+        },
+        {
+          "id": "45e33c00-9674-44d3-950b-073425a1f922",
+          "name": "Dominance Ice",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Dominance_Ice.png",
+          "price": 2010
+        },
+        {
+          "id": "f0e350a8-9b23-4216-ba1a-03f7849d07d3",
+          "name": "Fleeting Time",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/Fleeting_Time.png",
+          "price": 2050
+        },
+        {
+          "id": "421314fd-557c-427b-8e74-b016c8dcf33a",
+          "name": "Chastise Pauldron",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Chastise_Pauldron.png",
+          "price": 2100
+        }
+      ],
+      "emblem": {
+        "id": "c0c1e80e-c705-4a36-ae5f-f930130489ba",
+        "name": "Tank",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Custom_Tank_Emblem.png"
+      },
+      "spell": {
+        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
+        "name": "Flicker",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
+      },
+      "conditional_items": [],
+      "created_at": "2026-08-22T03:33:24.920257+00:00"
+    },
+    {
+      "id": "fb01da9a-04ed-4c82-b668-24dc45edde6c",
+      "title": "MPL ID S18 WEEK 1 DAY 3 GEEK.AudyTzy",
+      "description": "( GEEK VS BTR GAME 2 ) MPL INDONESIA SEASON 18 WEEK 1 DAY 3 16 AGUSTUS 2026",
+      "tips": null,
+      "likes": 0,
+      "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
+      "items": [
+        {
+          "id": "f8e4e2b5-2b5d-42ab-9b2d-f99520df1f90",
+          "name": "Athena's Shield",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Athena%27s_Shield.png",
+          "price": 2150
+        },
+        {
+          "id": "d946f868-c61d-4433-80f3-3feec9b1af98",
+          "name": "Tought Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Tough_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "f0e350a8-9b23-4216-ba1a-03f7849d07d3",
+          "name": "Fleeting Time",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/Fleeting_Time.png",
+          "price": 2050
+        },
+        {
+          "id": "70ae58cf-dc12-42f2-832f-75f9bbbfc0e1",
+          "name": "Oracle",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Oracle.png",
+          "price": 1860
+        },
+        {
+          "id": "2f707623-6044-4dc4-8183-5095409c5078",
+          "name": "Immortality",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Immortality.png",
+          "price": 2120
+        },
+        {
+          "id": "93514bd9-2483-40ef-b301-86a6c796e2be",
+          "name": "Antique Cuirass",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Antique_Cuirass.png",
+          "price": 2170
+        }
+      ],
+      "emblem": {
+        "id": "548cd559-72f6-45b4-a0d5-f4b7aafcb2a9",
+        "name": "Support",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Custom_Support_Emblem.png"
+      },
+      "spell": {
+        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
+        "name": "Flicker",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
+      },
+      "conditional_items": [],
+      "created_at": "2026-08-17T16:10:31.335861+00:00"
+    }
+  ]
+}

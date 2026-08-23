@@ -1,0 +1,188 @@
+{
+  "hero": "Silvanna",
+  "slug": "silvanna",
+  "hero_id": "f2521343-6c98-43f3-b7d8-76d56aa79710",
+  "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fe98dd2e19bb6c29591763d1d11a3eb7.png",
+  "builds": [
+    {
+      "id": "8df4893b-8687-4b10-9966-ae7b26a6b4f7",
+      "title": "Build Tank",
+      "description": "mending full tank/damage daripada build semi serba nanggung",
+      "tips": "awal beli kaos kaki aja, first item jadiin antique/radiant tergantung lawan banyak hero apa baru jadiin sepatu lari, lanjut domi/glowing, bruteforce kalau posisi win. intinya pinter² nyesuain item aja",
+      "likes": 1,
+      "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
+      "items": [
+        {
+          "id": "1433cb2c-1ad9-4f7d-b594-793ac4c9e6b6",
+          "name": "Rapid Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Rapid_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "93514bd9-2483-40ef-b301-86a6c796e2be",
+          "name": "Antique Cuirass",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Antique_Cuirass.png",
+          "price": 2170
+        },
+        {
+          "id": "78f73686-df75-42b1-8bb1-fbf9d5f33a70",
+          "name": "Glowing Wand",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Glowing_Wand.png",
+          "price": 2150
+        },
+        {
+          "id": "ad17db6e-8002-48c1-a561-bd794da0e283",
+          "name": "Brute Force Breastplate",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Brute_Force_Breastplate.png",
+          "price": 2070
+        },
+        {
+          "id": "f8f538b8-5cf0-4fd4-a4e6-dff974a0b715",
+          "name": "Guardian Helmet",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Guardian_Helmet.png",
+          "price": 2500
+        },
+        {
+          "id": "3585dc9e-2722-44f6-9bbb-100b777c5a86",
+          "name": "Radiant Armor",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Radiant_Armor.png",
+          "price": 1880
+        }
+      ],
+      "emblem": {
+        "id": "c0c1e80e-c705-4a36-ae5f-f930130489ba",
+        "name": "Tank",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Custom_Tank_Emblem.png"
+      },
+      "spell": {
+        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
+        "name": "Flicker",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
+      },
+      "conditional_items": [],
+      "created_at": "2026-07-12T09:23:50.525575+00:00"
+    },
+    {
+      "id": "30dbfd9c-a27a-4fbc-aef6-8e7014a6d1da",
+      "title": "Silvana Jungler S40",
+      "description": "Fast farm, 1v1, war, ambush, gendong² pokoknya",
+      "tips": "",
+      "likes": 1,
+      "patch_id": "be77a09b-50cc-45fb-b5fa-623daa196557",
+      "items": [
+        {
+          "id": "a6ec810a-08da-4bbf-a137-8d23531920c9",
+          "name": "Arcane Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Arcane_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "a2e62bd7-ba81-43cd-9b63-1a8e0ddcbe7f",
+          "name": "Feather of Heaven",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Feather_of_Heaven.png",
+          "price": 2030
+        },
+        {
+          "id": "cdbfc89a-2fac-4466-ba07-1fba1e357847",
+          "name": "Genius Wand",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Genius_Wand.png",
+          "price": 2000
+        },
+        {
+          "id": "b5543f4a-6463-48f1-812f-ad08633494a1",
+          "name": "Concentrated Energy",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Concentrated_Energy.png",
+          "price": 2020
+        },
+        {
+          "id": "59a45ae3-4662-4bee-8471-73751dcee211",
+          "name": "Divine Glaive",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Divine_Glaive.png",
+          "price": 1970
+        },
+        {
+          "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
+          "name": "Holy Crystal",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
+          "price": 3000
+        }
+      ],
+      "emblem": {
+        "id": "5e0b6bcf-c296-4117-b0d4-4d6dae8f1618",
+        "name": "Mage",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Custom_Mage_Emblem.png"
+      },
+      "spell": {
+        "id": "a812d5d9-149b-48b0-b77e-fcf2bc2fe7ae",
+        "name": "Flame Retribution",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Flame_Retribution.png"
+      },
+      "conditional_items": [
+        "9b0c5b28-b617-42e8-8bdb-5aef5514b6ce",
+        "2f707623-6044-4dc4-8183-5095409c5078"
+      ],
+      "created_at": "2026-03-22T11:42:43.352917+00:00"
+    },
+    {
+      "id": "ac6a707c-6811-464f-8a13-9143d7aa9d16",
+      "title": "Build poke dan semi sustain.",
+      "description": "Build ini bisa Hero silvanna bertahan lama di team fight, damagenya lumayan sakit bisa ngeciduk Hero core lawan.\n\nPoke ada, tahan lama iya, spellvamp ada, lifestyle ada, dan bisa di pake untuk di role roam,exp, jungler juga.",
+      "tips": "Tips untuk role roam silvanna, early game nya bantu jungler kalian abis tu bantu midlaner kalian untuk clear Minion, di sarankan kamu tidak usah ngambil Minion midlaner tapi tunggu di samping Minion sambil dapat exp dan gold, bantu sampai level empat, setelah tu turtle pertama muncul langsung cari jungler musuh, kalau ketemu langsung ULTI, skill satu, skill dua, basic atack sampai mati, di sarankan sama mage biar cepet jungler lawan mati. Jungler lawan sudah mati baru bantu jungler kamu ngeturtle, dapat turtlenya langsung rotasi ke exp. mid gamenya baru kamu rotasi ke goldlane biar menang laning marksman kamu, dan jangan lupa buka map. Late gamenya suka hati kalian mau ngapain tapi kalau ada marksman musuhnya langsung di ULTI aja biar kalau kontes lord, tidak kecuri lordnya dan tidak ada yang memberi damage yang sangat tinggi ke tim kita. disarankan late game kamu sering sering buka map aja dan ngepush turet.\n\nSekian terimakasih.\n",
+      "likes": 1,
+      "patch_id": "50548097-d34a-4265-8e93-f27176454d15",
+      "items": [
+        {
+          "id": "9d4988cb-f1ff-4020-a152-09bfa42ea847",
+          "name": "Thunder Belt",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/dd/Thunder_Belt.png",
+          "price": 1820
+        },
+        {
+          "id": "d946f868-c61d-4433-80f3-3feec9b1af98",
+          "name": "Tought Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Tough_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "b5543f4a-6463-48f1-812f-ad08633494a1",
+          "name": "Concentrated Energy",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Concentrated_Energy.png",
+          "price": 2020
+        },
+        {
+          "id": "78f73686-df75-42b1-8bb1-fbf9d5f33a70",
+          "name": "Glowing Wand",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Glowing_Wand.png",
+          "price": 2150
+        },
+        {
+          "id": "3585dc9e-2722-44f6-9bbb-100b777c5a86",
+          "name": "Radiant Armor",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Radiant_Armor.png",
+          "price": 1880
+        },
+        {
+          "id": "9b0c5b28-b617-42e8-8bdb-5aef5514b6ce",
+          "name": "Winter Crown",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Winter_Crown.png",
+          "price": 1910
+        }
+      ],
+      "emblem": {
+        "id": "5e0b6bcf-c296-4117-b0d4-4d6dae8f1618",
+        "name": "Mage",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Custom_Mage_Emblem.png"
+      },
+      "spell": {
+        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
+        "name": "Flicker",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
+      },
+      "conditional_items": [
+        "f8e4e2b5-2b5d-42ab-9b2d-f99520df1f90",
+        "2f707623-6044-4dc4-8183-5095409c5078"
+      ],
+      "created_at": "2026-02-24T03:56:46.859168+00:00"
+    }
+  ]
+}

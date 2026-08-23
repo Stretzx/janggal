@@ -1,0 +1,191 @@
+{
+  "hero": "Khaleed",
+  "slug": "khaleed",
+  "hero_id": "693bd5d7-c837-4cce-b6f9-ba0e6af1966b",
+  "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_216ea76d9188164c58950885b3962ba1.png",
+  "builds": [
+    {
+      "id": "484a42f0-ff95-42a1-ad67-062f61faa3ed",
+      "title": "Item hero khaleed By  ☪︎ا م ر",
+      "description": "Untuk ROAM",
+      "tips": "",
+      "likes": 3,
+      "patch_id": "be77a09b-50cc-45fb-b5fa-623daa196557",
+      "items": [
+        {
+          "id": "d946f868-c61d-4433-80f3-3feec9b1af98",
+          "name": "Tought Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Tough_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "5e7dbecb-76e4-4c51-808c-712efa14974a",
+          "name": "Blade of the Heptaseas",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Blade_of_the_Heptaseas.png",
+          "price": 1950
+        },
+        {
+          "id": "9d4988cb-f1ff-4020-a152-09bfa42ea847",
+          "name": "Thunder Belt",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/dd/Thunder_Belt.png",
+          "price": 1820
+        },
+        {
+          "id": "70ae58cf-dc12-42f2-832f-75f9bbbfc0e1",
+          "name": "Oracle",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Oracle.png",
+          "price": 1860
+        },
+        {
+          "id": "93514bd9-2483-40ef-b301-86a6c796e2be",
+          "name": "Antique Cuirass",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Antique_Cuirass.png",
+          "price": 2170
+        },
+        {
+          "id": "f8e4e2b5-2b5d-42ab-9b2d-f99520df1f90",
+          "name": "Athena's Shield",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Athena%27s_Shield.png",
+          "price": 2150
+        }
+      ],
+      "emblem": {
+        "id": "20ca33c9-d514-45d0-a956-98beb83e86ef",
+        "name": "Fighter",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Custom_Fighter_Emblem.png"
+      },
+      "spell": {
+        "id": "b68d9e4c-db6e-4107-a36f-ea24b16fb978",
+        "name": "Revitalize",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Revitalize.png"
+      },
+      "conditional_items": [
+        "f8f538b8-5cf0-4fd4-a4e6-dff974a0b715",
+        "2f707623-6044-4dc4-8183-5095409c5078"
+      ],
+      "created_at": "2026-04-05T09:56:56.934964+00:00"
+    },
+    {
+      "id": "71fa8d5b-93e9-4ef4-8859-5f1dcf3da48e",
+      "title": "Tank",
+      "description": "Tebal, exp awet, susah mati, ",
+      "tips": "",
+      "likes": 1,
+      "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
+      "items": [
+        {
+          "id": "d946f868-c61d-4433-80f3-3feec9b1af98",
+          "name": "Tought Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Tough_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "9d4988cb-f1ff-4020-a152-09bfa42ea847",
+          "name": "Thunder Belt",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/dd/Thunder_Belt.png",
+          "price": 1820
+        },
+        {
+          "id": "45e33c00-9674-44d3-950b-073425a1f922",
+          "name": "Dominance Ice",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Dominance_Ice.png",
+          "price": 2010
+        },
+        {
+          "id": "70ae58cf-dc12-42f2-832f-75f9bbbfc0e1",
+          "name": "Oracle",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Oracle.png",
+          "price": 1860
+        },
+        {
+          "id": "3585dc9e-2722-44f6-9bbb-100b777c5a86",
+          "name": "Radiant Armor",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Radiant_Armor.png",
+          "price": 1880
+        },
+        {
+          "id": "2f707623-6044-4dc4-8183-5095409c5078",
+          "name": "Immortality",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Immortality.png",
+          "price": 2120
+        }
+      ],
+      "emblem": {
+        "id": "20ca33c9-d514-45d0-a956-98beb83e86ef",
+        "name": "Fighter",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Custom_Fighter_Emblem.png"
+      },
+      "spell": {
+        "id": "b68d9e4c-db6e-4107-a36f-ea24b16fb978",
+        "name": "Revitalize",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Revitalize.png"
+      },
+      "conditional_items": [
+        "5e7dbecb-76e4-4c51-808c-712efa14974a",
+        "3a11d865-1fff-4d8f-b919-5023703fb31a"
+      ],
+      "created_at": "2026-08-01T18:10:46.93134+00:00"
+    },
+    {
+      "id": "a43fb45b-4bdf-42b1-bbda-00495ec2f73d",
+      "title": "Walid dmg",
+      "description": "Exp ni cocok \nItem yg akhir kondisional \n",
+      "tips": "",
+      "likes": 1,
+      "patch_id": "c6153242-aa0e-47fc-9d09-edfb495a997d",
+      "items": [
+        {
+          "id": "d946f868-c61d-4433-80f3-3feec9b1af98",
+          "name": "Tought Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Tough_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "5e7dbecb-76e4-4c51-808c-712efa14974a",
+          "name": "Blade of the Heptaseas",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Blade_of_the_Heptaseas.png",
+          "price": 1950
+        },
+        {
+          "id": "3fd98472-74a6-4f2e-8f2c-82e12251ca28",
+          "name": "Hunter Strike",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hunter_Strike.png",
+          "price": 2010
+        },
+        {
+          "id": "a80b1b94-e5a3-4c09-af16-3112a6ae9985",
+          "name": "Malefic Roar",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Malefic_Roar.png",
+          "price": 2060
+        },
+        {
+          "id": "27361867-2d35-4ad8-8d4d-ba0266b04109",
+          "name": "Blade of Despair",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Blade_of_Despair.png",
+          "price": 3010
+        },
+        {
+          "id": "f8e4e2b5-2b5d-42ab-9b2d-f99520df1f90",
+          "name": "Athena's Shield",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Athena%27s_Shield.png",
+          "price": 2150
+        }
+      ],
+      "emblem": {
+        "id": "20ca33c9-d514-45d0-a956-98beb83e86ef",
+        "name": "Fighter",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Custom_Fighter_Emblem.png"
+      },
+      "spell": {
+        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
+        "name": "Flicker",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
+      },
+      "conditional_items": [
+        "f8f538b8-5cf0-4fd4-a4e6-dff974a0b715",
+        "3585dc9e-2722-44f6-9bbb-100b777c5a86"
+      ],
+      "created_at": "2026-05-30T14:22:45.812144+00:00"
+    }
+  ]
+}

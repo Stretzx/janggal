@@ -1,0 +1,182 @@
+{
+  "hero": "Yu Zhong",
+  "slug": "yu-zhong",
+  "hero_id": "d2437afd-0966-42bd-adb8-50e0cff7c8b2",
+  "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_7d5ad4d511f5257137028f19e9ee973f.png",
+  "builds": [
+    {
+      "id": "9f308502-d89c-45b7-abc8-111b29b55f04",
+      "title": "SOLO TB",
+      "description": "-Dive Tower\n-Open War\n-1vs5 Delay\n-Flange\n-Ganking\n-All In",
+      "tips": "Play aggressively but don't position yourself too far from your teammates. Use your ultimate to open the war, try to lure all the enemy's skills out, and just wait for your teammates to finish it off.",
+      "likes": 3,
+      "patch_id": "c6153242-aa0e-47fc-9d09-edfb495a997d",
+      "items": [
+        {
+          "id": "dde20fc5-a6fa-4f15-8a03-46b43698f724",
+          "name": "Warrior Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4b/Warrior_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "0f52e11b-4c01-4652-8a64-c3bfc6a489b8",
+          "name": "War Axe",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/War_Axe.png",
+          "price": 2100
+        },
+        {
+          "id": "70ae58cf-dc12-42f2-832f-75f9bbbfc0e1",
+          "name": "Oracle",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Oracle.png",
+          "price": 1860
+        },
+        {
+          "id": "9f95098c-0aa7-46c2-a6c4-6e8d4ce9e1f7",
+          "name": "Queen's Wings",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Queen%27s_Wings.png",
+          "price": 2250
+        },
+        {
+          "id": "ad17db6e-8002-48c1-a561-bd794da0e283",
+          "name": "Brute Force Breastplate",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Brute_Force_Breastplate.png",
+          "price": 2070
+        },
+        {
+          "id": "2f707623-6044-4dc4-8183-5095409c5078",
+          "name": "Immortality",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Immortality.png",
+          "price": 2120
+        }
+      ],
+      "emblem": {
+        "id": "20ca33c9-d514-45d0-a956-98beb83e86ef",
+        "name": "Fighter",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Custom_Fighter_Emblem.png"
+      },
+      "spell": {
+        "id": "5c127219-bbdd-4373-99fb-e34ec4c341c1",
+        "name": "Petrify",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Petrify.png"
+      },
+      "conditional_items": [
+        "45e33c00-9674-44d3-950b-073425a1f922",
+        "3fd98472-74a6-4f2e-8f2c-82e12251ca28"
+      ],
+      "created_at": "2026-05-10T16:32:51.352215+00:00"
+    },
+    {
+      "id": "4031bc2c-c2e6-4eee-b5df-22b08148491c",
+      "title": "MPL PH S17 WEEK 7 DAY 1 TLPH.Sanford",
+      "description": "( OMG VS TLPH GAME 2 ) MPL PHILIPPINES SEASON 17 WEEK 6 DAY 1 8 MEI 2026",
+      "tips": "",
+      "likes": 3,
+      "patch_id": "c6153242-aa0e-47fc-9d09-edfb495a997d",
+      "items": [
+        {
+          "id": "dde20fc5-a6fa-4f15-8a03-46b43698f724",
+          "name": "Warrior Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4b/Warrior_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "3fd98472-74a6-4f2e-8f2c-82e12251ca28",
+          "name": "Hunter Strike",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hunter_Strike.png",
+          "price": 2010
+        },
+        {
+          "id": "70ae58cf-dc12-42f2-832f-75f9bbbfc0e1",
+          "name": "Oracle",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Oracle.png",
+          "price": 1860
+        },
+        {
+          "id": "421314fd-557c-427b-8e74-b016c8dcf33a",
+          "name": "Chastise Pauldron",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Chastise_Pauldron.png",
+          "price": 2100
+        },
+        {
+          "id": "33f7772c-06b3-4780-86af-2c79c41c5892",
+          "name": "Silence Robe",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Silence_Robe.png",
+          "price": 1020
+        }
+      ],
+      "emblem": {
+        "id": "20ca33c9-d514-45d0-a956-98beb83e86ef",
+        "name": "Fighter",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Custom_Fighter_Emblem.png"
+      },
+      "spell": {
+        "id": "5c127219-bbdd-4373-99fb-e34ec4c341c1",
+        "name": "Petrify",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Petrify.png"
+      },
+      "conditional_items": [],
+      "created_at": "2026-05-08T12:53:38.025096+00:00"
+    },
+    {
+      "id": "c99694c7-5a6f-4cc8-b70e-564df7be34f2",
+      "title": "Tabrak masuk",
+      "description": "bisa dipake pas by one enak banget",
+      "tips": "",
+      "likes": 2,
+      "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
+      "items": [
+        {
+          "id": "3585dc9e-2722-44f6-9bbb-100b777c5a86",
+          "name": "Radiant Armor",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Radiant_Armor.png",
+          "price": 1880
+        },
+        {
+          "id": "d946f868-c61d-4433-80f3-3feec9b1af98",
+          "name": "Tought Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Tough_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "0f52e11b-4c01-4652-8a64-c3bfc6a489b8",
+          "name": "War Axe",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/War_Axe.png",
+          "price": 2100
+        },
+        {
+          "id": "9f95098c-0aa7-46c2-a6c4-6e8d4ce9e1f7",
+          "name": "Queen's Wings",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Queen%27s_Wings.png",
+          "price": 2250
+        },
+        {
+          "id": "70ae58cf-dc12-42f2-832f-75f9bbbfc0e1",
+          "name": "Oracle",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Oracle.png",
+          "price": 1860
+        },
+        {
+          "id": "421314fd-557c-427b-8e74-b016c8dcf33a",
+          "name": "Chastise Pauldron",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Chastise_Pauldron.png",
+          "price": 2100
+        }
+      ],
+      "emblem": {
+        "id": "20ca33c9-d514-45d0-a956-98beb83e86ef",
+        "name": "Fighter",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Custom_Fighter_Emblem.png"
+      },
+      "spell": {
+        "id": "5c127219-bbdd-4373-99fb-e34ec4c341c1",
+        "name": "Petrify",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Petrify.png"
+      },
+      "conditional_items": [
+        "dde20fc5-a6fa-4f15-8a03-46b43698f724",
+        "93514bd9-2483-40ef-b301-86a6c796e2be"
+      ],
+      "created_at": "2026-06-28T03:00:35.505356+00:00"
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "hero": "Natan",
+  "slug": "natan",
+  "hero_id": "23b099cb-055c-4f58-ac54-1b53db20a77e",
+  "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6736ef8c230d82576c3710e9fc248e11.png",
+  "builds": [
+    {
+      "id": "d1836c8b-c7f6-42fa-8e1c-c1835b15f5c4",
+      "title": "NATAN BUILD FIGHTER ",
+      "description": "Butuh 3 orang untuk memainkan Hero ini utamakan roam Estes dan selalu bersama Natan dan 1 lagi jungle tank contoh : fredrin,baxia,barats, dan lain²",
+      "tips": "",
+      "likes": 4,
+      "patch_id": "be77a09b-50cc-45fb-b5fa-623daa196557",
+      "items": [
+        {
+          "id": "a6ec810a-08da-4bbf-a137-8d23531920c9",
+          "name": "Arcane Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Arcane_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "a2e62bd7-ba81-43cd-9b63-1a8e0ddcbe7f",
+          "name": "Feather of Heaven",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Feather_of_Heaven.png",
+          "price": 2030
+        },
+        {
+          "id": "b5543f4a-6463-48f1-812f-ad08633494a1",
+          "name": "Concentrated Energy",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Concentrated_Energy.png",
+          "price": 2020
+        },
+        {
+          "id": "a67fa43a-b139-4b0b-9d0f-43537ef95a24",
+          "name": "Windtalker",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Windtalker.png",
+          "price": 1880
+        },
+        {
+          "id": "bd3e52c0-6890-4eee-ad81-9815f3b65eaf",
+          "name": "Haas Claws",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Haas%27_Claws.png",
+          "price": 2020
+        },
+        {
+          "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
+          "name": "Holy Crystal",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
+          "price": 3000
+        }
+      ],
+      "emblem": {
+        "id": "20ca33c9-d514-45d0-a956-98beb83e86ef",
+        "name": "Fighter",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Custom_Fighter_Emblem.png"
+      },
+      "spell": {
+        "id": "4b128f1d-6404-4e60-a219-9b9c4bdd74aa",
+        "name": "Aegis",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e5/Aegis.png"
+      },
+      "conditional_items": [
+        "2f707623-6044-4dc4-8183-5095409c5078",
+        "1b705193-8465-4ec5-8ae2-2fa116195df4"
+      ],
+      "created_at": "2026-03-17T02:11:20.638418+00:00"
+    },
+    {
+      "id": "934660b5-18c8-4336-a21b-986789042a24",
+      "title": "Nembusin tank",
+      "description": "bagus buat lawan 2/3 hero badan (CMIIW)",
+      "tips": "",
+      "likes": 3,
+      "patch_id": "c6153242-aa0e-47fc-9d09-edfb495a997d",
+      "items": [
+        {
+          "id": "a2e62bd7-ba81-43cd-9b63-1a8e0ddcbe7f",
+          "name": "Feather of Heaven",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Feather_of_Heaven.png",
+          "price": 2030
+        },
+        {
+          "id": "71a22f00-526e-494b-8062-f5b9efe496bd",
+          "name": "Starlium Scythe",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlium_Scythe.png",
+          "price": 2120
+        },
+        {
+          "id": "b5543f4a-6463-48f1-812f-ad08633494a1",
+          "name": "Concentrated Energy",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Concentrated_Energy.png",
+          "price": 2020
+        },
+        {
+          "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
+          "name": "Holy Crystal",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
+          "price": 3000
+        },
+        {
+          "id": "59a45ae3-4662-4bee-8471-73751dcee211",
+          "name": "Divine Glaive",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Divine_Glaive.png",
+          "price": 1970
+        },
+        {
+          "id": "3a11d865-1fff-4d8f-b919-5023703fb31a",
+          "name": "Blood Wings",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Blood_Wings.png",
+          "price": 2100
+        }
+      ],
+      "emblem": {
+        "id": "0477a4cd-825b-408f-92dc-d5e9229c7a50",
+        "name": "Marksman",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Custom_Marksman_Emblem.png"
+      },
+      "spell": {
+        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
+        "name": "Flicker",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
+      },
+      "conditional_items": [
+        "a67fa43a-b139-4b0b-9d0f-43537ef95a24",
+        "c49ed4f8-8b73-42c8-87e2-fa83bccade0d"
+      ],
+      "created_at": "2026-04-25T04:14:46.900657+00:00"
+    },
+    {
+      "id": "d6f0df1c-8265-4722-a667-0257622d9e49",
+      "title": "Magis Brust Damage Tim Fight Panjang",
+      "description": "Cukup dangan basic attack dan memaksimalkan pasif Natan \nNote:cocok combo dengan ultimate Hero Faramis untuk menangkal damage Hero lawan ke Natan",
+      "tips": "",
+      "likes": 2,
+      "patch_id": "50548097-d34a-4265-8e93-f27176454d15",
+      "items": [
+        {
+          "id": "a6ec810a-08da-4bbf-a137-8d23531920c9",
+          "name": "Arcane Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Arcane_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "a2e62bd7-ba81-43cd-9b63-1a8e0ddcbe7f",
+          "name": "Feather of Heaven",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Feather_of_Heaven.png",
+          "price": 2030
+        },
+        {
+          "id": "b5543f4a-6463-48f1-812f-ad08633494a1",
+          "name": "Concentrated Energy",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Concentrated_Energy.png",
+          "price": 2020
+        },
+        {
+          "id": "a67fa43a-b139-4b0b-9d0f-43537ef95a24",
+          "name": "Windtalker",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Windtalker.png",
+          "price": 1880
+        },
+        {
+          "id": "59a45ae3-4662-4bee-8471-73751dcee211",
+          "name": "Divine Glaive",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Divine_Glaive.png",
+          "price": 1970
+        },
+        {
+          "id": "6c3c144b-fe6d-4fa5-b597-4f0240825528",
+          "name": "Golden Staff",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Golden_Staff.png",
+          "price": 2000
+        }
+      ],
+      "emblem": {
+        "id": "5e0b6bcf-c296-4117-b0d4-4d6dae8f1618",
+        "name": "Mage",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Custom_Mage_Emblem.png"
+      },
+      "spell": {
+        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
+        "name": "Flicker",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
+      },
+      "conditional_items": [
+        "c49ed4f8-8b73-42c8-87e2-fa83bccade0d",
+        "5b97529a-e569-400f-b8f8-7e9a76b42e7a"
+      ],
+      "created_at": "2026-02-06T17:01:43.453718+00:00"
+    }
+  ]
+}

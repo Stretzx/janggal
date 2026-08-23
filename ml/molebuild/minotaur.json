@@ -1,0 +1,190 @@
+{
+  "hero": "Minotaur",
+  "slug": "minotaur",
+  "hero_id": "8e216297-b97b-4a83-8872-ece9c45c9cd4",
+  "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cf2794cfdbea9a75784133863cf6ac83.png",
+  "builds": [
+    {
+      "id": "1422915e-1431-4d7f-9de5-851a958aa713",
+      "title": "Tanky Destroyer",
+      "description": "If you are a “Rusuh” player, this build is the right one for you. Damage? Average. Tanky? Here we go!\n\nExplanation (Main Items):\n\n1. Forget about the “Support” role that Moonton assigned to this man, Minotaur is, first and foremost, a Tank hero. That is why the Tier 1 Emblem is Vitality.\n\n2. With that in mind, your main focus should be building high HP and strong defenses so you can become the Great Wall of China for your team.\n\n3. With this build, your healing skill (Skill 2) will be enhanced by: (i) the Support Emblem; (ii) the Favor Roam Blessing; and (iii) Oracle, although Oracle is not mandatory, as explained further in the “Situational Items” section below.\n\n4. Consequently, Flask of the Oasis becomes a situational item in this build, since it does not provide any real defensive advantage and only gives you extra HP and a shield when your HP falls below 30%.\n\n5. That said, do not worry too much about the absence of Flask of the Oasis, because the combination mentioned in para. 3 is already sufficient for this build.\n\n6. Since you will be playing as the frontliner, you will naturally have a massive HP pool and high defenses to withstand all kinds of damage. The Tier 2 Emblem, Tenacity, also plays an important role here.\n\n7. Now, to be honest, I hate the fact that Minotaur cannot deal a decent amount of damage to minions. This is where Thunder Belt comes in.\n\n8. Remember, you are the Great Wall of China. So, make sure to stack Thunder Belt during team fights, preferably by targeting the enemy Roamer first and, depending on the situation, the enemy damage dealer.\n\n9. Once Thunder Belt is in your inventory, combined with Concussive Blast (Tier 1 Emblem), you will have enough damage to clear minions more effectively, especially if you are the last hero standing or if fewer than three allied heroes are still alive.\n\n10. As a result, any enemy hero with low HP will also become vulnerable to your attacks. By casting Skill 1 and the last \"bam-bam-bam\" of its Ultimate, you can easily finish off enemies with low remaining HP during team fights. *Note: Only if your stacks reached the number 15 and above.\n\n11. Last but not least, high Physical Defense is mandatory with this build. That is why the item order starts with Thunder Belt and Chastise Pauldron. In certain games, the third defensive item should be Antique Cuirass, especially when you are dealing with Yi Sun-shin, Suyou, Saber, Granger, or any hero with high Physical Penetration.\n\nExplanation (Situational Items):\n\n12. The explanation regarding Flask of the Oasis refers back to paras. 3 to 5 above.\n\n13. When should you buy Cursed Helmet? You should buy it if the enemy lineup has three Magic Damage heroes, especially when their Jungler and Mid Laner are Assassin-type heroes such as Selena, Karina, or Gusion, and their Fighter and/or Roamer are building Dominance Ice.\n\n14. It is worth noting that, in this scenario, you still have to purchase Thunder Belt, Chastise Pauldron, and Antique Cuirass, as these are the core items of this build. In exchange, you should buy Radiant Armor or Athena’s Shield, and use Cursed Helmet as a substitute for Oracle.\n\n15. Do not worry, your healing skill is still sufficient even without Oracle (see para. 3 above).\n\nDownside:\n\n16. Unlike many other Minotaur builds, this build has a much longer skill cooldown. Therefore, you need to be patient and more selective when casting your skills.\n\n17. Based on my experience, you should only use your skills when: (i) supporting the Gold Laner to kill the enemy Gold Laner faster; (ii) contesting the Turtle or Lord by focusing on the enemy Jungler; and (iii) initiating a team fight when your Gold Laner and EXP Laner are nearby.\n\nEnjoy :)\n**********************\nIf you have any questions regarding this build, feel free to contact me on TikTok: bigbearpaparons\n(https://www.tiktok.com/@bigbearpaparons)\n\nNeed a Roamer for your party? Add me:\nUsername: PEN4RD0GE (it is the number \"zero\", not the letter \"O\") | ID: 3423 8417 5 (9334) --  the one with \"Nastar\" profile picture",
+      "tips": "",
+      "likes": 1,
+      "patch_id": "c6153242-aa0e-47fc-9d09-edfb495a997d",
+      "items": [
+        {
+          "id": "1433cb2c-1ad9-4f7d-b594-793ac4c9e6b6",
+          "name": "Rapid Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Rapid_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "9d4988cb-f1ff-4020-a152-09bfa42ea847",
+          "name": "Thunder Belt",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/dd/Thunder_Belt.png",
+          "price": 1820
+        },
+        {
+          "id": "421314fd-557c-427b-8e74-b016c8dcf33a",
+          "name": "Chastise Pauldron",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Chastise_Pauldron.png",
+          "price": 2100
+        },
+        {
+          "id": "3585dc9e-2722-44f6-9bbb-100b777c5a86",
+          "name": "Radiant Armor",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Radiant_Armor.png",
+          "price": 1880
+        },
+        {
+          "id": "70ae58cf-dc12-42f2-832f-75f9bbbfc0e1",
+          "name": "Oracle",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Oracle.png",
+          "price": 1860
+        },
+        {
+          "id": "93514bd9-2483-40ef-b301-86a6c796e2be",
+          "name": "Antique Cuirass",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Antique_Cuirass.png",
+          "price": 2170
+        }
+      ],
+      "emblem": {
+        "id": "548cd559-72f6-45b4-a0d5-f4b7aafcb2a9",
+        "name": "Support",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Custom_Support_Emblem.png"
+      },
+      "spell": {
+        "id": "b68d9e4c-db6e-4107-a36f-ea24b16fb978",
+        "name": "Revitalize",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Revitalize.png"
+      },
+      "conditional_items": [
+        "45e33c00-9674-44d3-950b-073425a1f922",
+        "1b0549bd-fd16-4460-bed5-f43b4e7fa005"
+      ],
+      "created_at": "2026-04-22T11:57:09.118674+00:00"
+    },
+    {
+      "id": "9e13cd01-a790-4ac6-8823-31d0e54457e7",
+      "title": "Build Afiq ",
+      "description": "Build top global minotaur",
+      "tips": "",
+      "likes": 1,
+      "patch_id": "50548097-d34a-4265-8e93-f27176454d15",
+      "items": [
+        {
+          "id": "d946f868-c61d-4433-80f3-3feec9b1af98",
+          "name": "Tought Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Tough_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "85779626-b5f7-445b-b77d-c44074f94e2c",
+          "name": "Flask of the Oasis",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Flask_of_the_Oasis.png",
+          "price": 1850
+        },
+        {
+          "id": "93514bd9-2483-40ef-b301-86a6c796e2be",
+          "name": "Antique Cuirass",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Antique_Cuirass.png",
+          "price": 2170
+        },
+        {
+          "id": "f8f538b8-5cf0-4fd4-a4e6-dff974a0b715",
+          "name": "Guardian Helmet",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Guardian_Helmet.png",
+          "price": 2500
+        },
+        {
+          "id": "70ae58cf-dc12-42f2-832f-75f9bbbfc0e1",
+          "name": "Oracle",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Oracle.png",
+          "price": 1860
+        },
+        {
+          "id": "421314fd-557c-427b-8e74-b016c8dcf33a",
+          "name": "Chastise Pauldron",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Chastise_Pauldron.png",
+          "price": 2100
+        }
+      ],
+      "emblem": {
+        "id": "c0c1e80e-c705-4a36-ae5f-f930130489ba",
+        "name": "Tank",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Custom_Tank_Emblem.png"
+      },
+      "spell": {
+        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
+        "name": "Flicker",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
+      },
+      "conditional_items": [
+        "2f707623-6044-4dc4-8183-5095409c5078",
+        "9b0c5b28-b617-42e8-8bdb-5aef5514b6ce"
+      ],
+      "created_at": "2026-02-24T10:54:43.286085+00:00"
+    },
+    {
+      "id": "b33223f4-25b2-4f29-bff8-813b75c36dff",
+      "title": "the best",
+      "description": "ada heal yg agak deras",
+      "tips": "",
+      "likes": 1,
+      "patch_id": "a3c48a7d-f457-469a-8207-c1953b6be3a9",
+      "items": [
+        {
+          "id": "1433cb2c-1ad9-4f7d-b594-793ac4c9e6b6",
+          "name": "Rapid Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Rapid_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "c7e0a07e-09fe-4d68-8838-059780b18cb9",
+          "name": "Black Ice Shield",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Black_Ice_Shield.png",
+          "price": 780
+        },
+        {
+          "id": "85779626-b5f7-445b-b77d-c44074f94e2c",
+          "name": "Flask of the Oasis",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Flask_of_the_Oasis.png",
+          "price": 1850
+        },
+        {
+          "id": "33f7772c-06b3-4780-86af-2c79c41c5892",
+          "name": "Silence Robe",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Silence_Robe.png",
+          "price": 1020
+        },
+        {
+          "id": "70ae58cf-dc12-42f2-832f-75f9bbbfc0e1",
+          "name": "Oracle",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Oracle.png",
+          "price": 1860
+        },
+        {
+          "id": "2f707623-6044-4dc4-8183-5095409c5078",
+          "name": "Immortality",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Immortality.png",
+          "price": 2120
+        }
+      ],
+      "emblem": {
+        "id": "548cd559-72f6-45b4-a0d5-f4b7aafcb2a9",
+        "name": "Support",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Custom_Support_Emblem.png"
+      },
+      "spell": {
+        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
+        "name": "Flicker",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
+      },
+      "conditional_items": [
+        "f0e350a8-9b23-4216-ba1a-03f7849d07d3"
+      ],
+      "created_at": "2026-01-09T20:44:34.211432+00:00"
+    }
+  ]
+}

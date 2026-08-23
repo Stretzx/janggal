@@ -1,0 +1,191 @@
+{
+  "hero": "Alice",
+  "slug": "alice",
+  "hero_id": "b7ff500b-f5cf-473a-8fe1-0fbf11e5f8ec",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero041-portrait.png",
+  "builds": [
+    {
+      "id": "0f2805a4-add7-4d4e-b36c-6f7cedd0eabe",
+      "title": "Penghancur Hero tank",
+      "description": "Menyerang saat musuh lengah saat Hero tidak ada damage maju terus ke turret musuh GK bakal defeat\n",
+      "tips": "",
+      "likes": 5,
+      "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
+      "items": [
+        {
+          "id": "32da3955-3a13-4a18-ac27-7d9b064f3fa2",
+          "name": "Magic Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Magic_Shoes.png",
+          "price": 720
+        },
+        {
+          "id": "0f52e11b-4c01-4652-8a64-c3bfc6a489b8",
+          "name": "War Axe",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/War_Axe.png",
+          "price": 2100
+        },
+        {
+          "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
+          "name": "Holy Crystal",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
+          "price": 3000
+        },
+        {
+          "id": "27361867-2d35-4ad8-8d4d-ba0266b04109",
+          "name": "Blade of Despair",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Blade_of_Despair.png",
+          "price": 3010
+        },
+        {
+          "id": "cd59334a-2214-4e1b-a528-1ea8ae74458a",
+          "name": "Blade Armor",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Blade_Armor.png",
+          "price": 1910
+        },
+        {
+          "id": "f8e4e2b5-2b5d-42ab-9b2d-f99520df1f90",
+          "name": "Athena's Shield",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Athena%27s_Shield.png",
+          "price": 2150
+        }
+      ],
+      "emblem": {
+        "id": "c0c1e80e-c705-4a36-ae5f-f930130489ba",
+        "name": "Tank",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Custom_Tank_Emblem.png"
+      },
+      "spell": {
+        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
+        "name": "Flicker",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
+      },
+      "conditional_items": [
+        "9f95098c-0aa7-46c2-a6c4-6e8d4ce9e1f7",
+        "9d4988cb-f1ff-4020-a152-09bfa42ea847"
+      ],
+      "created_at": "2026-06-28T04:32:26.208402+00:00"
+    },
+    {
+      "id": "f753b06d-c42c-4c5f-9c9b-e1102fdaa69a",
+      "title": "tb 1 negara ",
+      "description": "ooko nya win",
+      "tips": "",
+      "likes": 4,
+      "patch_id": "a3c48a7d-f457-469a-8207-c1953b6be3a9",
+      "items": [
+        {
+          "id": "32da3955-3a13-4a18-ac27-7d9b064f3fa2",
+          "name": "Magic Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Magic_Shoes.png",
+          "price": 720
+        },
+        {
+          "id": "ad17db6e-8002-48c1-a561-bd794da0e283",
+          "name": "Brute Force Breastplate",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Brute_Force_Breastplate.png",
+          "price": 2070
+        },
+        {
+          "id": "70ae58cf-dc12-42f2-832f-75f9bbbfc0e1",
+          "name": "Oracle",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Oracle.png",
+          "price": 1860
+        },
+        {
+          "id": "9f95098c-0aa7-46c2-a6c4-6e8d4ce9e1f7",
+          "name": "Queen's Wings",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Queen%27s_Wings.png",
+          "price": 2250
+        },
+        {
+          "id": "f8f538b8-5cf0-4fd4-a4e6-dff974a0b715",
+          "name": "Guardian Helmet",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Guardian_Helmet.png",
+          "price": 2500
+        },
+        {
+          "id": "93514bd9-2483-40ef-b301-86a6c796e2be",
+          "name": "Antique Cuirass",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Antique_Cuirass.png",
+          "price": 2170
+        }
+      ],
+      "emblem": {
+        "id": "c0c1e80e-c705-4a36-ae5f-f930130489ba",
+        "name": "Tank",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Custom_Tank_Emblem.png"
+      },
+      "spell": {
+        "id": "aa9d509d-79bd-4486-b7d3-eb724cb72f3e",
+        "name": "Vengeance",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Vengeance.png"
+      },
+      "conditional_items": [
+        "1b0549bd-fd16-4460-bed5-f43b4e7fa005",
+        "45e33c00-9674-44d3-950b-073425a1f922"
+      ],
+      "created_at": "2025-12-25T21:05:14.250863+00:00"
+    },
+    {
+      "id": "3ad99ed2-0d8e-4d01-a08a-84927979d549",
+      "title": "SOLO PLAYER",
+      "description": "Build ini bertujuan biar kamu lebih deres lifesteal nya. bisa jadi jungle juga, tanpa ubah emblem dan template buid sama sekali (cuman ganti spell). tapi, ngga bisa buat dijadiin tb utama. kecuali, di combo sama angela, atau waktu open war jangan kejauhan sama rekan tim. untuk item molten essence, kalau udah masuk late aku jual, buat fokus ke 1 tambahan item defens sesuai conditional atau bisa diisi clock of destiny (tergantung kondisi).",
+      "tips": "",
+      "likes": 2,
+      "patch_id": "c6153242-aa0e-47fc-9d09-edfb495a997d",
+      "items": [
+        {
+          "id": "32da3955-3a13-4a18-ac27-7d9b064f3fa2",
+          "name": "Magic Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Magic_Shoes.png",
+          "price": 720
+        },
+        {
+          "id": "49d80544-79e7-4382-a011-91b704264c7f",
+          "name": "Molten Essence",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Molten_Essence.png",
+          "price": 800
+        },
+        {
+          "id": "b5543f4a-6463-48f1-812f-ad08633494a1",
+          "name": "Concentrated Energy",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Concentrated_Energy.png",
+          "price": 2020
+        },
+        {
+          "id": "70ae58cf-dc12-42f2-832f-75f9bbbfc0e1",
+          "name": "Oracle",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Oracle.png",
+          "price": 1860
+        },
+        {
+          "id": "9f95098c-0aa7-46c2-a6c4-6e8d4ce9e1f7",
+          "name": "Queen's Wings",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Queen%27s_Wings.png",
+          "price": 2250
+        },
+        {
+          "id": "ad17db6e-8002-48c1-a561-bd794da0e283",
+          "name": "Brute Force Breastplate",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Brute_Force_Breastplate.png",
+          "price": 2070
+        }
+      ],
+      "emblem": {
+        "id": "c0c1e80e-c705-4a36-ae5f-f930130489ba",
+        "name": "Tank",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Custom_Tank_Emblem.png"
+      },
+      "spell": {
+        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
+        "name": "Flicker",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
+      },
+      "conditional_items": [
+        "421314fd-557c-427b-8e74-b016c8dcf33a",
+        "9b0c5b28-b617-42e8-8bdb-5aef5514b6ce"
+      ],
+      "created_at": "2026-06-06T08:18:43.042943+00:00"
+    }
+  ]
+}

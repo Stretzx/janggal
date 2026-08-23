@@ -1,0 +1,191 @@
+{
+  "hero": "Julian",
+  "slug": "julian",
+  "hero_id": "9065a350-650d-475c-8919-9fd34132fe88",
+  "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_44891c699fb1c00fc4a7fa59ea95b8b3.png",
+  "builds": [
+    {
+      "id": "abbfd4f4-03a9-465b-9548-972e7351b455",
+      "title": "No cooldown + spellvamp deres (From Patch 2.1.42)",
+      "description": "",
+      "tips": "",
+      "likes": 8,
+      "patch_id": "be77a09b-50cc-45fb-b5fa-623daa196557",
+      "items": [
+        {
+          "id": "32da3955-3a13-4a18-ac27-7d9b064f3fa2",
+          "name": "Magic Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Magic_Shoes.png",
+          "price": 720
+        },
+        {
+          "id": "a2e62bd7-ba81-43cd-9b63-1a8e0ddcbe7f",
+          "name": "Feather of Heaven",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Feather_of_Heaven.png",
+          "price": 2030
+        },
+        {
+          "id": "a67fa43a-b139-4b0b-9d0f-43537ef95a24",
+          "name": "Windtalker",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Windtalker.png",
+          "price": 1880
+        },
+        {
+          "id": "b5543f4a-6463-48f1-812f-ad08633494a1",
+          "name": "Concentrated Energy",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Concentrated_Energy.png",
+          "price": 2020
+        },
+        {
+          "id": "0ca98826-ae22-42fd-8caf-0ac50dfedbd8",
+          "name": "Clock of Destiny",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Clock_of_Destiny.png",
+          "price": 2030
+        },
+        {
+          "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
+          "name": "Holy Crystal",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
+          "price": 3000
+        }
+      ],
+      "emblem": {
+        "id": "20ca33c9-d514-45d0-a956-98beb83e86ef",
+        "name": "Fighter",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Custom_Fighter_Emblem.png"
+      },
+      "spell": {
+        "id": "aa9d509d-79bd-4486-b7d3-eb724cb72f3e",
+        "name": "Vengeance",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Vengeance.png"
+      },
+      "conditional_items": [
+        "2f707623-6044-4dc4-8183-5095409c5078",
+        "9b0c5b28-b617-42e8-8bdb-5aef5514b6ce"
+      ],
+      "created_at": "2026-03-12T07:07:08.521+00:00"
+    },
+    {
+      "id": "9aef799f-cfff-4395-b5db-b83747508704",
+      "title": "{★Build Julian exp tipe bertahan+menyerang★}",
+      "description": "Kombo untuk skill ke 1 tipe demage burst 1 target,kombo skill ke 2 tipe Regen dan svel vame,kombo skill ke 3 tipe CC atau CC area\n\nTipe Julian untuk di exp ini mengutamakan kekuatan leaning, penguasaan battlefield,war jangka panjang,semakin banyak target yang terkena kombo skill 2 atau lawan yang terkena efek fasif Julian,Julian akan dapat penambahan hp saat mengenai lawan atau Minion bahkan creap.julian di exp lebih di rekomendasikan karena kuat war jangka panjang dan tameng depan bagi tim saat tidak ada TB dari roam ataupun jungler hp nya sendiri tembus 7000-8000 darah mengunakan aitem ini dan itu cukup membuat musuh kerepotan untuk menyerangnya secara bersamaan karena takut akan memperkuat efek Regen dari si Julian,Julian exp bisa di kombo dengan Angela atau rafaela atau bahkan Estes tapi lebih rekomendasi ke Angela karena Julian bisa leluasa menyerang tanpa takut darah nya berkurang drastis.",
+      "tips": "",
+      "likes": 4,
+      "patch_id": "be77a09b-50cc-45fb-b5fa-623daa196557",
+      "items": [
+        {
+          "id": "a6ec810a-08da-4bbf-a137-8d23531920c9",
+          "name": "Arcane Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Arcane_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "a2e62bd7-ba81-43cd-9b63-1a8e0ddcbe7f",
+          "name": "Feather of Heaven",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Feather_of_Heaven.png",
+          "price": 2030
+        },
+        {
+          "id": "b5543f4a-6463-48f1-812f-ad08633494a1",
+          "name": "Concentrated Energy",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Concentrated_Energy.png",
+          "price": 2020
+        },
+        {
+          "id": "a67fa43a-b139-4b0b-9d0f-43537ef95a24",
+          "name": "Windtalker",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Windtalker.png",
+          "price": 1880
+        },
+        {
+          "id": "ad17db6e-8002-48c1-a561-bd794da0e283",
+          "name": "Brute Force Breastplate",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Brute_Force_Breastplate.png",
+          "price": 2070
+        },
+        {
+          "id": "9f95098c-0aa7-46c2-a6c4-6e8d4ce9e1f7",
+          "name": "Queen's Wings",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Queen%27s_Wings.png",
+          "price": 2250
+        }
+      ],
+      "emblem": {
+        "id": "20ca33c9-d514-45d0-a956-98beb83e86ef",
+        "name": "Fighter",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Custom_Fighter_Emblem.png"
+      },
+      "spell": {
+        "id": "aa9d509d-79bd-4486-b7d3-eb724cb72f3e",
+        "name": "Vengeance",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Vengeance.png"
+      },
+      "conditional_items": [
+        "f8e4e2b5-2b5d-42ab-9b2d-f99520df1f90",
+        "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa"
+      ],
+      "created_at": "2026-03-31T16:02:23.74746+00:00"
+    },
+    {
+      "id": "dad0ba38-f5df-4ce8-a9b8-23d5bba87d0c",
+      "title": "Julian build 1 hit",
+      "description": "Damage tinggi spell vamp juga kenceng mage mm 1hit",
+      "tips": "",
+      "likes": 3,
+      "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
+      "items": [
+        {
+          "id": "a6ec810a-08da-4bbf-a137-8d23531920c9",
+          "name": "Arcane Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Arcane_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "a2e62bd7-ba81-43cd-9b63-1a8e0ddcbe7f",
+          "name": "Feather of Heaven",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Feather_of_Heaven.png",
+          "price": 2030
+        },
+        {
+          "id": "71a22f00-526e-494b-8062-f5b9efe496bd",
+          "name": "Starlium Scythe",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlium_Scythe.png",
+          "price": 2120
+        },
+        {
+          "id": "cdbfc89a-2fac-4466-ba07-1fba1e357847",
+          "name": "Genius Wand",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Genius_Wand.png",
+          "price": 2000
+        },
+        {
+          "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
+          "name": "Holy Crystal",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
+          "price": 3000
+        },
+        {
+          "id": "2184fd07-4ced-48d6-b6f0-04f99122a4e0",
+          "name": "Lightning Truncheon",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Lightning_Truncheon.png",
+          "price": 2250
+        }
+      ],
+      "emblem": {
+        "id": "5e0b6bcf-c296-4117-b0d4-4d6dae8f1618",
+        "name": "Mage",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Custom_Mage_Emblem.png"
+      },
+      "spell": {
+        "id": "4bd8e270-d8a4-4638-8cd7-e1b25f67e86a",
+        "name": "Ice Retribution",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Ice_Retribution.png"
+      },
+      "conditional_items": [
+        "ece51f8f-c4c8-47cb-9992-314e83af317b",
+        "59a45ae3-4662-4bee-8471-73751dcee211"
+      ],
+      "created_at": "2026-06-24T14:56:34.791995+00:00"
+    }
+  ]
+}

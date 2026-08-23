@@ -1,0 +1,188 @@
+{
+  "hero": "Baxia",
+  "slug": "baxia",
+  "hero_id": "ab14a94e-c414-4ce1-9d24-4d8ffff1868d",
+  "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ae43a252fda0fe996322ea8d27a6fe69.png",
+  "builds": [
+    {
+      "id": "b45e4946-9871-4153-8bb5-d09b630094eb",
+      "title": "mantion rine",
+      "description": "1. Peran dan Posisi\nBaxia biasanya dimainkan sebagai:\n\n\nTank Roamer (pelindung tim & pembuka war)\n\n\nTank Jungler (counter hero sustain seperti Esmeralda, Uranus, Alucard)\n\n\n2. Skill dan Cara Pemakaian\n\n\nSkill Pasif – Baxia Mark\nMemberikan efek pengurangan regen HP kepada musuh. Sangat efektif melawan hero tebal dan lifesteal.\n\n\nSkill 1 – Baxia-Shield Unity\nBaxia berubah menjadi bola dan melaju cepat.\n👉 Gunakan untuk:\n\n\nRotasi cepat\n\n\nMenabrak musuh (crowd control)\n\n\nMasuk atau keluar team fight\n\n\n\n\nSkill 2 – Shield of Spirit\nMelempar perisai yang memberikan damage terus-menerus.\n👉 Cocok untuk:\n\n\nHarass musuh\n\n\nMembersihkan minion\n\n\nMemberi damage konsisten saat war\n\n\n\n\nUltimate – Tortoise’s Puissance\nBaxia melompat dan memberikan damage area serta slow.\n👉 Gunakan saat:\n\n\nMembuka team fight\n\n\nMengganggu backline musuh\n\n\nMengejar hero core lawan\n\n\n\n\n3. Combo Dasar Baxia\nSkill 1 → Tabrak Musuh → Ultimate → Skill 2\nCombo ini efektif untuk mengacaukan formasi musuh dan membuka peluang kill untuk tim.\n4. Tips Bermain Baxia\n\n\nSelalu incar hero regen/lifesteal\n\n\nManfaatkan mobilitas untuk rotasi dan zoning\n\n\nJangan ragu membuka war, tapi tetap perhatikan posisi tim\n\n\nBaxia kuat di early–mid game, manfaatkan momentum\n\n\n5. Kelebihan Baxia\n✅ Anti-regen kuat\n✅ Mobilitas tinggi\n✅ Tank tebal dan agresif\n✅ Counter hero sustain\n6. Kekurangan Baxia\n❌ Damage burst rendah\n❌ Kurang efektif melawan hero jarak jauh tanpa backup tim\n\nJika mau, saya bisa:\n\n\nBuatkan build item Baxia tersakit / tertebal\n\n\nRekomendasi emblem & battle spell\n\n\nVersi deskripsi singkat untuk konten TikTok/Instagram\n\n\nAtau penjelasan khusus Baxia Jungler\n\n\nTinggal bilang 👍",
+      "tips": "",
+      "likes": 3,
+      "patch_id": "a3c48a7d-f457-469a-8207-c1953b6be3a9",
+      "items": [
+        {
+          "id": "1b0549bd-fd16-4460-bed5-f43b4e7fa005",
+          "name": "Cursed Helmet",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Cursed_Helmet.png",
+          "price": 1910
+        },
+        {
+          "id": "d946f868-c61d-4433-80f3-3feec9b1af98",
+          "name": "Tought Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Tough_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "ad17db6e-8002-48c1-a561-bd794da0e283",
+          "name": "Brute Force Breastplate",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Brute_Force_Breastplate.png",
+          "price": 2070
+        },
+        {
+          "id": "f8f538b8-5cf0-4fd4-a4e6-dff974a0b715",
+          "name": "Guardian Helmet",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Guardian_Helmet.png",
+          "price": 2500
+        },
+        {
+          "id": "cd59334a-2214-4e1b-a528-1ea8ae74458a",
+          "name": "Blade Armor",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Blade_Armor.png",
+          "price": 1910
+        },
+        {
+          "id": "421314fd-557c-427b-8e74-b016c8dcf33a",
+          "name": "Chastise Pauldron",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Chastise_Pauldron.png",
+          "price": 2100
+        }
+      ],
+      "emblem": {
+        "id": "19b50db4-0112-4bc6-8801-b106c92900c9",
+        "name": "Common",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Basic_Common_Emblem.png"
+      },
+      "spell": {
+        "id": "d8bbd0c3-3d55-4d45-926a-cc3b834c318b",
+        "name": "Bloody Retribution",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Bloody_Retribution.png"
+      },
+      "conditional_items": [
+        "2f707623-6044-4dc4-8183-5095409c5078",
+        "78f73686-df75-42b1-8bb1-fbf9d5f33a70"
+      ],
+      "created_at": "2026-01-01T08:56:51.973596+00:00"
+    },
+    {
+      "id": "8e3efce9-6f6b-47ac-9ec6-da02b3e1087e",
+      "title": "Tergantung kondisi",
+      "description": "untuk early main agresif dengan membeli Molten Essence",
+      "tips": "",
+      "likes": 2,
+      "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
+      "items": [
+        {
+          "id": "d946f868-c61d-4433-80f3-3feec9b1af98",
+          "name": "Tought Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Tough_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "1b0549bd-fd16-4460-bed5-f43b4e7fa005",
+          "name": "Cursed Helmet",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Cursed_Helmet.png",
+          "price": 1910
+        },
+        {
+          "id": "3585dc9e-2722-44f6-9bbb-100b777c5a86",
+          "name": "Radiant Armor",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Radiant_Armor.png",
+          "price": 1880
+        },
+        {
+          "id": "f8f538b8-5cf0-4fd4-a4e6-dff974a0b715",
+          "name": "Guardian Helmet",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Guardian_Helmet.png",
+          "price": 2500
+        },
+        {
+          "id": "421314fd-557c-427b-8e74-b016c8dcf33a",
+          "name": "Chastise Pauldron",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Chastise_Pauldron.png",
+          "price": 2100
+        },
+        {
+          "id": "2f707623-6044-4dc4-8183-5095409c5078",
+          "name": "Immortality",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Immortality.png",
+          "price": 2120
+        }
+      ],
+      "emblem": {
+        "id": "c0c1e80e-c705-4a36-ae5f-f930130489ba",
+        "name": "Tank",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Custom_Tank_Emblem.png"
+      },
+      "spell": {
+        "id": "d8bbd0c3-3d55-4d45-926a-cc3b834c318b",
+        "name": "Bloody Retribution",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Bloody_Retribution.png"
+      },
+      "conditional_items": [
+        "45e33c00-9674-44d3-950b-073425a1f922",
+        "93514bd9-2483-40ef-b301-86a6c796e2be"
+      ],
+      "created_at": "2026-06-22T00:21:41.662294+00:00"
+    },
+    {
+      "id": "c6f994ba-cb9f-460f-8b7b-565028ae48ec",
+      "title": "M7 KNOCKOUT STAGE DAY 1 ONIC.Kairi",
+      "description": "( ONIC VS AE GAME 2 ) M7 WORLD CHAMPIONSHIP KNOCKOUT STAGE 18 JANUARI 2026",
+      "tips": "",
+      "likes": 2,
+      "patch_id": "a3c48a7d-f457-469a-8207-c1953b6be3a9",
+      "items": [
+        {
+          "id": "d946f868-c61d-4433-80f3-3feec9b1af98",
+          "name": "Tought Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Tough_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "1b0549bd-fd16-4460-bed5-f43b4e7fa005",
+          "name": "Cursed Helmet",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Cursed_Helmet.png",
+          "price": 1910
+        },
+        {
+          "id": "f8f538b8-5cf0-4fd4-a4e6-dff974a0b715",
+          "name": "Guardian Helmet",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Guardian_Helmet.png",
+          "price": 2500
+        },
+        {
+          "id": "3585dc9e-2722-44f6-9bbb-100b777c5a86",
+          "name": "Radiant Armor",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Radiant_Armor.png",
+          "price": 1880
+        },
+        {
+          "id": "93514bd9-2483-40ef-b301-86a6c796e2be",
+          "name": "Antique Cuirass",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Antique_Cuirass.png",
+          "price": 2170
+        },
+        {
+          "id": "45e33c00-9674-44d3-950b-073425a1f922",
+          "name": "Dominance Ice",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Dominance_Ice.png",
+          "price": 2010
+        }
+      ],
+      "emblem": {
+        "id": "c0c1e80e-c705-4a36-ae5f-f930130489ba",
+        "name": "Tank",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Custom_Tank_Emblem.png"
+      },
+      "spell": {
+        "id": "d8bbd0c3-3d55-4d45-926a-cc3b834c318b",
+        "name": "Bloody Retribution",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Bloody_Retribution.png"
+      },
+      "conditional_items": [],
+      "created_at": "2026-01-18T14:58:56.724564+00:00"
+    }
+  ]
+}
