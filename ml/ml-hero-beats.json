@@ -1,0 +1,3252 @@
+{
+  "aamon": [
+    {
+      "i": "cici",
+      "w": "Kuat vs Cici +3.4pp (2.1.95a)"
+    },
+    {
+      "i": "masha",
+      "w": "Kuat vs Masha +3.1pp (2.1.95a)"
+    },
+    {
+      "i": "marcel",
+      "w": "Kuat vs Marcel +3.0pp (2.1.95a)"
+    },
+    {
+      "i": "claude",
+      "w": "Kuat vs Claude +2.8pp (2.1.95a)"
+    },
+    {
+      "i": "hilda",
+      "w": "Kuat vs Hilda +2.1pp (2.1.95a)"
+    },
+    {
+      "i": "yi-sun-shin",
+      "w": "Kuat vs Yi Sun-shin +1.8pp (2.1.95a, silang)"
+    }
+  ],
+  "akai": [
+    {
+      "i": "harith",
+      "w": "Kuat vs Harith +2.1pp (2.1.95a)"
+    },
+    {
+      "i": "alucard",
+      "w": "Kuat vs Alucard +1.9pp (2.1.95a)"
+    },
+    {
+      "i": "silvanna",
+      "w": "Kuat vs Silvanna +1.8pp (2.1.95a)"
+    },
+    {
+      "i": "tigreal",
+      "w": "Kuat vs Tigreal +1.8pp (2.1.95a)"
+    },
+    {
+      "i": "karina",
+      "w": "Kuat vs Karina +1.8pp (2.1.95a)"
+    },
+    {
+      "i": "nana",
+      "w": "Kuat vs Nana +1.8pp (2.1.95a)"
+    }
+  ],
+  "aldous": [
+    {
+      "i": "sun",
+      "w": "Kuat vs Sun +4.3pp (2.1.95a)"
+    },
+    {
+      "i": "helcurt",
+      "w": "Kuat vs Helcurt +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "gatotkaca",
+      "w": "Kuat vs Gatotkaca +2.0pp (2.1.95a)"
+    },
+    {
+      "i": "xborg",
+      "w": "Kuat vs X.Borg +1.9pp (2.1.95a)"
+    },
+    {
+      "i": "belerick",
+      "w": "Kuat vs Belerick +1.9pp (2.1.95a)"
+    },
+    {
+      "i": "novaria",
+      "w": "Kuat vs Novaria +1.9pp (2.1.95a)"
+    }
+  ],
+  "alice": [
+    {
+      "i": "gloo",
+      "w": "Kuat vs Gloo +4.3pp (2.1.95a)"
+    },
+    {
+      "i": "tigreal",
+      "w": "Kuat vs Tigreal +3.6pp (2.1.95a)"
+    },
+    {
+      "i": "atlas",
+      "w": "Kuat vs Atlas +3.5pp (2.1.95a)"
+    },
+    {
+      "i": "barats",
+      "w": "Kuat vs Barats +3.2pp (2.1.95a)"
+    },
+    {
+      "i": "chip",
+      "w": "Kuat vs Chip +3.2pp (2.1.95a)"
+    },
+    {
+      "i": "khufra",
+      "w": "Kuat vs Khufra +3.1pp (2.1.95a)"
+    }
+  ],
+  "alpha": [
+    {
+      "i": "odette",
+      "w": "Kuat vs Odette +2.7pp (2.1.95a)"
+    },
+    {
+      "i": "saber",
+      "w": "Kuat vs Saber +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "barats",
+      "w": "Kuat vs Barats +2.4pp (2.1.95a)"
+    },
+    {
+      "i": "melissa",
+      "w": "Kuat vs Melissa +2.2pp (2.1.95a)"
+    },
+    {
+      "i": "phoveus",
+      "w": "Kuat vs Phoveus +2.2pp (2.1.95a)"
+    },
+    {
+      "i": "dyrroth",
+      "w": "Kuat vs Dyrroth +1.8pp (2.1.95a)"
+    }
+  ],
+  "alucard": [
+    {
+      "i": "sun",
+      "w": "Kuat vs Sun +3.6pp (2.1.95a)"
+    },
+    {
+      "i": "mathilda",
+      "w": "Kuat vs Mathilda +3.0pp (2.1.95a)"
+    },
+    {
+      "i": "natalia",
+      "w": "Kuat vs Natalia +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "cyclops",
+      "w": "Kuat vs Cyclops +2.0pp (2.1.95a)"
+    },
+    {
+      "i": "irithel",
+      "w": "Kuat vs Irithel +1.9pp (2.1.95a)"
+    }
+  ],
+  "angela": [
+    {
+      "i": "marcel",
+      "w": "Kuat vs Marcel +5.2pp (2.1.95a)"
+    },
+    {
+      "i": "alice",
+      "w": "Kuat vs Alice +4.5pp (2.1.95a)"
+    },
+    {
+      "i": "balmond",
+      "w": "Kuat vs Balmond +3.5pp (2.1.95a)"
+    },
+    {
+      "i": "lancelot",
+      "w": "Kuat vs Lancelot +3.1pp (2.1.95a)"
+    },
+    {
+      "i": "faramis",
+      "w": "Kuat vs Faramis +3.0pp (2.1.95a)"
+    },
+    {
+      "i": "uranus",
+      "w": "Kuat vs Uranus +2.7pp (2.1.95a)"
+    }
+  ],
+  "argus": [
+    {
+      "i": "masha",
+      "w": "Kuat vs Masha +4.7pp (2.1.95a)"
+    },
+    {
+      "i": "helcurt",
+      "w": "Kuat vs Helcurt +2.9pp (2.1.95a)"
+    },
+    {
+      "i": "saber",
+      "w": "Kuat vs Saber +2.8pp (2.1.95a)"
+    },
+    {
+      "i": "karrie",
+      "w": "Kuat vs Karrie +2.4pp (2.1.95a)"
+    },
+    {
+      "i": "silvanna",
+      "w": "Kuat vs Silvanna +1.9pp (2.1.95a)"
+    }
+  ],
+  "arlott": [
+    {
+      "i": "xborg",
+      "w": "Kuat vs X.Borg +2.9pp (2.1.95a)"
+    },
+    {
+      "i": "zhuxin",
+      "w": "Kuat vs Zhuxin +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "natan",
+      "w": "Kuat vs Natan +2.4pp (2.1.95a)"
+    },
+    {
+      "i": "khufra",
+      "w": "Kuat vs Khufra +2.2pp (2.1.95a)"
+    },
+    {
+      "i": "ruby",
+      "w": "Kuat vs Ruby +2.1pp (2.1.95a)"
+    }
+  ],
+  "atlas": [
+    {
+      "i": "layla",
+      "w": "Kuat vs Layla +4.5pp (2.1.95a)"
+    },
+    {
+      "i": "estes",
+      "w": "Kuat vs Estes +3.6pp (2.1.95a)"
+    },
+    {
+      "i": "johnson",
+      "w": "Kuat vs Johnson +3.0pp (2.1.95a)"
+    },
+    {
+      "i": "silvanna",
+      "w": "Kuat vs Silvanna +2.7pp (2.1.95a)"
+    },
+    {
+      "i": "hilda",
+      "w": "Kuat vs Hilda +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "eudora",
+      "w": "Kuat vs Eudora +2.6pp (2.1.95a)"
+    }
+  ],
+  "aulus": [
+    {
+      "i": "gloo",
+      "w": "Kuat vs Gloo +3.0pp (2.1.95a)"
+    },
+    {
+      "i": "sun",
+      "w": "Kuat vs Sun +2.9pp (2.1.95a)"
+    },
+    {
+      "i": "masha",
+      "w": "Kuat vs Masha +2.7pp (2.1.95a)"
+    },
+    {
+      "i": "saber",
+      "w": "Kuat vs Saber +2.3pp (2.1.95a)"
+    },
+    {
+      "i": "diggie",
+      "w": "Kuat vs Diggie +2.2pp (2.1.95a)"
+    },
+    {
+      "i": "minsitthar",
+      "w": "Kuat vs Minsitthar +2.0pp (2.1.95a)"
+    }
+  ],
+  "aurora": [
+    {
+      "i": "lolita",
+      "w": "Kuat vs Lolita +4.4pp (2.1.95a)"
+    },
+    {
+      "i": "melissa",
+      "w": "Kuat vs Melissa +2.2pp (2.1.95a)"
+    },
+    {
+      "i": "odette",
+      "w": "Kuat vs Odette +2.1pp (2.1.95a)"
+    },
+    {
+      "i": "eudora",
+      "w": "Kuat vs Eudora +1.9pp (2.1.95a)"
+    },
+    {
+      "i": "rafaela",
+      "w": "Kuat vs Rafaela +1.6pp (2.1.95a)"
+    }
+  ],
+  "badang": [
+    {
+      "i": "fanny",
+      "w": "Kuat vs Fanny +2.7pp (2.1.95a)"
+    },
+    {
+      "i": "sun",
+      "w": "Kuat vs Sun +1.7pp (2.1.95a)"
+    },
+    {
+      "i": "hayabusa",
+      "w": "Kuat vs Hayabusa +1.4pp (2.1.95a)"
+    },
+    {
+      "i": "zilong",
+      "w": "Kuat vs Zilong +1.2pp (2.1.95a)"
+    },
+    {
+      "i": "argus",
+      "w": "Kuat vs Argus +1.2pp (2.1.95a)"
+    }
+  ],
+  "balmond": [
+    {
+      "i": "lukas",
+      "w": "Kuat vs Lukas +3.4pp (2.1.95a)"
+    },
+    {
+      "i": "chip",
+      "w": "Kuat vs Chip +3.3pp (2.1.95a)"
+    },
+    {
+      "i": "saber",
+      "w": "Kuat vs Saber +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "barats",
+      "w": "Kuat vs Barats +2.5pp (2.1.95a)"
+    },
+    {
+      "i": "martis",
+      "w": "Kuat vs Martis +2.0pp (2.1.95a)"
+    },
+    {
+      "i": "kadita",
+      "w": "Kuat vs Kadita +1.4pp (2.1.95a)"
+    }
+  ],
+  "bane": [
+    {
+      "i": "faramis",
+      "w": "Kuat vs Faramis +3.2pp (2.1.95a)"
+    },
+    {
+      "i": "baxia",
+      "w": "Kuat vs Baxia +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "phoveus",
+      "w": "Kuat vs Phoveus +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "khufra",
+      "w": "Kuat vs Khufra +2.3pp (2.1.95a)"
+    },
+    {
+      "i": "chip",
+      "w": "Kuat vs Chip +2.0pp (2.1.95a)"
+    }
+  ],
+  "barats": [
+    {
+      "i": "argus",
+      "w": "Kuat vs Argus +3.7pp (2.1.95a)"
+    },
+    {
+      "i": "silvanna",
+      "w": "Kuat vs Silvanna +3.2pp (2.1.95a)"
+    },
+    {
+      "i": "phoveus",
+      "w": "Kuat vs Phoveus +3.0pp (2.1.95a)"
+    },
+    {
+      "i": "alucard",
+      "w": "Kuat vs Alucard +2.9pp (2.1.95a)"
+    },
+    {
+      "i": "brody",
+      "w": "Kuat vs Brody +2.2pp (2.1.95a)"
+    },
+    {
+      "i": "eudora",
+      "w": "Kuat vs Eudora +1.9pp (2.1.95a)"
+    }
+  ],
+  "baxia": [
+    {
+      "i": "obsidia",
+      "w": "Kuat vs Obsidia +3.4pp (2.1.95a)"
+    },
+    {
+      "i": "lukas",
+      "w": "Kuat vs Lukas +2.9pp (2.1.95a)"
+    },
+    {
+      "i": "alice",
+      "w": "Kuat vs Alice +2.7pp (2.1.95a)"
+    },
+    {
+      "i": "floryn",
+      "w": "Kuat vs Floryn +2.4pp (2.1.95a)"
+    },
+    {
+      "i": "chip",
+      "w": "Kuat vs Chip +2.2pp (2.1.95a)"
+    }
+  ],
+  "beatrix": [
+    {
+      "i": "estes",
+      "w": "Kuat vs Estes +5.2pp (2.1.95a)"
+    },
+    {
+      "i": "baxia",
+      "w": "Kuat vs Baxia +3.4pp (2.1.95a)"
+    },
+    {
+      "i": "hanabi",
+      "w": "Kuat vs Hanabi +3.4pp (2.1.95a)"
+    },
+    {
+      "i": "belerick",
+      "w": "Kuat vs Belerick +3.3pp (2.1.95a)"
+    },
+    {
+      "i": "edith",
+      "w": "Kuat vs Edith +2.9pp (2.1.95a)"
+    },
+    {
+      "i": "minotaur",
+      "w": "Kuat vs Minotaur +2.5pp (2.1.95a)"
+    }
+  ],
+  "belerick": [
+    {
+      "i": "silvanna",
+      "w": "Kuat vs Silvanna +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "zhask",
+      "w": "Kuat vs Zhask +2.5pp (2.1.95a)"
+    },
+    {
+      "i": "johnson",
+      "w": "Kuat vs Johnson +2.4pp (2.1.95a)"
+    },
+    {
+      "i": "miya",
+      "w": "Kuat vs Miya +2.4pp (2.1.95a)"
+    },
+    {
+      "i": "saber",
+      "w": "Kuat vs Saber +2.3pp (2.1.95a)"
+    },
+    {
+      "i": "obsidia",
+      "w": "Kuat vs Obsidia +2.0pp (2.1.95a)"
+    }
+  ],
+  "benedetta": [
+    {
+      "i": "alpha",
+      "w": "Kuat vs Alpha +4.3pp (2.1.95a)"
+    },
+    {
+      "i": "xborg",
+      "w": "Kuat vs X.Borg +3.7pp (2.1.95a)"
+    },
+    {
+      "i": "silvanna",
+      "w": "Kuat vs Silvanna +2.9pp (2.1.95a)"
+    },
+    {
+      "i": "thamuz",
+      "w": "Kuat vs Thamuz +2.8pp (2.1.95a)"
+    },
+    {
+      "i": "hanabi",
+      "w": "Kuat vs Hanabi +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "luo-yi",
+      "w": "Kuat vs Luo Yi +2.1pp (2.1.95a)"
+    }
+  ],
+  "brody": [
+    {
+      "i": "karina",
+      "w": "Kuat vs Karina +4.3pp (2.1.95a)"
+    },
+    {
+      "i": "natalia",
+      "w": "Kuat vs Natalia +3.1pp (2.1.95a)"
+    },
+    {
+      "i": "belerick",
+      "w": "Kuat vs Belerick +3.0pp (2.1.95a)"
+    },
+    {
+      "i": "helcurt",
+      "w": "Kuat vs Helcurt +2.5pp (2.1.95a)"
+    },
+    {
+      "i": "irithel",
+      "w": "Kuat vs Irithel +2.4pp (2.1.95a)"
+    }
+  ],
+  "bruno": [
+    {
+      "i": "harith",
+      "w": "Kuat vs Harith +3.5pp (2.1.95a)"
+    },
+    {
+      "i": "fanny",
+      "w": "Kuat vs Fanny +3.2pp (2.1.95a)"
+    },
+    {
+      "i": "wanwan",
+      "w": "Kuat vs Wanwan +3.1pp (2.1.95a)"
+    },
+    {
+      "i": "ling",
+      "w": "Kuat vs Ling +2.7pp (2.1.95a)"
+    },
+    {
+      "i": "joy",
+      "w": "Kuat vs Joy +2.6pp (2.1.95a)"
+    }
+  ],
+  "carmilla": [
+    {
+      "i": "chip",
+      "w": "Kuat vs Chip +4.0pp (2.1.95a)"
+    },
+    {
+      "i": "gloo",
+      "w": "Kuat vs Gloo +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "hilda",
+      "w": "Kuat vs Hilda +2.3pp (2.1.95a)"
+    },
+    {
+      "i": "johnson",
+      "w": "Kuat vs Johnson +2.2pp (2.1.95a)"
+    },
+    {
+      "i": "minotaur",
+      "w": "Kuat vs Minotaur +2.1pp (2.1.95a)"
+    },
+    {
+      "i": "kalea",
+      "w": "Kuat vs Kalea +1.9pp (2.1.95a)"
+    }
+  ],
+  "cecilion": [
+    {
+      "i": "lolita",
+      "w": "Kuat vs Lolita +3.5pp (2.1.95a)"
+    },
+    {
+      "i": "fredrinn",
+      "w": "Kuat vs Fredrinn +2.0pp (2.1.95a)"
+    },
+    {
+      "i": "barats",
+      "w": "Kuat vs Barats +1.9pp (2.1.95a)"
+    },
+    {
+      "i": "diggie",
+      "w": "Kuat vs Diggie +1.6pp (2.1.95a)"
+    },
+    {
+      "i": "uranus",
+      "w": "Kuat vs Uranus +1.4pp (2.1.95a)"
+    }
+  ],
+  "change": [
+    {
+      "i": "masha",
+      "w": "Kuat vs Masha +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "diggie",
+      "w": "Kuat vs Diggie +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "balmond",
+      "w": "Kuat vs Balmond +1.6pp (2.1.95a)"
+    },
+    {
+      "i": "aulus",
+      "w": "Kuat vs Aulus +1.5pp (2.1.95a)"
+    },
+    {
+      "i": "valir",
+      "w": "Kuat vs Valir +1.5pp (2.1.95a)"
+    }
+  ],
+  "chip": [
+    {
+      "i": "valentina",
+      "w": "Kuat vs Valentina +3.7pp (2.1.95a)"
+    },
+    {
+      "i": "masha",
+      "w": "Kuat vs Masha +3.1pp (2.1.95a)"
+    },
+    {
+      "i": "gloo",
+      "w": "Kuat vs Gloo +3.1pp (2.1.95a)"
+    },
+    {
+      "i": "paquito",
+      "w": "Kuat vs Paquito +3.1pp (2.1.95a)"
+    },
+    {
+      "i": "obsidia",
+      "w": "Kuat vs Obsidia +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "selena",
+      "w": "Kuat vs Selena +2.6pp (2.1.95a)"
+    }
+  ],
+  "chou": [
+    {
+      "i": "xborg",
+      "w": "Kuat vs X.Borg +3.1pp (2.1.95a)"
+    },
+    {
+      "i": "fanny",
+      "w": "Kuat vs Fanny +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "yve",
+      "w": "Kuat vs Yve +2.4pp (2.1.95a)"
+    },
+    {
+      "i": "beatrix",
+      "w": "Kuat vs Beatrix +2.0pp (2.1.95a)"
+    },
+    {
+      "i": "lylia",
+      "w": "Kuat vs Lylia +1.6pp (2.1.95a)"
+    }
+  ],
+  "cici": [
+    {
+      "i": "balmond",
+      "w": "Kuat vs Balmond +4.6pp (2.1.95a)"
+    },
+    {
+      "i": "thamuz",
+      "w": "Kuat vs Thamuz +3.7pp (2.1.95a)"
+    },
+    {
+      "i": "alice",
+      "w": "Kuat vs Alice +3.1pp (2.1.95a)"
+    },
+    {
+      "i": "akai",
+      "w": "Kuat vs Akai +2.3pp (2.1.95a)"
+    },
+    {
+      "i": "benedetta",
+      "w": "Kuat vs Benedetta +2.1pp (2.1.95a)"
+    },
+    {
+      "i": "aulus",
+      "w": "Kuat vs Aulus +1.9pp (2.1.95a)"
+    }
+  ],
+  "claude": [
+    {
+      "i": "ixia",
+      "w": "Kuat vs Ixia +3.1pp (2.1.95a)"
+    },
+    {
+      "i": "change",
+      "w": "Kuat vs Chang'e +2.7pp (2.1.95a)"
+    },
+    {
+      "i": "lolita",
+      "w": "Kuat vs Lolita +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "balmond",
+      "w": "Kuat vs Balmond +2.3pp (2.1.95a)"
+    },
+    {
+      "i": "layla",
+      "w": "Kuat vs Layla +2.2pp (2.1.95a)"
+    },
+    {
+      "i": "granger",
+      "w": "Kuat vs Granger +2.2pp (2.1.95a)"
+    }
+  ],
+  "clint": [
+    {
+      "i": "lolita",
+      "w": "Kuat vs Lolita +3.9pp (2.1.95a)"
+    },
+    {
+      "i": "karina",
+      "w": "Kuat vs Karina +3.3pp (2.1.95a)"
+    },
+    {
+      "i": "baxia",
+      "w": "Kuat vs Baxia +2.1pp (2.1.95a)"
+    },
+    {
+      "i": "lunox",
+      "w": "Kuat vs Lunox +2.0pp (2.1.95a)"
+    },
+    {
+      "i": "belerick",
+      "w": "Kuat vs Belerick +2.0pp (2.1.95a)"
+    }
+  ],
+  "cyclops": [
+    {
+      "i": "natalia",
+      "w": "Kuat vs Natalia +5.0pp (2.1.95a)"
+    },
+    {
+      "i": "wanwan",
+      "w": "Kuat vs Wanwan +3.7pp (2.1.95a)"
+    },
+    {
+      "i": "marcel",
+      "w": "Kuat vs Marcel +3.5pp (2.1.95a)"
+    },
+    {
+      "i": "joy",
+      "w": "Kuat vs Joy +3.2pp (2.1.95a)"
+    },
+    {
+      "i": "ling",
+      "w": "Kuat vs Ling +2.7pp (2.1.95a)"
+    },
+    {
+      "i": "aldous",
+      "w": "Kuat vs Aldous +2.6pp (2.1.95a)"
+    }
+  ],
+  "diggie": [
+    {
+      "i": "balmond",
+      "w": "Kuat vs Balmond +4.0pp (2.1.95a)"
+    },
+    {
+      "i": "hylos",
+      "w": "Kuat vs Hylos +3.4pp (2.1.95a)"
+    },
+    {
+      "i": "alpha",
+      "w": "Kuat vs Alpha +3.2pp (2.1.95a)"
+    },
+    {
+      "i": "alice",
+      "w": "Kuat vs Alice +2.9pp (2.1.95a)"
+    },
+    {
+      "i": "fredrinn",
+      "w": "Kuat vs Fredrinn +2.9pp (2.1.95a)"
+    },
+    {
+      "i": "tigreal",
+      "w": "Kuat vs Tigreal +2.7pp (2.1.95a)"
+    }
+  ],
+  "dyrroth": [
+    {
+      "i": "esmeralda",
+      "w": "Kuat vs Esmeralda +3.6pp (2.1.95a)"
+    },
+    {
+      "i": "uranus",
+      "w": "Kuat vs Uranus +3.4pp (2.1.95a)"
+    },
+    {
+      "i": "alice",
+      "w": "Kuat vs Alice +2.8pp (2.1.95a)"
+    },
+    {
+      "i": "valentina",
+      "w": "Kuat vs Valentina +1.8pp (2.1.95a)"
+    },
+    {
+      "i": "lukas",
+      "w": "Kuat vs Lukas +1.8pp (2.1.95a)"
+    },
+    {
+      "i": "moskov",
+      "w": "Kuat vs Moskov +1.7pp (2.1.95a)"
+    }
+  ],
+  "edith": [
+    {
+      "i": "faramis",
+      "w": "Kuat vs Faramis +3.9pp (2.1.95a)"
+    },
+    {
+      "i": "harith",
+      "w": "Kuat vs Harith +3.6pp (2.1.95a)"
+    },
+    {
+      "i": "alice",
+      "w": "Kuat vs Alice +3.2pp (2.1.95a)"
+    },
+    {
+      "i": "silvanna",
+      "w": "Kuat vs Silvanna +2.9pp (2.1.95a)"
+    },
+    {
+      "i": "mathilda",
+      "w": "Kuat vs Mathilda +2.7pp (2.1.95a)"
+    },
+    {
+      "i": "claude",
+      "w": "Kuat vs Claude +2.5pp (2.1.95a)"
+    }
+  ],
+  "esmeralda": [
+    {
+      "i": "lolita",
+      "w": "Kuat vs Lolita +6.1pp (2.1.95a)"
+    },
+    {
+      "i": "mathilda",
+      "w": "Kuat vs Mathilda +4.3pp (2.1.95a)"
+    },
+    {
+      "i": "diggie",
+      "w": "Kuat vs Diggie +3.4pp (2.1.95a)"
+    },
+    {
+      "i": "marcel",
+      "w": "Kuat vs Marcel +3.3pp (2.1.95a)"
+    },
+    {
+      "i": "paquito",
+      "w": "Kuat vs Paquito +3.2pp (2.1.95a)"
+    },
+    {
+      "i": "argus",
+      "w": "Kuat vs Argus +3.1pp (2.1.95a)"
+    }
+  ],
+  "estes": [
+    {
+      "i": "cyclops",
+      "w": "Kuat vs Cyclops +4.2pp (2.1.95a)"
+    },
+    {
+      "i": "diggie",
+      "w": "Kuat vs Diggie +3.8pp (2.1.95a)"
+    },
+    {
+      "i": "masha",
+      "w": "Kuat vs Masha +3.7pp (2.1.95a)"
+    },
+    {
+      "i": "cici",
+      "w": "Kuat vs Cici +3.5pp (2.1.95a)"
+    },
+    {
+      "i": "faramis",
+      "w": "Kuat vs Faramis +3.3pp (2.1.95a)"
+    },
+    {
+      "i": "lesley",
+      "w": "Kuat vs Lesley +2.9pp (2.1.95a)"
+    }
+  ],
+  "eudora": [
+    {
+      "i": "irithel",
+      "w": "Kuat vs Irithel +2.3pp (2.1.95a)"
+    },
+    {
+      "i": "floryn",
+      "w": "Kuat vs Floryn +2.3pp (2.1.95a)"
+    },
+    {
+      "i": "joy",
+      "w": "Kuat vs Joy +2.0pp (2.1.95a)"
+    },
+    {
+      "i": "rafaela",
+      "w": "Kuat vs Rafaela +2.0pp (2.1.95a)"
+    },
+    {
+      "i": "hayabusa",
+      "w": "Kuat vs Hayabusa +1.9pp (2.1.95a)"
+    }
+  ],
+  "fanny": [
+    {
+      "i": "gloo",
+      "w": "Kuat vs Gloo +3.4pp (2.1.95a)"
+    },
+    {
+      "i": "granger",
+      "w": "Kuat vs Granger +3.3pp (2.1.95a)"
+    },
+    {
+      "i": "yve",
+      "w": "Kuat vs Yve +2.7pp (2.1.95a)"
+    },
+    {
+      "i": "clint",
+      "w": "Kuat vs Clint +2.7pp (2.1.95a)"
+    },
+    {
+      "i": "atlas",
+      "w": "Kuat vs Atlas +2.5pp (2.1.95a)"
+    },
+    {
+      "i": "kimmy",
+      "w": "Kuat vs Kimmy +2.4pp (2.1.95a)"
+    }
+  ],
+  "faramis": [
+    {
+      "i": "gloo",
+      "w": "Kuat vs Gloo +6.5pp (2.1.95a)"
+    },
+    {
+      "i": "wanwan",
+      "w": "Kuat vs Wanwan +3.9pp (2.1.95a)"
+    },
+    {
+      "i": "sun",
+      "w": "Kuat vs Sun +3.2pp (2.1.95a)"
+    },
+    {
+      "i": "chip",
+      "w": "Kuat vs Chip +2.4pp (2.1.95a)"
+    },
+    {
+      "i": "tigreal",
+      "w": "Kuat vs Tigreal +2.2pp (2.1.95a)"
+    },
+    {
+      "i": "roger",
+      "w": "Kuat vs Roger +1.8pp (2.1.95a)"
+    }
+  ],
+  "floryn": [
+    {
+      "i": "marcel",
+      "w": "Kuat vs Marcel +4.2pp (2.1.95a)"
+    },
+    {
+      "i": "alice",
+      "w": "Kuat vs Alice +3.7pp (2.1.95a)"
+    },
+    {
+      "i": "xborg",
+      "w": "Kuat vs X.Borg +3.5pp (2.1.95a)"
+    },
+    {
+      "i": "faramis",
+      "w": "Kuat vs Faramis +3.0pp (2.1.95a)"
+    },
+    {
+      "i": "ling",
+      "w": "Kuat vs Ling +2.9pp (2.1.95a)"
+    },
+    {
+      "i": "lancelot",
+      "w": "Kuat vs Lancelot +2.7pp (2.1.95a)"
+    }
+  ],
+  "franco": [
+    {
+      "i": "diggie",
+      "w": "Kuat vs Diggie +3.0pp (2.1.95a)"
+    },
+    {
+      "i": "fanny",
+      "w": "Kuat vs Fanny +2.5pp (2.1.95a)"
+    },
+    {
+      "i": "angela",
+      "w": "Kuat vs Angela +2.5pp (2.1.95a)"
+    },
+    {
+      "i": "floryn",
+      "w": "Kuat vs Floryn +1.8pp (2.1.95a)"
+    },
+    {
+      "i": "estes",
+      "w": "Kuat vs Estes +1.7pp (2.1.95a)"
+    }
+  ],
+  "fredrinn": [
+    {
+      "i": "gloo",
+      "w": "Kuat vs Gloo +3.2pp (2.1.95a)"
+    },
+    {
+      "i": "argus",
+      "w": "Kuat vs Argus +3.0pp (2.1.95a)"
+    },
+    {
+      "i": "alucard",
+      "w": "Kuat vs Alucard +2.9pp (2.1.95a)"
+    },
+    {
+      "i": "esmeralda",
+      "w": "Kuat vs Esmeralda +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "lunox",
+      "w": "Kuat vs Lunox +2.5pp (2.1.95a)"
+    },
+    {
+      "i": "khaleed",
+      "w": "Kuat vs Khaleed +2.0pp (2.1.95a)"
+    }
+  ],
+  "freya": [
+    {
+      "i": "yve",
+      "w": "Kuat vs Yve +1.9pp (2.1.95a)"
+    },
+    {
+      "i": "kagura",
+      "w": "Kuat vs Kagura +1.8pp (2.1.95a)"
+    },
+    {
+      "i": "faramis",
+      "w": "Kuat vs Faramis +1.7pp (2.1.95a)"
+    },
+    {
+      "i": "lolita",
+      "w": "Kuat vs Lolita +1.5pp (2.1.95a)"
+    },
+    {
+      "i": "mathilda",
+      "w": "Kuat vs Mathilda +1.5pp (2.1.95a)"
+    }
+  ],
+  "gatotkaca": [
+    {
+      "i": "odette",
+      "w": "Kuat vs Odette +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "zilong",
+      "w": "Kuat vs Zilong +2.4pp (2.1.95a)"
+    },
+    {
+      "i": "saber",
+      "w": "Kuat vs Saber +2.3pp (2.1.95a)"
+    },
+    {
+      "i": "miya",
+      "w": "Kuat vs Miya +2.2pp (2.1.95a)"
+    },
+    {
+      "i": "argus",
+      "w": "Kuat vs Argus +1.9pp (2.1.95a)"
+    },
+    {
+      "i": "freya",
+      "w": "Kuat vs Freya +1.9pp (2.1.95a)"
+    }
+  ],
+  "gloo": [
+    {
+      "i": "aamon",
+      "w": "Kuat vs Aamon +4.2pp (2.1.95a)"
+    },
+    {
+      "i": "johnson",
+      "w": "Kuat vs Johnson +3.7pp (2.1.95a)"
+    },
+    {
+      "i": "lesley",
+      "w": "Kuat vs Lesley +3.0pp (2.1.95a)"
+    },
+    {
+      "i": "karina",
+      "w": "Kuat vs Karina +2.9pp (2.1.95a)"
+    },
+    {
+      "i": "change",
+      "w": "Kuat vs Chang'e +2.7pp (2.1.95a)"
+    },
+    {
+      "i": "jawhead",
+      "w": "Kuat vs Jawhead +2.7pp (2.1.95a)"
+    }
+  ],
+  "gord": [
+    {
+      "i": "barats",
+      "w": "Kuat vs Barats +3.8pp (2.1.95a)"
+    },
+    {
+      "i": "lolita",
+      "w": "Kuat vs Lolita +2.8pp (2.1.95a)"
+    },
+    {
+      "i": "fredrinn",
+      "w": "Kuat vs Fredrinn +2.7pp (2.1.95a)"
+    },
+    {
+      "i": "phoveus",
+      "w": "Kuat vs Phoveus +2.2pp (2.1.95a)"
+    },
+    {
+      "i": "alice",
+      "w": "Kuat vs Alice +2.0pp (2.1.95a)"
+    }
+  ],
+  "granger": [
+    {
+      "i": "karina",
+      "w": "Kuat vs Karina +4.1pp (2.1.95a)"
+    },
+    {
+      "i": "beatrix",
+      "w": "Kuat vs Beatrix +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "baxia",
+      "w": "Kuat vs Baxia +2.1pp (2.1.95a)"
+    },
+    {
+      "i": "natan",
+      "w": "Kuat vs Natan +1.9pp (2.1.95a)"
+    },
+    {
+      "i": "yve",
+      "w": "Kuat vs Yve +1.9pp (2.1.95a)"
+    },
+    {
+      "i": "julian",
+      "w": "Kuat vs Julian +1.6pp (2.1.95a)"
+    }
+  ],
+  "grock": [
+    {
+      "i": "lolita",
+      "w": "Kuat vs Lolita +2.5pp (2.1.95a)"
+    },
+    {
+      "i": "layla",
+      "w": "Kuat vs Layla +2.0pp (2.1.95a)"
+    },
+    {
+      "i": "johnson",
+      "w": "Kuat vs Johnson +1.8pp (2.1.95a)"
+    },
+    {
+      "i": "yin",
+      "w": "Kuat vs Yin +1.5pp (2.1.95a)"
+    },
+    {
+      "i": "popol-and-kupa",
+      "w": "Kuat vs Popol and Kupa +1.6pp (2.1.95a)"
+    }
+  ],
+  "guinevere": [
+    {
+      "i": "julian",
+      "w": "Kuat vs Julian +2.2pp (2.1.95a)"
+    },
+    {
+      "i": "karrie",
+      "w": "Kuat vs Karrie +2.2pp (2.1.95a)"
+    },
+    {
+      "i": "esmeralda",
+      "w": "Kuat vs Esmeralda +2.1pp (2.1.95a)"
+    },
+    {
+      "i": "thamuz",
+      "w": "Kuat vs Thamuz +1.9pp (2.1.95a)"
+    },
+    {
+      "i": "xborg",
+      "w": "Kuat vs X.Borg +1.8pp (2.1.95a)"
+    }
+  ],
+  "gusion": [
+    {
+      "i": "aamon",
+      "w": "Kuat vs Aamon +2.1pp (2.1.95a)"
+    },
+    {
+      "i": "valir",
+      "w": "Kuat vs Valir +2.0pp (2.1.95a)"
+    },
+    {
+      "i": "yve",
+      "w": "Kuat vs Yve +1.9pp (2.1.95a)"
+    },
+    {
+      "i": "xborg",
+      "w": "Kuat vs X.Borg +1.7pp (2.1.95a)"
+    },
+    {
+      "i": "natalia",
+      "w": "Kuat vs Natalia +1.6pp (2.1.95a)"
+    },
+    {
+      "i": "suyou",
+      "w": "Kuat vs Suyou +1.6pp (2.1.95a)"
+    }
+  ],
+  "hanabi": [
+    {
+      "i": "chip",
+      "w": "Kuat vs Chip +2.1pp (2.1.95a)"
+    },
+    {
+      "i": "balmond",
+      "w": "Kuat vs Balmond +2.1pp (2.1.95a)"
+    },
+    {
+      "i": "kaja",
+      "w": "Kuat vs Kaja +2.0pp (2.1.95a)"
+    },
+    {
+      "i": "saber",
+      "w": "Kuat vs Saber +2.0pp (2.1.95a)"
+    },
+    {
+      "i": "popol-and-kupa",
+      "w": "Kuat vs Popol and Kupa +2.6pp (2.1.95a)"
+    }
+  ],
+  "hanzo": [
+    {
+      "i": "diggie",
+      "w": "Kuat vs Diggie +3.3pp (2.1.95a)"
+    },
+    {
+      "i": "ixia",
+      "w": "Kuat vs Ixia +2.9pp (2.1.95a)"
+    },
+    {
+      "i": "franco",
+      "w": "Kuat vs Franco +2.9pp (2.1.95a)"
+    },
+    {
+      "i": "alpha",
+      "w": "Kuat vs Alpha +2.8pp (2.1.95a)"
+    },
+    {
+      "i": "layla",
+      "w": "Kuat vs Layla +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "bane",
+      "w": "Kuat vs Bane +1.9pp (2.1.95a)"
+    }
+  ],
+  "harith": [
+    {
+      "i": "lolita",
+      "w": "Kuat vs Lolita +3.7pp (2.1.95a)"
+    },
+    {
+      "i": "johnson",
+      "w": "Kuat vs Johnson +2.9pp (2.1.95a)"
+    },
+    {
+      "i": "irithel",
+      "w": "Kuat vs Irithel +2.0pp (2.1.95a)"
+    },
+    {
+      "i": "suyou",
+      "w": "Kuat vs Suyou +2.0pp (2.1.95a)"
+    },
+    {
+      "i": "aulus",
+      "w": "Kuat vs Aulus +2.0pp (2.1.95a)"
+    },
+    {
+      "i": "kagura",
+      "w": "Kuat vs Kagura +1.9pp (2.1.95a)"
+    }
+  ],
+  "harley": [
+    {
+      "i": "melissa",
+      "w": "Kuat vs Melissa +2.0pp (2.1.95a)"
+    },
+    {
+      "i": "alice",
+      "w": "Kuat vs Alice +2.0pp (2.1.95a)"
+    },
+    {
+      "i": "joy",
+      "w": "Kuat vs Joy +1.9pp (2.1.95a)"
+    },
+    {
+      "i": "valir",
+      "w": "Kuat vs Valir +1.9pp (2.1.95a)"
+    },
+    {
+      "i": "suyou",
+      "w": "Kuat vs Suyou +1.7pp (2.1.95a)"
+    },
+    {
+      "i": "yi-sun-shin",
+      "w": "Kuat vs Yi Sun-shin +1.7pp (2.1.95a, silang)"
+    }
+  ],
+  "hayabusa": [
+    {
+      "i": "aamon",
+      "w": "Kuat vs Aamon +3.0pp (2.1.95a)"
+    },
+    {
+      "i": "karina",
+      "w": "Kuat vs Karina +2.5pp (2.1.95a)"
+    },
+    {
+      "i": "xborg",
+      "w": "Kuat vs X.Borg +2.2pp (2.1.95a)"
+    },
+    {
+      "i": "zhuxin",
+      "w": "Kuat vs Zhuxin +2.2pp (2.1.95a)"
+    },
+    {
+      "i": "nolan",
+      "w": "Kuat vs Nolan +2.1pp (2.1.95a)"
+    },
+    {
+      "i": "cecilion",
+      "w": "Kuat vs Cecilion +1.6pp (2.1.95a)"
+    }
+  ],
+  "helcurt": [
+    {
+      "i": "xborg",
+      "w": "Kuat vs X.Borg +3.5pp (2.1.95a)"
+    },
+    {
+      "i": "valir",
+      "w": "Kuat vs Valir +3.1pp (2.1.95a)"
+    },
+    {
+      "i": "yve",
+      "w": "Kuat vs Yve +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "gord",
+      "w": "Kuat vs Gord +2.4pp (2.1.95a)"
+    },
+    {
+      "i": "xavier",
+      "w": "Kuat vs Xavier +2.2pp (2.1.95a)"
+    },
+    {
+      "i": "cecilion",
+      "w": "Kuat vs Cecilion +1.5pp (2.1.95a)"
+    }
+  ],
+  "hilda": [
+    {
+      "i": "granger",
+      "w": "Kuat vs Granger +3.4pp (2.1.95a)"
+    },
+    {
+      "i": "nolan",
+      "w": "Kuat vs Nolan +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "helcurt",
+      "w": "Kuat vs Helcurt +2.3pp (2.1.95a)"
+    },
+    {
+      "i": "harley",
+      "w": "Kuat vs Harley +2.3pp (2.1.95a)"
+    },
+    {
+      "i": "diggie",
+      "w": "Kuat vs Diggie +2.3pp (2.1.95a)"
+    },
+    {
+      "i": "yin",
+      "w": "Kuat vs Yin +2.3pp (2.1.95a)"
+    }
+  ],
+  "hirara": [
+    {
+      "i": "baxia",
+      "w": "Kuat vs Baxia +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "hanzo",
+      "w": "Kuat vs Hanzo +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "sun",
+      "w": "Kuat vs Sun +2.4pp (2.1.95a)"
+    },
+    {
+      "i": "lolita",
+      "w": "Kuat vs Lolita +2.4pp (2.1.95a)"
+    },
+    {
+      "i": "xborg",
+      "w": "Kuat vs X.Borg +2.0pp (2.1.95a)"
+    }
+  ],
+  "hylos": [
+    {
+      "i": "layla",
+      "w": "Kuat vs Layla +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "johnson",
+      "w": "Kuat vs Johnson +2.2pp (2.1.95a)"
+    },
+    {
+      "i": "silvanna",
+      "w": "Kuat vs Silvanna +2.1pp (2.1.95a)"
+    },
+    {
+      "i": "gatotkaca",
+      "w": "Kuat vs Gatotkaca +2.1pp (2.1.95a)"
+    },
+    {
+      "i": "edith",
+      "w": "Kuat vs Edith +2.0pp (2.1.95a)"
+    },
+    {
+      "i": "nana",
+      "w": "Kuat vs Nana +1.8pp (2.1.95a)"
+    }
+  ],
+  "irithel": [
+    {
+      "i": "wanwan",
+      "w": "Kuat vs Wanwan +4.1pp (2.1.95a)"
+    },
+    {
+      "i": "beatrix",
+      "w": "Kuat vs Beatrix +2.9pp (2.1.95a)"
+    },
+    {
+      "i": "yin",
+      "w": "Kuat vs Yin +2.4pp (2.1.95a)"
+    },
+    {
+      "i": "xborg",
+      "w": "Kuat vs X.Borg +2.3pp (2.1.95a)"
+    },
+    {
+      "i": "benedetta",
+      "w": "Kuat vs Benedetta +2.2pp (2.1.95a)"
+    }
+  ],
+  "ixia": [
+    {
+      "i": "estes",
+      "w": "Kuat vs Estes +4.9pp (2.1.95a)"
+    },
+    {
+      "i": "rafaela",
+      "w": "Kuat vs Rafaela +3.1pp (2.1.95a)"
+    },
+    {
+      "i": "floryn",
+      "w": "Kuat vs Floryn +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "cyclops",
+      "w": "Kuat vs Cyclops +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "melissa",
+      "w": "Kuat vs Melissa +2.5pp (2.1.95a)"
+    },
+    {
+      "i": "cecilion",
+      "w": "Kuat vs Cecilion +1.8pp (2.1.95a)"
+    }
+  ],
+  "jawhead": [
+    {
+      "i": "valentina",
+      "w": "Kuat vs Valentina +2.3pp (2.1.95a)"
+    },
+    {
+      "i": "nolan",
+      "w": "Kuat vs Nolan +2.0pp (2.1.95a)"
+    },
+    {
+      "i": "arlott",
+      "w": "Kuat vs Arlott +2.0pp (2.1.95a)"
+    },
+    {
+      "i": "saber",
+      "w": "Kuat vs Saber +1.7pp (2.1.95a)"
+    },
+    {
+      "i": "bruno",
+      "w": "Kuat vs Bruno +1.7pp (2.1.95a)"
+    }
+  ],
+  "johnson": [
+    {
+      "i": "layla",
+      "w": "Kuat vs Layla +3.5pp (2.1.95a)"
+    },
+    {
+      "i": "valentina",
+      "w": "Kuat vs Valentina +3.1pp (2.1.95a)"
+    },
+    {
+      "i": "saber",
+      "w": "Kuat vs Saber +2.7pp (2.1.95a)"
+    },
+    {
+      "i": "zilong",
+      "w": "Kuat vs Zilong +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "yin",
+      "w": "Kuat vs Yin +2.2pp (2.1.95a)"
+    },
+    {
+      "i": "dyrroth",
+      "w": "Kuat vs Dyrroth +1.8pp (2.1.95a)"
+    }
+  ],
+  "joy": [
+    {
+      "i": "sun",
+      "w": "Kuat vs Sun +4.4pp (2.1.95a)"
+    },
+    {
+      "i": "xborg",
+      "w": "Kuat vs X.Borg +3.4pp (2.1.95a)"
+    },
+    {
+      "i": "hanabi",
+      "w": "Kuat vs Hanabi +3.0pp (2.1.95a)"
+    },
+    {
+      "i": "lolita",
+      "w": "Kuat vs Lolita +2.8pp (2.1.95a)"
+    },
+    {
+      "i": "luo-yi",
+      "w": "Kuat vs Luo Yi +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "uranus",
+      "w": "Kuat vs Uranus +2.2pp (2.1.95a)"
+    }
+  ],
+  "julian": [
+    {
+      "i": "esmeralda",
+      "w": "Kuat vs Esmeralda +2.8pp (2.1.95a)"
+    },
+    {
+      "i": "faramis",
+      "w": "Kuat vs Faramis +2.3pp (2.1.95a)"
+    },
+    {
+      "i": "alice",
+      "w": "Kuat vs Alice +2.1pp (2.1.95a)"
+    },
+    {
+      "i": "diggie",
+      "w": "Kuat vs Diggie +1.9pp (2.1.95a)"
+    },
+    {
+      "i": "sun",
+      "w": "Kuat vs Sun +1.8pp (2.1.95a)"
+    }
+  ],
+  "kadita": [
+    {
+      "i": "lolita",
+      "w": "Kuat vs Lolita +4.7pp (2.1.95a)"
+    },
+    {
+      "i": "ixia",
+      "w": "Kuat vs Ixia +2.7pp (2.1.95a)"
+    },
+    {
+      "i": "johnson",
+      "w": "Kuat vs Johnson +2.4pp (2.1.95a)"
+    },
+    {
+      "i": "yve",
+      "w": "Kuat vs Yve +2.1pp (2.1.95a)"
+    },
+    {
+      "i": "brody",
+      "w": "Kuat vs Brody +1.7pp (2.1.95a)"
+    }
+  ],
+  "kagura": [
+    {
+      "i": "lolita",
+      "w": "Kuat vs Lolita +3.9pp (2.1.95a)"
+    },
+    {
+      "i": "hanzo",
+      "w": "Kuat vs Hanzo +2.1pp (2.1.95a)"
+    },
+    {
+      "i": "sun",
+      "w": "Kuat vs Sun +1.8pp (2.1.95a)"
+    },
+    {
+      "i": "karina",
+      "w": "Kuat vs Karina +1.6pp (2.1.95a)"
+    },
+    {
+      "i": "xborg",
+      "w": "Kuat vs X.Borg +1.6pp (2.1.95a)"
+    }
+  ],
+  "kaja": [
+    {
+      "i": "valir",
+      "w": "Kuat vs Valir +2.7pp (2.1.95a)"
+    },
+    {
+      "i": "beatrix",
+      "w": "Kuat vs Beatrix +2.7pp (2.1.95a)"
+    },
+    {
+      "i": "alpha",
+      "w": "Kuat vs Alpha +2.5pp (2.1.95a)"
+    },
+    {
+      "i": "kimmy",
+      "w": "Kuat vs Kimmy +2.2pp (2.1.95a)"
+    },
+    {
+      "i": "franco",
+      "w": "Kuat vs Franco +2.0pp (2.1.95a)"
+    }
+  ],
+  "kalea": [
+    {
+      "i": "fanny",
+      "w": "Kuat vs Fanny +2.4pp (2.1.95a)"
+    },
+    {
+      "i": "silvanna",
+      "w": "Kuat vs Silvanna +2.1pp (2.1.95a)"
+    },
+    {
+      "i": "chip",
+      "w": "Kuat vs Chip +2.0pp (2.1.95a)"
+    },
+    {
+      "i": "helcurt",
+      "w": "Kuat vs Helcurt +1.6pp (2.1.95a)"
+    },
+    {
+      "i": "natan",
+      "w": "Kuat vs Natan +1.5pp (2.1.95a)"
+    }
+  ],
+  "karina": [
+    {
+      "i": "natalia",
+      "w": "Kuat vs Natalia +4.1pp (2.1.95a)"
+    },
+    {
+      "i": "kimmy",
+      "w": "Kuat vs Kimmy +3.6pp (2.1.95a)"
+    },
+    {
+      "i": "zilong",
+      "w": "Kuat vs Zilong +2.9pp (2.1.95a)"
+    },
+    {
+      "i": "sun",
+      "w": "Kuat vs Sun +2.7pp (2.1.95a)"
+    },
+    {
+      "i": "helcurt",
+      "w": "Kuat vs Helcurt +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "aldous",
+      "w": "Kuat vs Aldous +2.4pp (2.1.95a)"
+    }
+  ],
+  "karrie": [
+    {
+      "i": "alice",
+      "w": "Kuat vs Alice +4.6pp (2.1.95a)"
+    },
+    {
+      "i": "baxia",
+      "w": "Kuat vs Baxia +3.3pp (2.1.95a)"
+    },
+    {
+      "i": "esmeralda",
+      "w": "Kuat vs Esmeralda +3.0pp (2.1.95a)"
+    },
+    {
+      "i": "balmond",
+      "w": "Kuat vs Balmond +3.0pp (2.1.95a)"
+    },
+    {
+      "i": "gatotkaca",
+      "w": "Kuat vs Gatotkaca +2.9pp (2.1.95a)"
+    },
+    {
+      "i": "leomord",
+      "w": "Kuat vs Leomord +2.8pp (2.1.95a)"
+    }
+  ],
+  "khaleed": [
+    {
+      "i": "vale",
+      "w": "Kuat vs Vale +2.5pp (2.1.95a)"
+    },
+    {
+      "i": "helcurt",
+      "w": "Kuat vs Helcurt +2.4pp (2.1.95a)"
+    },
+    {
+      "i": "yin",
+      "w": "Kuat vs Yin +2.2pp (2.1.95a)"
+    },
+    {
+      "i": "johnson",
+      "w": "Kuat vs Johnson +1.9pp (2.1.95a)"
+    },
+    {
+      "i": "hanabi",
+      "w": "Kuat vs Hanabi +1.6pp (2.1.95a)"
+    }
+  ],
+  "khufra": [
+    {
+      "i": "wanwan",
+      "w": "Kuat vs Wanwan +3.3pp (2.1.95a)"
+    },
+    {
+      "i": "lolita",
+      "w": "Kuat vs Lolita +2.7pp (2.1.95a)"
+    },
+    {
+      "i": "silvanna",
+      "w": "Kuat vs Silvanna +2.7pp (2.1.95a)"
+    },
+    {
+      "i": "layla",
+      "w": "Kuat vs Layla +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "guinevere",
+      "w": "Kuat vs Guinevere +2.5pp (2.1.95a)"
+    },
+    {
+      "i": "alucard",
+      "w": "Kuat vs Alucard +2.4pp (2.1.95a)"
+    }
+  ],
+  "kimmy": [
+    {
+      "i": "sun",
+      "w": "Kuat vs Sun +2.8pp (2.1.95a)"
+    },
+    {
+      "i": "hylos",
+      "w": "Kuat vs Hylos +2.5pp (2.1.95a)"
+    },
+    {
+      "i": "hanzo",
+      "w": "Kuat vs Hanzo +2.2pp (2.1.95a)"
+    },
+    {
+      "i": "atlas",
+      "w": "Kuat vs Atlas +2.2pp (2.1.95a)"
+    },
+    {
+      "i": "minotaur",
+      "w": "Kuat vs Minotaur +2.1pp (2.1.95a)"
+    }
+  ],
+  "lancelot": [
+    {
+      "i": "atlas",
+      "w": "Kuat vs Atlas +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "alpha",
+      "w": "Kuat vs Alpha +2.4pp (2.1.95a)"
+    },
+    {
+      "i": "yin",
+      "w": "Kuat vs Yin +2.1pp (2.1.95a)"
+    },
+    {
+      "i": "chip",
+      "w": "Kuat vs Chip +1.8pp (2.1.95a)"
+    },
+    {
+      "i": "gatotkaca",
+      "w": "Kuat vs Gatotkaca +1.8pp (2.1.95a)"
+    },
+    {
+      "i": "aurora",
+      "w": "Kuat vs Aurora +1.7pp (2.1.95a)"
+    }
+  ],
+  "lapu-lapu": [
+    {
+      "i": "silvanna",
+      "w": "Kuat vs Silvanna +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "vale",
+      "w": "Kuat vs Vale +2.3pp (2.1.95a)"
+    },
+    {
+      "i": "hanabi",
+      "w": "Kuat vs Hanabi +2.0pp (2.1.95a)"
+    },
+    {
+      "i": "argus",
+      "w": "Kuat vs Argus +2.0pp (2.1.95a)"
+    },
+    {
+      "i": "popol-and-kupa",
+      "w": "Kuat vs Popol and Kupa +2.6pp (2.1.95a)"
+    }
+  ],
+  "layla": [
+    {
+      "i": "melissa",
+      "w": "Kuat vs Melissa +3.5pp (2.1.95a)"
+    },
+    {
+      "i": "edith",
+      "w": "Kuat vs Edith +2.5pp (2.1.95a)"
+    },
+    {
+      "i": "rafaela",
+      "w": "Kuat vs Rafaela +2.3pp (2.1.95a)"
+    },
+    {
+      "i": "odette",
+      "w": "Kuat vs Odette +2.1pp (2.1.95a)"
+    },
+    {
+      "i": "bruno",
+      "w": "Kuat vs Bruno +2.1pp (2.1.95a)"
+    },
+    {
+      "i": "dyrroth",
+      "w": "Kuat vs Dyrroth +1.8pp (2.1.95a)"
+    }
+  ],
+  "leomord": [
+    {
+      "i": "saber",
+      "w": "Kuat vs Saber +3.1pp (2.1.95a)"
+    },
+    {
+      "i": "lolita",
+      "w": "Kuat vs Lolita +3.1pp (2.1.95a)"
+    },
+    {
+      "i": "natalia",
+      "w": "Kuat vs Natalia +2.5pp (2.1.95a)"
+    },
+    {
+      "i": "belerick",
+      "w": "Kuat vs Belerick +2.2pp (2.1.95a)"
+    },
+    {
+      "i": "roger",
+      "w": "Kuat vs Roger +1.9pp (2.1.95a)"
+    },
+    {
+      "i": "popol-and-kupa",
+      "w": "Kuat vs Popol and Kupa +2.5pp (2.1.95a)"
+    }
+  ],
+  "lesley": [
+    {
+      "i": "marcel",
+      "w": "Kuat vs Marcel +4.2pp (2.1.95a)"
+    },
+    {
+      "i": "claude",
+      "w": "Kuat vs Claude +3.7pp (2.1.95a)"
+    },
+    {
+      "i": "gatotkaca",
+      "w": "Kuat vs Gatotkaca +3.3pp (2.1.95a)"
+    },
+    {
+      "i": "belerick",
+      "w": "Kuat vs Belerick +3.3pp (2.1.95a)"
+    },
+    {
+      "i": "baxia",
+      "w": "Kuat vs Baxia +3.1pp (2.1.95a)"
+    },
+    {
+      "i": "bruno",
+      "w": "Kuat vs Bruno +2.5pp (2.1.95a)"
+    }
+  ],
+  "ling": [
+    {
+      "i": "gloo",
+      "w": "Kuat vs Gloo +3.9pp (2.1.95a)"
+    },
+    {
+      "i": "hanzo",
+      "w": "Kuat vs Hanzo +3.8pp (2.1.95a)"
+    },
+    {
+      "i": "xborg",
+      "w": "Kuat vs X.Borg +3.6pp (2.1.95a)"
+    },
+    {
+      "i": "alpha",
+      "w": "Kuat vs Alpha +3.1pp (2.1.95a)"
+    },
+    {
+      "i": "silvanna",
+      "w": "Kuat vs Silvanna +2.9pp (2.1.95a)"
+    },
+    {
+      "i": "atlas",
+      "w": "Kuat vs Atlas +2.8pp (2.1.95a)"
+    }
+  ],
+  "lolita": [
+    {
+      "i": "cyclops",
+      "w": "Kuat vs Cyclops +9.1pp (2.1.95a)"
+    },
+    {
+      "i": "change",
+      "w": "Kuat vs Chang'e +5.6pp (2.1.95a)"
+    },
+    {
+      "i": "edith",
+      "w": "Kuat vs Edith +4.8pp (2.1.95a)"
+    },
+    {
+      "i": "bane",
+      "w": "Kuat vs Bane +4.4pp (2.1.95a)"
+    },
+    {
+      "i": "hanabi",
+      "w": "Kuat vs Hanabi +3.9pp (2.1.95a)"
+    },
+    {
+      "i": "harley",
+      "w": "Kuat vs Harley +3.8pp (2.1.95a)"
+    }
+  ],
+  "lukas": [
+    {
+      "i": "ling",
+      "w": "Kuat vs Ling +3.9pp (2.1.95a)"
+    },
+    {
+      "i": "natalia",
+      "w": "Kuat vs Natalia +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "fanny",
+      "w": "Kuat vs Fanny +2.4pp (2.1.95a)"
+    },
+    {
+      "i": "sun",
+      "w": "Kuat vs Sun +2.4pp (2.1.95a)"
+    },
+    {
+      "i": "rafaela",
+      "w": "Kuat vs Rafaela +2.1pp (2.1.95a)"
+    },
+    {
+      "i": "selena",
+      "w": "Kuat vs Selena +2.0pp (2.1.95a)"
+    }
+  ],
+  "lunox": [
+    {
+      "i": "gloo",
+      "w": "Kuat vs Gloo +3.3pp (2.1.95a)"
+    },
+    {
+      "i": "kaja",
+      "w": "Kuat vs Kaja +3.2pp (2.1.95a)"
+    },
+    {
+      "i": "esmeralda",
+      "w": "Kuat vs Esmeralda +3.1pp (2.1.95a)"
+    },
+    {
+      "i": "wanwan",
+      "w": "Kuat vs Wanwan +2.8pp (2.1.95a)"
+    },
+    {
+      "i": "natalia",
+      "w": "Kuat vs Natalia +2.7pp (2.1.95a)"
+    },
+    {
+      "i": "hanzo",
+      "w": "Kuat vs Hanzo +2.4pp (2.1.95a)"
+    }
+  ],
+  "luo-yi": [
+    {
+      "i": "estes",
+      "w": "Kuat vs Estes +3.4pp (2.1.95a)"
+    },
+    {
+      "i": "chip",
+      "w": "Kuat vs Chip +2.2pp (2.1.95a)"
+    },
+    {
+      "i": "uranus",
+      "w": "Kuat vs Uranus +2.1pp (2.1.95a)"
+    },
+    {
+      "i": "gatotkaca",
+      "w": "Kuat vs Gatotkaca +2.1pp (2.1.95a)"
+    },
+    {
+      "i": "baxia",
+      "w": "Kuat vs Baxia +1.9pp (2.1.95a)"
+    }
+  ],
+  "lylia": [
+    {
+      "i": "alpha",
+      "w": "Kuat vs Alpha +2.4pp (2.1.95a)"
+    },
+    {
+      "i": "johnson",
+      "w": "Kuat vs Johnson +2.4pp (2.1.95a)"
+    },
+    {
+      "i": "hanabi",
+      "w": "Kuat vs Hanabi +2.2pp (2.1.95a)"
+    },
+    {
+      "i": "gatotkaca",
+      "w": "Kuat vs Gatotkaca +1.6pp (2.1.95a)"
+    },
+    {
+      "i": "grock",
+      "w": "Kuat vs Grock +1.6pp (2.1.95a)"
+    }
+  ],
+  "marcel": [
+    {
+      "i": "atlas",
+      "w": "Kuat vs Atlas +6.0pp (2.1.95a)"
+    },
+    {
+      "i": "akai",
+      "w": "Kuat vs Akai +3.7pp (2.1.95a)"
+    },
+    {
+      "i": "johnson",
+      "w": "Kuat vs Johnson +3.3pp (2.1.95a)"
+    },
+    {
+      "i": "belerick",
+      "w": "Kuat vs Belerick +2.9pp (2.1.95a)"
+    },
+    {
+      "i": "khufra",
+      "w": "Kuat vs Khufra +2.9pp (2.1.95a)"
+    },
+    {
+      "i": "kadita",
+      "w": "Kuat vs Kadita +2.5pp (2.1.95a)"
+    }
+  ],
+  "martis": [
+    {
+      "i": "masha",
+      "w": "Kuat vs Masha +2.2pp (2.1.95a)"
+    },
+    {
+      "i": "saber",
+      "w": "Kuat vs Saber +2.0pp (2.1.95a)"
+    },
+    {
+      "i": "melissa",
+      "w": "Kuat vs Melissa +2.0pp (2.1.95a)"
+    },
+    {
+      "i": "khufra",
+      "w": "Kuat vs Khufra +1.9pp (2.1.95a)"
+    },
+    {
+      "i": "chip",
+      "w": "Kuat vs Chip +1.8pp (2.1.95a)"
+    },
+    {
+      "i": "moskov",
+      "w": "Kuat vs Moskov +1.8pp (2.1.95a)"
+    }
+  ],
+  "masha": [
+    {
+      "i": "guinevere",
+      "w": "Kuat vs Guinevere +3.4pp (2.1.95a)"
+    },
+    {
+      "i": "yu-zhong",
+      "w": "Kuat vs Yu Zhong +3.3pp (2.1.95a)"
+    },
+    {
+      "i": "fanny",
+      "w": "Kuat vs Fanny +3.0pp (2.1.95a)"
+    },
+    {
+      "i": "claude",
+      "w": "Kuat vs Claude +3.0pp (2.1.95a)"
+    },
+    {
+      "i": "ling",
+      "w": "Kuat vs Ling +2.9pp (2.1.95a)"
+    },
+    {
+      "i": "benedetta",
+      "w": "Kuat vs Benedetta +2.7pp (2.1.95a)"
+    }
+  ],
+  "mathilda": [
+    {
+      "i": "natalia",
+      "w": "Kuat vs Natalia +3.9pp (2.1.95a)"
+    },
+    {
+      "i": "xborg",
+      "w": "Kuat vs X.Borg +3.3pp (2.1.95a)"
+    },
+    {
+      "i": "alpha",
+      "w": "Kuat vs Alpha +2.9pp (2.1.95a)"
+    },
+    {
+      "i": "benedetta",
+      "w": "Kuat vs Benedetta +2.8pp (2.1.95a)"
+    },
+    {
+      "i": "ling",
+      "w": "Kuat vs Ling +2.7pp (2.1.95a)"
+    },
+    {
+      "i": "valir",
+      "w": "Kuat vs Valir +2.4pp (2.1.95a)"
+    }
+  ],
+  "melissa": [
+    {
+      "i": "lolita",
+      "w": "Kuat vs Lolita +5.5pp (2.1.95a)"
+    },
+    {
+      "i": "leomord",
+      "w": "Kuat vs Leomord +3.5pp (2.1.95a)"
+    },
+    {
+      "i": "mathilda",
+      "w": "Kuat vs Mathilda +3.5pp (2.1.95a)"
+    },
+    {
+      "i": "ling",
+      "w": "Kuat vs Ling +3.5pp (2.1.95a)"
+    },
+    {
+      "i": "joy",
+      "w": "Kuat vs Joy +3.3pp (2.1.95a)"
+    },
+    {
+      "i": "faramis",
+      "w": "Kuat vs Faramis +3.1pp (2.1.95a)"
+    }
+  ],
+  "minotaur": [
+    {
+      "i": "lolita",
+      "w": "Kuat vs Lolita +4.2pp (2.1.95a)"
+    },
+    {
+      "i": "johnson",
+      "w": "Kuat vs Johnson +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "silvanna",
+      "w": "Kuat vs Silvanna +2.5pp (2.1.95a)"
+    },
+    {
+      "i": "cyclops",
+      "w": "Kuat vs Cyclops +2.4pp (2.1.95a)"
+    },
+    {
+      "i": "roger",
+      "w": "Kuat vs Roger +1.8pp (2.1.95a)"
+    },
+    {
+      "i": "popol-and-kupa",
+      "w": "Kuat vs Popol and Kupa +2.6pp (2.1.95a)"
+    }
+  ],
+  "minsitthar": [
+    {
+      "i": "freya",
+      "w": "Kuat vs Freya +4.2pp (2.1.95a)"
+    },
+    {
+      "i": "harith",
+      "w": "Kuat vs Harith +3.6pp (2.1.95a)"
+    },
+    {
+      "i": "phoveus",
+      "w": "Kuat vs Phoveus +3.4pp (2.1.95a)"
+    },
+    {
+      "i": "martis",
+      "w": "Kuat vs Martis +3.0pp (2.1.95a)"
+    },
+    {
+      "i": "karrie",
+      "w": "Kuat vs Karrie +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "lukas",
+      "w": "Kuat vs Lukas +2.3pp (2.1.95a)"
+    }
+  ],
+  "miya": [
+    {
+      "i": "saber",
+      "w": "Kuat vs Saber +2.0pp (2.1.95a)"
+    },
+    {
+      "i": "masha",
+      "w": "Kuat vs Masha +1.9pp (2.1.95a)"
+    },
+    {
+      "i": "gloo",
+      "w": "Kuat vs Gloo +1.9pp (2.1.95a)"
+    },
+    {
+      "i": "obsidia",
+      "w": "Kuat vs Obsidia +1.7pp (2.1.95a)"
+    },
+    {
+      "i": "guinevere",
+      "w": "Kuat vs Guinevere +1.6pp (2.1.95a)"
+    }
+  ],
+  "moskov": [
+    {
+      "i": "gloo",
+      "w": "Kuat vs Gloo +4.8pp (2.1.95a)"
+    },
+    {
+      "i": "joy",
+      "w": "Kuat vs Joy +3.9pp (2.1.95a)"
+    },
+    {
+      "i": "fanny",
+      "w": "Kuat vs Fanny +3.0pp (2.1.95a)"
+    },
+    {
+      "i": "beatrix",
+      "w": "Kuat vs Beatrix +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "wanwan",
+      "w": "Kuat vs Wanwan +2.3pp (2.1.95a)"
+    },
+    {
+      "i": "clint",
+      "w": "Kuat vs Clint +1.4pp (2.1.95a)"
+    }
+  ],
+  "nana": [
+    {
+      "i": "odette",
+      "w": "Kuat vs Odette +2.7pp (2.1.95a)"
+    },
+    {
+      "i": "melissa",
+      "w": "Kuat vs Melissa +2.0pp (2.1.95a)"
+    },
+    {
+      "i": "lolita",
+      "w": "Kuat vs Lolita +1.9pp (2.1.95a)"
+    },
+    {
+      "i": "dyrroth",
+      "w": "Kuat vs Dyrroth +1.7pp (2.1.95a)"
+    },
+    {
+      "i": "saber",
+      "w": "Kuat vs Saber +1.6pp (2.1.95a)"
+    }
+  ],
+  "natalia": [
+    {
+      "i": "ling",
+      "w": "Kuat vs Ling +5.1pp (2.1.95a)"
+    },
+    {
+      "i": "minsitthar",
+      "w": "Kuat vs Minsitthar +3.8pp (2.1.95a)"
+    },
+    {
+      "i": "hanzo",
+      "w": "Kuat vs Hanzo +3.7pp (2.1.95a)"
+    },
+    {
+      "i": "nolan",
+      "w": "Kuat vs Nolan +3.7pp (2.1.95a)"
+    },
+    {
+      "i": "xavier",
+      "w": "Kuat vs Xavier +3.2pp (2.1.95a)"
+    },
+    {
+      "i": "novaria",
+      "w": "Kuat vs Novaria +3.2pp (2.1.95a)"
+    }
+  ],
+  "natan": [
+    {
+      "i": "sun",
+      "w": "Kuat vs Sun +4.4pp (2.1.95a)"
+    },
+    {
+      "i": "gloo",
+      "w": "Kuat vs Gloo +4.0pp (2.1.95a)"
+    },
+    {
+      "i": "zhask",
+      "w": "Kuat vs Zhask +3.0pp (2.1.95a)"
+    },
+    {
+      "i": "esmeralda",
+      "w": "Kuat vs Esmeralda +2.5pp (2.1.95a)"
+    },
+    {
+      "i": "johnson",
+      "w": "Kuat vs Johnson +2.4pp (2.1.95a)"
+    }
+  ],
+  "nolan": [
+    {
+      "i": "estes",
+      "w": "Kuat vs Estes +4.6pp (2.1.95a)"
+    },
+    {
+      "i": "bane",
+      "w": "Kuat vs Bane +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "floryn",
+      "w": "Kuat vs Floryn +2.5pp (2.1.95a)"
+    },
+    {
+      "i": "natan",
+      "w": "Kuat vs Natan +2.2pp (2.1.95a)"
+    },
+    {
+      "i": "popol-and-kupa",
+      "w": "Kuat vs Popol and Kupa +2.3pp (2.1.95a)"
+    }
+  ],
+  "novaria": [
+    {
+      "i": "diggie",
+      "w": "Kuat vs Diggie +2.2pp (2.1.95a)"
+    },
+    {
+      "i": "luo-yi",
+      "w": "Kuat vs Luo Yi +2.1pp (2.1.95a)"
+    },
+    {
+      "i": "tigreal",
+      "w": "Kuat vs Tigreal +1.9pp (2.1.95a)"
+    },
+    {
+      "i": "valir",
+      "w": "Kuat vs Valir +1.8pp (2.1.95a)"
+    },
+    {
+      "i": "alpha",
+      "w": "Kuat vs Alpha +1.8pp (2.1.95a)"
+    }
+  ],
+  "obsidia": [
+    {
+      "i": "benedetta",
+      "w": "Kuat vs Benedetta +3.3pp (2.1.95a)"
+    },
+    {
+      "i": "helcurt",
+      "w": "Kuat vs Helcurt +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "fanny",
+      "w": "Kuat vs Fanny +2.3pp (2.1.95a)"
+    },
+    {
+      "i": "natalia",
+      "w": "Kuat vs Natalia +2.2pp (2.1.95a)"
+    },
+    {
+      "i": "granger",
+      "w": "Kuat vs Granger +2.2pp (2.1.95a)"
+    },
+    {
+      "i": "aldous",
+      "w": "Kuat vs Aldous +2.1pp (2.1.95a)"
+    }
+  ],
+  "odette": [
+    {
+      "i": "kaja",
+      "w": "Kuat vs Kaja +3.9pp (2.1.95a)"
+    },
+    {
+      "i": "mathilda",
+      "w": "Kuat vs Mathilda +3.8pp (2.1.95a)"
+    },
+    {
+      "i": "valentina",
+      "w": "Kuat vs Valentina +3.4pp (2.1.95a)"
+    },
+    {
+      "i": "rafaela",
+      "w": "Kuat vs Rafaela +3.2pp (2.1.95a)"
+    },
+    {
+      "i": "marcel",
+      "w": "Kuat vs Marcel +3.1pp (2.1.95a)"
+    },
+    {
+      "i": "joy",
+      "w": "Kuat vs Joy +2.3pp (2.1.95a)"
+    }
+  ],
+  "paquito": [
+    {
+      "i": "xborg",
+      "w": "Kuat vs X.Borg +3.5pp (2.1.95a)"
+    },
+    {
+      "i": "natalia",
+      "w": "Kuat vs Natalia +3.5pp (2.1.95a)"
+    },
+    {
+      "i": "karina",
+      "w": "Kuat vs Karina +2.5pp (2.1.95a)"
+    },
+    {
+      "i": "wanwan",
+      "w": "Kuat vs Wanwan +1.9pp (2.1.95a)"
+    },
+    {
+      "i": "aldous",
+      "w": "Kuat vs Aldous +1.9pp (2.1.95a)"
+    },
+    {
+      "i": "lylia",
+      "w": "Kuat vs Lylia +1.6pp (2.1.95a)"
+    }
+  ],
+  "pharsa": [
+    {
+      "i": "lolita",
+      "w": "Kuat vs Lolita +1.9pp (2.1.95a)"
+    },
+    {
+      "i": "melissa",
+      "w": "Kuat vs Melissa +1.6pp (2.1.95a)"
+    },
+    {
+      "i": "valir",
+      "w": "Kuat vs Valir +1.5pp (2.1.95a)"
+    },
+    {
+      "i": "diggie",
+      "w": "Kuat vs Diggie +1.2pp (2.1.95a)"
+    },
+    {
+      "i": "hanabi",
+      "w": "Kuat vs Hanabi +1.0pp (2.1.95a)"
+    }
+  ],
+  "phoveus": [
+    {
+      "i": "freya",
+      "w": "Kuat vs Freya +4.9pp (2.1.95a)"
+    },
+    {
+      "i": "harith",
+      "w": "Kuat vs Harith +4.8pp (2.1.95a)"
+    },
+    {
+      "i": "wanwan",
+      "w": "Kuat vs Wanwan +4.6pp (2.1.95a)"
+    },
+    {
+      "i": "benedetta",
+      "w": "Kuat vs Benedetta +4.1pp (2.1.95a)"
+    },
+    {
+      "i": "khaleed",
+      "w": "Kuat vs Khaleed +3.1pp (2.1.95a)"
+    },
+    {
+      "i": "valentina",
+      "w": "Kuat vs Valentina +3.0pp (2.1.95a)"
+    }
+  ],
+  "popol-and-kupa": [
+    {
+      "i": "masha",
+      "w": "Kuat vs Masha +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "harley",
+      "w": "Kuat vs Harley +2.5pp (2.1.95a)"
+    },
+    {
+      "i": "zilong",
+      "w": "Kuat vs Zilong +2.3pp (2.1.95a)"
+    },
+    {
+      "i": "cyclops",
+      "w": "Kuat vs Cyclops +2.3pp (2.1.95a)"
+    },
+    {
+      "i": "jawhead",
+      "w": "Kuat vs Jawhead +2.2pp (2.1.95a)"
+    },
+    {
+      "i": "selena",
+      "w": "Kuat vs Selena +2.0pp (2.1.95a)"
+    }
+  ],
+  "rafaela": [
+    {
+      "i": "natalia",
+      "w": "Kuat vs Natalia +3.6pp (2.1.95a)"
+    },
+    {
+      "i": "marcel",
+      "w": "Kuat vs Marcel +3.3pp (2.1.95a)"
+    },
+    {
+      "i": "valir",
+      "w": "Kuat vs Valir +3.2pp (2.1.95a)"
+    },
+    {
+      "i": "karrie",
+      "w": "Kuat vs Karrie +2.5pp (2.1.95a)"
+    },
+    {
+      "i": "cici",
+      "w": "Kuat vs Cici +2.3pp (2.1.95a)"
+    },
+    {
+      "i": "lylia",
+      "w": "Kuat vs Lylia +1.8pp (2.1.95a)"
+    }
+  ],
+  "roger": [
+    {
+      "i": "gusion",
+      "w": "Kuat vs Gusion +2.2pp (2.1.95a)"
+    },
+    {
+      "i": "harley",
+      "w": "Kuat vs Harley +2.0pp (2.1.95a)"
+    },
+    {
+      "i": "silvanna",
+      "w": "Kuat vs Silvanna +1.8pp (2.1.95a)"
+    },
+    {
+      "i": "aldous",
+      "w": "Kuat vs Aldous +1.4pp (2.1.95a)"
+    },
+    {
+      "i": "aamon",
+      "w": "Kuat vs Aamon +1.3pp (2.1.95a)"
+    }
+  ],
+  "ruby": [
+    {
+      "i": "sun",
+      "w": "Kuat vs Sun +4.0pp (2.1.95a)"
+    },
+    {
+      "i": "gloo",
+      "w": "Kuat vs Gloo +3.1pp (2.1.95a)"
+    },
+    {
+      "i": "argus",
+      "w": "Kuat vs Argus +2.4pp (2.1.95a)"
+    },
+    {
+      "i": "lunox",
+      "w": "Kuat vs Lunox +2.2pp (2.1.95a)"
+    },
+    {
+      "i": "masha",
+      "w": "Kuat vs Masha +2.2pp (2.1.95a)"
+    }
+  ],
+  "saber": [
+    {
+      "i": "ling",
+      "w": "Kuat vs Ling +3.9pp (2.1.95a)"
+    },
+    {
+      "i": "natalia",
+      "w": "Kuat vs Natalia +3.7pp (2.1.95a)"
+    },
+    {
+      "i": "nolan",
+      "w": "Kuat vs Nolan +3.4pp (2.1.95a)"
+    },
+    {
+      "i": "hayabusa",
+      "w": "Kuat vs Hayabusa +3.0pp (2.1.95a)"
+    },
+    {
+      "i": "hirara",
+      "w": "Kuat vs Hirara +3.0pp (2.1.95a)"
+    },
+    {
+      "i": "irithel",
+      "w": "Kuat vs Irithel +2.5pp (2.1.95a)"
+    }
+  ],
+  "selena": [
+    {
+      "i": "xborg",
+      "w": "Kuat vs X.Borg +2.2pp (2.1.95a)"
+    },
+    {
+      "i": "benedetta",
+      "w": "Kuat vs Benedetta +1.8pp (2.1.95a)"
+    },
+    {
+      "i": "ixia",
+      "w": "Kuat vs Ixia +1.8pp (2.1.95a)"
+    },
+    {
+      "i": "beatrix",
+      "w": "Kuat vs Beatrix +1.7pp (2.1.95a)"
+    },
+    {
+      "i": "yin",
+      "w": "Kuat vs Yin +1.5pp (2.1.95a)"
+    }
+  ],
+  "silvanna": [
+    {
+      "i": "valentina",
+      "w": "Kuat vs Valentina +3.1pp (2.1.95a)"
+    },
+    {
+      "i": "aamon",
+      "w": "Kuat vs Aamon +2.7pp (2.1.95a)"
+    },
+    {
+      "i": "floryn",
+      "w": "Kuat vs Floryn +2.4pp (2.1.95a)"
+    },
+    {
+      "i": "yve",
+      "w": "Kuat vs Yve +2.3pp (2.1.95a)"
+    },
+    {
+      "i": "rafaela",
+      "w": "Kuat vs Rafaela +2.3pp (2.1.95a)"
+    },
+    {
+      "i": "angela",
+      "w": "Kuat vs Angela +2.3pp (2.1.95a)"
+    }
+  ],
+  "sora": [
+    {
+      "i": "estes",
+      "w": "Kuat vs Estes +3.8pp (2.1.95a)"
+    },
+    {
+      "i": "rafaela",
+      "w": "Kuat vs Rafaela +1.8pp (2.1.95a)"
+    },
+    {
+      "i": "lolita",
+      "w": "Kuat vs Lolita +1.7pp (2.1.95a)"
+    },
+    {
+      "i": "roger",
+      "w": "Kuat vs Roger +1.7pp (2.1.95a)"
+    },
+    {
+      "i": "popol-and-kupa",
+      "w": "Kuat vs Popol and Kupa +2.1pp (2.1.95a)"
+    }
+  ],
+  "sun": [
+    {
+      "i": "masha",
+      "w": "Kuat vs Masha +4.5pp (2.1.95a)"
+    },
+    {
+      "i": "jawhead",
+      "w": "Kuat vs Jawhead +4.2pp (2.1.95a)"
+    },
+    {
+      "i": "cici",
+      "w": "Kuat vs Cici +4.1pp (2.1.95a)"
+    },
+    {
+      "i": "karrie",
+      "w": "Kuat vs Karrie +3.8pp (2.1.95a)"
+    },
+    {
+      "i": "layla",
+      "w": "Kuat vs Layla +3.6pp (2.1.95a)"
+    },
+    {
+      "i": "lesley",
+      "w": "Kuat vs Lesley +3.5pp (2.1.95a)"
+    }
+  ],
+  "suyou": [
+    {
+      "i": "sun",
+      "w": "Kuat vs Sun +3.0pp (2.1.95a)"
+    },
+    {
+      "i": "natalia",
+      "w": "Kuat vs Natalia +2.4pp (2.1.95a)"
+    },
+    {
+      "i": "balmond",
+      "w": "Kuat vs Balmond +1.5pp (2.1.95a)"
+    },
+    {
+      "i": "xborg",
+      "w": "Kuat vs X.Borg +1.5pp (2.1.95a)"
+    },
+    {
+      "i": "karina",
+      "w": "Kuat vs Karina +1.4pp (2.1.95a)"
+    }
+  ],
+  "terizla": [
+    {
+      "i": "argus",
+      "w": "Kuat vs Argus +2.9pp (2.1.95a)"
+    },
+    {
+      "i": "phoveus",
+      "w": "Kuat vs Phoveus +2.7pp (2.1.95a)"
+    },
+    {
+      "i": "masha",
+      "w": "Kuat vs Masha +2.5pp (2.1.95a)"
+    },
+    {
+      "i": "silvanna",
+      "w": "Kuat vs Silvanna +1.9pp (2.1.95a)"
+    },
+    {
+      "i": "popol-and-kupa",
+      "w": "Kuat vs Popol and Kupa +1.9pp (2.1.95a)"
+    }
+  ],
+  "thamuz": [
+    {
+      "i": "alice",
+      "w": "Kuat vs Alice +2.7pp (2.1.95a)"
+    },
+    {
+      "i": "masha",
+      "w": "Kuat vs Masha +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "lukas",
+      "w": "Kuat vs Lukas +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "odette",
+      "w": "Kuat vs Odette +2.4pp (2.1.95a)"
+    },
+    {
+      "i": "alucard",
+      "w": "Kuat vs Alucard +2.2pp (2.1.95a)"
+    },
+    {
+      "i": "dyrroth",
+      "w": "Kuat vs Dyrroth +1.9pp (2.1.95a)"
+    }
+  ],
+  "tigreal": [
+    {
+      "i": "zilong",
+      "w": "Kuat vs Zilong +2.9pp (2.1.95a)"
+    },
+    {
+      "i": "estes",
+      "w": "Kuat vs Estes +2.8pp (2.1.95a)"
+    },
+    {
+      "i": "layla",
+      "w": "Kuat vs Layla +2.4pp (2.1.95a)"
+    },
+    {
+      "i": "franco",
+      "w": "Kuat vs Franco +2.2pp (2.1.95a)"
+    },
+    {
+      "i": "alucard",
+      "w": "Kuat vs Alucard +2.1pp (2.1.95a)"
+    },
+    {
+      "i": "lesley",
+      "w": "Kuat vs Lesley +2.0pp (2.1.95a)"
+    }
+  ],
+  "uranus": [
+    {
+      "i": "argus",
+      "w": "Kuat vs Argus +3.2pp (2.1.95a)"
+    },
+    {
+      "i": "yin",
+      "w": "Kuat vs Yin +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "masha",
+      "w": "Kuat vs Masha +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "barats",
+      "w": "Kuat vs Barats +2.5pp (2.1.95a)"
+    },
+    {
+      "i": "irithel",
+      "w": "Kuat vs Irithel +2.3pp (2.1.95a)"
+    },
+    {
+      "i": "gatotkaca",
+      "w": "Kuat vs Gatotkaca +2.1pp (2.1.95a)"
+    }
+  ],
+  "vale": [
+    {
+      "i": "odette",
+      "w": "Kuat vs Odette +2.8pp (2.1.95a)"
+    },
+    {
+      "i": "melissa",
+      "w": "Kuat vs Melissa +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "rafaela",
+      "w": "Kuat vs Rafaela +1.8pp (2.1.95a)"
+    },
+    {
+      "i": "estes",
+      "w": "Kuat vs Estes +1.6pp (2.1.95a)"
+    },
+    {
+      "i": "chip",
+      "w": "Kuat vs Chip +1.5pp (2.1.95a)"
+    }
+  ],
+  "valentina": [
+    {
+      "i": "xborg",
+      "w": "Kuat vs X.Borg +3.6pp (2.1.95a)"
+    },
+    {
+      "i": "carmilla",
+      "w": "Kuat vs Carmilla +3.6pp (2.1.95a)"
+    },
+    {
+      "i": "atlas",
+      "w": "Kuat vs Atlas +3.4pp (2.1.95a)"
+    },
+    {
+      "i": "ling",
+      "w": "Kuat vs Ling +2.5pp (2.1.95a)"
+    },
+    {
+      "i": "khaleed",
+      "w": "Kuat vs Khaleed +2.4pp (2.1.95a)"
+    },
+    {
+      "i": "grock",
+      "w": "Kuat vs Grock +2.4pp (2.1.95a)"
+    }
+  ],
+  "valir": [
+    {
+      "i": "fredrinn",
+      "w": "Kuat vs Fredrinn +4.2pp (2.1.95a)"
+    },
+    {
+      "i": "leomord",
+      "w": "Kuat vs Leomord +3.4pp (2.1.95a)"
+    },
+    {
+      "i": "alice",
+      "w": "Kuat vs Alice +3.4pp (2.1.95a)"
+    },
+    {
+      "i": "balmond",
+      "w": "Kuat vs Balmond +3.2pp (2.1.95a)"
+    },
+    {
+      "i": "barats",
+      "w": "Kuat vs Barats +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "zhuxin",
+      "w": "Kuat vs Zhuxin +2.6pp (2.1.95a)"
+    }
+  ],
+  "vexana": [
+    {
+      "i": "gloo",
+      "w": "Kuat vs Gloo +3.4pp (2.1.95a)"
+    },
+    {
+      "i": "chip",
+      "w": "Kuat vs Chip +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "zhask",
+      "w": "Kuat vs Zhask +2.0pp (2.1.95a)"
+    },
+    {
+      "i": "odette",
+      "w": "Kuat vs Odette +1.6pp (2.1.95a)"
+    },
+    {
+      "i": "lolita",
+      "w": "Kuat vs Lolita +1.4pp (2.1.95a)"
+    }
+  ],
+  "wanwan": [
+    {
+      "i": "yin",
+      "w": "Kuat vs Yin +4.4pp (2.1.95a)"
+    },
+    {
+      "i": "atlas",
+      "w": "Kuat vs Atlas +3.6pp (2.1.95a)"
+    },
+    {
+      "i": "ixia",
+      "w": "Kuat vs Ixia +3.1pp (2.1.95a)"
+    },
+    {
+      "i": "guinevere",
+      "w": "Kuat vs Guinevere +2.7pp (2.1.95a)"
+    },
+    {
+      "i": "gloo",
+      "w": "Kuat vs Gloo +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "hanzo",
+      "w": "Kuat vs Hanzo +2.4pp (2.1.95a)"
+    }
+  ],
+  "xborg": [
+    {
+      "i": "barats",
+      "w": "Kuat vs Barats +5.5pp (2.1.95a)"
+    },
+    {
+      "i": "terizla",
+      "w": "Kuat vs Terizla +4.5pp (2.1.95a)"
+    },
+    {
+      "i": "baxia",
+      "w": "Kuat vs Baxia +4.3pp (2.1.95a)"
+    },
+    {
+      "i": "martis",
+      "w": "Kuat vs Martis +4.1pp (2.1.95a)"
+    },
+    {
+      "i": "balmond",
+      "w": "Kuat vs Balmond +3.9pp (2.1.95a)"
+    },
+    {
+      "i": "phoveus",
+      "w": "Kuat vs Phoveus +3.6pp (2.1.95a)"
+    }
+  ],
+  "xavier": [
+    {
+      "i": "belerick",
+      "w": "Kuat vs Belerick +2.4pp (2.1.95a)"
+    },
+    {
+      "i": "hylos",
+      "w": "Kuat vs Hylos +1.8pp (2.1.95a)"
+    },
+    {
+      "i": "xborg",
+      "w": "Kuat vs X.Borg +1.8pp (2.1.95a)"
+    },
+    {
+      "i": "atlas",
+      "w": "Kuat vs Atlas +1.7pp (2.1.95a)"
+    },
+    {
+      "i": "terizla",
+      "w": "Kuat vs Terizla +1.7pp (2.1.95a)"
+    }
+  ],
+  "yi-sun-shin": [
+    {
+      "i": "thamuz",
+      "w": "Kuat vs Thamuz +2.1pp (2.1.95a)"
+    },
+    {
+      "i": "benedetta",
+      "w": "Kuat vs Benedetta +2.0pp (2.1.95a)"
+    },
+    {
+      "i": "khufra",
+      "w": "Kuat vs Khufra +1.7pp (2.1.95a)"
+    },
+    {
+      "i": "xborg",
+      "w": "Kuat vs X.Borg +1.5pp (2.1.95a)"
+    },
+    {
+      "i": "nana",
+      "w": "Kuat vs Nana +1.4pp (2.1.95a)"
+    }
+  ],
+  "yin": [
+    {
+      "i": "minsitthar",
+      "w": "Kuat vs Minsitthar +2.7pp (2.1.95a)"
+    },
+    {
+      "i": "estes",
+      "w": "Kuat vs Estes +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "melissa",
+      "w": "Kuat vs Melissa +2.5pp (2.1.95a)"
+    },
+    {
+      "i": "ixia",
+      "w": "Kuat vs Ixia +2.4pp (2.1.95a)"
+    },
+    {
+      "i": "floryn",
+      "w": "Kuat vs Floryn +2.4pp (2.1.95a)"
+    },
+    {
+      "i": "aurora",
+      "w": "Kuat vs Aurora +1.6pp (2.1.95a)"
+    }
+  ],
+  "yu-zhong": [
+    {
+      "i": "gloo",
+      "w": "Kuat vs Gloo +2.7pp (2.1.95a)"
+    },
+    {
+      "i": "minsitthar",
+      "w": "Kuat vs Minsitthar +1.8pp (2.1.95a)"
+    },
+    {
+      "i": "silvanna",
+      "w": "Kuat vs Silvanna +1.6pp (2.1.95a)"
+    },
+    {
+      "i": "thamuz",
+      "w": "Kuat vs Thamuz +1.5pp (2.1.95a)"
+    },
+    {
+      "i": "atlas",
+      "w": "Kuat vs Atlas +1.5pp (2.1.95a)"
+    }
+  ],
+  "yve": [
+    {
+      "i": "lolita",
+      "w": "Kuat vs Lolita +6.2pp (2.1.95a)"
+    },
+    {
+      "i": "hylos",
+      "w": "Kuat vs Hylos +3.5pp (2.1.95a)"
+    },
+    {
+      "i": "barats",
+      "w": "Kuat vs Barats +3.2pp (2.1.95a)"
+    },
+    {
+      "i": "xborg",
+      "w": "Kuat vs X.Borg +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "hanabi",
+      "w": "Kuat vs Hanabi +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "zhuxin",
+      "w": "Kuat vs Zhuxin +2.5pp (2.1.95a)"
+    }
+  ],
+  "zetian": [
+    {
+      "i": "lolita",
+      "w": "Kuat vs Lolita +4.3pp (2.1.95a)"
+    },
+    {
+      "i": "natalia",
+      "w": "Kuat vs Natalia +3.2pp (2.1.95a)"
+    },
+    {
+      "i": "tigreal",
+      "w": "Kuat vs Tigreal +2.3pp (2.1.95a)"
+    },
+    {
+      "i": "helcurt",
+      "w": "Kuat vs Helcurt +1.7pp (2.1.95a)"
+    },
+    {
+      "i": "sun",
+      "w": "Kuat vs Sun +1.6pp (2.1.95a)"
+    }
+  ],
+  "zhask": [
+    {
+      "i": "lolita",
+      "w": "Kuat vs Lolita +3.9pp (2.1.95a)"
+    },
+    {
+      "i": "diggie",
+      "w": "Kuat vs Diggie +3.3pp (2.1.95a)"
+    },
+    {
+      "i": "arlott",
+      "w": "Kuat vs Arlott +2.4pp (2.1.95a)"
+    },
+    {
+      "i": "kaja",
+      "w": "Kuat vs Kaja +2.3pp (2.1.95a)"
+    },
+    {
+      "i": "harith",
+      "w": "Kuat vs Harith +2.1pp (2.1.95a)"
+    }
+  ],
+  "zhuxin": [
+    {
+      "i": "lolita",
+      "w": "Kuat vs Lolita +5.5pp (2.1.95a)"
+    },
+    {
+      "i": "khufra",
+      "w": "Kuat vs Khufra +3.5pp (2.1.95a)"
+    },
+    {
+      "i": "natalia",
+      "w": "Kuat vs Natalia +2.9pp (2.1.95a)"
+    },
+    {
+      "i": "hylos",
+      "w": "Kuat vs Hylos +2.9pp (2.1.95a)"
+    },
+    {
+      "i": "aldous",
+      "w": "Kuat vs Aldous +2.6pp (2.1.95a)"
+    },
+    {
+      "i": "hilda",
+      "w": "Kuat vs Hilda +2.5pp (2.1.95a)"
+    }
+  ],
+  "zilong": [
+    {
+      "i": "xborg",
+      "w": "Kuat vs X.Borg +3.0pp (2.1.95a)"
+    },
+    {
+      "i": "melissa",
+      "w": "Kuat vs Melissa +2.5pp (2.1.95a)"
+    },
+    {
+      "i": "cici",
+      "w": "Kuat vs Cici +2.1pp (2.1.95a)"
+    },
+    {
+      "i": "karrie",
+      "w": "Kuat vs Karrie +1.9pp (2.1.95a)"
+    },
+    {
+      "i": "angela",
+      "w": "Kuat vs Angela +1.6pp (2.1.95a)"
+    },
+    {
+      "i": "xavier",
+      "w": "Kuat vs Xavier +1.6pp (2.1.95a)"
+    }
+  ]
+}

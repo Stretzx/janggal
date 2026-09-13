@@ -1,1804 +1,2402 @@
 {
-  "miya": [
+  "aamon": [
     {
-      "i": "ling",
-      "w": "Mobilitas tinggi, burst"
+      "i": "gloo",
+      "w": "Gloo +4.2pp vs (2.1.95a)"
     },
     {
-      "i": "fanny",
-      "w": "Burst cepat, susah dipegang"
+      "i": "lolita",
+      "w": "Lolita +3.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "hayabusa",
+      "w": "Hayabusa +3.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "silvanna",
+      "w": "Silvanna +2.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "atlas",
+      "w": "Atlas +2.5pp vs (2.1.95a)"
     },
     {
       "i": "gusion",
-      "w": "Burst + dash"
-    }
-  ],
-  "balmond": [
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
+      "w": "Gusion +2.1pp vs (2.1.95a)"
     },
     {
-      "i": "glowing-wand",
-      "w": "Anti-regen + burn"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    }
-  ],
-  "saber": [
-    {
-      "i": "diggie",
-      "w": "Anti-CC: kunci setter"
-    },
-    {
-      "i": "franco",
-      "w": "Hook + suppression"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    }
-  ],
-  "alice": [
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
-    },
-    {
-      "i": "glowing-wand",
-      "w": "Anti-regen + burn"
-    },
-    {
-      "i": "dominance-ice",
-      "w": "Kurangi AS & heal musuh"
-    }
-  ],
-  "nana": [
-    {
-      "i": "diggie",
-      "w": "Anti-CC: kunci setter"
-    },
-    {
-      "i": "kaja",
-      "w": "Suppression tarik + ult"
-    },
-    {
-      "i": "franco",
-      "w": "Hook + suppression"
-    }
-  ],
-  "tigreal": [
-    {
-      "i": "diggie",
-      "w": "Anti-CC: kunci setter"
-    },
-    {
-      "i": "valir",
-      "w": "Knockback terus-menerus"
-    },
-    {
-      "i": "chou",
-      "w": "Kick combo interrupt"
-    }
-  ],
-  "alucard": [
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
-    },
-    {
-      "i": "glowing-wand",
-      "w": "Anti-regen + burn"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    }
-  ],
-  "karina": [
-    {
-      "i": "diggie",
-      "w": "Anti-CC: kunci setter"
-    },
-    {
-      "i": "valir",
-      "w": "Knockback terus-menerus"
-    },
-    {
-      "i": "franco",
-      "w": "Hook + suppression"
+      "i": "athenas-shield",
+      "w": "Anti burst magic"
     }
   ],
   "akai": [
     {
-      "i": "diggie",
-      "w": "Anti-CC: kunci setter"
+      "i": "marcel",
+      "w": "Marcel +3.7pp vs (2.1.95a)"
     },
     {
-      "i": "valir",
-      "w": "Knockback terus-menerus"
+      "i": "alice",
+      "w": "Alice +2.8pp vs (2.1.95a)"
     },
     {
-      "i": "chou",
-      "w": "Kick combo interrupt"
-    }
-  ],
-  "franco": [
-    {
-      "i": "diggie",
-      "w": "Anti-CC: kunci setter"
+      "i": "esmeralda",
+      "w": "Esmeralda +2.7pp vs (2.1.95a)"
     },
     {
-      "i": "valir",
-      "w": "Knockback terus-menerus"
+      "i": "chip",
+      "w": "Chip +2.5pp vs (2.1.95a)"
     },
     {
-      "i": "chou",
-      "w": "Kick combo interrupt"
-    }
-  ],
-  "bane": [
+      "i": "cyclops",
+      "w": "Cyclops +2.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "cici",
+      "w": "Cici +2.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "great-dragon-spear",
+      "w": "Anti-tank (true dmg)"
+    },
     {
       "i": "sea-halberd",
       "w": "Anti-lifesteal 50%"
-    },
-    {
-      "i": "glowing-wand",
-      "w": "Anti-regen + burn"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    }
-  ],
-  "bruno": [
-    {
-      "i": "ling",
-      "w": "Mobilitas tinggi, burst"
-    },
-    {
-      "i": "fanny",
-      "w": "Burst cepat, susah dipegang"
-    },
-    {
-      "i": "gusion",
-      "w": "Burst + dash"
-    }
-  ],
-  "clint": [
-    {
-      "i": "ling",
-      "w": "Mobilitas tinggi, burst"
-    },
-    {
-      "i": "saber",
-      "w": "Burst target tunggal"
-    },
-    {
-      "i": "gusion",
-      "w": "Burst + dash"
-    }
-  ],
-  "rafaela": [
-    {
-      "i": "diggie",
-      "w": "Anti-CC: kunci setter"
-    },
-    {
-      "i": "franco",
-      "w": "Hook + suppression"
-    },
-    {
-      "i": "kaja",
-      "w": "Suppression tarik + ult"
-    }
-  ],
-  "eudora": [
-    {
-      "i": "ling",
-      "w": "Mobilitas tinggi, burst"
-    },
-    {
-      "i": "fanny",
-      "w": "Burst cepat, susah dipegang"
-    },
-    {
-      "i": "saber",
-      "w": "Burst target tunggal"
-    }
-  ],
-  "zilong": [
-    {
-      "i": "khufra",
-      "w": "Ult anti-dash: mobilitas mati"
-    },
-    {
-      "i": "valir",
-      "w": "Knockback terus-menerus"
-    },
-    {
-      "i": "nana",
-      "w": "Morph Molina: escape mati"
-    }
-  ],
-  "fanny": [
-    {
-      "i": "khufra",
-      "w": "Ult anti-dash: mobilitas mati"
-    },
-    {
-      "i": "minsitthar",
-      "w": "Ult anti-dash + cage"
-    },
-    {
-      "i": "nana",
-      "w": "Morph Molina: escape mati"
-    }
-  ],
-  "layla": [
-    {
-      "i": "ling",
-      "w": "Mobilitas tinggi, burst"
-    },
-    {
-      "i": "fanny",
-      "w": "Burst cepat, susah dipegang"
-    },
-    {
-      "i": "saber",
-      "w": "Burst target tunggal"
-    }
-  ],
-  "minotaur": [
-    {
-      "i": "diggie",
-      "w": "Anti-CC: kunci setter"
-    },
-    {
-      "i": "valir",
-      "w": "Knockback terus-menerus"
-    },
-    {
-      "i": "chou",
-      "w": "Kick combo interrupt"
-    }
-  ],
-  "lolita": [
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "immortality",
-      "w": "Bangkit setelah tumbang"
-    },
-    {
-      "i": "athenas-shield",
-      "w": "Shield serap burst magic"
-    }
-  ],
-  "hayabusa": [
-    {
-      "i": "saber",
-      "w": "Stat edge +3.0pp vs Hayabusa (2.1.95a)"
-    },
-    {
-      "i": "fredrinn",
-      "w": "Outscale late game +2.0pp"
-    },
-    {
-      "i": "eudora",
-      "w": "Stat edge +1.9pp; burst lock"
-    },
-    {
-      "i": "khufra",
-      "w": "Ult anti-dash: mobilitas mati"
-    },
-    {
-      "i": "minsitthar",
-      "w": "Ult anti-dash + cage"
-    },
-    {
-      "i": "franco",
-      "w": "Hook + suppression"
-    }
-  ],
-  "freya": [
-    {
-      "i": "antique-cuirass",
-      "w": "Kurangi damage phys"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "blade-armor",
-      "w": "Pantul basic attack"
-    }
-  ],
-  "gord": [
-    {
-      "i": "ling",
-      "w": "Mobilitas tinggi, burst"
-    },
-    {
-      "i": "fanny",
-      "w": "Burst cepat, susah dipegang"
-    },
-    {
-      "i": "saber",
-      "w": "Burst target tunggal"
-    }
-  ],
-  "natalia": [
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "immortality",
-      "w": "Bangkit setelah tumbang"
-    },
-    {
-      "i": "antique-cuirass",
-      "w": "Kurangi damage phys"
-    }
-  ],
-  "kagura": [
-    {
-      "i": "franco",
-      "w": "Hook + suppression"
-    },
-    {
-      "i": "kaja",
-      "w": "Suppression tarik + ult"
-    },
-    {
-      "i": "khufra",
-      "w": "Ult anti-dash: mobilitas mati"
-    }
-  ],
-  "chou": [
-    {
-      "i": "khufra",
-      "w": "Ult anti-dash: mobilitas mati"
-    },
-    {
-      "i": "valir",
-      "w": "Knockback terus-menerus"
-    },
-    {
-      "i": "nana",
-      "w": "Morph Molina: escape mati"
-    }
-  ],
-  "sun": [
-    {
-      "i": "khufra",
-      "w": "Ult anti-dash: mobilitas mati"
-    },
-    {
-      "i": "valir",
-      "w": "Knockback terus-menerus"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    }
-  ],
-  "alpha": [
-    {
-      "i": "antique-cuirass",
-      "w": "Kurangi damage phys"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "dominance-ice",
-      "w": "Kurangi AS & heal musuh"
-    }
-  ],
-  "ruby": [
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
-    },
-    {
-      "i": "glowing-wand",
-      "w": "Anti-regen + burn"
-    },
-    {
-      "i": "dominance-ice",
-      "w": "Kurangi AS & heal musuh"
-    }
-  ],
-  "yi-sun-shin": [
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "immortality",
-      "w": "Bangkit setelah tumbang"
-    },
-    {
-      "i": "antique-cuirass",
-      "w": "Kurangi damage phys"
-    }
-  ],
-  "moskov": [
-    {
-      "i": "blade-armor",
-      "w": "Pantul basic attack"
-    },
-    {
-      "i": "dominance-ice",
-      "w": "Kurangi AS & heal musuh"
-    },
-    {
-      "i": "antique-cuirass",
-      "w": "Kurangi damage phys"
-    }
-  ],
-  "johnson": [
-    {
-      "i": "malefic-roar",
-      "w": "Penetrasi armor"
-    },
-    {
-      "i": "hunter-strike",
-      "w": "Penetrasi armor + MS"
-    },
-    {
-      "i": "demon-hunter-sword",
-      "w": "Damage % max HP"
-    }
-  ],
-  "cyclops": [
-    {
-      "i": "athenas-shield",
-      "w": "Shield serap burst magic"
-    },
-    {
-      "i": "radiant-armor",
-      "w": "Tahan damage magic"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    }
-  ],
-  "estes": [
-    {
-      "i": "diggie",
-      "w": "Anti-CC: kunci setter"
-    },
-    {
-      "i": "franco",
-      "w": "Hook + suppression"
-    },
-    {
-      "i": "kaja",
-      "w": "Suppression tarik + ult"
-    }
-  ],
-  "hilda": [
-    {
-      "i": "antique-cuirass",
-      "w": "Kurangi damage phys"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "blade-armor",
-      "w": "Pantul basic attack"
-    }
-  ],
-  "aurora": [
-    {
-      "i": "ling",
-      "w": "Mobilitas tinggi, burst"
-    },
-    {
-      "i": "fanny",
-      "w": "Burst cepat, susah dipegang"
-    },
-    {
-      "i": "gusion",
-      "w": "Burst + dash"
-    }
-  ],
-  "lapu-lapu": [
-    {
-      "i": "antique-cuirass",
-      "w": "Kurangi damage phys"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "blade-armor",
-      "w": "Pantul basic attack"
-    }
-  ],
-  "vexana": [
-    {
-      "i": "ling",
-      "w": "Mobilitas tinggi, burst"
-    },
-    {
-      "i": "fanny",
-      "w": "Burst cepat, susah dipegang"
-    },
-    {
-      "i": "chou",
-      "w": "Kick combo interrupt"
-    }
-  ],
-  "roger": [
-    {
-      "i": "khufra",
-      "w": "Ult anti-dash: mobilitas mati"
-    },
-    {
-      "i": "nana",
-      "w": "Morph Molina: escape mati"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    }
-  ],
-  "karrie": [
-    {
-      "i": "blade-armor",
-      "w": "Pantul basic attack"
-    },
-    {
-      "i": "dominance-ice",
-      "w": "Kurangi AS & heal musuh"
-    },
-    {
-      "i": "antique-cuirass",
-      "w": "Kurangi damage phys"
-    }
-  ],
-  "gatotkaca": [
-    {
-      "i": "malefic-roar",
-      "w": "Penetrasi armor"
-    },
-    {
-      "i": "hunter-strike",
-      "w": "Penetrasi armor + MS"
-    },
-    {
-      "i": "demon-hunter-sword",
-      "w": "Damage % max HP"
-    }
-  ],
-  "harley": [
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "immortality",
-      "w": "Bangkit setelah tumbang"
-    },
-    {
-      "i": "antique-cuirass",
-      "w": "Kurangi damage phys"
-    }
-  ],
-  "irithel": [
-    {
-      "i": "blade-armor",
-      "w": "Pantul basic attack"
-    },
-    {
-      "i": "dominance-ice",
-      "w": "Kurangi AS & heal musuh"
-    },
-    {
-      "i": "antique-cuirass",
-      "w": "Kurangi damage phys"
-    }
-  ],
-  "grock": [
-    {
-      "i": "diggie",
-      "w": "Anti-CC: kunci setter"
-    },
-    {
-      "i": "valir",
-      "w": "Knockback terus-menerus"
-    },
-    {
-      "i": "chou",
-      "w": "Kick combo interrupt"
-    }
-  ],
-  "argus": [
-    {
-      "i": "diggie",
-      "w": "Anti-CC: kunci setter"
-    },
-    {
-      "i": "valir",
-      "w": "Knockback terus-menerus"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    }
-  ],
-  "odette": [
-    {
-      "i": "chou",
-      "w": "Kick combo interrupt"
-    },
-    {
-      "i": "ling",
-      "w": "Mobilitas tinggi, burst"
-    },
-    {
-      "i": "khufra",
-      "w": "Ult anti-dash: mobilitas mati"
-    }
-  ],
-  "lancelot": [
-    {
-      "i": "khufra",
-      "w": "Ult anti-dash: mobilitas mati"
-    },
-    {
-      "i": "kaja",
-      "w": "Suppression tarik + ult"
-    },
-    {
-      "i": "minsitthar",
-      "w": "Ult anti-dash + cage"
-    }
-  ],
-  "diggie": [
-    {
-      "i": "ling",
-      "w": "Mobilitas tinggi, burst"
-    },
-    {
-      "i": "fanny",
-      "w": "Burst cepat, susah dipegang"
-    },
-    {
-      "i": "lancelot",
-      "w": "Burst + i-frames"
-    }
-  ],
-  "hylos": [
-    {
-      "i": "karrie",
-      "w": "True dmg lawan tank"
-    },
-    {
-      "i": "dyrroth",
-      "w": "Penetrasi armor lawan tank"
-    },
-    {
-      "i": "malefic-roar",
-      "w": "Penetrasi armor"
-    }
-  ],
-  "zhask": [
-    {
-      "i": "athenas-shield",
-      "w": "Shield serap burst magic"
-    },
-    {
-      "i": "radiant-armor",
-      "w": "Tahan damage magic"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    }
-  ],
-  "helcurt": [
-    {
-      "i": "diggie",
-      "w": "Anti-CC: kunci setter"
-    },
-    {
-      "i": "franco",
-      "w": "Hook + suppression"
-    },
-    {
-      "i": "kaja",
-      "w": "Suppression tarik + ult"
-    }
-  ],
-  "pharsa": [
-    {
-      "i": "ling",
-      "w": "Mobilitas tinggi, burst"
-    },
-    {
-      "i": "fanny",
-      "w": "Burst cepat, susah dipegang"
-    },
-    {
-      "i": "lancelot",
-      "w": "Burst + i-frames"
-    }
-  ],
-  "lesley": [
-    {
-      "i": "ling",
-      "w": "Mobilitas tinggi, burst"
-    },
-    {
-      "i": "fanny",
-      "w": "Burst cepat, susah dipegang"
-    },
-    {
-      "i": "karina",
-      "w": "Reset kill burst"
-    }
-  ],
-  "jawhead": [
-    {
-      "i": "diggie",
-      "w": "Anti-CC: kunci setter"
-    },
-    {
-      "i": "valir",
-      "w": "Knockback terus-menerus"
-    },
-    {
-      "i": "kaja",
-      "w": "Suppression tarik + ult"
-    }
-  ],
-  "angela": [
-    {
-      "i": "diggie",
-      "w": "Anti-CC: kunci setter"
-    },
-    {
-      "i": "franco",
-      "w": "Hook + suppression"
-    },
-    {
-      "i": "kaja",
-      "w": "Suppression tarik + ult"
-    }
-  ],
-  "gusion": [
-    {
-      "i": "khufra",
-      "w": "Ult anti-dash: mobilitas mati"
-    },
-    {
-      "i": "chou",
-      "w": "Kick combo interrupt"
-    },
-    {
-      "i": "kaja",
-      "w": "Suppression tarik + ult"
-    }
-  ],
-  "valir": [
-    {
-      "i": "ling",
-      "w": "Mobilitas tinggi, burst"
-    },
-    {
-      "i": "fanny",
-      "w": "Burst cepat, susah dipegang"
-    },
-    {
-      "i": "lancelot",
-      "w": "Burst + i-frames"
-    }
-  ],
-  "martis": [
-    {
-      "i": "diggie",
-      "w": "Anti-CC: kunci setter"
-    },
-    {
-      "i": "valir",
-      "w": "Knockback terus-menerus"
-    },
-    {
-      "i": "kaja",
-      "w": "Suppression tarik + ult"
-    }
-  ],
-  "uranus": [
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
-    },
-    {
-      "i": "glowing-wand",
-      "w": "Anti-regen + burn"
-    },
-    {
-      "i": "dominance-ice",
-      "w": "Kurangi AS & heal musuh"
-    }
-  ],
-  "hanabi": [
-    {
-      "i": "ling",
-      "w": "Mobilitas tinggi, burst"
-    },
-    {
-      "i": "fanny",
-      "w": "Burst cepat, susah dipegang"
-    },
-    {
-      "i": "lancelot",
-      "w": "Burst + i-frames"
-    }
-  ],
-  "chang'e": [
-    {
-      "i": "athenas-shield",
-      "w": "Shield serap burst magic"
-    },
-    {
-      "i": "radiant-armor",
-      "w": "Tahan damage magic"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    }
-  ],
-  "kaja": [
-    {
-      "i": "diggie",
-      "w": "Anti-CC: kunci setter"
-    },
-    {
-      "i": "valir",
-      "w": "Knockback terus-menerus"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    }
-  ],
-  "selena": [
-    {
-      "i": "diggie",
-      "w": "Anti-CC: kunci setter"
-    },
-    {
-      "i": "franco",
-      "w": "Hook + suppression"
-    },
-    {
-      "i": "kaja",
-      "w": "Suppression tarik + ult"
     }
   ],
   "aldous": [
     {
-      "i": "antique-cuirass",
-      "w": "Kurangi damage phys"
+      "i": "esmeralda",
+      "w": "Esmeralda +2.8pp vs (2.1.95a)"
     },
     {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
+      "i": "cyclops",
+      "w": "Cyclops +2.6pp vs (2.1.95a)"
     },
     {
-      "i": "blade-armor",
-      "w": "Pantul basic attack"
+      "i": "zhuxin",
+      "w": "Zhuxin +2.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "karina",
+      "w": "Karina +2.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "obsidia",
+      "w": "Obsidia +2.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "paquito",
+      "w": "Paquito +1.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-tank true dmg"
     }
   ],
-  "claude": [
-    {
-      "i": "blade-armor",
-      "w": "Pantul basic attack"
-    },
-    {
-      "i": "dominance-ice",
-      "w": "Kurangi AS & heal musuh"
-    },
-    {
-      "i": "antique-cuirass",
-      "w": "Kurangi damage phys"
-    }
-  ],
-  "vale": [
-    {
-      "i": "ling",
-      "w": "Mobilitas tinggi, burst"
-    },
-    {
-      "i": "fanny",
-      "w": "Burst cepat, susah dipegang"
-    },
-    {
-      "i": "saber",
-      "w": "Burst target tunggal"
-    }
-  ],
-  "leomord": [
-    {
-      "i": "diggie",
-      "w": "Anti-CC: kunci setter"
-    },
-    {
-      "i": "valir",
-      "w": "Knockback terus-menerus"
-    },
-    {
-      "i": "kaja",
-      "w": "Suppression tarik + ult"
-    }
-  ],
-  "lunox": [
-    {
-      "i": "khufra",
-      "w": "Ult anti-dash: mobilitas mati"
-    },
-    {
-      "i": "kaja",
-      "w": "Suppression tarik + ult"
-    },
-    {
-      "i": "franco",
-      "w": "Hook + suppression"
-    }
-  ],
-  "hanzo": [
-    {
-      "i": "ling",
-      "w": "Stat edge +3.8pp vs Hanzo (2.1.95a)"
-    },
-    {
-      "i": "natalia",
-      "w": "Stat edge +3.7pp"
-    },
-    {
-      "i": "franco",
-      "w": "Hook + suppression"
-    },
-    {
-      "i": "kaja",
-      "w": "Suppression tarik + ult"
-    },
-    {
-      "i": "minsitthar",
-      "w": "Ult anti-dash + cage"
-    }
-  ],
-  "belerick": [
+  "alice": [
     {
       "i": "karrie",
-      "w": "True dmg lawan tank"
+      "w": "Karrie +4.6pp vs (2.1.95a)"
     },
     {
-      "i": "dyrroth",
-      "w": "Penetrasi armor lawan tank"
+      "i": "angela",
+      "w": "Angela +4.5pp vs (2.1.95a)"
     },
     {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
-    }
-  ],
-  "kimmy": [
-    {
-      "i": "blade-armor",
-      "w": "Pantul basic attack"
-    },
-    {
-      "i": "dominance-ice",
-      "w": "Kurangi AS & heal musuh"
-    },
-    {
-      "i": "antique-cuirass",
-      "w": "Kurangi damage phys"
-    }
-  ],
-  "thamuz": [
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
-    },
-    {
-      "i": "glowing-wand",
-      "w": "Anti-regen + burn"
-    },
-    {
-      "i": "dominance-ice",
-      "w": "Kurangi AS & heal musuh"
-    }
-  ],
-  "harith": [
-    {
-      "i": "khufra",
-      "w": "Ult anti-dash: mobilitas mati"
+      "i": "floryn",
+      "w": "Floryn +3.7pp vs (2.1.95a)"
     },
     {
       "i": "valir",
-      "w": "Knockback terus-menerus"
+      "w": "Valir +3.4pp vs (2.1.95a)"
     },
     {
-      "i": "nana",
-      "w": "Morph Molina: escape mati"
+      "i": "edith",
+      "w": "Edith +3.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "cici",
+      "w": "Cici +3.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "great-dragon-spear",
+      "w": "Anti-tank (true dmg)"
     }
   ],
-  "minsitthar": [
+  "alpha": [
+    {
+      "i": "benedetta",
+      "w": "Benedetta +4.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "xborg",
+      "w": "X.Borg +3.3pp vs (2.1.95a)"
+    },
     {
       "i": "diggie",
-      "w": "Anti-CC: kunci setter"
+      "w": "Diggie +3.2pp vs (2.1.95a)"
     },
-    {
-      "i": "valir",
-      "w": "Knockback terus-menerus"
-    },
-    {
-      "i": "chou",
-      "w": "Kick combo interrupt"
-    }
-  ],
-  "kadita": [
-    {
-      "i": "diggie",
-      "w": "Anti-CC: kunci setter"
-    },
-    {
-      "i": "franco",
-      "w": "Hook + suppression"
-    },
-    {
-      "i": "kaja",
-      "w": "Suppression tarik + ult"
-    }
-  ],
-  "faramis": [
-    {
-      "i": "diggie",
-      "w": "Anti-CC: kunci setter"
-    },
-    {
-      "i": "franco",
-      "w": "Hook + suppression"
-    },
-    {
-      "i": "kaja",
-      "w": "Suppression tarik + ult"
-    }
-  ],
-  "badang": [
-    {
-      "i": "diggie",
-      "w": "Anti-CC: kunci setter"
-    },
-    {
-      "i": "valir",
-      "w": "Knockback terus-menerus"
-    },
-    {
-      "i": "kaja",
-      "w": "Suppression tarik + ult"
-    }
-  ],
-  "khufra": [
-    {
-      "i": "diggie",
-      "w": "Anti-CC: kunci setter"
-    },
-    {
-      "i": "valir",
-      "w": "Knockback terus-menerus"
-    },
-    {
-      "i": "kaja",
-      "w": "Suppression tarik + ult"
-    }
-  ],
-  "granger": [
     {
       "i": "ling",
-      "w": "Mobilitas tinggi, burst"
+      "w": "Ling +3.1pp vs (2.1.95a)"
     },
     {
-      "i": "fanny",
-      "w": "Burst cepat, susah dipegang"
+      "i": "mathilda",
+      "w": "Mathilda +2.9pp vs (2.1.95a)"
     },
     {
-      "i": "lancelot",
-      "w": "Burst + i-frames"
-    }
-  ],
-  "guinevere": [
-    {
-      "i": "antique-cuirass",
-      "w": "Kurangi damage phys"
+      "i": "hanzo",
+      "w": "Hanzo +2.8pp vs (2.1.95a)"
     },
     {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "blade-armor",
-      "w": "Pantul basic attack"
-    }
-  ],
-  "esmeralda": [
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
-    },
-    {
-      "i": "glowing-wand",
-      "w": "Anti-regen + burn"
-    },
-    {
-      "i": "athenas-shield",
-      "w": "Shield serap burst magic"
-    }
-  ],
-  "terizla": [
-    {
-      "i": "antique-cuirass",
-      "w": "Kurangi damage phys"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
     },
     {
       "i": "sea-halberd",
       "w": "Anti-lifesteal 50%"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-tank true dmg"
     }
   ],
-  "x-borg": [
+  "alucard": [
     {
-      "i": "antique-cuirass",
-      "w": "Kurangi damage phys"
+      "i": "phoveus",
+      "w": "Phoveus +2.9pp vs (2.1.95a)"
     },
     {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
+      "i": "fredrinn",
+      "w": "Fredrinn +2.9pp vs (2.1.95a)"
     },
     {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
-    }
-  ],
-  "ling": [
-    {
-      "i": "khufra",
-      "w": "Ult anti-dash: mobilitas mati"
-    },
-    {
-      "i": "nana",
-      "w": "Morph Molina: escape mati"
-    },
-    {
-      "i": "franco",
-      "w": "Hook + suppression"
-    }
-  ],
-  "dyrroth": [
-    {
-      "i": "antique-cuirass",
-      "w": "Kurangi damage phys"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "dominance-ice",
-      "w": "Kurangi AS & heal musuh"
-    }
-  ],
-  "lylia": [
-    {
-      "i": "ling",
-      "w": "Mobilitas tinggi, burst"
-    },
-    {
-      "i": "fanny",
-      "w": "Burst cepat, susah dipegang"
-    },
-    {
-      "i": "saber",
-      "w": "Burst target tunggal"
-    }
-  ],
-  "baxia": [
-    {
-      "i": "malefic-roar",
-      "w": "Penetrasi armor"
-    },
-    {
-      "i": "hunter-strike",
-      "w": "Penetrasi armor + MS"
-    },
-    {
-      "i": "demon-hunter-sword",
-      "w": "Damage % max HP"
-    }
-  ],
-  "masha": [
-    {
-      "i": "karrie",
-      "w": "True dmg lawan tank"
-    },
-    {
-      "i": "dyrroth",
-      "w": "Penetrasi armor lawan tank"
-    },
-    {
-      "i": "malefic-roar",
-      "w": "Penetrasi armor"
-    }
-  ],
-  "wanwan": [
-    {
-      "i": "blade-armor",
-      "w": "Pantul basic attack"
-    },
-    {
-      "i": "dominance-ice",
-      "w": "Kurangi AS & heal musuh"
-    },
-    {
-      "i": "antique-cuirass",
-      "w": "Kurangi damage phys"
-    }
-  ],
-  "silvanna": [
-    {
-      "i": "diggie",
-      "w": "Anti-CC: kunci setter"
-    },
-    {
-      "i": "valir",
-      "w": "Knockback terus-menerus"
-    },
-    {
-      "i": "kaja",
-      "w": "Suppression tarik + ult"
-    }
-  ],
-  "cecilion": [
-    {
-      "i": "ling",
-      "w": "Mobilitas tinggi, burst"
-    },
-    {
-      "i": "fanny",
-      "w": "Burst cepat, susah dipegang"
+      "i": "barats",
+      "w": "Barats +2.9pp vs (2.1.95a)"
     },
     {
       "i": "khufra",
-      "w": "Ult anti-dash: mobilitas mati"
+      "w": "Khufra +2.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "thamuz",
+      "w": "Thamuz +2.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "tigreal",
+      "w": "Tigreal +2.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-tank true dmg"
     }
   ],
-  "carmilla": [
+  "angela": [
+    {
+      "i": "lolita",
+      "w": "Lolita +3.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "franco",
+      "w": "Franco +2.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "silvanna",
+      "w": "Silvanna +2.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "masha",
+      "w": "Masha +1.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "zilong",
+      "w": "Zilong +1.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "popol-and-kupa",
+      "w": "Popol and Kupa +1.9pp vs (2.1.95a)"
+    },
     {
       "i": "winter-crown",
       "w": "Immune burst 2 dtk"
     },
     {
-      "i": "immortality",
-      "w": "Bangkit setelah tumbang"
+      "i": "dominance-ice",
+      "w": "Anti-heal + AS down"
     },
     {
-      "i": "athenas-shield",
-      "w": "Shield serap burst magic"
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    }
+  ],
+  "argus": [
+    {
+      "i": "barats",
+      "w": "Barats +3.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "uranus",
+      "w": "Uranus +3.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "esmeralda",
+      "w": "Esmeralda +3.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "fredrinn",
+      "w": "Fredrinn +3.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "terizla",
+      "w": "Terizla +2.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "ruby",
+      "w": "Ruby +2.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-tank true dmg"
+    }
+  ],
+  "arlott": [
+    {
+      "i": "masha",
+      "w": "Masha +2.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "zhask",
+      "w": "Zhask +2.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "chip",
+      "w": "Chip +2.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "phoveus",
+      "w": "Phoveus +2.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "jawhead",
+      "w": "Jawhead +2.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-tank true dmg"
     }
   ],
   "atlas": [
     {
       "i": "marcel",
-      "w": "Stat edge +6.0pp vs Atlas (2.1.95a)"
-    },
-    {
-      "i": "diggie",
-      "w": "Anti-CC: kunci setter"
-    },
-    {
-      "i": "valir",
-      "w": "Knockback terus-menerus"
+      "w": "Marcel +6.0pp vs (2.1.95a)"
     },
     {
       "i": "wanwan",
-      "w": "Outscale late +3.6pp"
+      "w": "Wanwan +3.6pp vs (2.1.95a)"
     },
     {
-      "i": "chou",
-      "w": "Kick combo interrupt"
-    }
-  ],
-  "popol-and-kupa": [
-    {
-      "i": "blade-armor",
-      "w": "Pantul basic attack"
+      "i": "alice",
+      "w": "Alice +3.5pp vs (2.1.95a)"
     },
     {
-      "i": "dominance-ice",
-      "w": "Kurangi AS & heal musuh"
+      "i": "valentina",
+      "w": "Valentina +3.4pp vs (2.1.95a)"
     },
-    {
-      "i": "antique-cuirass",
-      "w": "Kurangi damage phys"
-    }
-  ],
-  "yu-zhong": [
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
-    },
-    {
-      "i": "glowing-wand",
-      "w": "Anti-regen + burn"
-    },
-    {
-      "i": "dominance-ice",
-      "w": "Kurangi AS & heal musuh"
-    }
-  ],
-  "luo-yi": [
     {
       "i": "ling",
-      "w": "Mobilitas tinggi, burst"
-    },
-    {
-      "i": "fanny",
-      "w": "Burst cepat, susah dipegang"
+      "w": "Ling +2.8pp vs (2.1.95a)"
     },
     {
       "i": "lancelot",
-      "w": "Burst + i-frames"
-    }
-  ],
-  "benedetta": [
-    {
-      "i": "khufra",
-      "w": "Ult anti-dash: mobilitas mati"
+      "w": "Lancelot +2.6pp vs (2.1.95a)"
     },
     {
-      "i": "valir",
-      "w": "Knockback terus-menerus"
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
     },
     {
-      "i": "kaja",
-      "w": "Suppression tarik + ult"
-    }
-  ],
-  "khaleed": [
-    {
-      "i": "antique-cuirass",
-      "w": "Kurangi damage phys"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "blade-armor",
-      "w": "Pantul basic attack"
-    }
-  ],
-  "barats": [
-    {
-      "i": "diggie",
-      "w": "Anti-CC: kunci setter"
-    },
-    {
-      "i": "valir",
-      "w": "Knockback terus-menerus"
+      "i": "great-dragon-spear",
+      "w": "Anti-tank (true dmg)"
     },
     {
       "i": "sea-halberd",
       "w": "Anti-lifesteal 50%"
-    }
-  ],
-  "brody": [
-    {
-      "i": "blade-armor",
-      "w": "Pantul basic attack"
-    },
-    {
-      "i": "dominance-ice",
-      "w": "Kurangi AS & heal musuh"
-    },
-    {
-      "i": "antique-cuirass",
-      "w": "Kurangi damage phys"
-    }
-  ],
-  "yve": [
-    {
-      "i": "ling",
-      "w": "Mobilitas tinggi, burst"
-    },
-    {
-      "i": "fanny",
-      "w": "Burst cepat, susah dipegang"
-    },
-    {
-      "i": "khufra",
-      "w": "Ult anti-dash: mobilitas mati"
-    }
-  ],
-  "mathilda": [
-    {
-      "i": "diggie",
-      "w": "Anti-CC: kunci setter"
-    },
-    {
-      "i": "franco",
-      "w": "Hook + suppression"
-    },
-    {
-      "i": "kaja",
-      "w": "Suppression tarik + ult"
-    }
-  ],
-  "paquito": [
-    {
-      "i": "khufra",
-      "w": "Ult anti-dash: mobilitas mati"
-    },
-    {
-      "i": "valir",
-      "w": "Knockback terus-menerus"
-    },
-    {
-      "i": "nana",
-      "w": "Morph Molina: escape mati"
-    }
-  ],
-  "gloo": [
-    {
-      "i": "karrie",
-      "w": "True dmg lawan tank"
-    },
-    {
-      "i": "dyrroth",
-      "w": "Penetrasi armor lawan tank"
-    },
-    {
-      "i": "glowing-wand",
-      "w": "Anti-regen + burn"
-    }
-  ],
-  "beatrix": [
-    {
-      "i": "blade-armor",
-      "w": "Pantul basic attack"
-    },
-    {
-      "i": "dominance-ice",
-      "w": "Kurangi AS & heal musuh"
-    },
-    {
-      "i": "antique-cuirass",
-      "w": "Kurangi damage phys"
-    }
-  ],
-  "phoveus": [
-    {
-      "i": "antique-cuirass",
-      "w": "Kurangi damage phys"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "blade-armor",
-      "w": "Pantul basic attack"
-    }
-  ],
-  "natan": [
-    {
-      "i": "blade-armor",
-      "w": "Pantul basic attack"
-    },
-    {
-      "i": "dominance-ice",
-      "w": "Kurangi AS & heal musuh"
-    },
-    {
-      "i": "antique-cuirass",
-      "w": "Kurangi damage phys"
     }
   ],
   "aulus": [
     {
-      "i": "antique-cuirass",
-      "w": "Kurangi damage phys"
+      "i": "estes",
+      "w": "Estes +2.4pp vs (2.1.95a)"
     },
     {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
+      "i": "angela",
+      "w": "Angela +2.3pp vs (2.1.95a)"
     },
     {
-      "i": "blade-armor",
-      "w": "Pantul basic attack"
-    }
-  ],
-  "aamon": [
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
+      "i": "floryn",
+      "w": "Floryn +2.0pp vs (2.1.95a)"
     },
     {
-      "i": "immortality",
-      "w": "Bangkit setelah tumbang"
+      "i": "harith",
+      "w": "Harith +2.0pp vs (2.1.95a)"
     },
     {
-      "i": "antique-cuirass",
-      "w": "Kurangi damage phys"
-    }
-  ],
-  "valentina": [
-    {
-      "i": "athenas-shield",
-      "w": "Shield serap burst magic"
+      "i": "cici",
+      "w": "Cici +1.9pp vs (2.1.95a)"
     },
     {
-      "i": "radiant-armor",
-      "w": "Tahan damage magic"
+      "i": "change",
+      "w": "Chang'e +1.5pp vs (2.1.95a)"
     },
     {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    }
-  ],
-  "edith": [
-    {
-      "i": "diggie",
-      "w": "Anti-CC: kunci setter"
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
     },
-    {
-      "i": "valir",
-      "w": "Knockback terus-menerus"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    }
-  ],
-  "floryn": [
-    {
-      "i": "diggie",
-      "w": "Anti-CC: kunci setter"
-    },
-    {
-      "i": "franco",
-      "w": "Hook + suppression"
-    },
-    {
-      "i": "kaja",
-      "w": "Suppression tarik + ult"
-    }
-  ],
-  "yin": [
-    {
-      "i": "antique-cuirass",
-      "w": "Kurangi damage phys"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "blade-armor",
-      "w": "Pantul basic attack"
-    }
-  ],
-  "melissa": [
-    {
-      "i": "blade-armor",
-      "w": "Pantul basic attack"
-    },
-    {
-      "i": "dominance-ice",
-      "w": "Kurangi AS & heal musuh"
-    },
-    {
-      "i": "antique-cuirass",
-      "w": "Kurangi damage phys"
-    }
-  ],
-  "xavier": [
-    {
-      "i": "ling",
-      "w": "Mobilitas tinggi, burst"
-    },
-    {
-      "i": "fanny",
-      "w": "Burst cepat, susah dipegang"
-    },
-    {
-      "i": "lancelot",
-      "w": "Burst + i-frames"
-    }
-  ],
-  "julian": [
-    {
-      "i": "khufra",
-      "w": "Ult anti-dash: mobilitas mati"
-    },
-    {
-      "i": "valir",
-      "w": "Knockback terus-menerus"
-    },
-    {
-      "i": "nana",
-      "w": "Morph Molina: escape mati"
-    }
-  ],
-  "fredrinn": [
     {
       "i": "sea-halberd",
       "w": "Anti-lifesteal 50%"
     },
     {
-      "i": "glowing-wand",
-      "w": "Anti-regen + burn"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-tank true dmg"
     }
   ],
-  "joy": [
-    {
-      "i": "khufra",
-      "w": "Ult anti-dash: mobilitas mati"
-    },
-    {
-      "i": "valir",
-      "w": "Knockback terus-menerus"
-    },
+  "aurora": [
     {
       "i": "diggie",
-      "w": "Anti-CC: kunci setter"
-    }
-  ],
-  "novaria": [
+      "w": "Diggie +2.5pp vs (2.1.95a)"
+    },
     {
-      "i": "athenas-shield",
-      "w": "Shield serap burst magic"
+      "i": "benedetta",
+      "w": "Benedetta +1.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "lancelot",
+      "w": "Lancelot +1.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "gatotkaca",
+      "w": "Gatotkaca +1.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "yin",
+      "w": "Yin +1.6pp vs (2.1.95a)"
     },
     {
       "i": "radiant-armor",
-      "w": "Tahan damage magic"
+      "w": "Kurangi dmg magic"
     },
     {
       "i": "winter-crown",
       "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "athenas-shield",
+      "w": "Anti burst magic"
     }
   ],
-  "arlott": [
+  "badang": [
     {
-      "i": "khufra",
-      "w": "Ult anti-dash: mobilitas mati"
+      "i": "esmeralda",
+      "w": "Esmeralda +2.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "diggie",
+      "w": "Diggie +2.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "marcel",
+      "w": "Marcel +2.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "phoveus",
+      "w": "Phoveus +1.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "karina",
+      "w": "Karina +1.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-tank true dmg"
+    }
+  ],
+  "balmond": [
+    {
+      "i": "cici",
+      "w": "Cici +4.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "diggie",
+      "w": "Diggie +4.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "xborg",
+      "w": "X.Borg +3.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "angela",
+      "w": "Angela +3.5pp vs (2.1.95a)"
     },
     {
       "i": "valir",
-      "w": "Knockback terus-menerus"
+      "w": "Valir +3.2pp vs (2.1.95a)"
     },
     {
-      "i": "nana",
-      "w": "Morph Molina: escape mati"
+      "i": "karrie",
+      "w": "Karrie +3.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-tank true dmg"
     }
   ],
-  "ixia": [
+  "bane": [
     {
-      "i": "blade-armor",
-      "w": "Pantul basic attack"
+      "i": "lolita",
+      "w": "Lolita +4.4pp vs (2.1.95a)"
     },
     {
-      "i": "dominance-ice",
-      "w": "Kurangi AS & heal musuh"
+      "i": "nolan",
+      "w": "Nolan +2.6pp vs (2.1.95a)"
     },
     {
-      "i": "antique-cuirass",
-      "w": "Kurangi damage phys"
+      "i": "yve",
+      "w": "Yve +2.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "hanzo",
+      "w": "Hanzo +1.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "atlas",
+      "w": "Atlas +1.8pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-tank true dmg"
     }
   ],
-  "nolan": [
+  "barats": [
     {
-      "i": "khufra",
-      "w": "Ult anti-dash: mobilitas mati"
+      "i": "xborg",
+      "w": "X.Borg +5.5pp vs (2.1.95a)"
     },
     {
-      "i": "nana",
-      "w": "Morph Molina: escape mati"
+      "i": "gord",
+      "w": "Gord +3.8pp vs (2.1.95a)"
+    },
+    {
+      "i": "alice",
+      "w": "Alice +3.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "yve",
+      "w": "Yve +3.2pp vs (2.1.95a)"
     },
     {
       "i": "valir",
-      "w": "Knockback terus-menerus"
-    }
-  ],
-  "cici": [
-    {
-      "i": "khufra",
-      "w": "Ult anti-dash: mobilitas mati"
+      "w": "Valir +2.6pp vs (2.1.95a)"
     },
     {
-      "i": "valir",
-      "w": "Knockback terus-menerus"
+      "i": "balmond",
+      "w": "Balmond +2.5pp vs (2.1.95a)"
     },
     {
-      "i": "nana",
-      "w": "Morph Molina: escape mati"
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "great-dragon-spear",
+      "w": "Anti-tank (true dmg)"
     }
   ],
-  "chip": [
+  "baxia": [
+    {
+      "i": "xborg",
+      "w": "X.Borg +4.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "beatrix",
+      "w": "Beatrix +3.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "karrie",
+      "w": "Karrie +3.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "lesley",
+      "w": "Lesley +3.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "bane",
+      "w": "Bane +2.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "hirara",
+      "w": "Hirara +2.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "great-dragon-spear",
+      "w": "Anti-tank (true dmg)"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    }
+  ],
+  "beatrix": [
+    {
+      "i": "irithel",
+      "w": "Irithel +2.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "kaja",
+      "w": "Kaja +2.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "granger",
+      "w": "Granger +2.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "moskov",
+      "w": "Moskov +2.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "wanwan",
+      "w": "Wanwan +2.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "chou",
+      "w": "Chou +2.0pp vs (2.1.95a)"
+    },
     {
       "i": "winter-crown",
       "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-marksman (true dmg)"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    }
+  ],
+  "belerick": [
+    {
+      "i": "lesley",
+      "w": "Lesley +3.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "beatrix",
+      "w": "Beatrix +3.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "brody",
+      "w": "Brody +3.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "marcel",
+      "w": "Marcel +2.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "yve",
+      "w": "Yve +2.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "xavier",
+      "w": "Xavier +2.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "great-dragon-spear",
+      "w": "Anti-tank (true dmg)"
+    }
+  ],
+  "benedetta": [
+    {
+      "i": "phoveus",
+      "w": "Phoveus +4.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "obsidia",
+      "w": "Obsidia +3.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "mathilda",
+      "w": "Mathilda +2.8pp vs (2.1.95a)"
+    },
+    {
+      "i": "masha",
+      "w": "Masha +2.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "valentina",
+      "w": "Valentina +2.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "irithel",
+      "w": "Irithel +2.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "athenas-shield",
+      "w": "Anti burst magic"
     },
     {
       "i": "immortality",
       "w": "Bangkit setelah tumbang"
+    }
+  ],
+  "brody": [
+    {
+      "i": "diggie",
+      "w": "Diggie +2.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "barats",
+      "w": "Barats +2.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "masha",
+      "w": "Masha +2.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "khufra",
+      "w": "Khufra +2.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "sun",
+      "w": "Sun +1.8pp vs (2.1.95a)"
+    },
+    {
+      "i": "kadita",
+      "w": "Kadita +1.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-marksman (true dmg)"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    }
+  ],
+  "bruno": [
+    {
+      "i": "lolita",
+      "w": "Lolita +3.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "lesley",
+      "w": "Lesley +2.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "layla",
+      "w": "Layla +2.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "saber",
+      "w": "Saber +2.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "jawhead",
+      "w": "Jawhead +1.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-marksman (true dmg)"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    }
+  ],
+  "carmilla": [
+    {
+      "i": "valentina",
+      "w": "Valentina +3.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "xborg",
+      "w": "X.Borg +3.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "lesley",
+      "w": "Lesley +2.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "wanwan",
+      "w": "Wanwan +2.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "natalia",
+      "w": "Natalia +1.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "dominance-ice",
+      "w": "Anti-heal + AS down"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    }
+  ],
+  "cecilion": [
+    {
+      "i": "ixia",
+      "w": "Ixia +1.8pp vs (2.1.95a)"
+    },
+    {
+      "i": "hayabusa",
+      "w": "Hayabusa +1.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "helcurt",
+      "w": "Helcurt +1.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "hanzo",
+      "w": "Hanzo +1.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "yin",
+      "w": "Yin +1.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "xborg",
+      "w": "Sustain + dive"
+    },
+    {
+      "i": "radiant-armor",
+      "w": "Kurangi dmg magic"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    }
+  ],
+  "change": [
+    {
+      "i": "lolita",
+      "w": "Lolita +5.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "gloo",
+      "w": "Gloo +2.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "claude",
+      "w": "Claude +2.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "esmeralda",
+      "w": "Esmeralda +2.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "atlas",
+      "w": "Atlas +1.9pp vs (2.1.95a)"
+    }
+  ],
+  "chip": [
+    {
+      "i": "carmilla",
+      "w": "Carmilla +4.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "balmond",
+      "w": "Balmond +3.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "alice",
+      "w": "Alice +3.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "melissa",
+      "w": "Melissa +2.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "vexana",
+      "w": "Vexana +2.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "faramis",
+      "w": "Faramis +2.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "dominance-ice",
+      "w": "Anti-heal + AS down"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    }
+  ],
+  "chou": [
+    {
+      "i": "phoveus",
+      "w": "Phoveus +2.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "esmeralda",
+      "w": "Esmeralda +2.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "cyclops",
+      "w": "Cyclops +2.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "khufra",
+      "w": "Khufra +1.8pp vs (2.1.95a)"
+    },
+    {
+      "i": "sun",
+      "w": "Sun +1.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-tank true dmg"
+    }
+  ],
+  "cici": [
+    {
+      "i": "sun",
+      "w": "Sun +4.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "xborg",
+      "w": "X.Borg +3.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "estes",
+      "w": "Estes +3.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "aamon",
+      "w": "Aamon +3.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "yve",
+      "w": "Yve +2.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "rafaela",
+      "w": "Rafaela +2.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-tank true dmg"
+    }
+  ],
+  "claude": [
+    {
+      "i": "lesley",
+      "w": "Lesley +3.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "masha",
+      "w": "Masha +3.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "aamon",
+      "w": "Aamon +2.8pp vs (2.1.95a)"
+    },
+    {
+      "i": "edith",
+      "w": "Edith +2.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "cyclops",
+      "w": "Cyclops +2.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-marksman (true dmg)"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    }
+  ],
+  "clint": [
+    {
+      "i": "fanny",
+      "w": "Fanny +2.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "harith",
+      "w": "Harith +1.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "gloo",
+      "w": "Gloo +1.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "alice",
+      "w": "Alice +1.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "moskov",
+      "w": "Moskov +1.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-marksman (true dmg)"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    }
+  ],
+  "cyclops": [
+    {
+      "i": "lolita",
+      "w": "Lolita +9.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "estes",
+      "w": "Estes +4.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "ixia",
+      "w": "Ixia +2.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "atlas",
+      "w": "Atlas +2.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "yve",
+      "w": "Yve +2.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "minotaur",
+      "w": "Minotaur +2.4pp vs (2.1.95a)"
+    }
+  ],
+  "diggie": [
+    {
+      "i": "estes",
+      "w": "Estes +3.8pp vs (2.1.95a)"
+    },
+    {
+      "i": "esmeralda",
+      "w": "Esmeralda +3.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "zhask",
+      "w": "Zhask +3.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "sun",
+      "w": "Sun +3.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "hanzo",
+      "w": "Hanzo +3.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "franco",
+      "w": "Franco +3.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "dominance-ice",
+      "w": "Anti-heal + AS down"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    }
+  ],
+  "dyrroth": [
+    {
+      "i": "thamuz",
+      "w": "Thamuz +1.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "alpha",
+      "w": "Alpha +1.8pp vs (2.1.95a)"
+    },
+    {
+      "i": "minsitthar",
+      "w": "Minsitthar +1.8pp vs (2.1.95a)"
+    },
+    {
+      "i": "layla",
+      "w": "Layla +1.8pp vs (2.1.95a)"
+    },
+    {
+      "i": "johnson",
+      "w": "Johnson +1.8pp vs (2.1.95a)"
+    },
+    {
+      "i": "nana",
+      "w": "Nana +1.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-tank true dmg"
+    }
+  ],
+  "edith": [
+    {
+      "i": "lolita",
+      "w": "Lolita +4.8pp vs (2.1.95a)"
+    },
+    {
+      "i": "beatrix",
+      "w": "Beatrix +2.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "layla",
+      "w": "Layla +2.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "yve",
+      "w": "Yve +2.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "sun",
+      "w": "Sun +2.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "hylos",
+      "w": "Hylos +2.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "great-dragon-spear",
+      "w": "Anti-tank (true dmg)"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    }
+  ],
+  "esmeralda": [
+    {
+      "i": "dyrroth",
+      "w": "Dyrroth +3.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "lunox",
+      "w": "Lunox +3.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "karrie",
+      "w": "Karrie +3.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "julian",
+      "w": "Julian +2.8pp vs (2.1.95a)"
+    },
+    {
+      "i": "fredrinn",
+      "w": "Fredrinn +2.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "natan",
+      "w": "Natan +2.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "great-dragon-spear",
+      "w": "Anti-tank (true dmg)"
+    }
+  ],
+  "estes": [
+    {
+      "i": "beatrix",
+      "w": "Beatrix +5.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "ixia",
+      "w": "Ixia +4.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "nolan",
+      "w": "Nolan +4.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "sora",
+      "w": "Sora +3.8pp vs (2.1.95a)"
+    },
+    {
+      "i": "atlas",
+      "w": "Atlas +3.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "luo-yi",
+      "w": "Luo Yi +3.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "dominance-ice",
+      "w": "Anti-heal + AS down"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    }
+  ],
+  "eudora": [
+    {
+      "i": "masha",
+      "w": "Masha +2.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "atlas",
+      "w": "Atlas +2.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "barats",
+      "w": "Barats +1.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "aurora",
+      "w": "Aurora +1.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "sun",
+      "w": "Sun +1.8pp vs (2.1.95a)"
+    },
+    {
+      "i": "radiant-armor",
+      "w": "Kurangi dmg magic"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
     },
     {
       "i": "athenas-shield",
-      "w": "Shield serap burst magic"
+      "w": "Anti burst magic"
     }
   ],
-  "zhuxin": [
+  "fanny": [
     {
-      "i": "khufra",
-      "w": "Ult anti-dash: mobilitas mati"
+      "i": "bruno",
+      "w": "Bruno +3.2pp vs (2.1.95a)"
     },
     {
-      "i": "nana",
-      "w": "Morph Molina: escape mati"
+      "i": "masha",
+      "w": "Masha +3.0pp vs (2.1.95a)"
     },
     {
-      "i": "valir",
-      "w": "Knockback terus-menerus"
+      "i": "moskov",
+      "w": "Moskov +3.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "badang",
+      "w": "Badang +2.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "chou",
+      "w": "Chou +2.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "franco",
+      "w": "Franco +2.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "athenas-shield",
+      "w": "Anti burst magic"
+    },
+    {
+      "i": "immortality",
+      "w": "Bangkit setelah tumbang"
     }
   ],
-  "suyou": [
+  "faramis": [
     {
-      "i": "khufra",
-      "w": "Ult anti-dash: mobilitas mati"
+      "i": "edith",
+      "w": "Edith +3.9pp vs (2.1.95a)"
     },
     {
-      "i": "valir",
-      "w": "Knockback terus-menerus"
+      "i": "estes",
+      "w": "Estes +3.3pp vs (2.1.95a)"
     },
     {
-      "i": "nana",
-      "w": "Morph Molina: escape mati"
+      "i": "bane",
+      "w": "Bane +3.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "melissa",
+      "w": "Melissa +3.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "angela",
+      "w": "Angela +3.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "floryn",
+      "w": "Floryn +3.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "dominance-ice",
+      "w": "Anti-heal + AS down"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
     }
   ],
-  "lukas": [
+  "floryn": [
     {
-      "i": "khufra",
-      "w": "Ult anti-dash: mobilitas mati"
+      "i": "lolita",
+      "w": "Lolita +3.7pp vs (2.1.95a)"
     },
     {
+      "i": "ixia",
+      "w": "Ixia +2.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "chip",
+      "w": "Chip +2.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "nolan",
+      "w": "Nolan +2.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "yin",
+      "w": "Yin +2.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "baxia",
+      "w": "Baxia +2.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "dominance-ice",
+      "w": "Anti-heal + AS down"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    }
+  ],
+  "franco": [
+    {
+      "i": "hanzo",
+      "w": "Hanzo +2.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "sun",
+      "w": "Sun +2.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "atlas",
+      "w": "Atlas +2.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "tigreal",
+      "w": "Tigreal +2.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "kaja",
+      "w": "Kaja +2.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "great-dragon-spear",
+      "w": "Anti-tank (true dmg)"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    }
+  ],
+  "fredrinn": [
+    {
       "i": "valir",
-      "w": "Knockback terus-menerus"
+      "w": "Valir +4.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "diggie",
+      "w": "Diggie +2.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "gord",
+      "w": "Gord +2.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "karrie",
+      "w": "Karrie +2.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "edith",
+      "w": "Edith +2.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "cecilion",
+      "w": "Cecilion +2.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-tank true dmg"
+    }
+  ],
+  "freya": [
+    {
+      "i": "phoveus",
+      "w": "Phoveus +4.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "minsitthar",
+      "w": "Minsitthar +4.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "gatotkaca",
+      "w": "Gatotkaca +1.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "esmeralda",
+      "w": "Esmeralda +1.8pp vs (2.1.95a)"
+    },
+    {
+      "i": "tigreal",
+      "w": "Tigreal +1.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-tank true dmg"
+    }
+  ],
+  "gatotkaca": [
+    {
+      "i": "lesley",
+      "w": "Lesley +3.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "xborg",
+      "w": "X.Borg +3.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "karrie",
+      "w": "Karrie +2.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "mathilda",
+      "w": "Mathilda +2.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "uranus",
+      "w": "Uranus +2.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "hylos",
+      "w": "Hylos +2.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "great-dragon-spear",
+      "w": "Anti-tank (true dmg)"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    }
+  ],
+  "gloo": [
+    {
+      "i": "faramis",
+      "w": "Faramis +6.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "moskov",
+      "w": "Moskov +4.8pp vs (2.1.95a)"
+    },
+    {
+      "i": "alice",
+      "w": "Alice +4.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "natan",
+      "w": "Natan +4.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "ling",
+      "w": "Ling +3.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "fanny",
+      "w": "Fanny +3.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "great-dragon-spear",
+      "w": "Anti-tank (true dmg)"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    }
+  ],
+  "gord": [
+    {
+      "i": "natalia",
+      "w": "Natalia +3.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "helcurt",
+      "w": "Helcurt +2.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "ling",
+      "w": "Ling +2.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "benedetta",
+      "w": "Benedetta +1.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "joy",
+      "w": "Joy +1.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "radiant-armor",
+      "w": "Kurangi dmg magic"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "athenas-shield",
+      "w": "Anti burst magic"
+    }
+  ],
+  "granger": [
+    {
+      "i": "hilda",
+      "w": "Hilda +3.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "fanny",
+      "w": "Fanny +3.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "obsidia",
+      "w": "Obsidia +2.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "claude",
+      "w": "Claude +2.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "mathilda",
+      "w": "Mathilda +2.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-marksman (true dmg)"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    }
+  ],
+  "grock": [
+    {
+      "i": "alice",
+      "w": "Alice +3.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "esmeralda",
+      "w": "Esmeralda +2.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "marcel",
+      "w": "Marcel +2.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "valentina",
+      "w": "Valentina +2.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "karrie",
+      "w": "Karrie +2.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "lylia",
+      "w": "Lylia +1.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "great-dragon-spear",
+      "w": "Anti-tank (true dmg)"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    }
+  ],
+  "guinevere": [
+    {
+      "i": "masha",
+      "w": "Masha +3.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "wanwan",
+      "w": "Wanwan +2.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "khufra",
+      "w": "Khufra +2.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "diggie",
+      "w": "Diggie +2.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "joy",
+      "w": "Joy +2.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "miya",
+      "w": "Miya +1.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-tank true dmg"
+    }
+  ],
+  "gusion": [
+    {
+      "i": "lolita",
+      "w": "Lolita +2.8pp vs (2.1.95a)"
+    },
+    {
+      "i": "roger",
+      "w": "Roger +2.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "khufra",
+      "w": "Khufra +1.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "gloo",
+      "w": "Gloo +1.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "popol-and-kupa",
+      "w": "Popol and Kupa +1.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "athenas-shield",
+      "w": "Anti burst magic"
+    },
+    {
+      "i": "immortality",
+      "w": "Bangkit setelah tumbang"
+    }
+  ],
+  "hanabi": [
+    {
+      "i": "lolita",
+      "w": "Lolita +3.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "beatrix",
+      "w": "Beatrix +3.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "joy",
+      "w": "Joy +3.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "yve",
+      "w": "Yve +2.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "benedetta",
+      "w": "Benedetta +2.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "lylia",
+      "w": "Lylia +2.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-marksman (true dmg)"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    }
+  ],
+  "hanzo": [
+    {
+      "i": "ling",
+      "w": "Ling +3.8pp vs (2.1.95a)"
+    },
+    {
+      "i": "natalia",
+      "w": "Natalia +3.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "hirara",
+      "w": "Hirara +2.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "lunox",
+      "w": "Lunox +2.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "wanwan",
+      "w": "Wanwan +2.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "kimmy",
+      "w": "Kimmy +2.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "athenas-shield",
+      "w": "Anti burst magic"
+    },
+    {
+      "i": "immortality",
+      "w": "Bangkit setelah tumbang"
+    }
+  ],
+  "harith": [
+    {
+      "i": "phoveus",
+      "w": "Phoveus +4.8pp vs (2.1.95a)"
+    },
+    {
+      "i": "edith",
+      "w": "Edith +3.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "minsitthar",
+      "w": "Minsitthar +3.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "bruno",
+      "w": "Bruno +3.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "zhask",
+      "w": "Zhask +2.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "akai",
+      "w": "Akai +2.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "radiant-armor",
+      "w": "Kurangi dmg magic"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "athenas-shield",
+      "w": "Anti burst magic"
+    }
+  ],
+  "harley": [
+    {
+      "i": "lolita",
+      "w": "Lolita +3.8pp vs (2.1.95a)"
+    },
+    {
+      "i": "sun",
+      "w": "Sun +3.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "hilda",
+      "w": "Hilda +2.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "gloo",
+      "w": "Gloo +2.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "roger",
+      "w": "Roger +2.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "popol-and-kupa",
+      "w": "Popol and Kupa +2.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "athenas-shield",
+      "w": "Anti burst magic"
+    }
+  ],
+  "hayabusa": [
+    {
+      "i": "saber",
+      "w": "Saber +3.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "fredrinn",
+      "w": "Fredrinn +2.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "eudora",
+      "w": "Eudora +1.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "chip",
+      "w": "Chip +1.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "khufra",
+      "w": "Khufra +1.8pp vs (2.1.95a)"
+    },
+    {
+      "i": "badang",
+      "w": "Badang +1.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "athenas-shield",
+      "w": "Anti burst magic"
+    },
+    {
+      "i": "immortality",
+      "w": "Bangkit setelah tumbang"
+    }
+  ],
+  "helcurt": [
+    {
+      "i": "natalia",
+      "w": "Natalia +3.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "argus",
+      "w": "Argus +2.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "obsidia",
+      "w": "Obsidia +2.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "karina",
+      "w": "Karina +2.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "aldous",
+      "w": "Aldous +2.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "brody",
+      "w": "Brody +2.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "athenas-shield",
+      "w": "Anti burst magic"
+    },
+    {
+      "i": "immortality",
+      "w": "Bangkit setelah tumbang"
+    }
+  ],
+  "hilda": [
+    {
+      "i": "atlas",
+      "w": "Atlas +2.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "karrie",
+      "w": "Karrie +2.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "zhuxin",
+      "w": "Zhuxin +2.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "yve",
+      "w": "Yve +2.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "esmeralda",
+      "w": "Esmeralda +2.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "carmilla",
+      "w": "Carmilla +2.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-tank true dmg"
+    }
+  ],
+  "hirara": [
+    {
+      "i": "phoveus",
+      "w": "Phoveus +3.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "saber",
+      "w": "Saber +3.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "odette",
+      "w": "Odette +2.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "cyclops",
+      "w": "Cyclops +2.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "minsitthar",
+      "w": "Minsitthar +1.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "athenas-shield",
+      "w": "Anti burst magic"
+    }
+  ],
+  "hylos": [
+    {
+      "i": "xborg",
+      "w": "X.Borg +3.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "yve",
+      "w": "Yve +3.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "diggie",
+      "w": "Diggie +3.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "zhuxin",
+      "w": "Zhuxin +2.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "karrie",
+      "w": "Karrie +2.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "kimmy",
+      "w": "Kimmy +2.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "great-dragon-spear",
+      "w": "Anti-tank (true dmg)"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    }
+  ],
+  "irithel": [
+    {
+      "i": "saber",
+      "w": "Saber +2.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "brody",
+      "w": "Brody +2.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "eudora",
+      "w": "Eudora +2.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "uranus",
+      "w": "Uranus +2.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "harith",
+      "w": "Harith +2.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "alucard",
+      "w": "Alucard +1.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-marksman (true dmg)"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    }
+  ],
+  "ixia": [
+    {
+      "i": "claude",
+      "w": "Claude +3.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "wanwan",
+      "w": "Wanwan +3.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "hanzo",
+      "w": "Hanzo +2.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "kadita",
+      "w": "Kadita +2.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "natalia",
+      "w": "Natalia +2.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "yin",
+      "w": "Yin +2.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-marksman (true dmg)"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    }
+  ],
+  "jawhead": [
+    {
+      "i": "sun",
+      "w": "Sun +4.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "esmeralda",
+      "w": "Esmeralda +2.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "lolita",
+      "w": "Lolita +2.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "gloo",
+      "w": "Gloo +2.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "popol-and-kupa",
+      "w": "Popol and Kupa +2.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-tank true dmg"
+    }
+  ],
+  "johnson": [
+    {
+      "i": "gloo",
+      "w": "Gloo +3.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "marcel",
+      "w": "Marcel +3.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "alice",
+      "w": "Alice +3.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "atlas",
+      "w": "Atlas +3.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "harith",
+      "w": "Harith +2.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "minotaur",
+      "w": "Minotaur +2.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "great-dragon-spear",
+      "w": "Anti-tank (true dmg)"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    }
+  ],
+  "joy": [
+    {
+      "i": "moskov",
+      "w": "Moskov +3.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "melissa",
+      "w": "Melissa +3.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "cyclops",
+      "w": "Cyclops +3.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "bruno",
+      "w": "Bruno +2.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "odette",
+      "w": "Odette +2.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "eudora",
+      "w": "Eudora +2.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "athenas-shield",
+      "w": "Anti burst magic"
+    },
+    {
+      "i": "immortality",
+      "w": "Bangkit setelah tumbang"
+    }
+  ],
+  "julian": [
+    {
+      "i": "guinevere",
+      "w": "Guinevere +2.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "beatrix",
+      "w": "Beatrix +1.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "tigreal",
+      "w": "Tigreal +1.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "granger",
+      "w": "Granger +1.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "minsitthar",
+      "w": "Minsitthar +1.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "athenas-shield",
+      "w": "Anti burst magic"
+    },
+    {
+      "i": "immortality",
+      "w": "Bangkit setelah tumbang"
+    }
+  ],
+  "kadita": [
+    {
+      "i": "marcel",
+      "w": "Marcel +2.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "wanwan",
+      "w": "Wanwan +1.8pp vs (2.1.95a)"
+    },
+    {
+      "i": "alice",
+      "w": "Alice +1.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "valentina",
+      "w": "Valentina +1.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "balmond",
+      "w": "Balmond +1.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "radiant-armor",
+      "w": "Kurangi dmg magic"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "athenas-shield",
+      "w": "Anti burst magic"
+    }
+  ],
+  "kagura": [
+    {
+      "i": "chip",
+      "w": "Chip +2.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "odette",
+      "w": "Odette +2.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "phoveus",
+      "w": "Phoveus +1.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "harith",
+      "w": "Harith +1.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "esmeralda",
+      "w": "Esmeralda +1.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "freya",
+      "w": "Freya +1.8pp vs (2.1.95a)"
+    },
+    {
+      "i": "radiant-armor",
+      "w": "Kurangi dmg magic"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "athenas-shield",
+      "w": "Anti burst magic"
+    }
+  ],
+  "kaja": [
+    {
+      "i": "odette",
+      "w": "Odette +3.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "lunox",
+      "w": "Lunox +3.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "zhask",
+      "w": "Zhask +2.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "hanabi",
+      "w": "Hanabi +2.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "marcel",
+      "w": "Marcel +1.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "dominance-ice",
+      "w": "Anti-heal + AS down"
     },
     {
       "i": "sea-halberd",
@@ -1807,98 +2405,2252 @@
   ],
   "kalea": [
     {
-      "i": "diggie",
-      "w": "Anti-CC: kunci setter"
+      "i": "phoveus",
+      "w": "Phoveus +2.5pp vs (2.1.95a)"
     },
     {
-      "i": "valir",
-      "w": "Knockback terus-menerus"
+      "i": "yve",
+      "w": "Yve +2.2pp vs (2.1.95a)"
     },
     {
-      "i": "kaja",
-      "w": "Suppression tarik + ult"
-    }
-  ],
-  "zetian": [
-    {
-      "i": "athenas-shield",
-      "w": "Shield serap burst magic"
+      "i": "carmilla",
+      "w": "Carmilla +1.9pp vs (2.1.95a)"
     },
     {
-      "i": "radiant-armor",
-      "w": "Tahan damage magic"
+      "i": "cyclops",
+      "w": "Cyclops +1.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "minsitthar",
+      "w": "Minsitthar +1.6pp vs (2.1.95a)"
     },
     {
       "i": "winter-crown",
       "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "dominance-ice",
+      "w": "Anti-heal + AS down"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    }
+  ],
+  "karina": [
+    {
+      "i": "brody",
+      "w": "Brody +4.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "granger",
+      "w": "Granger +4.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "clint",
+      "w": "Clint +3.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "gloo",
+      "w": "Gloo +2.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "paquito",
+      "w": "Paquito +2.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "hayabusa",
+      "w": "Hayabusa +2.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "athenas-shield",
+      "w": "Anti burst magic"
+    },
+    {
+      "i": "immortality",
+      "w": "Bangkit setelah tumbang"
+    }
+  ],
+  "karrie": [
+    {
+      "i": "sun",
+      "w": "Sun +3.8pp vs (2.1.95a)"
+    },
+    {
+      "i": "masha",
+      "w": "Masha +2.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "minsitthar",
+      "w": "Minsitthar +2.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "rafaela",
+      "w": "Rafaela +2.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "lolita",
+      "w": "Lolita +2.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "argus",
+      "w": "Argus +2.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-marksman (true dmg)"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    }
+  ],
+  "khaleed": [
+    {
+      "i": "phoveus",
+      "w": "Phoveus +3.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "valentina",
+      "w": "Valentina +2.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "karrie",
+      "w": "Karrie +2.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "chip",
+      "w": "Chip +2.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "fredrinn",
+      "w": "Fredrinn +2.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-tank true dmg"
+    }
+  ],
+  "khufra": [
+    {
+      "i": "zhuxin",
+      "w": "Zhuxin +3.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "alice",
+      "w": "Alice +3.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "marcel",
+      "w": "Marcel +2.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "yve",
+      "w": "Yve +2.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "chip",
+      "w": "Chip +2.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "bane",
+      "w": "Bane +2.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "great-dragon-spear",
+      "w": "Anti-tank (true dmg)"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    }
+  ],
+  "kimmy": [
+    {
+      "i": "lolita",
+      "w": "Lolita +3.8pp vs (2.1.95a)"
+    },
+    {
+      "i": "karina",
+      "w": "Karina +3.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "fanny",
+      "w": "Fanny +2.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "kaja",
+      "w": "Kaja +2.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "natalia",
+      "w": "Natalia +2.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-marksman (true dmg)"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    }
+  ],
+  "lancelot": [
+    {
+      "i": "angela",
+      "w": "Angela +3.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "floryn",
+      "w": "Floryn +2.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "marcel",
+      "w": "Marcel +2.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "mathilda",
+      "w": "Mathilda +1.8pp vs (2.1.95a)"
+    },
+    {
+      "i": "rafaela",
+      "w": "Rafaela +1.8pp vs (2.1.95a)"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "athenas-shield",
+      "w": "Anti burst magic"
+    },
+    {
+      "i": "immortality",
+      "w": "Bangkit setelah tumbang"
+    }
+  ],
+  "lapu-lapu": [
+    {
+      "i": "esmeralda",
+      "w": "Esmeralda +3.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "claude",
+      "w": "Claude +2.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "harith",
+      "w": "Harith +2.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "fanny",
+      "w": "Fanny +1.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "beatrix",
+      "w": "Beatrix +1.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-tank true dmg"
+    }
+  ],
+  "layla": [
+    {
+      "i": "atlas",
+      "w": "Atlas +4.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "sun",
+      "w": "Sun +3.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "johnson",
+      "w": "Johnson +3.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "khufra",
+      "w": "Khufra +2.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "hanzo",
+      "w": "Hanzo +2.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "hylos",
+      "w": "Hylos +2.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-marksman (true dmg)"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    }
+  ],
+  "leomord": [
+    {
+      "i": "melissa",
+      "w": "Melissa +3.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "valir",
+      "w": "Valir +3.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "karrie",
+      "w": "Karrie +2.8pp vs (2.1.95a)"
+    },
+    {
+      "i": "zhuxin",
+      "w": "Zhuxin +2.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "xborg",
+      "w": "X.Borg +2.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-tank true dmg"
+    }
+  ],
+  "lesley": [
+    {
+      "i": "sun",
+      "w": "Sun +3.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "gloo",
+      "w": "Gloo +3.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "estes",
+      "w": "Estes +2.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "tigreal",
+      "w": "Tigreal +2.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "mathilda",
+      "w": "Mathilda +2.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-marksman (true dmg)"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    }
+  ],
+  "ling": [
+    {
+      "i": "natalia",
+      "w": "Natalia +5.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "saber",
+      "w": "Saber +3.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "lukas",
+      "w": "Lukas +3.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "melissa",
+      "w": "Melissa +3.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "floryn",
+      "w": "Floryn +2.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "masha",
+      "w": "Masha +2.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "athenas-shield",
+      "w": "Anti burst magic"
+    },
+    {
+      "i": "immortality",
+      "w": "Bangkit setelah tumbang"
+    }
+  ],
+  "lolita": [
+    {
+      "i": "yve",
+      "w": "Yve +6.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "esmeralda",
+      "w": "Esmeralda +6.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "zhuxin",
+      "w": "Zhuxin +5.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "melissa",
+      "w": "Melissa +5.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "kadita",
+      "w": "Kadita +4.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "aurora",
+      "w": "Aurora +4.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "dominance-ice",
+      "w": "Anti-heal + AS down"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    }
+  ],
+  "lukas": [
+    {
+      "i": "balmond",
+      "w": "Balmond +3.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "baxia",
+      "w": "Baxia +2.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "thamuz",
+      "w": "Thamuz +2.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "minsitthar",
+      "w": "Minsitthar +2.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "phoveus",
+      "w": "Phoveus +2.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "dyrroth",
+      "w": "Dyrroth +1.8pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-tank true dmg"
+    }
+  ],
+  "lunox": [
+    {
+      "i": "fredrinn",
+      "w": "Fredrinn +2.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "ruby",
+      "w": "Ruby +2.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "saber",
+      "w": "Saber +2.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "odette",
+      "w": "Odette +2.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "clint",
+      "w": "Clint +2.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "radiant-armor",
+      "w": "Kurangi dmg magic"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "athenas-shield",
+      "w": "Anti burst magic"
+    }
+  ],
+  "luo-yi": [
+    {
+      "i": "lolita",
+      "w": "Lolita +3.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "joy",
+      "w": "Joy +2.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "novaria",
+      "w": "Novaria +2.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "benedetta",
+      "w": "Benedetta +2.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "beatrix",
+      "w": "Beatrix +2.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "radiant-armor",
+      "w": "Kurangi dmg magic"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "athenas-shield",
+      "w": "Anti burst magic"
+    }
+  ],
+  "lylia": [
+    {
+      "i": "rafaela",
+      "w": "Rafaela +1.8pp vs (2.1.95a)"
+    },
+    {
+      "i": "joy",
+      "w": "Joy +1.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "mathilda",
+      "w": "Mathilda +1.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "benedetta",
+      "w": "Benedetta +1.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "paquito",
+      "w": "Paquito +1.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "chou",
+      "w": "Chou +1.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "radiant-armor",
+      "w": "Kurangi dmg magic"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    }
+  ],
+  "marcel": [
+    {
+      "i": "angela",
+      "w": "Angela +5.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "floryn",
+      "w": "Floryn +4.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "lesley",
+      "w": "Lesley +4.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "cyclops",
+      "w": "Cyclops +3.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "esmeralda",
+      "w": "Esmeralda +3.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "rafaela",
+      "w": "Rafaela +3.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "dominance-ice",
+      "w": "Anti-heal + AS down"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    }
+  ],
+  "martis": [
+    {
+      "i": "xborg",
+      "w": "X.Borg +4.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "minsitthar",
+      "w": "Minsitthar +3.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "marcel",
+      "w": "Marcel +2.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "balmond",
+      "w": "Balmond +2.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "floryn",
+      "w": "Floryn +1.8pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-tank true dmg"
+    }
+  ],
+  "masha": [
+    {
+      "i": "argus",
+      "w": "Argus +4.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "sun",
+      "w": "Sun +4.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "estes",
+      "w": "Estes +3.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "chip",
+      "w": "Chip +3.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "aamon",
+      "w": "Aamon +3.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "aulus",
+      "w": "Aulus +2.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-tank true dmg"
+    }
+  ],
+  "mathilda": [
+    {
+      "i": "esmeralda",
+      "w": "Esmeralda +4.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "odette",
+      "w": "Odette +3.8pp vs (2.1.95a)"
+    },
+    {
+      "i": "melissa",
+      "w": "Melissa +3.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "alucard",
+      "w": "Alucard +3.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "edith",
+      "w": "Edith +2.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "freya",
+      "w": "Freya +1.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "dominance-ice",
+      "w": "Anti-heal + AS down"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    }
+  ],
+  "melissa": [
+    {
+      "i": "layla",
+      "w": "Layla +3.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "vale",
+      "w": "Vale +2.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "zilong",
+      "w": "Zilong +2.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "ixia",
+      "w": "Ixia +2.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "yin",
+      "w": "Yin +2.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "alpha",
+      "w": "Alpha +2.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-marksman (true dmg)"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    }
+  ],
+  "minotaur": [
+    {
+      "i": "alice",
+      "w": "Alice +2.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "beatrix",
+      "w": "Beatrix +2.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "marcel",
+      "w": "Marcel +2.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "carmilla",
+      "w": "Carmilla +2.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "kimmy",
+      "w": "Kimmy +2.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "great-dragon-spear",
+      "w": "Anti-tank (true dmg)"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    }
+  ],
+  "minsitthar": [
+    {
+      "i": "natalia",
+      "w": "Natalia +3.8pp vs (2.1.95a)"
+    },
+    {
+      "i": "yin",
+      "w": "Yin +2.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "xborg",
+      "w": "X.Borg +2.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "aulus",
+      "w": "Aulus +2.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "karina",
+      "w": "Karina +1.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "yu-zhong",
+      "w": "Yu Zhong +1.8pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-tank true dmg"
+    }
+  ],
+  "miya": [
+    {
+      "i": "belerick",
+      "w": "Belerick +2.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "gatotkaca",
+      "w": "Gatotkaca +2.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "karina",
+      "w": "Karina +1.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "thamuz",
+      "w": "Thamuz +1.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "beatrix",
+      "w": "Beatrix +1.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-marksman (true dmg)"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    }
+  ],
+  "moskov": [
+    {
+      "i": "cyclops",
+      "w": "Cyclops +2.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "saber",
+      "w": "Saber +2.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "karina",
+      "w": "Karina +2.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "martis",
+      "w": "Martis +1.8pp vs (2.1.95a)"
+    },
+    {
+      "i": "dyrroth",
+      "w": "Dyrroth +1.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-marksman (true dmg)"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    }
+  ],
+  "nana": [
+    {
+      "i": "gloo",
+      "w": "Gloo +2.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "atlas",
+      "w": "Atlas +2.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "hylos",
+      "w": "Hylos +1.8pp vs (2.1.95a)"
+    },
+    {
+      "i": "akai",
+      "w": "Akai +1.8pp vs (2.1.95a)"
+    },
+    {
+      "i": "sun",
+      "w": "Sun +1.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "yi-sun-shin",
+      "w": "Yi Sun-shin +1.4pp vs (2.1.95a, silang)"
+    },
+    {
+      "i": "radiant-armor",
+      "w": "Kurangi dmg magic"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "athenas-shield",
+      "w": "Anti burst magic"
+    }
+  ],
+  "natalia": [
+    {
+      "i": "cyclops",
+      "w": "Cyclops +5.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "karina",
+      "w": "Karina +4.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "mathilda",
+      "w": "Mathilda +3.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "saber",
+      "w": "Saber +3.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "rafaela",
+      "w": "Rafaela +3.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "paquito",
+      "w": "Paquito +3.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "athenas-shield",
+      "w": "Anti burst magic"
+    }
+  ],
+  "natan": [
+    {
+      "i": "lolita",
+      "w": "Lolita +3.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "arlott",
+      "w": "Arlott +2.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "nolan",
+      "w": "Nolan +2.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "fanny",
+      "w": "Fanny +1.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "masha",
+      "w": "Masha +1.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "granger",
+      "w": "Granger +1.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-marksman (true dmg)"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    }
+  ],
+  "nolan": [
+    {
+      "i": "natalia",
+      "w": "Natalia +3.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "saber",
+      "w": "Saber +3.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "hilda",
+      "w": "Hilda +2.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "hayabusa",
+      "w": "Hayabusa +2.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "lesley",
+      "w": "Lesley +2.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "jawhead",
+      "w": "Jawhead +2.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "athenas-shield",
+      "w": "Anti burst magic"
+    },
+    {
+      "i": "immortality",
+      "w": "Bangkit setelah tumbang"
+    }
+  ],
+  "novaria": [
+    {
+      "i": "natalia",
+      "w": "Natalia +3.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "ling",
+      "w": "Ling +2.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "estes",
+      "w": "Estes +1.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "angela",
+      "w": "Angela +1.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "aldous",
+      "w": "Aldous +1.9pp vs (2.1.95a)"
     }
   ],
   "obsidia": [
     {
       "i": "baxia",
-      "w": "Stat edge +3.4pp vs Obsidia (2.1.95a)"
+      "w": "Baxia +3.4pp vs (2.1.95a)"
     },
     {
       "i": "chip",
-      "w": "Stat edge +2.6pp"
+      "w": "Chip +2.6pp vs (2.1.95a)"
     },
     {
       "i": "estes",
-      "w": "Stat edge +2.4pp; sustain tether"
+      "w": "Estes +2.4pp vs (2.1.95a)"
     },
     {
       "i": "belerick",
-      "w": "Stat edge +2.0pp; pantul basic"
+      "w": "Belerick +2.0pp vs (2.1.95a)"
     },
     {
-      "i": "blade-armor",
-      "w": "Pantul basic attack"
+      "i": "uranus",
+      "w": "Uranus +2.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "miya",
+      "w": "Miya +1.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-marksman (true dmg)"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    }
+  ],
+  "odette": [
+    {
+      "i": "vale",
+      "w": "Vale +2.8pp vs (2.1.95a)"
+    },
+    {
+      "i": "alpha",
+      "w": "Alpha +2.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "nana",
+      "w": "Nana +2.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "gatotkaca",
+      "w": "Gatotkaca +2.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "edith",
+      "w": "Edith +2.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "thamuz",
+      "w": "Thamuz +2.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "radiant-armor",
+      "w": "Kurangi dmg magic"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "athenas-shield",
+      "w": "Anti burst magic"
+    }
+  ],
+  "paquito": [
+    {
+      "i": "esmeralda",
+      "w": "Esmeralda +3.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "chip",
+      "w": "Chip +3.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "khufra",
+      "w": "Khufra +2.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "melissa",
+      "w": "Melissa +2.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "odette",
+      "w": "Odette +1.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-tank true dmg"
+    }
+  ],
+  "pharsa": [
+    {
+      "i": "natalia",
+      "w": "Natalia +2.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "benedetta",
+      "w": "Benedetta +1.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "hanzo",
+      "w": "Hanzo +1.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "gloo",
+      "w": "Gloo +1.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "mathilda",
+      "w": "Mathilda +1.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "radiant-armor",
+      "w": "Kurangi dmg magic"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "athenas-shield",
+      "w": "Anti burst magic"
+    }
+  ],
+  "phoveus": [
+    {
+      "i": "xborg",
+      "w": "X.Borg +3.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "minsitthar",
+      "w": "Minsitthar +3.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "barats",
+      "w": "Barats +3.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "terizla",
+      "w": "Terizla +2.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "esmeralda",
+      "w": "Esmeralda +2.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "bane",
+      "w": "Bane +2.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-tank true dmg"
+    }
+  ],
+  "popol-and-kupa": [
+    {
+      "i": "atlas",
+      "w": "Atlas +4.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "carmilla",
+      "w": "Carmilla +4.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "sun",
+      "w": "Sun +3.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "marcel",
+      "w": "Marcel +2.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "alice",
+      "w": "Alice +2.8pp vs (2.1.95a)"
+    },
+    {
+      "i": "minotaur",
+      "w": "Minotaur +2.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-marksman (true dmg)"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    }
+  ],
+  "rafaela": [
+    {
+      "i": "odette",
+      "w": "Odette +3.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "ixia",
+      "w": "Ixia +3.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "estes",
+      "w": "Estes +2.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "layla",
+      "w": "Layla +2.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "silvanna",
+      "w": "Silvanna +2.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "lukas",
+      "w": "Lukas +2.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
     },
     {
       "i": "dominance-ice",
-      "w": "Kurangi AS & heal musuh"
+      "w": "Anti-heal + AS down"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    }
+  ],
+  "roger": [
+    {
+      "i": "zhuxin",
+      "w": "Zhuxin +2.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "khufra",
+      "w": "Khufra +1.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "leomord",
+      "w": "Leomord +1.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "minotaur",
+      "w": "Minotaur +1.8pp vs (2.1.95a)"
+    },
+    {
+      "i": "faramis",
+      "w": "Faramis +1.8pp vs (2.1.95a)"
+    },
+    {
+      "i": "sora",
+      "w": "Sora +1.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-tank true dmg"
+    }
+  ],
+  "ruby": [
+    {
+      "i": "xborg",
+      "w": "X.Borg +3.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "phoveus",
+      "w": "Phoveus +3.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "lolita",
+      "w": "Lolita +2.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "arlott",
+      "w": "Arlott +2.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "barats",
+      "w": "Barats +1.8pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-tank true dmg"
+    }
+  ],
+  "saber": [
+    {
+      "i": "leomord",
+      "w": "Leomord +3.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "sun",
+      "w": "Sun +3.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "argus",
+      "w": "Argus +2.8pp vs (2.1.95a)"
+    },
+    {
+      "i": "johnson",
+      "w": "Johnson +2.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "balmond",
+      "w": "Balmond +2.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "alpha",
+      "w": "Alpha +2.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "athenas-shield",
+      "w": "Anti burst magic"
+    },
+    {
+      "i": "immortality",
+      "w": "Bangkit setelah tumbang"
+    }
+  ],
+  "selena": [
+    {
+      "i": "chip",
+      "w": "Chip +2.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "gloo",
+      "w": "Gloo +2.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "masha",
+      "w": "Masha +2.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "lukas",
+      "w": "Lukas +2.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "popol-and-kupa",
+      "w": "Popol and Kupa +2.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "athenas-shield",
+      "w": "Anti burst magic"
+    },
+    {
+      "i": "immortality",
+      "w": "Bangkit setelah tumbang"
+    }
+  ],
+  "silvanna": [
+    {
+      "i": "barats",
+      "w": "Barats +3.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "benedetta",
+      "w": "Benedetta +2.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "ling",
+      "w": "Ling +2.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "edith",
+      "w": "Edith +2.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "atlas",
+      "w": "Atlas +2.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "khufra",
+      "w": "Khufra +2.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-tank true dmg"
     }
   ],
   "sora": [
     {
-      "i": "antique-cuirass",
-      "w": "Kurangi damage phys"
+      "i": "melissa",
+      "w": "Melissa +2.8pp vs (2.1.95a)"
     },
     {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
+      "i": "phoveus",
+      "w": "Phoveus +2.7pp vs (2.1.95a)"
     },
     {
-      "i": "blade-armor",
-      "w": "Pantul basic attack"
+      "i": "khufra",
+      "w": "Khufra +2.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "alice",
+      "w": "Alice +1.8pp vs (2.1.95a)"
+    },
+    {
+      "i": "martis",
+      "w": "Martis +1.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-tank true dmg"
     }
   ],
-  "marcel": [
+  "sun": [
+    {
+      "i": "joy",
+      "w": "Joy +4.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "natan",
+      "w": "Natan +4.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "aldous",
+      "w": "Aldous +4.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "ruby",
+      "w": "Ruby +4.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "alucard",
+      "w": "Alucard +3.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "faramis",
+      "w": "Faramis +3.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-tank true dmg"
+    }
+  ],
+  "suyou": [
+    {
+      "i": "harith",
+      "w": "Harith +2.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "joy",
+      "w": "Joy +1.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "harley",
+      "w": "Harley +1.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "gusion",
+      "w": "Gusion +1.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "odette",
+      "w": "Odette +1.4pp vs (2.1.95a)"
+    },
     {
       "i": "winter-crown",
       "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "immortality",
-      "w": "Bangkit setelah tumbang"
     },
     {
       "i": "athenas-shield",
-      "w": "Shield serap burst magic"
+      "w": "Anti burst magic"
+    },
+    {
+      "i": "immortality",
+      "w": "Bangkit setelah tumbang"
     }
   ],
-  "hirara": [
+  "terizla": [
+    {
+      "i": "xborg",
+      "w": "X.Borg +4.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "karrie",
+      "w": "Karrie +2.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "valir",
+      "w": "Valir +2.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "yve",
+      "w": "Yve +2.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "angela",
+      "w": "Angela +2.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "xavier",
+      "w": "Xavier +1.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-tank true dmg"
+    }
+  ],
+  "thamuz": [
+    {
+      "i": "cici",
+      "w": "Cici +3.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "benedetta",
+      "w": "Benedetta +2.8pp vs (2.1.95a)"
+    },
+    {
+      "i": "valir",
+      "w": "Valir +2.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "xborg",
+      "w": "X.Borg +2.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "karrie",
+      "w": "Karrie +2.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "guinevere",
+      "w": "Guinevere +1.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-tank true dmg"
+    }
+  ],
+  "tigreal": [
+    {
+      "i": "alice",
+      "w": "Alice +3.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "xborg",
+      "w": "X.Borg +2.8pp vs (2.1.95a)"
+    },
+    {
+      "i": "diggie",
+      "w": "Diggie +2.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "valir",
+      "w": "Valir +2.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "zetian",
+      "w": "Zetian +2.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "faramis",
+      "w": "Faramis +2.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "great-dragon-spear",
+      "w": "Anti-tank (true dmg)"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    }
+  ],
+  "uranus": [
+    {
+      "i": "dyrroth",
+      "w": "Dyrroth +3.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "angela",
+      "w": "Angela +2.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "karrie",
+      "w": "Karrie +2.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "joy",
+      "w": "Joy +2.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "luo-yi",
+      "w": "Luo Yi +2.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "cecilion",
+      "w": "Cecilion +1.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "great-dragon-spear",
+      "w": "Anti-tank (true dmg)"
+    }
+  ],
+  "vale": [
+    {
+      "i": "khaleed",
+      "w": "Khaleed +2.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "gloo",
+      "w": "Gloo +2.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "atlas",
+      "w": "Atlas +2.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "benedetta",
+      "w": "Benedetta +2.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "lapu-lapu",
+      "w": "Lapu-Lapu +2.3pp vs (2.1.95a, silang)"
+    },
+    {
+      "i": "radiant-armor",
+      "w": "Kurangi dmg magic"
+    },
     {
       "i": "winter-crown",
       "w": "Immune burst 2 dtk"
     },
     {
-      "i": "immortality",
-      "w": "Bangkit setelah tumbang"
+      "i": "athenas-shield",
+      "w": "Anti burst magic"
+    }
+  ],
+  "valentina": [
+    {
+      "i": "chip",
+      "w": "Chip +3.7pp vs (2.1.95a)"
     },
     {
-      "i": "antique-cuirass",
-      "w": "Kurangi damage phys"
+      "i": "odette",
+      "w": "Odette +3.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "johnson",
+      "w": "Johnson +3.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "silvanna",
+      "w": "Silvanna +3.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "phoveus",
+      "w": "Phoveus +3.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "jawhead",
+      "w": "Jawhead +2.3pp vs (2.1.95a)"
+    }
+  ],
+  "valir": [
+    {
+      "i": "rafaela",
+      "w": "Rafaela +3.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "helcurt",
+      "w": "Helcurt +3.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "lolita",
+      "w": "Lolita +2.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "kaja",
+      "w": "Kaja +2.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "mathilda",
+      "w": "Mathilda +2.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "gusion",
+      "w": "Gusion +2.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "radiant-armor",
+      "w": "Kurangi dmg magic"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "athenas-shield",
+      "w": "Anti burst magic"
+    }
+  ],
+  "vexana": [
+    {
+      "i": "alice",
+      "w": "Alice +2.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "marcel",
+      "w": "Marcel +2.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "xborg",
+      "w": "X.Borg +2.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "benedetta",
+      "w": "Benedetta +1.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "natalia",
+      "w": "Natalia +1.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "radiant-armor",
+      "w": "Kurangi dmg magic"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "athenas-shield",
+      "w": "Anti burst magic"
+    }
+  ],
+  "wanwan": [
+    {
+      "i": "phoveus",
+      "w": "Phoveus +4.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "irithel",
+      "w": "Irithel +4.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "faramis",
+      "w": "Faramis +3.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "cyclops",
+      "w": "Cyclops +3.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "khufra",
+      "w": "Khufra +3.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "bruno",
+      "w": "Bruno +3.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-marksman (true dmg)"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    }
+  ],
+  "xborg": [
+    {
+      "i": "benedetta",
+      "w": "Benedetta +3.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "ling",
+      "w": "Ling +3.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "valentina",
+      "w": "Valentina +3.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "helcurt",
+      "w": "Helcurt +3.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "paquito",
+      "w": "Paquito +3.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "floryn",
+      "w": "Floryn +3.5pp vs (2.1.95a)"
+    }
+  ],
+  "xavier": [
+    {
+      "i": "natalia",
+      "w": "Natalia +3.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "lolita",
+      "w": "Lolita +2.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "helcurt",
+      "w": "Helcurt +2.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "angela",
+      "w": "Angela +2.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "zilong",
+      "w": "Zilong +1.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "radiant-armor",
+      "w": "Kurangi dmg magic"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "athenas-shield",
+      "w": "Anti burst magic"
+    }
+  ],
+  "yi-sun-shin": [
+    {
+      "i": "uranus",
+      "w": "Uranus +2.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "aamon",
+      "w": "Aamon +1.8pp vs (2.1.95a)"
+    },
+    {
+      "i": "harley",
+      "w": "Harley +1.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "karina",
+      "w": "Karina +1.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "hayabusa",
+      "w": "Hayabusa +1.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "athenas-shield",
+      "w": "Anti burst magic"
+    }
+  ],
+  "yin": [
+    {
+      "i": "wanwan",
+      "w": "Wanwan +4.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "esmeralda",
+      "w": "Esmeralda +3.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "uranus",
+      "w": "Uranus +2.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "irithel",
+      "w": "Irithel +2.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "hilda",
+      "w": "Hilda +2.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "khaleed",
+      "w": "Khaleed +2.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-tank true dmg"
+    }
+  ],
+  "yu-zhong": [
+    {
+      "i": "masha",
+      "w": "Masha +3.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "wanwan",
+      "w": "Wanwan +1.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "karrie",
+      "w": "Karrie +1.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "lunox",
+      "w": "Lunox +1.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "edith",
+      "w": "Edith +1.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-tank true dmg"
+    }
+  ],
+  "yve": [
+    {
+      "i": "fanny",
+      "w": "Fanny +2.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "helcurt",
+      "w": "Helcurt +2.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "chou",
+      "w": "Chou +2.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "silvanna",
+      "w": "Silvanna +2.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "kadita",
+      "w": "Kadita +2.1pp vs (2.1.95a)"
+    },
+    {
+      "i": "gusion",
+      "w": "Gusion +1.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "radiant-armor",
+      "w": "Kurangi dmg magic"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "athenas-shield",
+      "w": "Anti burst magic"
+    }
+  ],
+  "zetian": [
+    {
+      "i": "valentina",
+      "w": "Valentina +2.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "gloo",
+      "w": "Gloo +1.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "floryn",
+      "w": "Floryn +1.7pp vs (2.1.95a)"
+    },
+    {
+      "i": "uranus",
+      "w": "Uranus +1.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "mathilda",
+      "w": "Mathilda +1.5pp vs (2.1.95a)"
+    }
+  ],
+  "zhask": [
+    {
+      "i": "natan",
+      "w": "Natan +3.0pp vs (2.1.95a)"
+    },
+    {
+      "i": "estes",
+      "w": "Estes +2.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "belerick",
+      "w": "Belerick +2.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "sun",
+      "w": "Sun +2.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "alice",
+      "w": "Alice +2.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "vexana",
+      "w": "Vexana +2.0pp vs (2.1.95a)"
+    }
+  ],
+  "zhuxin": [
+    {
+      "i": "valir",
+      "w": "Valir +2.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "arlott",
+      "w": "Arlott +2.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "yve",
+      "w": "Yve +2.5pp vs (2.1.95a)"
+    },
+    {
+      "i": "melissa",
+      "w": "Melissa +2.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "valentina",
+      "w": "Valentina +2.3pp vs (2.1.95a)"
+    },
+    {
+      "i": "hayabusa",
+      "w": "Hayabusa +2.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "radiant-armor",
+      "w": "Kurangi dmg magic"
+    },
+    {
+      "i": "winter-crown",
+      "w": "Immune burst 2 dtk"
+    },
+    {
+      "i": "athenas-shield",
+      "w": "Anti burst magic"
+    }
+  ],
+  "zilong": [
+    {
+      "i": "tigreal",
+      "w": "Tigreal +2.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "karina",
+      "w": "Karina +2.9pp vs (2.1.95a)"
+    },
+    {
+      "i": "johnson",
+      "w": "Johnson +2.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "atlas",
+      "w": "Atlas +2.6pp vs (2.1.95a)"
+    },
+    {
+      "i": "gatotkaca",
+      "w": "Gatotkaca +2.4pp vs (2.1.95a)"
+    },
+    {
+      "i": "badang",
+      "w": "Badang +1.2pp vs (2.1.95a)"
+    },
+    {
+      "i": "malefic-gun",
+      "w": "Tembus armor tank"
+    },
+    {
+      "i": "sea-halberd",
+      "w": "Anti-lifesteal 50%"
+    },
+    {
+      "i": "blade-of-the-heptaseas",
+      "w": "Anti-tank true dmg"
     }
   ]
 }
