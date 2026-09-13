@@ -1,0 +1,43 @@
+{
+  "patch": "2.1.95a (Season 41)",
+  "note": "Rekomendasi push rank per lane dari tier SS/S + win rate ranked mlbbhub/mlbbmeta. Meta berubah tiap patch — verifikasi sebelum ranked.",
+  "noteEn": "Ranked push picks per lane from SS/S tiers + mlbbhub/mlbbmeta ranked win rates. Meta shifts every patch — verify before ranked.",
+  "src": "mlbbhub.com/tier-list + mlbbmeta.com/hero-tier (Sep 2026)",
+  "lanes": {
+    "exp": [
+      {"s": "masha", "w": "S-tier, WR 56.3% — sustain + split push susah dibendung"},
+      {"s": "argus", "w": "S-tier, WR 54.5% — ulti immortal menang duel EXP"},
+      {"s": "lukas", "w": "A-tier, WR 53.3% — fighter lincah, snowball cepat"},
+      {"s": "badang", "w": "Fighter tebal + CC, aman blind pick EXP"},
+      {"s": "silvanna", "w": "Duel + lock ulti, kuat lawan fighter meta"}
+    ],
+    "jungle": [
+      {"s": "ling", "w": "Mobilitas tembok, culik MM/mage lalu kabur"},
+      {"s": "hayabusa", "w": "Burst + bayangan, snowball turtle cepat"},
+      {"s": "yi-sun-shin", "w": "A-tier, WR 52% — farming aman + ulti buka map"},
+      {"s": "julian", "w": "Damage hybrid, kuat duel objektif"},
+      {"s": "aamon", "w": "Burst invisible, pick-off backline musuh"}
+    ],
+    "gold": [
+      {"s": "miya", "w": "S-tier, WR 53.7% — late game DPS paling stabil"},
+      {"s": "melissa", "w": "S-tier, WR 57% — boneka zoning, hancurkan frontline"},
+      {"s": "hanabi", "w": "A-tier, WR 52.6% — shield + pantulan, aman lawan dive"},
+      {"s": "irithel", "w": "Jalan sambil tembak, DPS konstan teamfight"},
+      {"s": "popol-and-kupa", "w": "Early kuat, tekan tower gold sejak menit 1"}
+    ],
+    "roam": [
+      {"s": "khufra", "w": "S-tier, WR 54.3% — anti dash, matikan assassin meta"},
+      {"s": "minotaur", "w": "S-tier, WR 54.5% — heal + CC area teamfight"},
+      {"s": "lolita", "w": "A-tier, WR 53.6% — shield + block proyektil MM/mage"},
+      {"s": "estes", "w": "S-tier heal, WR 54.3% — tim susah mati war panjang"},
+      {"s": "floryn", "w": "S-tier, WR 53.6% — heal global, bantu semua lane"}
+    ],
+    "mid": [
+      {"s": "gord", "w": "A-tier, WR 52.2% — burst + true damage, zoning turtle"},
+      {"s": "valir", "w": "A-tier, WR 52.7% — dorong + anti dive, clear cepat"},
+      {"s": "kagura", "w": "Payung burst + escape, pick-off rapi"},
+      {"s": "yve", "w": "Zoning kotak, kontrol turtle/lord"},
+      {"s": "zhask", "w": "A-tier, WR 52.1% — spawn tekan lane, push objektif"}
+    ]
+  }
+}

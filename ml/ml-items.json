@@ -354,8 +354,8 @@
     "c": "Defense"
   },
   {
-    "s": "my",
-    "n": "My",
+    "s": "mystery-codex",
+    "n": "Mystery Codex",
     "i": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Mystery_Codex.png",
     "c": "Magic"
   },
@@ -474,8 +474,8 @@
     "c": "Attack"
   },
   {
-    "s": "vit",
-    "n": "Vit",
+    "s": "vitality-crystal",
+    "n": "Vitality Crystal",
     "i": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Vitality_Crystal.png",
     "c": "Defense"
   },
@@ -490,12 +490,6 @@
     "n": "Warrior Boots",
     "i": "https://static.wikia.nocookie.net/mobile-legends/images/4/4b/Warrior_Boots.png",
     "c": "Movement"
-  },
-  {
-    "s": "wind-of-nature",
-    "n": "Wind of Nature",
-    "i": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Wind_of_Nature.png",
-    "c": "Defense"
   },
   {
     "s": "wind-of-nature",
