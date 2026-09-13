@@ -80,8 +80,8 @@
     "tips": "Tahan S3 untuk charge, lepas tepat saat musuh masuk range."
   },
   "hayabusa": {
-    "combo": "S2 → S1 → S3",
-    "tips": "Tandai target dengan S2 shadow, lalu isolate untuk ult damage."
+    "combo": "S1 → S2 → S3",
+    "tips": "2.1.95a: S1 dulu untuk poke+mark (damage naik), S2 phantom lebih mudah kena, baru ult. Jangan S2 engage duluan."
   },
   "freya": {
     "combo": "S1 → AA → S2 → AA",
@@ -516,8 +516,8 @@
     "tips": "Gunakan S2 untuk crowd control, burst dengan S1 dan S3."
   },
   "obsidia": {
-    "combo": "S1 → S2 → S3 → AA",
-    "tips": "Buka dengan S1 untuk damage, CC dengan S2, execute dengan S3."
+    "combo": "S1 → AA → S3 → AA",
+    "tips": "2.1.95a: stack pasif via lane+turret (turret kini trigger), ulti beri shield — tether target yang sudah pakai dash."
   },
   "sora": {
     "combo": "S2 → S1 → S3 → AA",

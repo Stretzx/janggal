@@ -281,6 +281,18 @@
   ],
   "hayabusa": [
     {
+      "i": "saber",
+      "w": "Stat edge +3.0pp vs Hayabusa (2.1.95a)"
+    },
+    {
+      "i": "fredrinn",
+      "w": "Outscale late game +2.0pp"
+    },
+    {
+      "i": "eudora",
+      "w": "Stat edge +1.9pp; burst lock"
+    },
+    {
       "i": "khufra",
       "w": "Ult anti-dash: mobilitas mati"
     },
@@ -953,6 +965,14 @@
   ],
   "hanzo": [
     {
+      "i": "ling",
+      "w": "Stat edge +3.8pp vs Hanzo (2.1.95a)"
+    },
+    {
+      "i": "natalia",
+      "w": "Stat edge +3.7pp"
+    },
+    {
       "i": "franco",
       "w": "Hook + suppression"
     },
@@ -1289,12 +1309,20 @@
   ],
   "atlas": [
     {
+      "i": "marcel",
+      "w": "Stat edge +6.0pp vs Atlas (2.1.95a)"
+    },
+    {
       "i": "diggie",
       "w": "Anti-CC: kunci setter"
     },
     {
       "i": "valir",
       "w": "Knockback terus-menerus"
+    },
+    {
+      "i": "wanwan",
+      "w": "Outscale late +3.6pp"
     },
     {
       "i": "chou",
@@ -1807,16 +1835,28 @@
   ],
   "obsidia": [
     {
+      "i": "baxia",
+      "w": "Stat edge +3.4pp vs Obsidia (2.1.95a)"
+    },
+    {
+      "i": "chip",
+      "w": "Stat edge +2.6pp"
+    },
+    {
+      "i": "estes",
+      "w": "Stat edge +2.4pp; sustain tether"
+    },
+    {
+      "i": "belerick",
+      "w": "Stat edge +2.0pp; pantul basic"
+    },
+    {
       "i": "blade-armor",
       "w": "Pantul basic attack"
     },
     {
       "i": "dominance-ice",
       "w": "Kurangi AS & heal musuh"
-    },
-    {
-      "i": "antique-cuirass",
-      "w": "Kurangi damage phys"
     }
   ],
   "sora": [

@@ -543,16 +543,16 @@
   ],
   "thunder-belt": [
     {
-      "i": "malefic-roar",
-      "w": "Penetrasi armor"
+      "i": "winter-crown",
+      "w": "Immune true dmg 2 dtk"
     },
     {
-      "i": "hunter-strike",
-      "w": "Penetrasi armor + MS"
+      "i": "antique-cuirass",
+      "w": "Kurangi damage phys"
     },
     {
-      "i": "demon-hunter-sword",
-      "w": "Damage % max HP"
+      "i": "athenas-shield",
+      "w": "Redam burst pasca-efek (2.1.95a: assassin kena restriksi 50%)"
     }
   ],
   "queens-wings": [
