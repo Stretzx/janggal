@@ -127,19 +127,13 @@
       "created_at": "2026-02-25T12:35:25.173128+00:00"
     },
     {
-      "id": "49606bd6-2a42-473f-80ef-1a74207a779a",
-      "title": "Masha instan kil",
-      "description": "usahakan snowball atau bawa ke late game",
+      "id": "95274b73-75a7-452c-8fe2-be8b63fabd86",
+      "title": "Exp semi tank",
+      "description": "Kuat laning lawan hampir siapapun kecuali cici,jangan pakai build ini ketika lawan memakai cici exp. \nUsahakan melakukan gemplay agresif ketika tunderbelt sudah jadi.Ketika bertemu lawan yg mengandalkan lifesteel gunakan sea halberd di item pertama atau kedua setelah tunderbelt.",
       "tips": "",
       "likes": 1,
-      "patch_id": "c6153242-aa0e-47fc-9d09-edfb495a997d",
+      "patch_id": "8bda5b76-0cd7-4adb-a02d-019026492527",
       "items": [
-        {
-          "id": "5e7dbecb-76e4-4c51-808c-712efa14974a",
-          "name": "Blade of the Heptaseas",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Blade_of_the_Heptaseas.png",
-          "price": 1950
-        },
         {
           "id": "1433cb2c-1ad9-4f7d-b594-793ac4c9e6b6",
           "name": "Rapid Boots",
@@ -147,45 +141,51 @@
           "price": 720
         },
         {
-          "id": "2c6757ba-8522-4d3c-a894-407f2c4f16e9",
-          "name": "Sea Halberd",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Sea_Halberd.png",
+          "id": "9d4988cb-f1ff-4020-a152-09bfa42ea847",
+          "name": "Thunder Belt",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/dd/Thunder_Belt.png",
+          "price": 1820
+        },
+        {
+          "id": "a67fa43a-b139-4b0b-9d0f-43537ef95a24",
+          "name": "Windtalker",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Windtalker.png",
+          "price": 1880
+        },
+        {
+          "id": "85ca390d-2fd5-4428-84ca-cdda78d395d2",
+          "name": "Corrosion Scythe",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Corrosion_Scythe.png",
           "price": 2050
         },
         {
-          "id": "a80b1b94-e5a3-4c09-af16-3112a6ae9985",
-          "name": "Malefic Roar",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Malefic_Roar.png",
-          "price": 2060
+          "id": "9d21f19b-e352-4d3e-b6b0-8c742a8078e7",
+          "name": "Malefic Gun",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Malefic_Gun.png",
+          "price": 2120
         },
         {
-          "id": "27361867-2d35-4ad8-8d4d-ba0266b04109",
-          "name": "Blade of Despair",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Blade_of_Despair.png",
-          "price": 3010
-        },
-        {
-          "id": "60d82125-ae14-43f5-9368-cadd62bb070a",
-          "name": "Endless Battle",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Endless_Battle.png",
-          "price": 2330
+          "id": "f8f538b8-5cf0-4fd4-a4e6-dff974a0b715",
+          "name": "Guardian Helmet",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Guardian_Helmet.png",
+          "price": 2500
         }
       ],
       "emblem": {
-        "id": "6f783459-4751-414f-b371-85282443cfd4",
-        "name": "Assassin",
-        "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Custom_Assassin_Emblem.png"
+        "id": "c0c1e80e-c705-4a36-ae5f-f930130489ba",
+        "name": "Tank",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Custom_Tank_Emblem.png"
       },
       "spell": {
-        "id": "5c127219-bbdd-4373-99fb-e34ec4c341c1",
-        "name": "Petrify",
-        "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Petrify.png"
+        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
+        "name": "Flicker",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
       },
       "conditional_items": [
-        "a67fa43a-b139-4b0b-9d0f-43537ef95a24",
-        "8408352d-1f00-4c68-b3ba-7abc320588ce"
+        "2f707623-6044-4dc4-8183-5095409c5078",
+        "2c6757ba-8522-4d3c-a894-407f2c4f16e9"
       ],
-      "created_at": "2026-06-01T09:49:36.831732+00:00"
+      "created_at": "2026-09-18T03:14:08.806084+00:00"
     }
   ]
 }

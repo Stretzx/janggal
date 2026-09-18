@@ -63,36 +63,24 @@
       "created_at": "2026-05-25T13:19:32.193655+00:00"
     },
     {
-      "id": "9a481475-2971-4cf4-8038-3a1afa3bd69f",
-      "title": "MPL ID S18 WEEK 2 DAY 1 TLID.Lyoni",
-      "description": "( NAVI VS TLID GAME 2 ) MPL INDONESIA SEASON 18 WEEK 2 DAY 1 21 AGUSTUS 2026",
+      "id": "1ebd40c9-ddf7-4451-990e-44f98e4e1bea",
+      "title": "MPL ID S18 WEEK 4 DAY 1 RRQ.Said",
+      "description": "( RRQ VS TLID GAME 2 ) MPL INDONESIA SEASON 18 WEEK 4 DAY 1 4 SEPTEMBER 2026",
       "tips": null,
       "likes": 0,
       "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
       "items": [
         {
-          "id": "93514bd9-2483-40ef-b301-86a6c796e2be",
-          "name": "Antique Cuirass",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Antique_Cuirass.png",
-          "price": 2170
+          "id": "8f518770-5b2a-42ab-8408-5fd26febaab0",
+          "name": "Steel Legplates",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Steel_Legplates.png",
+          "price": 630
         },
         {
-          "id": "d946f868-c61d-4433-80f3-3feec9b1af98",
-          "name": "Tought Boots",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Tough_Boots.png",
+          "id": "1433cb2c-1ad9-4f7d-b594-793ac4c9e6b6",
+          "name": "Rapid Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Rapid_Boots.png",
           "price": 720
-        },
-        {
-          "id": "f8e4e2b5-2b5d-42ab-9b2d-f99520df1f90",
-          "name": "Athena's Shield",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Athena%27s_Shield.png",
-          "price": 2150
-        },
-        {
-          "id": "45e33c00-9674-44d3-950b-073425a1f922",
-          "name": "Dominance Ice",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Dominance_Ice.png",
-          "price": 2010
         },
         {
           "id": "f0e350a8-9b23-4216-ba1a-03f7849d07d3",
@@ -101,10 +89,16 @@
           "price": 2050
         },
         {
-          "id": "421314fd-557c-427b-8e74-b016c8dcf33a",
-          "name": "Chastise Pauldron",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Chastise_Pauldron.png",
-          "price": 2100
+          "id": "33f7772c-06b3-4780-86af-2c79c41c5892",
+          "name": "Silence Robe",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Silence_Robe.png",
+          "price": 1020
+        },
+        {
+          "id": "0565f7fd-0dbd-469b-badf-5e3fce18cdc6",
+          "name": "Ares Belt",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Ares_Belt.png",
+          "price": 700
         }
       ],
       "emblem": {
@@ -118,21 +112,21 @@
         "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
       },
       "conditional_items": [],
-      "created_at": "2026-08-22T03:33:24.920257+00:00"
+      "created_at": "2026-09-11T13:20:58.648444+00:00"
     },
     {
-      "id": "fb01da9a-04ed-4c82-b668-24dc45edde6c",
-      "title": "MPL ID S18 WEEK 1 DAY 3 GEEK.AudyTzy",
-      "description": "( GEEK VS BTR GAME 2 ) MPL INDONESIA SEASON 18 WEEK 1 DAY 3 16 AGUSTUS 2026",
+      "id": "98f681a4-2efc-44c1-83da-33dcf933c23c",
+      "title": "MPL ID S18 WEEK 3 DAY 1 NAVI.Aprho",
+      "description": "( NAVI VS BTR GAME 2 ) MPL INDONESIA SEASON 18 WEEK 3 DAY 1 28 AGUSTUS 2026",
       "tips": null,
       "likes": 0,
       "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
       "items": [
         {
-          "id": "f8e4e2b5-2b5d-42ab-9b2d-f99520df1f90",
-          "name": "Athena's Shield",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Athena%27s_Shield.png",
-          "price": 2150
+          "id": "f0e350a8-9b23-4216-ba1a-03f7849d07d3",
+          "name": "Fleeting Time",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/Fleeting_Time.png",
+          "price": 2050
         },
         {
           "id": "d946f868-c61d-4433-80f3-3feec9b1af98",
@@ -141,34 +135,22 @@
           "price": 720
         },
         {
-          "id": "f0e350a8-9b23-4216-ba1a-03f7849d07d3",
-          "name": "Fleeting Time",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/Fleeting_Time.png",
-          "price": 2050
+          "id": "33f7772c-06b3-4780-86af-2c79c41c5892",
+          "name": "Silence Robe",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Silence_Robe.png",
+          "price": 1020
         },
         {
-          "id": "70ae58cf-dc12-42f2-832f-75f9bbbfc0e1",
-          "name": "Oracle",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Oracle.png",
-          "price": 1860
-        },
-        {
-          "id": "2f707623-6044-4dc4-8183-5095409c5078",
-          "name": "Immortality",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Immortality.png",
-          "price": 2120
-        },
-        {
-          "id": "93514bd9-2483-40ef-b301-86a6c796e2be",
-          "name": "Antique Cuirass",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Antique_Cuirass.png",
-          "price": 2170
+          "id": "45e33c00-9674-44d3-950b-073425a1f922",
+          "name": "Dominance Ice",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Dominance_Ice.png",
+          "price": 2010
         }
       ],
       "emblem": {
-        "id": "548cd559-72f6-45b4-a0d5-f4b7aafcb2a9",
-        "name": "Support",
-        "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Custom_Support_Emblem.png"
+        "id": "c0c1e80e-c705-4a36-ae5f-f930130489ba",
+        "name": "Tank",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Custom_Tank_Emblem.png"
       },
       "spell": {
         "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
@@ -176,7 +158,7 @@
         "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
       },
       "conditional_items": [],
-      "created_at": "2026-08-17T16:10:31.335861+00:00"
+      "created_at": "2026-08-29T12:50:04.5157+00:00"
     }
   ]
 }

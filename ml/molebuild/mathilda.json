@@ -5,6 +5,58 @@
   "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_515a1949e9c3dc1ee1a281f45d42b085.png",
   "builds": [
     {
+      "id": "1b259f11-e628-4691-bcd3-77f4f0716b8f",
+      "title": "MPL ID S18 WEEK 2 DAY 3 AE.Hijumee",
+      "description": "( AE VS DEWA GAME 2 ) MPL INDONESIA SEASON 18 WEEK 2 DAY 3 23 AGUSTUS 2026",
+      "tips": null,
+      "likes": 1,
+      "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
+      "items": [
+        {
+          "id": "85779626-b5f7-445b-b77d-c44074f94e2c",
+          "name": "Flask of the Oasis",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Flask_of_the_Oasis.png",
+          "price": 1850
+        },
+        {
+          "id": "a6ec810a-08da-4bbf-a137-8d23531920c9",
+          "name": "Arcane Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Arcane_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "78f73686-df75-42b1-8bb1-fbf9d5f33a70",
+          "name": "Glowing Wand",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Glowing_Wand.png",
+          "price": 2150
+        },
+        {
+          "id": "70ae58cf-dc12-42f2-832f-75f9bbbfc0e1",
+          "name": "Oracle",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Oracle.png",
+          "price": 1860
+        },
+        {
+          "id": "df4f42ce-eb60-4f6b-816c-68421f01d21a",
+          "name": "Tome Of Evil",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Tome_of_Evil.png",
+          "price": null
+        }
+      ],
+      "emblem": {
+        "id": "5e0b6bcf-c296-4117-b0d4-4d6dae8f1618",
+        "name": "Mage",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Custom_Mage_Emblem.png"
+      },
+      "spell": {
+        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
+        "name": "Flicker",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
+      },
+      "conditional_items": [],
+      "created_at": "2026-08-24T07:57:21.138195+00:00"
+    },
+    {
       "id": "af3346f7-7b5b-427c-8e2a-f05c21275254",
       "title": "Tebel",
       "description": "",
@@ -125,64 +177,6 @@
         "85779626-b5f7-445b-b77d-c44074f94e2c"
       ],
       "created_at": "2026-01-29T14:59:58.497718+00:00"
-    },
-    {
-      "id": "2e1f140b-222e-4cd2-8e0d-31e7b2ac3e63",
-      "title": "MPL ID S18 WEEK 2 DAY 1 BTR.Finn",
-      "description": "( BTR VS DEWA GAME 2 ) MPL INDONESIA SEASON 18 WEEK 2 DAY 1 21 AGUSTUS 2026",
-      "tips": null,
-      "likes": 0,
-      "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
-      "items": [
-        {
-          "id": "3a11d865-1fff-4d8f-b919-5023703fb31a",
-          "name": "Blood Wings",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Blood_Wings.png",
-          "price": 2100
-        },
-        {
-          "id": "93514bd9-2483-40ef-b301-86a6c796e2be",
-          "name": "Antique Cuirass",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Antique_Cuirass.png",
-          "price": 2170
-        },
-        {
-          "id": "d946f868-c61d-4433-80f3-3feec9b1af98",
-          "name": "Tought Boots",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Tough_Boots.png",
-          "price": 720
-        },
-        {
-          "id": "85779626-b5f7-445b-b77d-c44074f94e2c",
-          "name": "Flask of the Oasis",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Flask_of_the_Oasis.png",
-          "price": 1850
-        },
-        {
-          "id": "c7e4e03f-4c5c-45ff-8535-65a74229b52d",
-          "name": "Enchanted Talisman",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Enchanted_Talisman.png",
-          "price": 1870
-        },
-        {
-          "id": "2f707623-6044-4dc4-8183-5095409c5078",
-          "name": "Immortality",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Immortality.png",
-          "price": 2120
-        }
-      ],
-      "emblem": {
-        "id": "548cd559-72f6-45b4-a0d5-f4b7aafcb2a9",
-        "name": "Support",
-        "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Custom_Support_Emblem.png"
-      },
-      "spell": {
-        "id": "46bae42c-7ede-4cd7-8666-3a851cb8ffa6",
-        "name": "Purify",
-        "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Purify.png"
-      },
-      "conditional_items": [],
-      "created_at": "2026-08-22T03:37:38.697289+00:00"
     }
   ]
 }

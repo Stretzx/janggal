@@ -63,6 +63,64 @@
       "created_at": "2025-12-19T08:06:07.700316+00:00"
     },
     {
+      "id": "53289e0c-d501-4b7a-a107-029db4abde58",
+      "title": "MPL ID S18 WEEK 3 DAY 1 BTR.EMANN",
+      "description": "( NAVI VS BTR GAME 2 ) MPL INDONESIA SEASON 18 WEEK 3 DAY 1 28 AGUSTUS 2026",
+      "tips": null,
+      "likes": 1,
+      "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
+      "items": [
+        {
+          "id": "c49ed4f8-8b73-42c8-87e2-fa83bccade0d",
+          "name": "Wind of Nature",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Wind_of_Nature.png",
+          "price": 1910
+        },
+        {
+          "id": "85ca390d-2fd5-4428-84ca-cdda78d395d2",
+          "name": "Corrosion Scythe",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Corrosion_Scythe.png",
+          "price": 2050
+        },
+        {
+          "id": "6c3c144b-fe6d-4fa5-b597-4f0240825528",
+          "name": "Golden Staff",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Golden_Staff.png",
+          "price": 2000
+        },
+        {
+          "id": "1433cb2c-1ad9-4f7d-b594-793ac4c9e6b6",
+          "name": "Rapid Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Rapid_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "382823c5-fac2-4cc4-859d-3f54d6b2b793",
+          "name": "Demon Hunter Sword",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Demon_Hunter_Sword.png",
+          "price": 2180
+        },
+        {
+          "id": "8120169f-564a-4188-b506-6ae5dc3298ab",
+          "name": "Fury Hammer",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/52/Fury_Hammer.png",
+          "price": 830
+        }
+      ],
+      "emblem": {
+        "id": "20ca33c9-d514-45d0-a956-98beb83e86ef",
+        "name": "Fighter",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Custom_Fighter_Emblem.png"
+      },
+      "spell": {
+        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
+        "name": "Flicker",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
+      },
+      "conditional_items": [],
+      "created_at": "2026-08-29T12:50:11.096774+00:00"
+    },
+    {
       "id": "835176e4-a794-4dba-8df6-a9267db66f3d",
       "title": "Full damage critical",
       "description": "Build ini khusus bagi Hero lawan yang tidak memiliki Hero tebal",
@@ -122,67 +180,6 @@
         "2f707623-6044-4dc4-8183-5095409c5078"
       ],
       "created_at": "2026-06-16T17:04:35.157873+00:00"
-    },
-    {
-      "id": "86961ec6-fec5-4688-9861-85d98d8519bb",
-      "title": "Mengutamakan farm early game",
-      "description": "Di sini saya tau kalo rata rata musuh sekarang itu banyak cc jadi kita pake purify. Jika musuh tidak begitu banyak cc bisa pake inspire ",
-      "tips": "",
-      "likes": 1,
-      "patch_id": "50548097-d34a-4265-8e93-f27176454d15",
-      "items": [
-        {
-          "id": "a67fa43a-b139-4b0b-9d0f-43537ef95a24",
-          "name": "Windtalker",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Windtalker.png",
-          "price": 1880
-        },
-        {
-          "id": "85ca390d-2fd5-4428-84ca-cdda78d395d2",
-          "name": "Corrosion Scythe",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Corrosion_Scythe.png",
-          "price": 2050
-        },
-        {
-          "id": "bd3e52c0-6890-4eee-ad81-9815f3b65eaf",
-          "name": "Haas Claws",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Haas%27_Claws.png",
-          "price": 2020
-        },
-        {
-          "id": "9d21f19b-e352-4d3e-b6b0-8c742a8078e7",
-          "name": "Malefic Gun",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Malefic_Gun.png",
-          "price": 2120
-        },
-        {
-          "id": "5b97529a-e569-400f-b8f8-7e9a76b42e7a",
-          "name": "Rose Gold Meteor",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Rose_Gold_Meteor.png",
-          "price": 2030
-        },
-        {
-          "id": "fbd7ae0a-37da-493e-aed1-9932a2ea5317",
-          "name": "Berserker Fury",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Berserker%27s_Fury.png",
-          "price": 2390
-        }
-      ],
-      "emblem": {
-        "id": "20ca33c9-d514-45d0-a956-98beb83e86ef",
-        "name": "Fighter",
-        "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Custom_Fighter_Emblem.png"
-      },
-      "spell": {
-        "id": "62a0cb78-66c8-4066-831c-91c49eefc0af",
-        "name": "Inspire",
-        "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Inspire.png"
-      },
-      "conditional_items": [
-        "2c6757ba-8522-4d3c-a894-407f2c4f16e9",
-        "2f707623-6044-4dc4-8183-5095409c5078"
-      ],
-      "created_at": "2026-02-24T10:32:48.171536+00:00"
     }
   ]
 }

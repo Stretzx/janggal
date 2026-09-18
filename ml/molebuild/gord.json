@@ -66,6 +66,67 @@
       "created_at": "2026-06-24T06:13:59.184623+00:00"
     },
     {
+      "id": "59f82b0f-d08a-419f-b5c4-0d12c46fac30",
+      "title": "Sedot darah musuh",
+      "description": "Bisa digunakan di saat musuhnya banyak yg tebal",
+      "tips": "",
+      "likes": 2,
+      "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
+      "items": [
+        {
+          "id": "a6ec810a-08da-4bbf-a137-8d23531920c9",
+          "name": "Arcane Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Arcane_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "37d85658-320c-42d8-9744-2ea29755d444",
+          "name": "Ice Queen Wand",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Ice_Queen_Wand.png",
+          "price": 2040
+        },
+        {
+          "id": "78f73686-df75-42b1-8bb1-fbf9d5f33a70",
+          "name": "Glowing Wand",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Glowing_Wand.png",
+          "price": 2150
+        },
+        {
+          "id": "ece51f8f-c4c8-47cb-9992-314e83af317b",
+          "name": "Wishing Lantern",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Wishing_Lantern.png",
+          "price": 2250
+        },
+        {
+          "id": "59a45ae3-4662-4bee-8471-73751dcee211",
+          "name": "Divine Glaive",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Divine_Glaive.png",
+          "price": 1970
+        },
+        {
+          "id": "3a11d865-1fff-4d8f-b919-5023703fb31a",
+          "name": "Blood Wings",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Blood_Wings.png",
+          "price": 2100
+        }
+      ],
+      "emblem": {
+        "id": "19b50db4-0112-4bc6-8801-b106c92900c9",
+        "name": "Common",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Basic_Common_Emblem.png"
+      },
+      "spell": {
+        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
+        "name": "Flicker",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
+      },
+      "conditional_items": [
+        "2184fd07-4ced-48d6-b6f0-04f99122a4e0",
+        "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa"
+      ],
+      "created_at": "2026-06-24T04:24:51.353802+00:00"
+    },
+    {
       "id": "fa5f5598-d9de-41c8-9e27-9bdcb63d4145",
       "title": "MPL PH S17 WEEK 8 DAY 3 ONIC.SuperFrince",
       "description": "( ONIC VS TLPH GAME 1 ) MPL PHILIPPINES SEASON 17 WEEK 8 DAY 3 17 MEI 2026",
@@ -116,64 +177,6 @@
       },
       "conditional_items": [],
       "created_at": "2026-05-17T12:00:33.768079+00:00"
-    },
-    {
-      "id": "15b2b16c-1fcf-4ddf-bb5b-96bb3539ef9a",
-      "title": "Demage & CD",
-      "description": "",
-      "tips": "",
-      "likes": 1,
-      "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
-      "items": [
-        {
-          "id": "32da3955-3a13-4a18-ac27-7d9b064f3fa2",
-          "name": "Magic Boots",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Magic_Shoes.png",
-          "price": 720
-        },
-        {
-          "id": "78f73686-df75-42b1-8bb1-fbf9d5f33a70",
-          "name": "Glowing Wand",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Glowing_Wand.png",
-          "price": 2150
-        },
-        {
-          "id": "8408352d-1f00-4c68-b3ba-7abc320588ce",
-          "name": "Sky Piercer",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Sky_Piercer.png",
-          "price": 1500
-        },
-        {
-          "id": "37d85658-320c-42d8-9744-2ea29755d444",
-          "name": "Ice Queen Wand",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Ice_Queen_Wand.png",
-          "price": 2040
-        },
-        {
-          "id": "ece51f8f-c4c8-47cb-9992-314e83af317b",
-          "name": "Wishing Lantern",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Wishing_Lantern.png",
-          "price": 2250
-        },
-        {
-          "id": "c7e4e03f-4c5c-45ff-8535-65a74229b52d",
-          "name": "Enchanted Talisman",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Enchanted_Talisman.png",
-          "price": 1870
-        }
-      ],
-      "emblem": {
-        "id": "5e0b6bcf-c296-4117-b0d4-4d6dae8f1618",
-        "name": "Mage",
-        "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Custom_Mage_Emblem.png"
-      },
-      "spell": {
-        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
-        "name": "Flicker",
-        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
-      },
-      "conditional_items": [],
-      "created_at": "2026-06-29T12:41:12.813029+00:00"
     }
   ]
 }

@@ -56,7 +56,7 @@
       },
       "spell": {
         "id": "a812d5d9-149b-48b0-b77e-fcf2bc2fe7ae",
-        "name": "Retribution",
+        "name": "Flame Retribution",
         "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Flame_Retribution.png"
       },
       "conditional_items": [
@@ -66,24 +66,30 @@
       "created_at": "2026-01-12T10:37:52.941875+00:00"
     },
     {
-      "id": "f4775492-ef95-405d-ac18-648607d7b187",
-      "title": "M7 SWISS STAGE DAY 7 ONIC.Kairi",
-      "description": "( FLCN VS ONIC GAME 1 ) MVP OF THE GAME M7 WORLD CHAMPIONSHIP SWISS STAGE 17 JANUARI 2026",
-      "tips": "",
+      "id": "557db175-039f-4c44-9468-c1d3cb1d0361",
+      "title": "MPL ID S18 WEEK 1 DAY 3 BTR.Nnael",
+      "description": "( BTR VS GEEK GAME 1 ) MPL INDONESIA SEASON 18 WEEK 1 DAY 3 16 AGUSTUS 2026",
+      "tips": null,
       "likes": 1,
-      "patch_id": "a3c48a7d-f457-469a-8207-c1953b6be3a9",
+      "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
       "items": [
         {
-          "id": "32da3955-3a13-4a18-ac27-7d9b064f3fa2",
-          "name": "Magic Boots",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Magic_Shoes.png",
-          "price": 720
+          "id": "27361867-2d35-4ad8-8d4d-ba0266b04109",
+          "name": "Blade of Despair",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Blade_of_Despair.png",
+          "price": 3010
         },
         {
-          "id": "0f52e11b-4c01-4652-8a64-c3bfc6a489b8",
-          "name": "War Axe",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/War_Axe.png",
-          "price": 2100
+          "id": "a80b1b94-e5a3-4c09-af16-3112a6ae9985",
+          "name": "Malefic Roar",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Malefic_Roar.png",
+          "price": 2060
+        },
+        {
+          "id": "2f707623-6044-4dc4-8183-5095409c5078",
+          "name": "Immortality",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Immortality.png",
+          "price": 2120
         },
         {
           "id": "3fd98472-74a6-4f2e-8f2c-82e12251ca28",
@@ -92,16 +98,16 @@
           "price": 2010
         },
         {
-          "id": "27361867-2d35-4ad8-8d4d-ba0266b04109",
-          "name": "Blade of Despair",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Blade_of_Despair.png",
-          "price": 3010
+          "id": "0f52e11b-4c01-4652-8a64-c3bfc6a489b8",
+          "name": "War Axe",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/War_Axe.png",
+          "price": 2100
         },
         {
-          "id": "2c6757ba-8522-4d3c-a894-407f2c4f16e9",
-          "name": "Sea Halberd",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Sea_Halberd.png",
-          "price": 2050
+          "id": "5b97529a-e569-400f-b8f8-7e9a76b42e7a",
+          "name": "Rose Gold Meteor",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Rose_Gold_Meteor.png",
+          "price": 2030
         }
       ],
       "emblem": {
@@ -111,19 +117,19 @@
       },
       "spell": {
         "id": "a812d5d9-149b-48b0-b77e-fcf2bc2fe7ae",
-        "name": "Retribution",
+        "name": "Flame Retribution",
         "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Flame_Retribution.png"
       },
       "conditional_items": [],
-      "created_at": "2026-01-17T13:54:58.985487+00:00"
+      "created_at": "2026-08-17T16:07:59.782909+00:00"
     },
     {
-      "id": "45e978b8-d191-4b2e-b97b-d3f22a22bcbf",
-      "title": "Bagus kalau tau main nya",
-      "description": "Cari tau sendiri aja lah males nulis nya gw 😁👍",
-      "tips": "",
+      "id": "2d671e23-9e24-4e03-839b-8ccc713649c9",
+      "title": "MPL PH S17 WEEK 8 DAY 2 FLCN.Kyle",
+      "description": "( APBR VS FLCN GAME 1 ) MPL PHILIPPINES SEASON 17 WEEK 8 DAY 2 16 MEI 2026",
+      "tips": null,
       "likes": 1,
-      "patch_id": "be77a09b-50cc-45fb-b5fa-623daa196557",
+      "patch_id": "c6153242-aa0e-47fc-9d09-edfb495a997d",
       "items": [
         {
           "id": "32da3955-3a13-4a18-ac27-7d9b064f3fa2",
@@ -132,22 +138,16 @@
           "price": 720
         },
         {
-          "id": "3fd98472-74a6-4f2e-8f2c-82e12251ca28",
-          "name": "Hunter Strike",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hunter_Strike.png",
-          "price": 2010
+          "id": "60d82125-ae14-43f5-9368-cadd62bb070a",
+          "name": "Endless Battle",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Endless_Battle.png",
+          "price": 2330
         },
         {
           "id": "0f52e11b-4c01-4652-8a64-c3bfc6a489b8",
           "name": "War Axe",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/War_Axe.png",
           "price": 2100
-        },
-        {
-          "id": "60d82125-ae14-43f5-9368-cadd62bb070a",
-          "name": "Endless Battle",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Endless_Battle.png",
-          "price": 2330
         },
         {
           "id": "27361867-2d35-4ad8-8d4d-ba0266b04109",
@@ -160,6 +160,12 @@
           "name": "Malefic Roar",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Malefic_Roar.png",
           "price": 2060
+        },
+        {
+          "id": "3fd98472-74a6-4f2e-8f2c-82e12251ca28",
+          "name": "Hunter Strike",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hunter_Strike.png",
+          "price": 2010
         }
       ],
       "emblem": {
@@ -169,11 +175,11 @@
       },
       "spell": {
         "id": "a812d5d9-149b-48b0-b77e-fcf2bc2fe7ae",
-        "name": "Retribution",
+        "name": "Flame Retribution",
         "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Flame_Retribution.png"
       },
       "conditional_items": [],
-      "created_at": "2026-03-28T17:43:19.806205+00:00"
+      "created_at": "2026-05-16T11:14:42.45379+00:00"
     }
   ]
 }

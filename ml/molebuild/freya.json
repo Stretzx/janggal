@@ -67,7 +67,7 @@
       "title": "MPL ID S17 WEEK 9 DAY 2 ONIC.Kelra",
       "description": "( ONIC VS BTR GAME 2 ) MPL INDONESIA SEASON 17 WEEK 9 DAY 2 23 MEI 2026",
       "tips": null,
-      "likes": 2,
+      "likes": 3,
       "patch_id": "c6153242-aa0e-47fc-9d09-edfb495a997d",
       "items": [
         {
@@ -121,17 +121,17 @@
       "created_at": "2026-05-23T15:16:06.851109+00:00"
     },
     {
-      "id": "cd89ac9d-931f-4be2-abdb-8ba555c0fb7d",
-      "title": "laning goldlane",
-      "description": "cocok buat lawan mm yang jarak basic attack nya lumayan jauh atau lawan mm yang skill blink/gerak terus",
+      "id": "e31e264e-06dc-49d3-bc6f-a9948afb3b33",
+      "title": "Freya jungler by Suya",
+      "description": "",
       "tips": "",
       "likes": 2,
-      "patch_id": "50548097-d34a-4265-8e93-f27176454d15",
+      "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
       "items": [
         {
-          "id": "1433cb2c-1ad9-4f7d-b594-793ac4c9e6b6",
-          "name": "Rapid Boots",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Rapid_Boots.png",
+          "id": "d946f868-c61d-4433-80f3-3feec9b1af98",
+          "name": "Tought Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Tough_Boots.png",
           "price": 720
         },
         {
@@ -147,38 +147,39 @@
           "price": 2000
         },
         {
+          "id": "5b97529a-e569-400f-b8f8-7e9a76b42e7a",
+          "name": "Rose Gold Meteor",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Rose_Gold_Meteor.png",
+          "price": 2030
+        },
+        {
           "id": "0f52e11b-4c01-4652-8a64-c3bfc6a489b8",
           "name": "War Axe",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/War_Axe.png",
           "price": 2100
         },
         {
-          "id": "60d82125-ae14-43f5-9368-cadd62bb070a",
-          "name": "Endless Battle",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Endless_Battle.png",
-          "price": 2330
-        },
-        {
-          "id": "a80b1b94-e5a3-4c09-af16-3112a6ae9985",
-          "name": "Malefic Roar",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Malefic_Roar.png",
-          "price": 2060
+          "id": "421314fd-557c-427b-8e74-b016c8dcf33a",
+          "name": "Chastise Pauldron",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Chastise_Pauldron.png",
+          "price": 2100
         }
       ],
       "emblem": {
-        "id": "20ca33c9-d514-45d0-a956-98beb83e86ef",
-        "name": "Fighter",
-        "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Custom_Fighter_Emblem.png"
+        "id": "0477a4cd-825b-408f-92dc-d5e9229c7a50",
+        "name": "Marksman",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Custom_Marksman_Emblem.png"
       },
       "spell": {
-        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
-        "name": "Flicker",
-        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
+        "id": "a812d5d9-149b-48b0-b77e-fcf2bc2fe7ae",
+        "name": "Flame Retribution",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Flame_Retribution.png"
       },
       "conditional_items": [
-        "5b97529a-e569-400f-b8f8-7e9a76b42e7a"
+        "9b0c5b28-b617-42e8-8bdb-5aef5514b6ce",
+        "2f707623-6044-4dc4-8183-5095409c5078"
       ],
-      "created_at": "2026-02-23T05:11:19.847514+00:00"
+      "created_at": "2026-07-03T12:04:35.539934+00:00"
     }
   ]
 }

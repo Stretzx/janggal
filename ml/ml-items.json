@@ -276,6 +276,12 @@
     "c": "Defense"
   },
   {
+    "s": "iron-hunting-bow",
+    "n": "Iron Hunting Bow",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Iron_Hunting_Bow.png",
+    "c": "Attack"
+  },
+  {
     "s": "javelin",
     "n": "Javelin",
     "i": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Javelin.png",
@@ -364,6 +370,12 @@
     "n": "Mystic Container",
     "i": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Mystic_Container.png",
     "c": "Magic"
+  },
+  {
+    "s": "ogre-tomahawk",
+    "n": "Ogre Tomahawk",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Ogre_Tomahawk.png",
+    "c": "Attack"
   },
   {
     "s": "oracle",

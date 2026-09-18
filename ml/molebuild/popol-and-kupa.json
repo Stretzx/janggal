@@ -66,6 +66,64 @@
       "created_at": "2025-12-31T07:04:03.308425+00:00"
     },
     {
+      "id": "bfe5cee0-ce7c-4d8d-9a0d-eb3aa36fc0d6",
+      "title": "demek ",
+      "description": "",
+      "tips": "",
+      "likes": 0,
+      "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
+      "items": [
+        {
+          "id": "32da3955-3a13-4a18-ac27-7d9b064f3fa2",
+          "name": "Magic Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Magic_Shoes.png",
+          "price": 720
+        },
+        {
+          "id": "a67fa43a-b139-4b0b-9d0f-43537ef95a24",
+          "name": "Windtalker",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Windtalker.png",
+          "price": 1880
+        },
+        {
+          "id": "60d82125-ae14-43f5-9368-cadd62bb070a",
+          "name": "Endless Battle",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Endless_Battle.png",
+          "price": 2330
+        },
+        {
+          "id": "a80b1b94-e5a3-4c09-af16-3112a6ae9985",
+          "name": "Malefic Roar",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Malefic_Roar.png",
+          "price": 2060
+        },
+        {
+          "id": "27361867-2d35-4ad8-8d4d-ba0266b04109",
+          "name": "Blade of Despair",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Blade_of_Despair.png",
+          "price": 3010
+        },
+        {
+          "id": "3fd98472-74a6-4f2e-8f2c-82e12251ca28",
+          "name": "Hunter Strike",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hunter_Strike.png",
+          "price": 2010
+        }
+      ],
+      "emblem": {
+        "id": "6f783459-4751-414f-b371-85282443cfd4",
+        "name": "Assassin",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Custom_Assassin_Emblem.png"
+      },
+      "spell": {
+        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
+        "name": "Flicker",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
+      },
+      "conditional_items": [],
+      "created_at": "2026-09-06T23:43:42.401373+00:00"
+    },
+    {
       "id": "95bdad69-7ee7-4f4b-994c-9b74a2b1c03d",
       "title": "I don't know ",
       "description": "",
@@ -122,67 +180,6 @@
       },
       "conditional_items": [],
       "created_at": "2026-08-15T08:18:02.661056+00:00"
-    },
-    {
-      "id": "d8841cb3-99ad-4e2c-9f85-f11d2c21f2d1",
-      "title": "Ciritcal ",
-      "description": "",
-      "tips": "",
-      "likes": 0,
-      "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
-      "items": [
-        {
-          "id": "dde20fc5-a6fa-4f15-8a03-46b43698f724",
-          "name": "Warrior Boots",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4b/Warrior_Boots.png",
-          "price": 720
-        },
-        {
-          "id": "a67fa43a-b139-4b0b-9d0f-43537ef95a24",
-          "name": "Windtalker",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Windtalker.png",
-          "price": 1880
-        },
-        {
-          "id": "bd3e52c0-6890-4eee-ad81-9815f3b65eaf",
-          "name": "Haas Claws",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Haas%27_Claws.png",
-          "price": 2020
-        },
-        {
-          "id": "a80b1b94-e5a3-4c09-af16-3112a6ae9985",
-          "name": "Malefic Roar",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Malefic_Roar.png",
-          "price": 2060
-        },
-        {
-          "id": "fbd7ae0a-37da-493e-aed1-9932a2ea5317",
-          "name": "Berserker Fury",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Berserker%27s_Fury.png",
-          "price": 2390
-        },
-        {
-          "id": "a67fa43a-b139-4b0b-9d0f-43537ef95a24",
-          "name": "Windtalker",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Windtalker.png",
-          "price": 1880
-        }
-      ],
-      "emblem": {
-        "id": "0477a4cd-825b-408f-92dc-d5e9229c7a50",
-        "name": "Marksman",
-        "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Custom_Marksman_Emblem.png"
-      },
-      "spell": {
-        "id": "a812d5d9-149b-48b0-b77e-fcf2bc2fe7ae",
-        "name": "Flame Retribution",
-        "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Flame_Retribution.png"
-      },
-      "conditional_items": [
-        "5b97529a-e569-400f-b8f8-7e9a76b42e7a",
-        "9b0c5b28-b617-42e8-8bdb-5aef5514b6ce"
-      ],
-      "created_at": "2026-08-03T07:30:59.06714+00:00"
     }
   ]
 }

@@ -9,7 +9,7 @@
       "title": "Fanny Low Cost Energy",
       "description": "harus jago menggunakan kabel",
       "tips": "",
-      "likes": 15,
+      "likes": 16,
       "patch_id": "a3c48a7d-f457-469a-8207-c1953b6be3a9",
       "items": [
         {
@@ -127,12 +127,12 @@
       "created_at": "2026-01-26T12:44:18.253081+00:00"
     },
     {
-      "id": "43b0a5a1-0172-40ad-9504-67843adad565",
-      "title": "Fanny awet energy, sustain, dan spell vamp deres",
-      "description": "fanny itu ada stacknya, cara liatnya itu dibawah bar musuh, max nya 2 klo udh 2 itu bakal nambah energy lebih banyak, kabel wajib kena kelawan, gesek2 terus, pakai retri klo gada lord/turtle, yang penting ga darat, sustain parah apalagi kombo sama angela. \nopsional: kalo udah late game sepatu jual gnti item yg perlu kaya seahalberd, immo, rose gold, dll.",
+      "id": "79870076-0f97-4bf5-9365-258866896cc5",
+      "title": "Bauild kabel",
+      "description": "",
       "tips": "",
       "likes": 6,
-      "patch_id": "50548097-d34a-4265-8e93-f27176454d15",
+      "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
       "items": [
         {
           "id": "d946f868-c61d-4433-80f3-3feec9b1af98",
@@ -141,16 +141,16 @@
           "price": 720
         },
         {
-          "id": "0f52e11b-4c01-4652-8a64-c3bfc6a489b8",
-          "name": "War Axe",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/War_Axe.png",
-          "price": 2100
+          "id": "5e7dbecb-76e4-4c51-808c-712efa14974a",
+          "name": "Blade of the Heptaseas",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Blade_of_the_Heptaseas.png",
+          "price": 1950
         },
         {
-          "id": "ad17db6e-8002-48c1-a561-bd794da0e283",
-          "name": "Brute Force Breastplate",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Brute_Force_Breastplate.png",
-          "price": 2070
+          "id": "8408352d-1f00-4c68-b3ba-7abc320588ce",
+          "name": "Sky Piercer",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Sky_Piercer.png",
+          "price": 1500
         },
         {
           "id": "a80b1b94-e5a3-4c09-af16-3112a6ae9985",
@@ -165,10 +165,10 @@
           "price": 2250
         },
         {
-          "id": "70ae58cf-dc12-42f2-832f-75f9bbbfc0e1",
-          "name": "Oracle",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Oracle.png",
-          "price": 1860
+          "id": "0f52e11b-4c01-4652-8a64-c3bfc6a489b8",
+          "name": "War Axe",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/War_Axe.png",
+          "price": 2100
         }
       ],
       "emblem": {
@@ -177,15 +177,15 @@
         "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Custom_Fighter_Emblem.png"
       },
       "spell": {
-        "id": "d8bbd0c3-3d55-4d45-926a-cc3b834c318b",
-        "name": "Bloody Retribution",
-        "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Bloody_Retribution.png"
+        "id": "a812d5d9-149b-48b0-b77e-fcf2bc2fe7ae",
+        "name": "Flame Retribution",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Flame_Retribution.png"
       },
       "conditional_items": [
-        "2c6757ba-8522-4d3c-a894-407f2c4f16e9",
-        "5b97529a-e569-400f-b8f8-7e9a76b42e7a"
+        "5b97529a-e569-400f-b8f8-7e9a76b42e7a",
+        "70ae58cf-dc12-42f2-832f-75f9bbbfc0e1"
       ],
-      "created_at": "2026-02-26T08:14:09.220062+00:00"
+      "created_at": "2026-06-23T00:36:05.135776+00:00"
     }
   ]
 }

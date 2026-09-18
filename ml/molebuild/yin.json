@@ -127,24 +127,18 @@
       "created_at": "2026-01-02T23:11:18.158827+00:00"
     },
     {
-      "id": "54502698-1aa0-40df-aac0-a756c054b48e",
-      "title": "Damage & Penetration",
-      "description": "",
+      "id": "c9a81c13-5333-4a8e-8431-68b2e51dff43",
+      "title": "Yin Critical/Finisher",
+      "description": "​This Yin build is perfect for kidnapping both agile and tanky heroes. Here is the breakdown:\n​Agile Heroes: Use Ice Retribution alongside the standard build to steal their movement speed and lock them down.\n​Tanky Heroes: Opt for Flame Retribution to steal their physical attack. For the item situational swap, replace Great Dragon Spear (GDS) with Haas' Claws, and swap Blade of Despair (BOD) for Malefic Roar to maximize armor penetration.",
       "tips": "",
       "likes": 1,
       "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
       "items": [
         {
-          "id": "d946f868-c61d-4433-80f3-3feec9b1af98",
-          "name": "Tought Boots",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Tough_Boots.png",
+          "id": "1433cb2c-1ad9-4f7d-b594-793ac4c9e6b6",
+          "name": "Rapid Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Rapid_Boots.png",
           "price": 720
-        },
-        {
-          "id": "3fd98472-74a6-4f2e-8f2c-82e12251ca28",
-          "name": "Hunter Strike",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hunter_Strike.png",
-          "price": 2010
         },
         {
           "id": "2c6757ba-8522-4d3c-a894-407f2c4f16e9",
@@ -153,16 +147,22 @@
           "price": 2050
         },
         {
-          "id": "a80b1b94-e5a3-4c09-af16-3112a6ae9985",
-          "name": "Malefic Roar",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Malefic_Roar.png",
-          "price": 2060
+          "id": "74901507-8882-467c-9d4a-e0b4b817d8d5",
+          "name": "Great Dragon Spear",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Great_Dragon_Spear.png",
+          "price": 2140
         },
         {
-          "id": "60d82125-ae14-43f5-9368-cadd62bb070a",
-          "name": "Endless Battle",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Endless_Battle.png",
-          "price": 2330
+          "id": "fbd7ae0a-37da-493e-aed1-9932a2ea5317",
+          "name": "Berserker Fury",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Berserker%27s_Fury.png",
+          "price": 2390
+        },
+        {
+          "id": "a67fa43a-b139-4b0b-9d0f-43537ef95a24",
+          "name": "Windtalker",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Windtalker.png",
+          "price": 1880
         },
         {
           "id": "27361867-2d35-4ad8-8d4d-ba0266b04109",
@@ -172,20 +172,20 @@
         }
       ],
       "emblem": {
-        "id": "0477a4cd-825b-408f-92dc-d5e9229c7a50",
-        "name": "Marksman",
-        "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Custom_Marksman_Emblem.png"
+        "id": "6f783459-4751-414f-b371-85282443cfd4",
+        "name": "Assassin",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Custom_Assassin_Emblem.png"
       },
       "spell": {
-        "id": "a812d5d9-149b-48b0-b77e-fcf2bc2fe7ae",
-        "name": "Flame Retribution",
-        "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Flame_Retribution.png"
+        "id": "4bd8e270-d8a4-4638-8cd7-e1b25f67e86a",
+        "name": "Ice Retribution",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Ice_Retribution.png"
       },
       "conditional_items": [
-        "9b0c5b28-b617-42e8-8bdb-5aef5514b6ce",
-        "5b97529a-e569-400f-b8f8-7e9a76b42e7a"
+        "bd3e52c0-6890-4eee-ad81-9815f3b65eaf",
+        "a80b1b94-e5a3-4c09-af16-3112a6ae9985"
       ],
-      "created_at": "2026-08-13T10:08:26.232403+00:00"
+      "created_at": "2026-09-02T14:52:38.33403+00:00"
     }
   ]
 }

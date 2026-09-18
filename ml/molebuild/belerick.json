@@ -127,17 +127,17 @@
       "created_at": "2026-02-25T09:14:48.882967+00:00"
     },
     {
-      "id": "9f744318-33c4-40dd-977a-b3d0f6352947",
-      "title": "Full TB ",
-      "description": "Main aman aja",
+      "id": "83629406-e45c-48f9-853d-dea77ead815a",
+      "title": "buat exp",
+      "description": "",
       "tips": "",
-      "likes": 1,
-      "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
+      "likes": 2,
+      "patch_id": "a3c48a7d-f457-469a-8207-c1953b6be3a9",
       "items": [
         {
-          "id": "d946f868-c61d-4433-80f3-3feec9b1af98",
-          "name": "Tought Boots",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Tough_Boots.png",
+          "id": "1433cb2c-1ad9-4f7d-b594-793ac4c9e6b6",
+          "name": "Rapid Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Rapid_Boots.png",
           "price": 720
         },
         {
@@ -147,28 +147,28 @@
           "price": 2010
         },
         {
-          "id": "93514bd9-2483-40ef-b301-86a6c796e2be",
-          "name": "Antique Cuirass",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Antique_Cuirass.png",
-          "price": 2170
+          "id": "78f73686-df75-42b1-8bb1-fbf9d5f33a70",
+          "name": "Glowing Wand",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Glowing_Wand.png",
+          "price": 2150
         },
         {
-          "id": "3585dc9e-2722-44f6-9bbb-100b777c5a86",
-          "name": "Radiant Armor",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Radiant_Armor.png",
-          "price": 1880
-        },
-        {
-          "id": "f8f538b8-5cf0-4fd4-a4e6-dff974a0b715",
-          "name": "Guardian Helmet",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Guardian_Helmet.png",
-          "price": 2500
+          "id": "cd59334a-2214-4e1b-a528-1ea8ae74458a",
+          "name": "Blade Armor",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Blade_Armor.png",
+          "price": 1910
         },
         {
           "id": "421314fd-557c-427b-8e74-b016c8dcf33a",
           "name": "Chastise Pauldron",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Chastise_Pauldron.png",
           "price": 2100
+        },
+        {
+          "id": "2f707623-6044-4dc4-8183-5095409c5078",
+          "name": "Immortality",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Immortality.png",
+          "price": 2120
         }
       ],
       "emblem": {
@@ -182,10 +182,10 @@
         "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Vengeance.png"
       },
       "conditional_items": [
-        "2f707623-6044-4dc4-8183-5095409c5078",
-        "cd59334a-2214-4e1b-a528-1ea8ae74458a"
+        "9d4988cb-f1ff-4020-a152-09bfa42ea847",
+        "f8f538b8-5cf0-4fd4-a4e6-dff974a0b715"
       ],
-      "created_at": "2026-08-19T02:14:48.347071+00:00"
+      "created_at": "2026-01-19T11:54:26.794872+00:00"
     }
   ]
 }

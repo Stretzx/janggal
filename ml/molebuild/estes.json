@@ -66,6 +66,64 @@
       "created_at": "2025-12-30T03:49:09.111457+00:00"
     },
     {
+      "id": "ddf3c7b9-3a4a-458e-99b1-31be27939c76",
+      "title": "Estes Lanang yang paling gacor",
+      "description": "",
+      "tips": "",
+      "likes": 1,
+      "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
+      "items": [
+        {
+          "id": "85779626-b5f7-445b-b77d-c44074f94e2c",
+          "name": "Flask of the Oasis",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Flask_of_the_Oasis.png",
+          "price": 1850
+        },
+        {
+          "id": "1433cb2c-1ad9-4f7d-b594-793ac4c9e6b6",
+          "name": "Rapid Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Rapid_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "70ae58cf-dc12-42f2-832f-75f9bbbfc0e1",
+          "name": "Oracle",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Oracle.png",
+          "price": 1860
+        },
+        {
+          "id": "f8f538b8-5cf0-4fd4-a4e6-dff974a0b715",
+          "name": "Guardian Helmet",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Guardian_Helmet.png",
+          "price": 2500
+        },
+        {
+          "id": "3a11d865-1fff-4d8f-b919-5023703fb31a",
+          "name": "Blood Wings",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Blood_Wings.png",
+          "price": 2100
+        },
+        {
+          "id": "2f707623-6044-4dc4-8183-5095409c5078",
+          "name": "Immortality",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Immortality.png",
+          "price": 2120
+        }
+      ],
+      "emblem": {
+        "id": "548cd559-72f6-45b4-a0d5-f4b7aafcb2a9",
+        "name": "Support",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Custom_Support_Emblem.png"
+      },
+      "spell": {
+        "id": "b68d9e4c-db6e-4107-a36f-ea24b16fb978",
+        "name": "Revitalize",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Revitalize.png"
+      },
+      "conditional_items": [],
+      "created_at": "2026-07-04T20:02:37.964281+00:00"
+    },
+    {
       "id": "564cb15d-40cd-4934-a84f-c33653778f2e",
       "title": "Estes Basic",
       "description": "Beringas ganas panas",
@@ -125,67 +183,6 @@
         "3585dc9e-2722-44f6-9bbb-100b777c5a86"
       ],
       "created_at": "2026-02-24T07:35:08.036546+00:00"
-    },
-    {
-      "id": "8dd4c2f4-7fe6-4b0f-9eba-6d8b0a150376",
-      "title": "Heal deras",
-      "description": "Ketika ULTI heal akan deras",
-      "tips": "",
-      "likes": 1,
-      "patch_id": "a3c48a7d-f457-469a-8207-c1953b6be3a9",
-      "items": [
-        {
-          "id": "32da3955-3a13-4a18-ac27-7d9b064f3fa2",
-          "name": "Magic Boots",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Magic_Shoes.png",
-          "price": 720
-        },
-        {
-          "id": "85779626-b5f7-445b-b77d-c44074f94e2c",
-          "name": "Flask of the Oasis",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Flask_of_the_Oasis.png",
-          "price": 1850
-        },
-        {
-          "id": "78f73686-df75-42b1-8bb1-fbf9d5f33a70",
-          "name": "Glowing Wand",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Glowing_Wand.png",
-          "price": 2150
-        },
-        {
-          "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
-          "name": "Holy Crystal",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
-          "price": 3000
-        },
-        {
-          "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
-          "name": "Holy Crystal",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
-          "price": 3000
-        },
-        {
-          "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
-          "name": "Holy Crystal",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
-          "price": 3000
-        }
-      ],
-      "emblem": {
-        "id": "548cd559-72f6-45b4-a0d5-f4b7aafcb2a9",
-        "name": "Support",
-        "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Custom_Support_Emblem.png"
-      },
-      "spell": {
-        "id": "b68d9e4c-db6e-4107-a36f-ea24b16fb978",
-        "name": "Revitalize",
-        "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Revitalize.png"
-      },
-      "conditional_items": [
-        "45e33c00-9674-44d3-950b-073425a1f922",
-        "f8e4e2b5-2b5d-42ab-9b2d-f99520df1f90"
-      ],
-      "created_at": "2025-12-29T12:56:44.434476+00:00"
     }
   ]
 }

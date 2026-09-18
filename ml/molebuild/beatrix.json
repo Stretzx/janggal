@@ -9,7 +9,7 @@
       "title": "MPL ID S17 WEEK 5 DAY 3 ONIC.Kelra",
       "description": "( ONIC VS GEEK GAME 3 ) MPL INDONESIA SEASON 17 WEEK 5 DAY 3 26 APRIL 2026",
       "tips": "",
-      "likes": 9,
+      "likes": 10,
       "patch_id": "c6153242-aa0e-47fc-9d09-edfb495a997d",
       "items": [
         {
@@ -61,6 +61,67 @@
       },
       "conditional_items": [],
       "created_at": "2026-04-26T13:46:17.819804+00:00"
+    },
+    {
+      "id": "219c775a-6400-4a09-ae85-a2c660e248fb",
+      "title": "BETTER ALL WEAPON BY POWW",
+      "description": "ITEM YANG BERGUNA DAN COCOK JNTUK SEMUA WEAPON BEATRIX DAN DAPAT MENGELUARKAN DAMAGE YANG SUNGGUH BESARR",
+      "tips": "",
+      "likes": 3,
+      "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
+      "items": [
+        {
+          "id": "1433cb2c-1ad9-4f7d-b594-793ac4c9e6b6",
+          "name": "Rapid Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Rapid_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "9d21f19b-e352-4d3e-b6b0-8c742a8078e7",
+          "name": "Malefic Gun",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Malefic_Gun.png",
+          "price": 2120
+        },
+        {
+          "id": "2c6757ba-8522-4d3c-a894-407f2c4f16e9",
+          "name": "Sea Halberd",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Sea_Halberd.png",
+          "price": 2050
+        },
+        {
+          "id": "27361867-2d35-4ad8-8d4d-ba0266b04109",
+          "name": "Blade of Despair",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Blade_of_Despair.png",
+          "price": 3010
+        },
+        {
+          "id": "bd3e52c0-6890-4eee-ad81-9815f3b65eaf",
+          "name": "Haas Claws",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Haas%27_Claws.png",
+          "price": 2020
+        },
+        {
+          "id": "2f707623-6044-4dc4-8183-5095409c5078",
+          "name": "Immortality",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Immortality.png",
+          "price": 2120
+        }
+      ],
+      "emblem": {
+        "id": "6f783459-4751-414f-b371-85282443cfd4",
+        "name": "Assassin",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Custom_Assassin_Emblem.png"
+      },
+      "spell": {
+        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
+        "name": "Flicker",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
+      },
+      "conditional_items": [
+        "a80b1b94-e5a3-4c09-af16-3112a6ae9985",
+        "5b97529a-e569-400f-b8f8-7e9a76b42e7a"
+      ],
+      "created_at": "2026-08-23T08:21:54.641352+00:00"
     },
     {
       "id": "00352bfb-a289-4faf-ad92-a53c19247635",
@@ -122,67 +183,6 @@
         "c49ed4f8-8b73-42c8-87e2-fa83bccade0d"
       ],
       "created_at": "2026-02-28T12:42:57.204099+00:00"
-    },
-    {
-      "id": "0204c52f-5401-4def-ad68-ee9566d81f1a",
-      "title": "YT : GAMEPLAY PROPLAYER",
-      "description": "",
-      "tips": "",
-      "likes": 2,
-      "patch_id": "be77a09b-50cc-45fb-b5fa-623daa196557",
-      "items": [
-        {
-          "id": "30b36662-b7db-46c6-9a63-346eae2b1c45",
-          "name": "Swift Boots",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Swift_Boots.png",
-          "price": 720
-        },
-        {
-          "id": "27361867-2d35-4ad8-8d4d-ba0266b04109",
-          "name": "Blade of Despair",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Blade_of_Despair.png",
-          "price": 3010
-        },
-        {
-          "id": "9d21f19b-e352-4d3e-b6b0-8c742a8078e7",
-          "name": "Malefic Gun",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Malefic_Gun.png",
-          "price": 2120
-        },
-        {
-          "id": "bd3e52c0-6890-4eee-ad81-9815f3b65eaf",
-          "name": "Haas Claws",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Haas%27_Claws.png",
-          "price": 2020
-        },
-        {
-          "id": "5b97529a-e569-400f-b8f8-7e9a76b42e7a",
-          "name": "Rose Gold Meteor",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Rose_Gold_Meteor.png",
-          "price": 2030
-        },
-        {
-          "id": "c49ed4f8-8b73-42c8-87e2-fa83bccade0d",
-          "name": "Wind of Nature",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Wind_of_Nature.png",
-          "price": 1910
-        }
-      ],
-      "emblem": {
-        "id": "6f783459-4751-414f-b371-85282443cfd4",
-        "name": "Assassin",
-        "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Custom_Assassin_Emblem.png"
-      },
-      "spell": {
-        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
-        "name": "Flicker",
-        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
-      },
-      "conditional_items": [
-        "2f707623-6044-4dc4-8183-5095409c5078",
-        "2c6757ba-8522-4d3c-a894-407f2c4f16e9"
-      ],
-      "created_at": "2026-04-06T17:04:23.0408+00:00"
     }
   ]
 }

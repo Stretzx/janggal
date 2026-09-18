@@ -66,6 +66,67 @@
       "created_at": "2026-02-23T02:16:12.431246+00:00"
     },
     {
+      "id": "52b3cd1c-7c1a-418c-bb00-d89afa3bede9",
+      "title": "Mvk",
+      "description": "Build global 51 barats",
+      "tips": "",
+      "likes": 1,
+      "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
+      "items": [
+        {
+          "id": "9d4988cb-f1ff-4020-a152-09bfa42ea847",
+          "name": "Thunder Belt",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/dd/Thunder_Belt.png",
+          "price": 1820
+        },
+        {
+          "id": "1433cb2c-1ad9-4f7d-b594-793ac4c9e6b6",
+          "name": "Rapid Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Rapid_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "0f52e11b-4c01-4652-8a64-c3bfc6a489b8",
+          "name": "War Axe",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/War_Axe.png",
+          "price": 2100
+        },
+        {
+          "id": "60d82125-ae14-43f5-9368-cadd62bb070a",
+          "name": "Endless Battle",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Endless_Battle.png",
+          "price": 2330
+        },
+        {
+          "id": "1b0549bd-fd16-4460-bed5-f43b4e7fa005",
+          "name": "Cursed Helmet",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Cursed_Helmet.png",
+          "price": 1910
+        },
+        {
+          "id": "f8f538b8-5cf0-4fd4-a4e6-dff974a0b715",
+          "name": "Guardian Helmet",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Guardian_Helmet.png",
+          "price": 2500
+        }
+      ],
+      "emblem": {
+        "id": "20ca33c9-d514-45d0-a956-98beb83e86ef",
+        "name": "Fighter",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Custom_Fighter_Emblem.png"
+      },
+      "spell": {
+        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
+        "name": "Flicker",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
+      },
+      "conditional_items": [
+        "ad17db6e-8002-48c1-a561-bd794da0e283",
+        "45e33c00-9674-44d3-950b-073425a1f922"
+      ],
+      "created_at": "2026-09-12T07:20:02.856391+00:00"
+    },
+    {
       "id": "90b43dc1-5a85-45ee-b3a4-0db4d0a1edc0",
       "title": "Exp Sustain+Damage",
       "description": "",
@@ -125,67 +186,6 @@
         "45e33c00-9674-44d3-950b-073425a1f922"
       ],
       "created_at": "2026-08-20T09:57:19.897045+00:00"
-    },
-    {
-      "id": "a6efe25c-6a28-4993-96a6-f8a19effc0d6",
-      "title": "EXP Sustain yang bisa burst",
-      "description": "",
-      "tips": "",
-      "likes": 1,
-      "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
-      "items": [
-        {
-          "id": "0f52e11b-4c01-4652-8a64-c3bfc6a489b8",
-          "name": "War Axe",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/War_Axe.png",
-          "price": 2100
-        },
-        {
-          "id": "1433cb2c-1ad9-4f7d-b594-793ac4c9e6b6",
-          "name": "Rapid Boots",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Rapid_Boots.png",
-          "price": 720
-        },
-        {
-          "id": "9d4988cb-f1ff-4020-a152-09bfa42ea847",
-          "name": "Thunder Belt",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/dd/Thunder_Belt.png",
-          "price": 1820
-        },
-        {
-          "id": "60d82125-ae14-43f5-9368-cadd62bb070a",
-          "name": "Endless Battle",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Endless_Battle.png",
-          "price": 2330
-        },
-        {
-          "id": "3585dc9e-2722-44f6-9bbb-100b777c5a86",
-          "name": "Radiant Armor",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Radiant_Armor.png",
-          "price": 1880
-        },
-        {
-          "id": "421314fd-557c-427b-8e74-b016c8dcf33a",
-          "name": "Chastise Pauldron",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Chastise_Pauldron.png",
-          "price": 2100
-        }
-      ],
-      "emblem": {
-        "id": "20ca33c9-d514-45d0-a956-98beb83e86ef",
-        "name": "Fighter",
-        "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Custom_Fighter_Emblem.png"
-      },
-      "spell": {
-        "id": "aa9d509d-79bd-4486-b7d3-eb724cb72f3e",
-        "name": "Vengeance",
-        "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Vengeance.png"
-      },
-      "conditional_items": [
-        "70ae58cf-dc12-42f2-832f-75f9bbbfc0e1",
-        "2f707623-6044-4dc4-8183-5095409c5078"
-      ],
-      "created_at": "2026-08-16T12:23:27.149063+00:00"
     }
   ]
 }

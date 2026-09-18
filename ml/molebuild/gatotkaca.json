@@ -5,6 +5,67 @@
   "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e3ccd096c9c4649519d736073acca91a.png",
   "builds": [
     {
+      "id": "62c72233-9914-41df-b2b6-804b51438adb",
+      "title": "Gatot full damage ",
+      "description": "Bulid mid game dan late game",
+      "tips": "",
+      "likes": 2,
+      "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
+      "items": [
+        {
+          "id": "3a11d865-1fff-4d8f-b919-5023703fb31a",
+          "name": "Blood Wings",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Blood_Wings.png",
+          "price": 2100
+        },
+        {
+          "id": "59a45ae3-4662-4bee-8471-73751dcee211",
+          "name": "Divine Glaive",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Divine_Glaive.png",
+          "price": 1970
+        },
+        {
+          "id": "78f73686-df75-42b1-8bb1-fbf9d5f33a70",
+          "name": "Glowing Wand",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Glowing_Wand.png",
+          "price": 2150
+        },
+        {
+          "id": "8408352d-1f00-4c68-b3ba-7abc320588ce",
+          "name": "Sky Piercer",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Sky_Piercer.png",
+          "price": 1500
+        },
+        {
+          "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
+          "name": "Holy Crystal",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
+          "price": 3000
+        },
+        {
+          "id": "cdbfc89a-2fac-4466-ba07-1fba1e357847",
+          "name": "Genius Wand",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Genius_Wand.png",
+          "price": 2000
+        }
+      ],
+      "emblem": {
+        "id": "5e0b6bcf-c296-4117-b0d4-4d6dae8f1618",
+        "name": "Mage",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Custom_Mage_Emblem.png"
+      },
+      "spell": {
+        "id": "4b128f1d-6404-4e60-a219-9b9c4bdd74aa",
+        "name": "Aegis",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e5/Aegis.png"
+      },
+      "conditional_items": [
+        "2f707623-6044-4dc4-8183-5095409c5078",
+        "a6ec810a-08da-4bbf-a137-8d23531920c9"
+      ],
+      "created_at": "2026-06-28T13:23:40.394458+00:00"
+    },
+    {
       "id": "8a8a9d32-6671-45cb-801f-778c6123d85e",
       "title": "MPL PH S17 PLAYOFFS DAY 4 ONIC.Brusko",
       "description": "( ONIC VS FLCN GAME 6 ) MPL PHILIPPINES SEASON 17 PLAYOFFS DAY 4 30 MEI 2026",
@@ -122,67 +183,6 @@
         "cd59334a-2214-4e1b-a528-1ea8ae74458a"
       ],
       "created_at": "2026-07-05T05:46:19.212355+00:00"
-    },
-    {
-      "id": "62c72233-9914-41df-b2b6-804b51438adb",
-      "title": "Gatot full damage ",
-      "description": "Bulid mid game dan late game",
-      "tips": "",
-      "likes": 1,
-      "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
-      "items": [
-        {
-          "id": "3a11d865-1fff-4d8f-b919-5023703fb31a",
-          "name": "Blood Wings",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Blood_Wings.png",
-          "price": 2100
-        },
-        {
-          "id": "59a45ae3-4662-4bee-8471-73751dcee211",
-          "name": "Divine Glaive",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Divine_Glaive.png",
-          "price": 1970
-        },
-        {
-          "id": "78f73686-df75-42b1-8bb1-fbf9d5f33a70",
-          "name": "Glowing Wand",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Glowing_Wand.png",
-          "price": 2150
-        },
-        {
-          "id": "8408352d-1f00-4c68-b3ba-7abc320588ce",
-          "name": "Sky Piercer",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Sky_Piercer.png",
-          "price": 1500
-        },
-        {
-          "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
-          "name": "Holy Crystal",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
-          "price": 3000
-        },
-        {
-          "id": "cdbfc89a-2fac-4466-ba07-1fba1e357847",
-          "name": "Genius Wand",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Genius_Wand.png",
-          "price": 2000
-        }
-      ],
-      "emblem": {
-        "id": "5e0b6bcf-c296-4117-b0d4-4d6dae8f1618",
-        "name": "Mage",
-        "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Custom_Mage_Emblem.png"
-      },
-      "spell": {
-        "id": "4b128f1d-6404-4e60-a219-9b9c4bdd74aa",
-        "name": "Aegis",
-        "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e5/Aegis.png"
-      },
-      "conditional_items": [
-        "2f707623-6044-4dc4-8183-5095409c5078",
-        "a6ec810a-08da-4bbf-a137-8d23531920c9"
-      ],
-      "created_at": "2026-06-28T13:23:40.394458+00:00"
     }
   ]
 }

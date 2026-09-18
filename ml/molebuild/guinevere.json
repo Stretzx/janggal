@@ -66,6 +66,67 @@
       "created_at": "2026-01-14T10:17:08.337912+00:00"
     },
     {
+      "id": "554455b1-7abf-402b-a9e1-0496fc99e6f3",
+      "title": "sakit + tebel",
+      "description": "",
+      "tips": "",
+      "likes": 4,
+      "patch_id": "c6153242-aa0e-47fc-9d09-edfb495a997d",
+      "items": [
+        {
+          "id": "32da3955-3a13-4a18-ac27-7d9b064f3fa2",
+          "name": "Magic Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Magic_Shoes.png",
+          "price": 720
+        },
+        {
+          "id": "b5543f4a-6463-48f1-812f-ad08633494a1",
+          "name": "Concentrated Energy",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Concentrated_Energy.png",
+          "price": 2020
+        },
+        {
+          "id": "ad17db6e-8002-48c1-a561-bd794da0e283",
+          "name": "Brute Force Breastplate",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Brute_Force_Breastplate.png",
+          "price": 2070
+        },
+        {
+          "id": "ece51f8f-c4c8-47cb-9992-314e83af317b",
+          "name": "Wishing Lantern",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Wishing_Lantern.png",
+          "price": 2250
+        },
+        {
+          "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
+          "name": "Holy Crystal",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
+          "price": 3000
+        },
+        {
+          "id": "59a45ae3-4662-4bee-8471-73751dcee211",
+          "name": "Divine Glaive",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Divine_Glaive.png",
+          "price": 1970
+        }
+      ],
+      "emblem": {
+        "id": "5e0b6bcf-c296-4117-b0d4-4d6dae8f1618",
+        "name": "Mage",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Custom_Mage_Emblem.png"
+      },
+      "spell": {
+        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
+        "name": "Flicker",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
+      },
+      "conditional_items": [
+        "3a11d865-1fff-4d8f-b919-5023703fb31a",
+        "78f73686-df75-42b1-8bb1-fbf9d5f33a70"
+      ],
+      "created_at": "2026-05-11T05:59:45.046465+00:00"
+    },
+    {
       "id": "f458d188-413b-4bb4-9610-bd9a7542c89a",
       "title": "semi tank lahir dgn bakat loh ya",
       "description": "bisa gantikan bargain hunter ke fob atau wp dan impure rage ke temporal reign. dan item terakhir itu optional ya ikut situasi dan enemy, kalau ga ya tinggal winter aja",
@@ -125,67 +186,6 @@
         "9b0c5b28-b617-42e8-8bdb-5aef5514b6ce"
       ],
       "created_at": "2026-03-14T00:53:46.307155+00:00"
-    },
-    {
-      "id": "554455b1-7abf-402b-a9e1-0496fc99e6f3",
-      "title": "sakit + tebel",
-      "description": "",
-      "tips": "",
-      "likes": 3,
-      "patch_id": "c6153242-aa0e-47fc-9d09-edfb495a997d",
-      "items": [
-        {
-          "id": "32da3955-3a13-4a18-ac27-7d9b064f3fa2",
-          "name": "Magic Boots",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Magic_Shoes.png",
-          "price": 720
-        },
-        {
-          "id": "b5543f4a-6463-48f1-812f-ad08633494a1",
-          "name": "Concentrated Energy",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Concentrated_Energy.png",
-          "price": 2020
-        },
-        {
-          "id": "ad17db6e-8002-48c1-a561-bd794da0e283",
-          "name": "Brute Force Breastplate",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Brute_Force_Breastplate.png",
-          "price": 2070
-        },
-        {
-          "id": "ece51f8f-c4c8-47cb-9992-314e83af317b",
-          "name": "Wishing Lantern",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Wishing_Lantern.png",
-          "price": 2250
-        },
-        {
-          "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
-          "name": "Holy Crystal",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
-          "price": 3000
-        },
-        {
-          "id": "59a45ae3-4662-4bee-8471-73751dcee211",
-          "name": "Divine Glaive",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Divine_Glaive.png",
-          "price": 1970
-        }
-      ],
-      "emblem": {
-        "id": "5e0b6bcf-c296-4117-b0d4-4d6dae8f1618",
-        "name": "Mage",
-        "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Custom_Mage_Emblem.png"
-      },
-      "spell": {
-        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
-        "name": "Flicker",
-        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
-      },
-      "conditional_items": [
-        "3a11d865-1fff-4d8f-b919-5023703fb31a",
-        "78f73686-df75-42b1-8bb1-fbf9d5f33a70"
-      ],
-      "created_at": "2026-05-11T05:59:45.046465+00:00"
     }
   ]
 }

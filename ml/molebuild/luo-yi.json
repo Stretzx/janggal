@@ -9,7 +9,7 @@
       "title": "Anti heal",
       "description": "Emblem dan build sakit dari Erly sampai late game jika kalian tau memakai Hero nya dan memanfaatkan pasif nya buat lari dan ulti buat suprise musuh\n\nFollow tiktok : Luo Yi tenko",
       "tips": "",
-      "likes": 0,
+      "likes": 1,
       "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
       "items": [
         {
@@ -70,7 +70,7 @@
       "title": "Astaga luo yi exp 😋",
       "description": "E",
       "tips": "",
-      "likes": 0,
+      "likes": 1,
       "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
       "items": [
         {
@@ -124,31 +124,13 @@
       "created_at": "2026-07-04T19:50:03.462197+00:00"
     },
     {
-      "id": "ec9a41bb-3739-4ef6-aaae-142d979ebd09",
-      "title": "MPL ID S17 GRAND FINALS ONIC.SANZ",
-      "description": "( ONIC VS BTR GAME 2 ) MPL INDONESIA SEASON 17 GRAND FINALS 14 JUNI 2026",
+      "id": "c5975644-8e85-4c1d-ad64-b5771ae5091c",
+      "title": "MPL ID S18 WEEK 3 DAY 3 AE.Hijumee",
+      "description": "( AE VS TLID GAME 3 ) MPL INDONESIA SEASON 18 WEEK 3 DAY 3 30 AGUSTUS 2026",
       "tips": null,
       "likes": 0,
-      "patch_id": "c6153242-aa0e-47fc-9d09-edfb495a997d",
+      "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
       "items": [
-        {
-          "id": "32da3955-3a13-4a18-ac27-7d9b064f3fa2",
-          "name": "Magic Boots",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Magic_Shoes.png",
-          "price": 720
-        },
-        {
-          "id": "78f73686-df75-42b1-8bb1-fbf9d5f33a70",
-          "name": "Glowing Wand",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Glowing_Wand.png",
-          "price": 2150
-        },
-        {
-          "id": "ece51f8f-c4c8-47cb-9992-314e83af317b",
-          "name": "Wishing Lantern",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Wishing_Lantern.png",
-          "price": 2250
-        },
         {
           "id": "59a45ae3-4662-4bee-8471-73751dcee211",
           "name": "Divine Glaive",
@@ -156,16 +138,28 @@
           "price": 1970
         },
         {
-          "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
-          "name": "Holy Crystal",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
-          "price": 3000
+          "id": "334e9608-b9cc-49e1-8d5c-c65f9ac3648a",
+          "name": "Magic Necklace",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Magic_Necklace.png",
+          "price": 120
         },
         {
-          "id": "2f707623-6044-4dc4-8183-5095409c5078",
-          "name": "Immortality",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Immortality.png",
-          "price": 2120
+          "id": "558b4905-faad-4920-971f-1213ce1efa09",
+          "name": "Magic Wand",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Magic_Wand.png",
+          "price": 820
+        },
+        {
+          "id": "1433cb2c-1ad9-4f7d-b594-793ac4c9e6b6",
+          "name": "Rapid Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Rapid_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "78f73686-df75-42b1-8bb1-fbf9d5f33a70",
+          "name": "Glowing Wand",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Glowing_Wand.png",
+          "price": 2150
         }
       ],
       "emblem": {
@@ -179,7 +173,7 @@
         "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
       },
       "conditional_items": [],
-      "created_at": "2026-06-14T13:44:58.853571+00:00"
+      "created_at": "2026-09-11T12:32:20.607299+00:00"
     }
   ]
 }

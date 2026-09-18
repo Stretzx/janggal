@@ -127,24 +127,18 @@
       "created_at": "2025-12-31T00:16:23.16378+00:00"
     },
     {
-      "id": "2fcd3121-929f-4c3a-8ebe-7bd5d11d4239",
-      "title": "Damage",
-      "description": "Untuk damage yg sakit dan ada winter",
-      "tips": "",
+      "id": "fa404f89-688d-424a-9eff-8ac65244b374",
+      "title": "MPL PH S18 WEEK 1 DAY 1 ONIC.SuperFrince",
+      "description": "( RORA VS ONIC GAME 2 ) MPL PHILIPPINES SEASON 18 WEEK 1 DAY 1 21 AGUSTUS 2026",
+      "tips": null,
       "likes": 0,
-      "patch_id": "c6153242-aa0e-47fc-9d09-edfb495a997d",
+      "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
       "items": [
         {
-          "id": "49c4ef2a-d6e0-4c9a-b2d9-49740e7f4772",
-          "name": "Demon Shoes",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Demon_Shoes.png",
+          "id": "a6ec810a-08da-4bbf-a137-8d23531920c9",
+          "name": "Arcane Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Arcane_Boots.png",
           "price": 720
-        },
-        {
-          "id": "cdbfc89a-2fac-4466-ba07-1fba1e357847",
-          "name": "Genius Wand",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Genius_Wand.png",
-          "price": 2000
         },
         {
           "id": "78f73686-df75-42b1-8bb1-fbf9d5f33a70",
@@ -153,22 +147,28 @@
           "price": 2150
         },
         {
-          "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
-          "name": "Holy Crystal",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
-          "price": 3000
+          "id": "334e9608-b9cc-49e1-8d5c-c65f9ac3648a",
+          "name": "Magic Necklace",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Magic_Necklace.png",
+          "price": 120
         },
         {
-          "id": "2184fd07-4ced-48d6-b6f0-04f99122a4e0",
-          "name": "Lightning Truncheon",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Lightning_Truncheon.png",
-          "price": 2250
+          "id": "59a45ae3-4662-4bee-8471-73751dcee211",
+          "name": "Divine Glaive",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Divine_Glaive.png",
+          "price": 1970
         },
         {
-          "id": "ece51f8f-c4c8-47cb-9992-314e83af317b",
-          "name": "Wishing Lantern",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Wishing_Lantern.png",
-          "price": 2250
+          "id": "3a11d865-1fff-4d8f-b919-5023703fb31a",
+          "name": "Blood Wings",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Blood_Wings.png",
+          "price": 2100
+        },
+        {
+          "id": "cd1861a0-a850-4ac3-92ee-83707e358f77",
+          "name": "My",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Mystery_Codex.png",
+          "price": 300
         }
       ],
       "emblem": {
@@ -177,15 +177,12 @@
         "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Custom_Mage_Emblem.png"
       },
       "spell": {
-        "id": "234c17a1-89ce-4289-b5df-9e2625a4a8b6",
-        "name": "Flameshot",
-        "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f2/Flameshot.png"
+        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
+        "name": "Flicker",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
       },
-      "conditional_items": [
-        "37d85658-320c-42d8-9744-2ea29755d444",
-        "3a11d865-1fff-4d8f-b919-5023703fb31a"
-      ],
-      "created_at": "2026-05-19T06:02:46.525039+00:00"
+      "conditional_items": [],
+      "created_at": "2026-08-28T11:04:44.963989+00:00"
     }
   ]
 }

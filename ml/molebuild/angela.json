@@ -5,6 +5,128 @@
   "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a815a3adad8df99481700c84abaf3c41.png",
   "builds": [
     {
+      "id": "b8e79edc-6cfd-43d3-8b9a-c0561798ac63",
+      "title": "Angela attack speed",
+      "description": "Angela attack speed cocok untuk lanang laki laki yang ingin merasakan sensasi bermain Angela ks bukan support",
+      "tips": "",
+      "likes": 2,
+      "patch_id": "50548097-d34a-4265-8e93-f27176454d15",
+      "items": [
+        {
+          "id": "30b36662-b7db-46c6-9a63-346eae2b1c45",
+          "name": "Swift Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Swift_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "85ca390d-2fd5-4428-84ca-cdda78d395d2",
+          "name": "Corrosion Scythe",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Corrosion_Scythe.png",
+          "price": 2050
+        },
+        {
+          "id": "382823c5-fac2-4cc4-859d-3f54d6b2b793",
+          "name": "Demon Hunter Sword",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Demon_Hunter_Sword.png",
+          "price": 2180
+        },
+        {
+          "id": "a67fa43a-b139-4b0b-9d0f-43537ef95a24",
+          "name": "Windtalker",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Windtalker.png",
+          "price": 1880
+        },
+        {
+          "id": "a67fa43a-b139-4b0b-9d0f-43537ef95a24",
+          "name": "Windtalker",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Windtalker.png",
+          "price": 1880
+        },
+        {
+          "id": "6c3c144b-fe6d-4fa5-b597-4f0240825528",
+          "name": "Golden Staff",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Golden_Staff.png",
+          "price": 2000
+        }
+      ],
+      "emblem": {
+        "id": "6f783459-4751-414f-b371-85282443cfd4",
+        "name": "Assassin",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Custom_Assassin_Emblem.png"
+      },
+      "spell": {
+        "id": "62a0cb78-66c8-4066-831c-91c49eefc0af",
+        "name": "Inspire",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Inspire.png"
+      },
+      "conditional_items": [
+        "2c6757ba-8522-4d3c-a894-407f2c4f16e9",
+        "8408352d-1f00-4c68-b3ba-7abc320588ce"
+      ],
+      "created_at": "2026-03-07T08:34:37.919148+00:00"
+    },
+    {
+      "id": "108265d0-60b8-421e-979b-be43a1083b09",
+      "title": "Build Angela Full Support",
+      "description": "ini adalah build angela normal yang pada umum nya ber fokus ke heal dan support dari belakang",
+      "tips": "1. Gunakan skill 1 dengan baik. kunci nya ada di skill 1 nya, jangan cuma fokus heal ke tim, tapi arahkan juga ke musuh, karena skill 1 angela punya efek  penambahan damage untuk tim karena talent ke 3, slow dari ice queen wand, burn dan pengurangan efek heal dari glowing wand.\n\n2. winter di gunakan untuk cencel cc dari musuh ketika sedang ulti.  tekan tombol ulti lalu winter agar animasi ultinya ga di cencel\n\n3. sprint berfungsi untuk kabur dari musuh ketika tim yang di ulti mati atau gagal atau setelah durasi ulti nya selesai",
+      "likes": 1,
+      "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
+      "items": [
+        {
+          "id": "49c4ef2a-d6e0-4c9a-b2d9-49740e7f4772",
+          "name": "Demon Shoes",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Demon_Shoes.png",
+          "price": 720
+        },
+        {
+          "id": "85779626-b5f7-445b-b77d-c44074f94e2c",
+          "name": "Flask of the Oasis",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Flask_of_the_Oasis.png",
+          "price": 1850
+        },
+        {
+          "id": "f0e350a8-9b23-4216-ba1a-03f7849d07d3",
+          "name": "Fleeting Time",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/Fleeting_Time.png",
+          "price": 2050
+        },
+        {
+          "id": "78f73686-df75-42b1-8bb1-fbf9d5f33a70",
+          "name": "Glowing Wand",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Glowing_Wand.png",
+          "price": 2150
+        },
+        {
+          "id": "9b0c5b28-b617-42e8-8bdb-5aef5514b6ce",
+          "name": "Winter Crown",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Winter_Crown.png",
+          "price": 1910
+        },
+        {
+          "id": "37d85658-320c-42d8-9744-2ea29755d444",
+          "name": "Ice Queen Wand",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Ice_Queen_Wand.png",
+          "price": 2040
+        }
+      ],
+      "emblem": {
+        "id": "548cd559-72f6-45b4-a0d5-f4b7aafcb2a9",
+        "name": "Support",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Custom_Support_Emblem.png"
+      },
+      "spell": {
+        "id": "c4ec9da3-fa75-473a-9abf-f0e1d8fae6c4",
+        "name": "Sprint",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Sprint.png"
+      },
+      "conditional_items": [
+        "2f707623-6044-4dc4-8183-5095409c5078",
+        "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa"
+      ],
+      "created_at": "2026-08-25T05:34:50.608547+00:00"
+    },
+    {
       "id": "172c8089-b7fd-4a3a-866a-6733aff76b91",
       "title": "Heal Deras Roam Support ",
       "description": "Build Angela Sebagai ROAM SUPPORT ,\n\nJaga Postioning dan Fokus Heal Deras untuk Tim serta Berguna untuk Team Fight ,\n\nCooldown Ulti Cepat, Mana Gak Habis-Habis Tanpa Ke Base karena emblem common ,\n\nPatch Sekarang (15-05-2026)",
@@ -61,128 +183,6 @@
       },
       "conditional_items": [],
       "created_at": "2026-05-15T11:27:40.469603+00:00"
-    },
-    {
-      "id": "22f07108-1a43-4ca9-9c21-90dd02f162d5",
-      "title": "sakit bingid",
-      "description": "untuk angela mid yaa",
-      "tips": "",
-      "likes": 1,
-      "patch_id": "c6153242-aa0e-47fc-9d09-edfb495a997d",
-      "items": [
-        {
-          "id": "49c4ef2a-d6e0-4c9a-b2d9-49740e7f4772",
-          "name": "Demon Shoes",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Demon_Shoes.png",
-          "price": 720
-        },
-        {
-          "id": "85779626-b5f7-445b-b77d-c44074f94e2c",
-          "name": "Flask of the Oasis",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Flask_of_the_Oasis.png",
-          "price": 1850
-        },
-        {
-          "id": "78f73686-df75-42b1-8bb1-fbf9d5f33a70",
-          "name": "Glowing Wand",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Glowing_Wand.png",
-          "price": 2150
-        },
-        {
-          "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
-          "name": "Holy Crystal",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
-          "price": 3000
-        },
-        {
-          "id": "70ae58cf-dc12-42f2-832f-75f9bbbfc0e1",
-          "name": "Oracle",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Oracle.png",
-          "price": 1860
-        },
-        {
-          "id": "2f707623-6044-4dc4-8183-5095409c5078",
-          "name": "Immortality",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Immortality.png",
-          "price": 2120
-        }
-      ],
-      "emblem": {
-        "id": "5e0b6bcf-c296-4117-b0d4-4d6dae8f1618",
-        "name": "Mage",
-        "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Custom_Mage_Emblem.png"
-      },
-      "spell": {
-        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
-        "name": "Flicker",
-        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
-      },
-      "conditional_items": [
-        "9b0c5b28-b617-42e8-8bdb-5aef5514b6ce",
-        "5b97529a-e569-400f-b8f8-7e9a76b42e7a"
-      ],
-      "created_at": "2026-05-14T08:38:12.766559+00:00"
-    },
-    {
-      "id": "488c9e62-a05f-4453-8eba-e62f6051942e",
-      "title": "GK ngontak ",
-      "description": "keras sakit stress gila",
-      "tips": "",
-      "likes": 1,
-      "patch_id": "be77a09b-50cc-45fb-b5fa-623daa196557",
-      "items": [
-        {
-          "id": "30b36662-b7db-46c6-9a63-346eae2b1c45",
-          "name": "Swift Boots",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Swift_Boots.png",
-          "price": 720
-        },
-        {
-          "id": "382823c5-fac2-4cc4-859d-3f54d6b2b793",
-          "name": "Demon Hunter Sword",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Demon_Hunter_Sword.png",
-          "price": 2180
-        },
-        {
-          "id": "85ca390d-2fd5-4428-84ca-cdda78d395d2",
-          "name": "Corrosion Scythe",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Corrosion_Scythe.png",
-          "price": 2050
-        },
-        {
-          "id": "6c3c144b-fe6d-4fa5-b597-4f0240825528",
-          "name": "Golden Staff",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Golden_Staff.png",
-          "price": 2000
-        },
-        {
-          "id": "bd3e52c0-6890-4eee-ad81-9815f3b65eaf",
-          "name": "Haas Claws",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Haas%27_Claws.png",
-          "price": 2020
-        },
-        {
-          "id": "a67fa43a-b139-4b0b-9d0f-43537ef95a24",
-          "name": "Windtalker",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Windtalker.png",
-          "price": 1880
-        }
-      ],
-      "emblem": {
-        "id": "0477a4cd-825b-408f-92dc-d5e9229c7a50",
-        "name": "Marksman",
-        "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Custom_Marksman_Emblem.png"
-      },
-      "spell": {
-        "id": "62a0cb78-66c8-4066-831c-91c49eefc0af",
-        "name": "Inspire",
-        "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Inspire.png"
-      },
-      "conditional_items": [
-        "c49ed4f8-8b73-42c8-87e2-fa83bccade0d",
-        "5b97529a-e569-400f-b8f8-7e9a76b42e7a"
-      ],
-      "created_at": "2026-03-25T11:56:27.90052+00:00"
     }
   ]
 }
