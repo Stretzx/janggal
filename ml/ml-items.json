@@ -414,6 +414,12 @@
     "c": "Attack"
   },
   {
+    "s": "rogue-meteor",
+    "n": "Rogue Meteor",
+    "i": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Rogue_Meteor.png/",
+    "c": "Attack"
+  },
+  {
     "s": "rose-gold-meteor",
     "n": "Rose Gold Meteor",
     "i": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Rose_Gold_Meteor.png",
@@ -507,7 +513,7 @@
     "s": "wind-of-nature",
     "n": "Wind of Nature",
     "i": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Wind_of_Nature.png",
-    "c": "Attack"
+    "c": "Defense"
   },
   {
     "s": "windtalker",

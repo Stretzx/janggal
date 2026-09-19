@@ -2,7 +2,7 @@
   "hero": "Beatrix",
   "slug": "beatrix",
   "hero_id": "2922abca-b640-465e-a35b-a92c2e51ace3",
-  "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c1acd7cbd828f0c5d291e48a0f7c018d.png",
+  "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_2f25a8ef9bbb2d52eaaea8d6eee85d22.jpg",
   "builds": [
     {
       "id": "64723372-0358-4914-8e01-832e88741404",
@@ -160,12 +160,6 @@
           "name": "Hunter Strike",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hunter_Strike.png",
           "price": 2010
-        },
-        {
-          "id": "27361867-2d35-4ad8-8d4d-ba0266b04109",
-          "name": "Blade of Despair",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Blade_of_Despair.png",
-          "price": 3010
         }
       ],
       "emblem": {

@@ -2,8 +2,69 @@
   "hero": "Masha",
   "slug": "masha",
   "hero_id": "68cc1e03-3ccd-4d7e-9fad-2105b9d16e50",
-  "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6fcd3a37b34ea16ca6b485b88220e400.png",
+  "image": "https://akmweb.youngjoygame.com/web/gms/image/c09dc406cf28410a2045eec82a60b617.jpg",
   "builds": [
+    {
+      "id": "95274b73-75a7-452c-8fe2-be8b63fabd86",
+      "title": "Exp semi tank",
+      "description": "Kuat laning lawan hampir siapapun kecuali cici,jangan pakai build ini ketika lawan memakai cici exp. \nUsahakan melakukan gemplay agresif ketika tunderbelt sudah jadi.Ketika bertemu lawan yg mengandalkan lifesteel gunakan sea halberd di item pertama atau kedua setelah tunderbelt.",
+      "tips": "",
+      "likes": 2,
+      "patch_id": "8bda5b76-0cd7-4adb-a02d-019026492527",
+      "items": [
+        {
+          "id": "1433cb2c-1ad9-4f7d-b594-793ac4c9e6b6",
+          "name": "Rapid Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Rapid_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "9d4988cb-f1ff-4020-a152-09bfa42ea847",
+          "name": "Thunder Belt",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/dd/Thunder_Belt.png",
+          "price": 1820
+        },
+        {
+          "id": "a67fa43a-b139-4b0b-9d0f-43537ef95a24",
+          "name": "Windtalker",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Windtalker.png",
+          "price": 1880
+        },
+        {
+          "id": "85ca390d-2fd5-4428-84ca-cdda78d395d2",
+          "name": "Corrosion Scythe",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Corrosion_Scythe.png",
+          "price": 2050
+        },
+        {
+          "id": "6c3c144b-fe6d-4fa5-b597-4f0240825528",
+          "name": "Golden Staff",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Golden_Staff.png",
+          "price": 2000
+        },
+        {
+          "id": "f8f538b8-5cf0-4fd4-a4e6-dff974a0b715",
+          "name": "Guardian Helmet",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Guardian_Helmet.png",
+          "price": 2500
+        }
+      ],
+      "emblem": {
+        "id": "c0c1e80e-c705-4a36-ae5f-f930130489ba",
+        "name": "Tank",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Custom_Tank_Emblem.png"
+      },
+      "spell": {
+        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
+        "name": "Flicker",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
+      },
+      "conditional_items": [
+        "2f707623-6044-4dc4-8183-5095409c5078",
+        "2c6757ba-8522-4d3c-a894-407f2c4f16e9"
+      ],
+      "created_at": "2026-09-18T03:14:08.806084+00:00"
+    },
     {
       "id": "cfcb136a-86ce-4ee6-bdcc-9db1e14ed204",
       "title": "Masha tebel di tim fight (Masha roam)",
@@ -125,67 +186,6 @@
         "60d82125-ae14-43f5-9368-cadd62bb070a"
       ],
       "created_at": "2026-02-25T12:35:25.173128+00:00"
-    },
-    {
-      "id": "95274b73-75a7-452c-8fe2-be8b63fabd86",
-      "title": "Exp semi tank",
-      "description": "Kuat laning lawan hampir siapapun kecuali cici,jangan pakai build ini ketika lawan memakai cici exp. \nUsahakan melakukan gemplay agresif ketika tunderbelt sudah jadi.Ketika bertemu lawan yg mengandalkan lifesteel gunakan sea halberd di item pertama atau kedua setelah tunderbelt.",
-      "tips": "",
-      "likes": 1,
-      "patch_id": "8bda5b76-0cd7-4adb-a02d-019026492527",
-      "items": [
-        {
-          "id": "1433cb2c-1ad9-4f7d-b594-793ac4c9e6b6",
-          "name": "Rapid Boots",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Rapid_Boots.png",
-          "price": 720
-        },
-        {
-          "id": "9d4988cb-f1ff-4020-a152-09bfa42ea847",
-          "name": "Thunder Belt",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/dd/Thunder_Belt.png",
-          "price": 1820
-        },
-        {
-          "id": "a67fa43a-b139-4b0b-9d0f-43537ef95a24",
-          "name": "Windtalker",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Windtalker.png",
-          "price": 1880
-        },
-        {
-          "id": "85ca390d-2fd5-4428-84ca-cdda78d395d2",
-          "name": "Corrosion Scythe",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Corrosion_Scythe.png",
-          "price": 2050
-        },
-        {
-          "id": "9d21f19b-e352-4d3e-b6b0-8c742a8078e7",
-          "name": "Malefic Gun",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Malefic_Gun.png",
-          "price": 2120
-        },
-        {
-          "id": "f8f538b8-5cf0-4fd4-a4e6-dff974a0b715",
-          "name": "Guardian Helmet",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Guardian_Helmet.png",
-          "price": 2500
-        }
-      ],
-      "emblem": {
-        "id": "c0c1e80e-c705-4a36-ae5f-f930130489ba",
-        "name": "Tank",
-        "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Custom_Tank_Emblem.png"
-      },
-      "spell": {
-        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
-        "name": "Flicker",
-        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
-      },
-      "conditional_items": [
-        "2f707623-6044-4dc4-8183-5095409c5078",
-        "2c6757ba-8522-4d3c-a894-407f2c4f16e9"
-      ],
-      "created_at": "2026-09-18T03:14:08.806084+00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "hero": "Zilong",
   "slug": "zilong",
   "hero_id": "23543196-6f66-401b-b39a-8f797892d34a",
-  "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e22227fa343e8c5bffd83bb78d1bd292.png",
+  "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_90df181873c42df22049aa056662a934.jpg",
   "builds": [
     {
       "id": "2c8c608b-1dd7-45d5-af04-ddc28f1ba401",
@@ -29,12 +29,6 @@
           "name": "Great Dragon Spear",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Great_Dragon_Spear.png",
           "price": 2140
-        },
-        {
-          "id": "a67fa43a-b139-4b0b-9d0f-43537ef95a24",
-          "name": "Windtalker",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Windtalker.png",
-          "price": 1880
         },
         {
           "id": "a67fa43a-b139-4b0b-9d0f-43537ef95a24",

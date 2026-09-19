@@ -2,7 +2,7 @@
   "hero": "Aurora",
   "slug": "aurora",
   "hero_id": "0e4616ed-b598-4c47-8b06-d6c0b9183039",
-  "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1f3f900f917956e81d7764b9e5ffeb3d.png",
+  "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_58b97db6a5c286059057d42289612b16.jpg",
   "builds": [
     {
       "id": "90faba38-3fde-4b38-86d8-a1a7bf53d5e7",
@@ -78,30 +78,6 @@
           "name": "Arcane Boots",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Arcane_Boots.png",
           "price": 720
-        },
-        {
-          "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
-          "name": "Holy Crystal",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
-          "price": 3000
-        },
-        {
-          "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
-          "name": "Holy Crystal",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
-          "price": 3000
-        },
-        {
-          "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
-          "name": "Holy Crystal",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
-          "price": 3000
-        },
-        {
-          "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
-          "name": "Holy Crystal",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
-          "price": 3000
         },
         {
           "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",

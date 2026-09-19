@@ -2,7 +2,7 @@
   "hero": "Lancelot",
   "slug": "lancelot",
   "hero_id": "a66f7584-d3fc-4bec-a638-5f127372ca63",
-  "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_db7d20dd6e7a9f958ad210680dc2ba7b.png",
+  "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_015bacc4e1111e5e2b4a33b5e58ff106.jpg",
   "builds": [
     {
       "id": "87b2d0ce-6495-4c0b-ad05-9e95f8c70945",
@@ -99,12 +99,6 @@
           "name": "Blade of Despair",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Blade_of_Despair.png",
           "price": 3010
-        },
-        {
-          "id": "5b97529a-e569-400f-b8f8-7e9a76b42e7a",
-          "name": "Rose Gold Meteor",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Rose_Gold_Meteor.png",
-          "price": 2030
         }
       ],
       "emblem": {

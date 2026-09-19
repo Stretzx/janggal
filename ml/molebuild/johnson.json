@@ -2,7 +2,7 @@
   "hero": "Johnson",
   "slug": "johnson",
   "hero_id": "d023f133-7007-4786-b0bf-306b7262636d",
-  "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9939e5cc09011a287a989b7d4b3aec4d.png",
+  "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_b40543fb2ad8f8ef198c66f0d9eadeef.jpg",
   "builds": [
     {
       "id": "ee6e4bd7-97ed-4b93-ba59-61644ee905cb",
@@ -151,12 +151,6 @@
           "name": "Fleeting Time",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/Fleeting_Time.png",
           "price": 2050
-        },
-        {
-          "id": "cd59334a-2214-4e1b-a528-1ea8ae74458a",
-          "name": "Blade Armor",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Blade_Armor.png",
-          "price": 1910
         },
         {
           "id": "93514bd9-2483-40ef-b301-86a6c796e2be",

@@ -2,7 +2,7 @@
   "hero": "Xavier",
   "slug": "xavier",
   "hero_id": "a2c67b48-8aec-4f7f-a2c6-9a6b8bf9d638",
-  "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2f4e01714176adb56ca70eef1460e461.png",
+  "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_6ebaf2a24b6b6cf256c9bae408b0400e.jpg",
   "builds": [
     {
       "id": "9fad4768-61b7-42df-b4ca-acd2e0bab941",
@@ -78,12 +78,6 @@
           "name": "Sky Piercer",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Sky_Piercer.png",
           "price": 1500
-        },
-        {
-          "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
-          "name": "Holy Crystal",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
-          "price": 3000
         },
         {
           "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",

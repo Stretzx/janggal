@@ -2,7 +2,7 @@
   "hero": "Rafaela",
   "slug": "rafaela",
   "hero_id": "85d56035-3f50-4e3a-8980-3d7b73afc7f5",
-  "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f22e22659e8b1acfb665aec8eaffabd7.png",
+  "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_491618ae5cb3d561f5f02fbb3d82a83d.jpg",
   "builds": [
     {
       "id": "fe9620e7-46bd-4815-9938-0243af56144b",
@@ -65,12 +65,12 @@
       "created_at": "2026-03-27T17:29:05.08752+00:00"
     },
     {
-      "id": "400da1c5-9fb0-4ea8-8c9f-dee01b3d5a00",
-      "title": "MPL ID S18 WEEK 4 DAY 3 ONIC.S A N Z",
-      "description": "( ONIC VS EVOS GAME 1 ) MPL INDONESIA SEASON 18 WEEK 4 DAY 3 6 SEPTEMBER 2026",
+      "id": "a6dca05a-9aad-41bb-82b3-d08c23137baa",
+      "title": "MPL ID S18 WEEK 5 DAY 3 ONIC.SSAMUEL",
+      "description": "( ONIC VS AE GAME 1 ) MPL INDONESIA SEASON 18 WEEK 5 DAY 3 13 SEPTEMBER 2026",
       "tips": null,
       "likes": 0,
-      "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
+      "patch_id": "8bda5b76-0cd7-4adb-a02d-019026492527",
       "items": [
         {
           "id": "32da3955-3a13-4a18-ac27-7d9b064f3fa2",
@@ -79,16 +79,62 @@
           "price": 720
         },
         {
-          "id": "3a11d865-1fff-4d8f-b919-5023703fb31a",
-          "name": "Blood Wings",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Blood_Wings.png",
-          "price": 2100
+          "id": "85779626-b5f7-445b-b77d-c44074f94e2c",
+          "name": "Flask of the Oasis",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Flask_of_the_Oasis.png",
+          "price": 1850
         },
         {
-          "id": "5b97529a-e569-400f-b8f8-7e9a76b42e7a",
-          "name": "Rose Gold Meteor",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Rose_Gold_Meteor.png",
-          "price": 2030
+          "id": "78f73686-df75-42b1-8bb1-fbf9d5f33a70",
+          "name": "Glowing Wand",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Glowing_Wand.png",
+          "price": 2150
+        },
+        {
+          "id": "2f707623-6044-4dc4-8183-5095409c5078",
+          "name": "Immortality",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Immortality.png",
+          "price": 2120
+        }
+      ],
+      "emblem": {
+        "id": "5e0b6bcf-c296-4117-b0d4-4d6dae8f1618",
+        "name": "Mage",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Custom_Mage_Emblem.png"
+      },
+      "spell": {
+        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
+        "name": "Flicker",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
+      },
+      "conditional_items": [],
+      "created_at": "2026-09-18T14:58:37.153563+00:00"
+    },
+    {
+      "id": "73f34263-2169-4e58-b109-39973b84b20a",
+      "title": "MPL ID S18 WEEK 5 DAY 3 TLID.Drichel",
+      "description": "( GEEK VS TLID GAME 1 ) MPL INDONESIA SEASON 18 WEEK 5 DAY 3 13 SEPTEMBER 2026",
+      "tips": null,
+      "likes": 0,
+      "patch_id": "8bda5b76-0cd7-4adb-a02d-019026492527",
+      "items": [
+        {
+          "id": "cd1861a0-a850-4ac3-92ee-83707e358f77",
+          "name": "My",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Mystery_Codex.png",
+          "price": 300
+        },
+        {
+          "id": "1433cb2c-1ad9-4f7d-b594-793ac4c9e6b6",
+          "name": "Rapid Boots",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Rapid_Boots.png",
+          "price": 720
+        },
+        {
+          "id": "9b0c5b28-b617-42e8-8bdb-5aef5514b6ce",
+          "name": "Winter Crown",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Winter_Crown.png",
+          "price": 1910
         },
         {
           "id": "85779626-b5f7-445b-b77d-c44074f94e2c",
@@ -120,65 +166,7 @@
         "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
       },
       "conditional_items": [],
-      "created_at": "2026-09-12T05:22:57.391224+00:00"
-    },
-    {
-      "id": "b6f92304-4615-4829-af48-116c194136fd",
-      "title": "MPL ID S18 WEEK 4 DAY 2 AE.Hijumee",
-      "description": "( AE VS GEEK GAME 2 ) MPL INDONESIA SEASON 18 WEEK 4 DAY 2 5 SEPTEMBER 2026",
-      "tips": null,
-      "likes": 0,
-      "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
-      "items": [
-        {
-          "id": "2f707623-6044-4dc4-8183-5095409c5078",
-          "name": "Immortality",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Immortality.png",
-          "price": 2120
-        },
-        {
-          "id": "3a11d865-1fff-4d8f-b919-5023703fb31a",
-          "name": "Blood Wings",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Blood_Wings.png",
-          "price": 2100
-        },
-        {
-          "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
-          "name": "Holy Crystal",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
-          "price": 3000
-        },
-        {
-          "id": "85779626-b5f7-445b-b77d-c44074f94e2c",
-          "name": "Flask of the Oasis",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Flask_of_the_Oasis.png",
-          "price": 1850
-        },
-        {
-          "id": "f8f538b8-5cf0-4fd4-a4e6-dff974a0b715",
-          "name": "Guardian Helmet",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Guardian_Helmet.png",
-          "price": 2500
-        },
-        {
-          "id": "c7e4e03f-4c5c-45ff-8535-65a74229b52d",
-          "name": "Enchanted Talisman",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Enchanted_Talisman.png",
-          "price": 1870
-        }
-      ],
-      "emblem": {
-        "id": "5e0b6bcf-c296-4117-b0d4-4d6dae8f1618",
-        "name": "Mage",
-        "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Custom_Mage_Emblem.png"
-      },
-      "spell": {
-        "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
-        "name": "Flicker",
-        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
-      },
-      "conditional_items": [],
-      "created_at": "2026-09-11T14:04:20.169774+00:00"
+      "created_at": "2026-09-18T14:58:19.247447+00:00"
     }
   ]
 }

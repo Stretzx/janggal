@@ -2,7 +2,7 @@
   "hero": "Bane",
   "slug": "bane",
   "hero_id": "0e8c8dfd-f1ae-485a-9286-cb60e2878ea9",
-  "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_846a816f7905f17c81cb35e7f3ff1c3e.png",
+  "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_7060e1c063474bb8ff9472d61f7ce4c3.jpg",
   "builds": [
     {
       "id": "098f4b6a-edae-45c1-97c0-13a34b1ab6e7",
@@ -29,18 +29,6 @@
           "name": "Lightning Truncheon",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Lightning_Truncheon.png",
           "price": 2250
-        },
-        {
-          "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
-          "name": "Holy Crystal",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
-          "price": 3000
-        },
-        {
-          "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
-          "name": "Holy Crystal",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
-          "price": 3000
         },
         {
           "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",

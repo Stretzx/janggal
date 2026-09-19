@@ -3,7 +3,7 @@
     "hero": "Claude",
     "slug": "claude",
     "hero_id": "76429256-ea7a-4142-908e-3ed95523ac3c",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_808e898e89986b917e146a9b5dcbbb57.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_1edf19b0839ffd2bffb60b4ee4953239.jpg",
     "builds": [
       {
         "id": "4e835158-684d-4fca-894c-23750c85a8c7",
@@ -185,7 +185,7 @@
     "hero": "Joy",
     "slug": "joy",
     "hero_id": "195c9ad1-569c-4444-af09-fbb1f74e5420",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6b5570b0e557e36501b4228fcdfcf164.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_f647bf6dbb80b4b2b2310ab5af88773d.jpg",
     "builds": [
       {
         "id": "d71a63e0-d176-4b3b-bc16-e1c658fb9310",
@@ -373,7 +373,7 @@
     "hero": "Marcel",
     "slug": "marcel",
     "hero_id": "1192963a-6341-446f-982c-9e700e6b7005",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero1321-portrait.png",
+    "image": "https://akmweb.youngjoygame.com/web/gms/image/3542718f699058d42801d88ec9b8fb8b.jpg",
     "builds": [
       {
         "id": "d5e636c7-0d10-49ee-92ea-bd94e692f9cb",
@@ -563,7 +563,7 @@
     "hero": "Fanny",
     "slug": "fanny",
     "hero_id": "2ae379cd-a883-45c1-8c3d-fad541bc1eb8",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8ea3a95fa3c726ed0338c0fdd21ad991.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_74fabc6c0d5db065fbb836b6879f36ca.jpg",
     "builds": [
       {
         "id": "7dc19739-4960-4af9-8f40-7e225200b204",
@@ -754,7 +754,7 @@
     "hero": "Eudora",
     "slug": "eudora",
     "hero_id": "15f68b5c-a073-4b47-ba7d-09b998e21b77",
-    "image": "https://i.ibb.co.com/QvD2hfP4/608735751-17942382171096689-2589400814445771871-n.png",
+    "image": "https://akmweb.youngjoygame.com/web/gms/image/8db55c33fd2a5c84822a2a6c51e1fb18.jpg",
     "builds": [
       {
         "id": "64d5f751-eec2-4db3-a090-35b25dd7c90e",
@@ -877,67 +877,6 @@
           "ece51f8f-c4c8-47cb-9992-314e83af317b"
         ],
         "created_at": "2026-08-20T18:24:47.105161+00:00"
-      },
-      {
-        "id": "db3b1d52-7574-4b79-8ecb-316856d6bfa9",
-        "title": "one hit",
-        "description": "",
-        "tips": "",
-        "likes": 2,
-        "patch_id": "50548097-d34a-4265-8e93-f27176454d15",
-        "items": [
-          {
-            "id": "a6ec810a-08da-4bbf-a137-8d23531920c9",
-            "name": "Arcane Boots",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Arcane_Boots.png",
-            "price": 720
-          },
-          {
-            "id": "8408352d-1f00-4c68-b3ba-7abc320588ce",
-            "name": "Sky Piercer",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Sky_Piercer.png",
-            "price": 1500
-          },
-          {
-            "id": "cdbfc89a-2fac-4466-ba07-1fba1e357847",
-            "name": "Genius Wand",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Genius_Wand.png",
-            "price": 2000
-          },
-          {
-            "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
-            "name": "Holy Crystal",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
-            "price": 3000
-          },
-          {
-            "id": "2184fd07-4ced-48d6-b6f0-04f99122a4e0",
-            "name": "Lightning Truncheon",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Lightning_Truncheon.png",
-            "price": 2250
-          },
-          {
-            "id": "59a45ae3-4662-4bee-8471-73751dcee211",
-            "name": "Divine Glaive",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Divine_Glaive.png",
-            "price": 1970
-          }
-        ],
-        "emblem": {
-          "id": "6f783459-4751-414f-b371-85282443cfd4",
-          "name": "Assassin",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Custom_Assassin_Emblem.png"
-        },
-        "spell": {
-          "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
-          "name": "Flicker",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
-        },
-        "conditional_items": [
-          "9b0c5b28-b617-42e8-8bdb-5aef5514b6ce",
-          "ece51f8f-c4c8-47cb-9992-314e83af317b"
-        ],
-        "created_at": "2026-02-19T04:31:25.511348+00:00"
       }
     ]
   },
@@ -945,7 +884,7 @@
     "hero": "Suyou",
     "slug": "suyou",
     "hero_id": "1a7a3165-7c4f-4eb7-8be2-f352fc23e958",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_422ffc7849e8bb01629d2423054ed410.png",
+    "image": "https://akmweb.youngjoygame.com/web/gms/image/13912f0dbc96b6cf53a00e80ff731dab.jpg",
     "builds": [
       {
         "id": "9d648645-a7ae-4688-9d0a-46314bf43514",
@@ -1124,7 +1063,7 @@
     "hero": "Granger",
     "slug": "granger",
     "hero_id": "cbef6441-0760-4431-b05d-86682490579f",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_22/100_9ed57f48f91012fd110935258cd1ab61.png",
+    "image": "https://akmweb.youngjoygame.com/web/gms/image/5d272478f2f89dcae9e6896cb19743ac.jpg",
     "builds": [
       {
         "id": "f19750e4-3e23-43c4-a796-846e716ca8c0",
@@ -1303,7 +1242,7 @@
     "hero": "Sun",
     "slug": "sun",
     "hero_id": "b90c1a25-bfa9-4a7b-9789-fec1a0a9f15d",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f082e5ba6eb2dd54ae922c0f57c816ac.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_5dd440a371270f458071305b9bf107b5.jpg",
     "builds": [
       {
         "id": "4b5fb9dc-306d-46ff-a8be-b77b26b577cc",
@@ -1493,7 +1432,7 @@
     "hero": "Xavier",
     "slug": "xavier",
     "hero_id": "a2c67b48-8aec-4f7f-a2c6-9a6b8bf9d638",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2f4e01714176adb56ca70eef1460e461.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_6ebaf2a24b6b6cf256c9bae408b0400e.jpg",
     "builds": [
       {
         "id": "9fad4768-61b7-42df-b4ca-acd2e0bab941",
@@ -1569,12 +1508,6 @@
             "name": "Sky Piercer",
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Sky_Piercer.png",
             "price": 1500
-          },
-          {
-            "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
-            "name": "Holy Crystal",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
-            "price": 3000
           },
           {
             "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
@@ -1684,7 +1617,7 @@
     "hero": "Beatrix",
     "slug": "beatrix",
     "hero_id": "2922abca-b640-465e-a35b-a92c2e51ace3",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c1acd7cbd828f0c5d291e48a0f7c018d.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_2f25a8ef9bbb2d52eaaea8d6eee85d22.jpg",
     "builds": [
       {
         "id": "64723372-0358-4914-8e01-832e88741404",
@@ -1842,12 +1775,6 @@
             "name": "Hunter Strike",
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hunter_Strike.png",
             "price": 2010
-          },
-          {
-            "id": "27361867-2d35-4ad8-8d4d-ba0266b04109",
-            "name": "Blade of Despair",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Blade_of_Despair.png",
-            "price": 3010
           }
         ],
         "emblem": {
@@ -1872,7 +1799,7 @@
     "hero": "Yi Sun-shin",
     "slug": "yi-sun-shin",
     "hero_id": "1880f81a-04ac-409e-9018-14fffa4d96e3",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3fe7fdb5f2aedef505f3728c28572e2e.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_42a497ad29f61bdc1cea4bc6a9e1e163.jpg",
     "builds": [
       {
         "id": "a6fd90af-c30e-4381-87ac-1c665645727d",
@@ -2060,7 +1987,7 @@
     "hero": "Zhuxin",
     "slug": "zhuxin",
     "hero_id": "0526bc3e-ac62-45b9-a52e-3bc0c3a2b278",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_13cfeec4bec7a27a09677e519f1ef9d2.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage_92/100_999ac33ac284f6dc38a5f5ae7a6921b8.jpg",
     "builds": [
       {
         "id": "4a988ccf-af6d-4ab0-bb47-4024a2c8661f",
@@ -2248,7 +2175,7 @@
     "hero": "Julian",
     "slug": "julian",
     "hero_id": "9065a350-650d-475c-8919-9fd34132fe88",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_44891c699fb1c00fc4a7fa59ea95b8b3.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_5b493fa77cd6ea1a799577a69c86fbd2.jpg",
     "builds": [
       {
         "id": "abbfd4f4-03a9-465b-9548-972e7351b455",
@@ -2439,7 +2366,7 @@
     "hero": "Sora",
     "slug": "sora",
     "hero_id": "80f5fc5a-f9bb-4666-a037-e3fb74c02510",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero1311-portrait.png",
+    "image": "https://akmweb.youngjoygame.com/web/gms/image/d6348e65d8d0d4ca8b0738d691cef440.jpg",
     "builds": [
       {
         "id": "6229b004-796b-486b-b4d7-a35912634bd4",
@@ -2627,7 +2554,7 @@
     "hero": "Balmond",
     "slug": "balmond",
     "hero_id": "fa0ee83a-424a-4432-9e36-c5eb29b0b78a",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero021-portrait.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_8f49801963afcd9b7c6fe6f59153ccc0.jpg",
     "builds": [
       {
         "id": "bf533664-fb74-4031-b57c-aa32dbd58e77",
@@ -2815,7 +2742,7 @@
     "hero": "Hirara",
     "slug": "hirara",
     "hero_id": "5081740b-4772-408c-81ca-febb0529e41e",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero1331-portrait.png",
+    "image": "https://akmweb.youngjoygame.com/web/gms/image/f156378413102969d6682fe940755d70.jpg",
     "builds": [
       {
         "id": "02e9b3a7-ddae-47a0-a843-be88bb5a973d",
@@ -3003,7 +2930,7 @@
     "hero": "Miya",
     "slug": "miya",
     "hero_id": "1a4239c4-b2b4-4a6e-8900-0da8cee0eeab",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_32c0d9d3a727a9052754296af6251435.png",
+    "image": "https://akmweb.youngjoygame.com/web/gms/image/6667b3e9109ca180e63c524471f29278.jpg",
     "builds": [
       {
         "id": "d7574564-fbcb-4dbf-966a-8926a65fd753",
@@ -3194,7 +3121,7 @@
     "hero": "Alpha",
     "slug": "alpha",
     "hero_id": "dff9e469-5bb6-402b-9287-3589b017f973",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_49cc1a8137341b547e2126910cf91ee6.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_0fd2c33fbf0235703b1c936059cf1b8e.jpg",
     "builds": [
       {
         "id": "f0757683-d5aa-4793-aa62-ed4f46ce155e",
@@ -3382,7 +3309,7 @@
     "hero": "Argus",
     "slug": "argus",
     "hero_id": "f065da64-430c-4d1e-9950-a1a815140450",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ee4f9ddb2f82ef0dfc99bb72e0a8f557.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_802afa50ffd43d553c3b924d111249c1.jpg",
     "builds": [
       {
         "id": "1442aa98-c6d2-424d-9fdc-c398905e3616",
@@ -3444,67 +3371,6 @@
           "a80b1b94-e5a3-4c09-af16-3112a6ae9985"
         ],
         "created_at": "2026-01-04T07:41:06.144803+00:00"
-      },
-      {
-        "id": "68ee9bdb-ce27-4593-8c78-2ea410c183c8",
-        "title": "Full damage+Leaking tank",
-        "description": "Build yang bisa kill Hero tipis dan tank :) \nGunakan Malefic Roar untuk hero tank ( ganti dengan Great Dragon dan beli di slot 3/4) dan gunakan Sea Halberd kalau musuh full heal/healing ( ganti dengan slot Great Dragon dan beli Sea Halberd di slot 2",
-        "tips": "Gunakan Malefic Roar untuk hero tank ( ganti dengan Great Dragon dan beli di slot 3/4) dan gunakan Sea Halberd kalau musuh full heal/healing ( ganti dengan slot Great Dragon dan beli Sea Halberd di slot 2",
-        "likes": 4,
-        "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
-        "items": [
-          {
-            "id": "85ca390d-2fd5-4428-84ca-cdda78d395d2",
-            "name": "Corrosion Scythe",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Corrosion_Scythe.png",
-            "price": 2050
-          },
-          {
-            "id": "a67fa43a-b139-4b0b-9d0f-43537ef95a24",
-            "name": "Windtalker",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Windtalker.png",
-            "price": 1880
-          },
-          {
-            "id": "fbd7ae0a-37da-493e-aed1-9932a2ea5317",
-            "name": "Berserker Fury",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Berserker%27s_Fury.png",
-            "price": 2390
-          },
-          {
-            "id": "bd3e52c0-6890-4eee-ad81-9815f3b65eaf",
-            "name": "Haas Claws",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Haas%27_Claws.png",
-            "price": 2020
-          },
-          {
-            "id": "27361867-2d35-4ad8-8d4d-ba0266b04109",
-            "name": "Blade of Despair",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Blade_of_Despair.png",
-            "price": 3010
-          },
-          {
-            "id": "74901507-8882-467c-9d4a-e0b4b817d8d5",
-            "name": "Great Dragon Spear",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Great_Dragon_Spear.png",
-            "price": 2140
-          }
-        ],
-        "emblem": {
-          "id": "0477a4cd-825b-408f-92dc-d5e9229c7a50",
-          "name": "Marksman",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Custom_Marksman_Emblem.png"
-        },
-        "spell": {
-          "id": "62a0cb78-66c8-4066-831c-91c49eefc0af",
-          "name": "Inspire",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Inspire.png"
-        },
-        "conditional_items": [
-          "a80b1b94-e5a3-4c09-af16-3112a6ae9985",
-          "2c6757ba-8522-4d3c-a894-407f2c4f16e9"
-        ],
-        "created_at": "2026-06-19T18:30:19.335462+00:00"
       },
       {
         "id": "fab5bc8a-c482-46d2-a9ab-5e2303e5f1b0",
@@ -3573,7 +3439,7 @@
     "hero": "Lapu-Lapu",
     "slug": "lapu-lapu",
     "hero_id": "b9b6c8db-4ef7-4361-9728-9a782ec1a6ef",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b72b473b98494269cedbba84d4888409.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_d407ccb622db392981d2fceff06d757c.jpg",
     "builds": [
       {
         "id": "1a412d9a-cfcc-4a5c-9e9e-0a7c745ba5ce",
@@ -3758,7 +3624,7 @@
     "hero": "Tigreal",
     "slug": "tigreal",
     "hero_id": "40ec1863-6038-48d7-94e8-994d7292d668",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4e0005dbfb1376beaccc54ef7aa39375.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_ec2ad5967a2d8a0ac5e2cef2a1e24411.jpg",
     "builds": [
       {
         "id": "81cb7747-460e-48d4-9e1e-720d081c2870",
@@ -3946,7 +3812,7 @@
     "hero": "Cyclops",
     "slug": "cyclops",
     "hero_id": "7868cf8b-5c00-4617-a2a0-d5143d376479",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_71c31e9801e7d1b40604d54099b30054.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_b506976dcb608de1f369ab8f6b3cb055.jpg",
     "builds": [
       {
         "id": "1900275a-28e0-422f-882f-d2215ea51a2e",
@@ -4137,7 +4003,7 @@
     "hero": "Moskov",
     "slug": "moskov",
     "hero_id": "1848c8af-64f9-4960-87c3-98c7c1a6ed14",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9cf1a5936ac506d5e1b911be097acfb7.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_843f1c2c3a1b2d4da2fc2ec73cf47cfa.jpg",
     "builds": [
       {
         "id": "4b35d515-73aa-4d27-9781-f29a2586a547",
@@ -4322,7 +4188,7 @@
     "hero": "Lancelot",
     "slug": "lancelot",
     "hero_id": "a66f7584-d3fc-4bec-a638-5f127372ca63",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_db7d20dd6e7a9f958ad210680dc2ba7b.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_015bacc4e1111e5e2b4a33b5e58ff106.jpg",
     "builds": [
       {
         "id": "87b2d0ce-6495-4c0b-ad05-9e95f8c70945",
@@ -4419,12 +4285,6 @@
             "name": "Blade of Despair",
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Blade_of_Despair.png",
             "price": 3010
-          },
-          {
-            "id": "5b97529a-e569-400f-b8f8-7e9a76b42e7a",
-            "name": "Rose Gold Meteor",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Rose_Gold_Meteor.png",
-            "price": 2030
           }
         ],
         "emblem": {
@@ -4507,7 +4367,7 @@
     "hero": "Guinevere",
     "slug": "guinevere",
     "hero_id": "dd3b64d5-1e0e-4dc4-a14a-0977d80aa551",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a34258a6365097da09d9513b620bc14a.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_5acbfb73c47c25d4689f93c3c950fc8f.jpg",
     "builds": [
       {
         "id": "861c9bc3-b86c-445e-b1db-6bbe8d821a2e",
@@ -4698,7 +4558,7 @@
     "hero": "Hanabi",
     "slug": "hanabi",
     "hero_id": "914cb8e8-ae10-4f9d-b75a-bb446b701b8d",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_85d213390613bbc09220cf1d9f64c5c0.png",
+    "image": "https://akmweb.youngjoygame.com/web/gms/image/0208ca2382d8cfdcd277ef5d532316f7.jpg",
     "builds": [
       {
         "id": "9b8de91f-50c7-4067-a14f-76815d7c559a",
@@ -4817,67 +4677,6 @@
           "2f707623-6044-4dc4-8183-5095409c5078"
         ],
         "created_at": "2026-08-02T08:36:39.016473+00:00"
-      },
-      {
-        "id": "f2aaa971-b8fa-4518-bc3c-1a557cad41f8",
-        "title": "Attack speed dan critical",
-        "description": "",
-        "tips": "",
-        "likes": 2,
-        "patch_id": "c6153242-aa0e-47fc-9d09-edfb495a997d",
-        "items": [
-          {
-            "id": "85ca390d-2fd5-4428-84ca-cdda78d395d2",
-            "name": "Corrosion Scythe",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Corrosion_Scythe.png",
-            "price": 2050
-          },
-          {
-            "id": "30b36662-b7db-46c6-9a63-346eae2b1c45",
-            "name": "Swift Boots",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Swift_Boots.png",
-            "price": 720
-          },
-          {
-            "id": "6c3c144b-fe6d-4fa5-b597-4f0240825528",
-            "name": "Golden Staff",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Golden_Staff.png",
-            "price": 2000
-          },
-          {
-            "id": "382823c5-fac2-4cc4-859d-3f54d6b2b793",
-            "name": "Demon Hunter Sword",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Demon_Hunter_Sword.png",
-            "price": 2180
-          },
-          {
-            "id": "5b97529a-e569-400f-b8f8-7e9a76b42e7a",
-            "name": "Rose Gold Meteor",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Rose_Gold_Meteor.png",
-            "price": 2030
-          },
-          {
-            "id": "9d21f19b-e352-4d3e-b6b0-8c742a8078e7",
-            "name": "Malefic Gun",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Malefic_Gun.png",
-            "price": 2120
-          }
-        ],
-        "emblem": {
-          "id": "0477a4cd-825b-408f-92dc-d5e9229c7a50",
-          "name": "Marksman",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Custom_Marksman_Emblem.png"
-        },
-        "spell": {
-          "id": "4b128f1d-6404-4e60-a219-9b9c4bdd74aa",
-          "name": "Aegis",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e5/Aegis.png"
-        },
-        "conditional_items": [
-          "1b705193-8465-4ec5-8ae2-2fa116195df4",
-          "2f707623-6044-4dc4-8183-5095409c5078"
-        ],
-        "created_at": "2026-05-20T14:57:42.422676+00:00"
       }
     ]
   },
@@ -4885,7 +4684,7 @@
     "hero": "Gusion",
     "slug": "gusion",
     "hero_id": "fbbd5f4c-edec-425c-9488-6f790db09373",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_82dbd20a7d0f274520895007898199e0.png",
+    "image": "https://akmweb.youngjoygame.com/web/gms/image/a888de3fe448be8f29b50a62d0193aaf.jpg",
     "builds": [
       {
         "id": "9941e713-6b73-4925-af72-d10b51253b08",
@@ -4947,67 +4746,6 @@
           "9b0c5b28-b617-42e8-8bdb-5aef5514b6ce"
         ],
         "created_at": "2026-01-15T07:21:05.61999+00:00"
-      },
-      {
-        "id": "15deba63-3a9f-43bb-80eb-17923ce038d3",
-        "title": "Build instan kill (Mid laner)",
-        "description": "Kalo musuh banyak tank = assassin, kalo banyak Hero tipis = mage , bisa Flicker jika musuh banyak Hero culik/ hero initiator, dan bisa petrify untuk ngelock damage dealer musuh, bisa skypiercer kalo snowball, kalo gak ya ganti item defense kalo,gak item counter hero musuh",
-        "tips": "",
-        "likes": 4,
-        "patch_id": "be77a09b-50cc-45fb-b5fa-623daa196557",
-        "items": [
-          {
-            "id": "a6ec810a-08da-4bbf-a137-8d23531920c9",
-            "name": "Arcane Boots",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Arcane_Boots.png",
-            "price": 720
-          },
-          {
-            "id": "cdbfc89a-2fac-4466-ba07-1fba1e357847",
-            "name": "Genius Wand",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Genius_Wand.png",
-            "price": 2000
-          },
-          {
-            "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
-            "name": "Holy Crystal",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
-            "price": 3000
-          },
-          {
-            "id": "8408352d-1f00-4c68-b3ba-7abc320588ce",
-            "name": "Sky Piercer",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Sky_Piercer.png",
-            "price": 1500
-          },
-          {
-            "id": "2184fd07-4ced-48d6-b6f0-04f99122a4e0",
-            "name": "Lightning Truncheon",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Lightning_Truncheon.png",
-            "price": 2250
-          },
-          {
-            "id": "59a45ae3-4662-4bee-8471-73751dcee211",
-            "name": "Divine Glaive",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Divine_Glaive.png",
-            "price": 1970
-          }
-        ],
-        "emblem": {
-          "id": "6f783459-4751-414f-b371-85282443cfd4",
-          "name": "Assassin",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Custom_Assassin_Emblem.png"
-        },
-        "spell": {
-          "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
-          "name": "Flicker",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
-        },
-        "conditional_items": [
-          "2f707623-6044-4dc4-8183-5095409c5078",
-          "9b0c5b28-b617-42e8-8bdb-5aef5514b6ce"
-        ],
-        "created_at": "2026-03-15T13:15:28.065886+00:00"
       },
       {
         "id": "81f38c3f-795b-444c-b40b-0535aa50e2dd",
@@ -5073,7 +4811,7 @@
     "hero": "Nolan",
     "slug": "nolan",
     "hero_id": "f49d323d-6368-4596-a40a-afa2f43964e9",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0495066df0d828c149e7fe89aa63078b.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_cae4b6dafe9d345f84eee1c983333c0c.jpg",
     "builds": [
       {
         "id": "42e70900-b1c5-4f14-9f6a-15010a891d95",
@@ -5258,7 +4996,7 @@
     "hero": "Thamuz",
     "slug": "thamuz",
     "hero_id": "4eabb8d6-769c-4a3a-b2d4-cc8618bdaaa6",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero721-portrait.png",
+    "image": "https://akmweb.youngjoygame.com/web/gms/image/1699a938c6938947e534aa2874341d58.jpg",
     "builds": [
       {
         "id": "874b5aa0-9b6b-4541-939d-c6fbe7e10d50",
@@ -5449,7 +5187,7 @@
     "hero": "Alice",
     "slug": "alice",
     "hero_id": "b7ff500b-f5cf-473a-8fe1-0fbf11e5f8ec",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero041-portrait.png",
+    "image": "https://akmweb.youngjoygame.com/web/gms/image/66c9a33b830173a5fd93d9940429b491.jpg",
     "builds": [
       {
         "id": "0f2805a4-add7-4d4e-b36c-6f7cedd0eabe",
@@ -5640,7 +5378,7 @@
     "hero": "Cici",
     "slug": "cici",
     "hero_id": "8a03556b-ff18-454f-b417-7219ab69aa07",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4f970eb4b44b8c9fff2c511d8e856ff4.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_eb1705dc650b3980d57c638d02bfb470.jpg",
     "builds": [
       {
         "id": "369a4e9b-6842-45a4-abb5-a47289614425",
@@ -5825,7 +5563,7 @@
     "hero": "Terizla",
     "slug": "terizla",
     "hero_id": "a8ad0030-8bb0-43e0-b556-4cce63f6edcd",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fcfbde52476bad8c8e67951240de854c.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_2352b6ef3a86441e2a3880fa436df1de.jpg",
     "builds": [
       {
         "id": "6fb79620-1724-407e-85ef-d0a681a929b4",
@@ -6004,7 +5742,7 @@
     "hero": "Phoveus",
     "slug": "phoveus",
     "hero_id": "0c9ea136-7379-4447-ae42-48549c5ef9bd",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_6bfe8ca7e60623a5261eac20e2b39d34.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_b811616b91e45a75437a6d5b9f386bd3.jpg",
     "builds": [
       {
         "id": "0e98f281-86dd-4939-a207-96fcb12d895d",
@@ -6189,7 +5927,7 @@
     "hero": "Aamon",
     "slug": "aamon",
     "hero_id": "0091f86e-6743-4f1e-963d-8b1bc2f2855f",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c9e4d330229c88b1e78ef88ce9db4223.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_26b1c0ec95ad9e98f81b07d6838a8652.jpg",
     "builds": [
       {
         "id": "a91370d9-b233-4d9b-9e0e-ac7326a25dfb",
@@ -6377,7 +6115,7 @@
     "hero": "Melissa",
     "slug": "melissa",
     "hero_id": "7f7228bc-50f9-4214-8e1d-85ee08cbbf03",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_566636fa333651ef67931deade4eef84.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_5c2a434757066a779c8adec5af05a8d1.jpg",
     "builds": [
       {
         "id": "82055528-ba17-4179-9a8e-8fe8adb7943b",
@@ -6562,7 +6300,7 @@
     "hero": "Yin",
     "slug": "yin",
     "hero_id": "1882e263-63c2-470d-94f2-68fe53e344e8",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_95836476311e2026077d87eb2373a281.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_5324c7bcbfd9932aca9b8d2e7b8e307a.jpg",
     "builds": [
       {
         "id": "2c1af18c-a064-45ec-9c7a-8a4d2aaf6e77",
@@ -6753,7 +6491,7 @@
     "hero": "Paquito",
     "slug": "paquito",
     "hero_id": "5eb27a4b-9778-4726-8a08-b845fde3755d",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1986ebcc24fc3eb28f59f079c15be612.png",
+    "image": "https://akmweb.youngjoygame.com/web/gms/image/1be4eba1fa94d906a631125ab5fc9c7b.jpg",
     "builds": [
       {
         "id": "8cc55627-7b39-4083-84d6-c81e1019d58d",
@@ -6938,7 +6676,7 @@
     "hero": "Layla",
     "slug": "layla",
     "hero_id": "3cd2f33f-58e0-47e6-a7b0-6d0905657e1d",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6efe9abc2047f59d45fa1c88fb1261b7.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_0db5131842bec1fdbdf5f8533ebada2c.jpg",
     "builds": [
       {
         "id": "574eebf5-2728-4c11-9487-76bb6b95203a",
@@ -7129,7 +6867,7 @@
     "hero": "Brody",
     "slug": "brody",
     "hero_id": "39360fd7-3054-493b-85e9-39fd3b5f8448",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero1001-portrait.png",
+    "image": "https://akmweb.youngjoygame.com/web/gms/image/2540bf91969577e919995bb30e9e255c.jpg",
     "builds": [
       {
         "id": "05d7d84e-89bc-41f3-9543-1d6501028e1d",
@@ -7320,7 +7058,7 @@
     "hero": "Freya",
     "slug": "freya",
     "hero_id": "2a6c5ec1-6bba-4ab4-9bd7-16a98dfb885d",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero221-portrait.png",
+    "image": "https://akmweb.youngjoygame.com/web/gms/image/71d910744206adec64f7c5e97b0698c7.jpg",
     "builds": [
       {
         "id": "330c5b00-9e1c-4be2-b202-49c800fece7f",
@@ -7505,7 +7243,7 @@
     "hero": "Lesley",
     "slug": "lesley",
     "hero_id": "fbde12b1-b53b-4eb1-ba50-37b28186710a",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f4f42410c90f84e4d46b129d5e8887e8.png",
+    "image": "https://akmweb.youngjoygame.com/web/gms/image/1f0d645266d902f3f927ea7fc04c1bca.jpg",
     "builds": [
       {
         "id": "758c4fad-ada7-4c09-969f-cabe1e009713",
@@ -7693,7 +7431,7 @@
     "hero": "Uranus",
     "slug": "uranus",
     "hero_id": "3a25851b-e4fb-494f-a4a6-cf2ee714f495",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04a36899ac866eecb1d3a9c436cfb1d9.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_1e52a042e596bd333ccab46d00bb8c72.jpg",
     "builds": [
       {
         "id": "a6086365-f6fc-4737-9979-46c084cfd066",
@@ -7884,7 +7622,7 @@
     "hero": "Clint",
     "slug": "clint",
     "hero_id": "6929ea42-c698-460a-b872-14e1d73c6bee",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ffb96ce8d57c9987401f9c5bfebee3b2.png",
+    "image": "https://akmweb.youngjoygame.com/web/gms/image/8d51bcb3c21b3c35a68629d66aa94f47.jpg",
     "builds": [
       {
         "id": "db09ed46-751d-44e9-92fd-bf2f1cbc8fd1",
@@ -8072,7 +7810,7 @@
     "hero": "Harley",
     "slug": "harley",
     "hero_id": "b760919f-19e8-4ced-996a-65893e083b9b",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_503566ddaa4727778929dee4b3a01807.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_7b867b2f05de71466a0e98ea6898eff2.jpg",
     "builds": [
       {
         "id": "9321abad-1de9-424f-b760-538bdd78867d",
@@ -8251,7 +7989,7 @@
     "hero": "Natan",
     "slug": "natan",
     "hero_id": "23b099cb-055c-4f58-ac54-1b53db20a77e",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6736ef8c230d82576c3710e9fc248e11.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_bc73ea56e3e05b4f9ed8046b959e1290.jpg",
     "builds": [
       {
         "id": "d1836c8b-c7f6-42fa-8e1c-c1835b15f5c4",
@@ -8442,7 +8180,7 @@
     "hero": "Helcurt",
     "slug": "helcurt",
     "hero_id": "77578b57-b4e9-4dcc-a4b5-49bb5e4c9cfb",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ffd27cd02c46f7075caedcd51de80d9a.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_7d54de9ffe40c05d51b4a27318ed5f6d.jpg",
     "builds": [
       {
         "id": "044a1edc-38d7-4439-9ea6-44280b660347",
@@ -8630,7 +8368,7 @@
     "hero": "Zetian",
     "slug": "zetian",
     "hero_id": "1f308286-a4b8-4f4d-8bda-20e686559ee8",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_22dc8b16ea98a735027c3141b74ef841.png",
+    "image": "https://akmweb.youngjoygame.com/web/gms/image/b617a6b4d9e2c22a5bc24d886e453399.jpg",
     "builds": [
       {
         "id": "1e07464c-f96d-426d-92fe-b1c2005ce755",
@@ -8806,7 +8544,7 @@
     "hero": "Ruby",
     "slug": "ruby",
     "hero_id": "73c163cc-664b-4b4a-bfcf-a17a0cc3c6b0",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5b9d38f9f2e7ca03f9f489de19656bc9.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_2cfc71331f6e2435394bfa44c322405c.jpg",
     "builds": [
       {
         "id": "49f9a053-20c4-4df0-83d9-fff119dd2e8f",
@@ -8993,7 +8731,7 @@
     "hero": "Aldous",
     "slug": "aldous",
     "hero_id": "f6708df1-9d02-4c82-8d1e-3981a7880583",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c2f6866ffc797395ee35f97a74bbea20.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_e4f7847a1b687a2e4f414e531cd66b1b.jpg",
     "builds": [
       {
         "id": "8824922e-6864-4cb4-a1e1-4a7edfd1d327",
@@ -9181,7 +8919,7 @@
     "hero": "Kadita",
     "slug": "kadita",
     "hero_id": "a69a7ed5-47e3-4d0f-aa22-9f30cf32b768",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4e743d3fe80b1bb63bb8298ae1d1463f.png",
+    "image": "https://akmweb.youngjoygame.com/web/gms/image/cf5e45b10f70e4237c2513d1ae80988e.jpg",
     "builds": [
       {
         "id": "35e2f64c-3a86-4462-b7b8-8827d2a3f43a",
@@ -9208,12 +8946,6 @@
             "name": "Genius Wand",
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Genius_Wand.png",
             "price": 2000
-          },
-          {
-            "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
-            "name": "Holy Crystal",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
-            "price": 3000
           },
           {
             "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
@@ -9369,7 +9101,7 @@
     "hero": "Benedetta",
     "slug": "benedetta",
     "hero_id": "6bc6f324-eb51-4b51-8879-90b3744056ae",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_eceefa7ba07f093d71a30852f0051b7a.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_2153076135c5ea537f796c4352dd9800.jpg",
     "builds": [
       {
         "id": "fa7cab3a-3735-4ae5-a93d-d00be2e00fc9",
@@ -9554,7 +9286,7 @@
     "hero": "Baxia",
     "slug": "baxia",
     "hero_id": "ab14a94e-c414-4ce1-9d24-4d8ffff1868d",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ae43a252fda0fe996322ea8d27a6fe69.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_478a4875002331e56e73835a2697ad5d.jpg",
     "builds": [
       {
         "id": "b45e4946-9871-4153-8bb5-d09b630094eb",
@@ -9742,7 +9474,7 @@
     "hero": "Fredrinn",
     "slug": "fredrinn",
     "hero_id": "cdea5c0e-1182-45e7-b407-bcdb626fb457",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3f574825bd9192094f047a4abc6d5d05.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_bafe5308a1e6db91ba57e39c45874a92.jpg",
     "builds": [
       {
         "id": "cc75f746-c774-4cd4-a000-93730996a2de",
@@ -9927,7 +9659,7 @@
     "hero": "Esmeralda",
     "slug": "esmeralda",
     "hero_id": "05d3548b-3bd1-442c-ac6b-a453b5312797",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f684768281faab70dea48d06fb72979e.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_980e6419f7763a9dd26818312d73cc6d.jpg",
     "builds": [
       {
         "id": "ca0042d2-07fa-4383-ab7a-25e37bf07747",
@@ -10112,7 +9844,7 @@
     "hero": "Khaleed",
     "slug": "khaleed",
     "hero_id": "693bd5d7-c837-4cce-b6f9-ba0e6af1966b",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_216ea76d9188164c58950885b3962ba1.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_155712d0d854711a12f2754865acc17b.jpg",
     "builds": [
       {
         "id": "484a42f0-ff95-42a1-ad67-062f61faa3ed",
@@ -10303,7 +10035,7 @@
     "hero": "Jawhead",
     "slug": "jawhead",
     "hero_id": "fbe60011-d9ef-424c-b755-35286a174f39",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9f6109678fb8da14a3999f6b5cb00449.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_a48e93159c30c31e05dcd6cf7f53c07c.jpg",
     "builds": [
       {
         "id": "5587cb03-91b6-4e92-bb74-b20d872d42c7",
@@ -10491,7 +10223,7 @@
     "hero": "Yu Zhong",
     "slug": "yu-zhong",
     "hero_id": "d2437afd-0966-42bd-adb8-50e0cff7c8b2",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_7d5ad4d511f5257137028f19e9ee973f.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_97280cb443adc3bcb4ca9b36a0fada53.jpg",
     "builds": [
       {
         "id": "9f308502-d89c-45b7-abc8-111b29b55f04",
@@ -10673,7 +10405,7 @@
     "hero": "Yve",
     "slug": "yve",
     "hero_id": "27a4e407-2ea8-4e18-a0fe-7e54faa0b162",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_d8cc30b9d273a81bd838afc691852b6f.png",
+    "image": "https://akmweb.youngjoygame.com/web/gms/image/0b6e910cb702dcbb68614c9bac4ba590.jpg",
     "builds": [
       {
         "id": "636718ac-6814-4c0d-9f72-7605f4daa71f",
@@ -10855,7 +10587,7 @@
     "hero": "Obsidia",
     "slug": "obsidia",
     "hero_id": "5904f9b5-dc10-4b19-895f-2b0c3615eb8a",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero1301-portrait.png",
+    "image": "https://akmweb.youngjoygame.com/web/gms/image/1dca7f088da27d5a12faf83f7c1f8269.jpg",
     "builds": [
       {
         "id": "55df2b2e-f00e-4e03-b013-19cbd50523b5",
@@ -11043,7 +10775,7 @@
     "hero": "Irithel",
     "slug": "irithel",
     "hero_id": "49606dd8-f850-4980-b1c1-c1cfcf713eef",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero431-portrait.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_f999fb58616e2d87c29dcb92177990f5.jpg",
     "builds": [
       {
         "id": "77f1244f-5064-4bb8-bdd1-41ec2c9f68f6",
@@ -11219,7 +10951,7 @@
     "hero": "Johnson",
     "slug": "johnson",
     "hero_id": "d023f133-7007-4786-b0bf-306b7262636d",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9939e5cc09011a287a989b7d4b3aec4d.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_b40543fb2ad8f8ef198c66f0d9eadeef.jpg",
     "builds": [
       {
         "id": "ee6e4bd7-97ed-4b93-ba59-61644ee905cb",
@@ -11370,12 +11102,6 @@
             "price": 2050
           },
           {
-            "id": "cd59334a-2214-4e1b-a528-1ea8ae74458a",
-            "name": "Blade Armor",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Blade_Armor.png",
-            "price": 1910
-          },
-          {
             "id": "93514bd9-2483-40ef-b301-86a6c796e2be",
             "name": "Antique Cuirass",
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Antique_Cuirass.png",
@@ -11407,7 +11133,7 @@
     "hero": "Zilong",
     "slug": "zilong",
     "hero_id": "23543196-6f66-401b-b39a-8f797892d34a",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e22227fa343e8c5bffd83bb78d1bd292.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_90df181873c42df22049aa056662a934.jpg",
     "builds": [
       {
         "id": "2c8c608b-1dd7-45d5-af04-ddc28f1ba401",
@@ -11434,12 +11160,6 @@
             "name": "Great Dragon Spear",
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Great_Dragon_Spear.png",
             "price": 2140
-          },
-          {
-            "id": "a67fa43a-b139-4b0b-9d0f-43537ef95a24",
-            "name": "Windtalker",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Windtalker.png",
-            "price": 1880
           },
           {
             "id": "a67fa43a-b139-4b0b-9d0f-43537ef95a24",
@@ -11592,7 +11312,7 @@
     "hero": "Barats",
     "slug": "barats",
     "hero_id": "fae07f3f-419d-402a-8f7b-0d59cd6f31eb",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2ff4a47ddc77ec9e4e5a522fd696d2c4.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_1b9fec44c21db9ecba0229ac227c7d51.jpg",
     "builds": [
       {
         "id": "a02c43a6-729b-4004-8432-097edb8212f5",
@@ -11783,7 +11503,7 @@
     "hero": "Leomord",
     "slug": "leomord",
     "hero_id": "363435f3-36f2-4bc3-93e5-3653662a2a33",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6c205605c520867a534e4e74588a7208.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_77c6d6b5b84b658c8f25e6f371658cbd.jpg",
     "builds": [
       {
         "id": "de2c23a2-2482-44c6-9f6e-d5ef60da0b1b",
@@ -11974,7 +11694,7 @@
     "hero": "Hanzo",
     "slug": "hanzo",
     "hero_id": "5a22a1f0-a7b3-4996-850e-a78bab51d2a6",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_746725e15c7577be6bb92b2665adf447.png",
+    "image": "https://akmweb.youngjoygame.com/web/gms/image/4e77b4cc8c101bbd62f548ed10ea1ed4.jpg",
     "builds": [
       {
         "id": "bcb65ffb-ddbf-4bf7-9363-16e97b7a32be",
@@ -12159,7 +11879,7 @@
     "hero": "Kimmy",
     "slug": "kimmy",
     "hero_id": "0c19b35a-ff1d-4344-95a5-7bcce8297e9a",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_3fa938873a71f33898f26b19db654b7d.png",
+    "image": "https://akmweb.youngjoygame.com/web/gms/image/f2851daf34080fb5406f8d602b9fa489.jpg",
     "builds": [
       {
         "id": "45f6b93e-e3f2-4e8c-90a7-43761ca6c208",
@@ -12329,7 +12049,7 @@
     "hero": "Akai",
     "slug": "akai",
     "hero_id": "dfc0f84a-4f91-4fcb-9e56-95c7751abad2",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_48404e80a426805d1b6072b3b33e2c3a.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_2fab842e4c04d903b1b46c3c4a1d02ad.jpg",
     "builds": [
       {
         "id": "5e5cbe29-3c9f-4154-9d84-29126ba312be",
@@ -12520,7 +12240,7 @@
     "hero": "Harith",
     "slug": "harith",
     "hero_id": "78d06295-611a-4af1-8dbe-a2b397365287",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0f81a3d82eb05c2c062fc6ea8b3d6578.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_c1dcef05408b7c644298bab812517de3.jpg",
     "builds": [
       {
         "id": "9de70517-d0bf-4188-bf0a-389e6376a78f",
@@ -12708,7 +12428,7 @@
     "hero": "Arlott",
     "slug": "arlott",
     "hero_id": "d95e1562-ef54-402c-b7b1-40e6df54d326",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_01450fec4397f8780ce0d11ab652c73d.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_d29e8f9f2d129f18a944da0a8e9044c2.jpg",
     "builds": [
       {
         "id": "7817c824-8c24-4781-8dda-1ae25fa68517",
@@ -12887,7 +12607,7 @@
     "hero": "Ling",
     "slug": "ling",
     "hero_id": "5b521ae2-5d2c-4625-bc2b-42b2c7b6eb1a",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_4405561c38db556d9cdc6a57b8642e66.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_f76a7dfe805afa316e5ec44295b75772.jpg",
     "builds": [
       {
         "id": "926a52fd-8203-4712-9041-f6b326f9b24e",
@@ -13075,7 +12795,7 @@
     "hero": "Alucard",
     "slug": "alucard",
     "hero_id": "6e41ec6d-b482-479d-bb2f-27fcc9ad5183",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2a0606e575ae278db77134b50ccef7ac.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_c9a8a8b1bb1fed4190f3168d44810ce3.jpg",
     "builds": [
       {
         "id": "13a6cd7d-0d10-49a8-b11f-067e3a4c1b4a",
@@ -13266,7 +12986,7 @@
     "hero": "Kagura",
     "slug": "kagura",
     "hero_id": "b1d71f60-0446-4887-83fb-b27ea8b140b4",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_634196d9234babcc3072155d4fefaf0c.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_64bda78279297278301e236555a15404.jpg",
     "builds": [
       {
         "id": "caf21e1a-b283-4b98-a6e5-788375697876",
@@ -13389,67 +13109,6 @@
           "59a45ae3-4662-4bee-8471-73751dcee211"
         ],
         "created_at": "2025-12-27T12:58:09.093968+00:00"
-      },
-      {
-        "id": "53f538cd-2d71-4f6a-a775-c3e45a4a41bc",
-        "title": "Kagura 1 hit",
-        "description": "damage tinggi di early to mid game",
-        "tips": "",
-        "likes": 1,
-        "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
-        "items": [
-          {
-            "id": "a6ec810a-08da-4bbf-a137-8d23531920c9",
-            "name": "Arcane Boots",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Arcane_Boots.png",
-            "price": 720
-          },
-          {
-            "id": "cdbfc89a-2fac-4466-ba07-1fba1e357847",
-            "name": "Genius Wand",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Genius_Wand.png",
-            "price": 2000
-          },
-          {
-            "id": "2184fd07-4ced-48d6-b6f0-04f99122a4e0",
-            "name": "Lightning Truncheon",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Lightning_Truncheon.png",
-            "price": 2250
-          },
-          {
-            "id": "78f73686-df75-42b1-8bb1-fbf9d5f33a70",
-            "name": "Glowing Wand",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Glowing_Wand.png",
-            "price": 2150
-          },
-          {
-            "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
-            "name": "Holy Crystal",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
-            "price": 3000
-          },
-          {
-            "id": "3a11d865-1fff-4d8f-b919-5023703fb31a",
-            "name": "Blood Wings",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Blood_Wings.png",
-            "price": 2100
-          }
-        ],
-        "emblem": {
-          "id": "6f783459-4751-414f-b371-85282443cfd4",
-          "name": "Assassin",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Custom_Assassin_Emblem.png"
-        },
-        "spell": {
-          "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
-          "name": "Flicker",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
-        },
-        "conditional_items": [
-          "c7e4e03f-4c5c-45ff-8535-65a74229b52d",
-          "ece51f8f-c4c8-47cb-9992-314e83af317b"
-        ],
-        "created_at": "2026-08-15T04:13:00.714593+00:00"
       }
     ]
   },
@@ -13457,7 +13116,7 @@
     "hero": "Hilda",
     "slug": "hilda",
     "hero_id": "bce657f9-bd25-432b-a4ee-011e79e04b33",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0adb85b02fe21534ab505b61977f699f.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_35f2e88037398136c01b314deb573eb0.jpg",
     "builds": [
       {
         "id": "99a9b431-43eb-4d3b-a56c-6bae424f5796",
@@ -13636,7 +13295,7 @@
     "hero": "Gloo",
     "slug": "gloo",
     "hero_id": "ea98deb9-0a66-4a8d-b8e6-ad68c62ac802",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_8b401d50920f2359060a9c7a3c833df1.png",
+    "image": "https://akmweb.youngjoygame.com/web/gms/image/7257d4ee30eff4d5bc5726027eee5f96.jpg",
     "builds": [
       {
         "id": "020fa8c4-94f5-458f-bd6e-3601ea4b21bc",
@@ -13827,7 +13486,7 @@
     "hero": "Hylos",
     "slug": "hylos",
     "hero_id": "d23c7ec4-29ff-4c33-b95b-df3fa8c09053",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_22d8716de16d99253671c2f9e59d9ef3.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_bcc177e4f62634fca493732e4058c626.jpg",
     "builds": [
       {
         "id": "2652db1a-25b3-41fe-ac92-aee60b491a45",
@@ -14003,7 +13662,7 @@
     "hero": "Hayabusa",
     "slug": "hayabusa",
     "hero_id": "da82c123-e3a6-4e6f-bfbc-883dd909e357",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_63cb1f44bf906b71767a000e38d8ab14.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_82560b092a98bcb328def807a2a48cfe.jpg",
     "builds": [
       {
         "id": "78ef9f70-d493-4d58-ad07-1998e60430a4",
@@ -14188,7 +13847,7 @@
     "hero": "Kalea",
     "slug": "kalea",
     "hero_id": "11b06d54-a200-4bc3-b71e-1ce1abc9ebda",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_9c5f2904026ba88b7aba8c9b2722f4ad.png",
+    "image": "https://akmweb.youngjoygame.com/web/gms/image/6bde4242228d5ea98b700c9cfc1e837d.jpg",
     "builds": [
       {
         "id": "17d24f2a-0cfc-4c29-97ce-2f18c92a1672",
@@ -14376,7 +14035,7 @@
     "hero": "Lylia",
     "slug": "lylia",
     "hero_id": "ee203a41-b39e-40ca-92df-dce880194925",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_03146a311ed83c166b70bdb8fbcdc04f.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_8d16667b16673a1919c513fa46bbf2d0.jpg",
     "builds": [
       {
         "id": "17f0e092-3ed0-481d-90ee-1d62274f91af",
@@ -14567,7 +14226,7 @@
     "hero": "Belerick",
     "slug": "belerick",
     "hero_id": "1aa24bae-4a09-4098-82a1-fe69f6c30c01",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_69fdf773b92fbbf182f83d79abcf8d01.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_64900b3344e166f05645ac5759207897.jpg",
     "builds": [
       {
         "id": "fc551ac7-8192-4754-b34e-1ab2ebb28af2",
@@ -14758,7 +14417,7 @@
     "hero": "Karrie",
     "slug": "karrie",
     "hero_id": "a4a8177a-c666-43bb-b82f-9726d8aa267d",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ccc0a2768caba67b601309c771e7ecd5.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_bd34b1ec70de7a32b724dd606cb56331.jpg",
     "builds": [
       {
         "id": "8cf650f7-fc93-49e6-b749-bbda1f04da8f",
@@ -14931,7 +14590,7 @@
     "hero": "Odette",
     "slug": "odette",
     "hero_id": "b1b78eb7-9fe7-4c01-9d19-94876a11c277",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_6fd1d8e4d436d1de3102a7880cd61cbd.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_7448f16293a6be9311f82d581e78749a.jpg",
     "builds": [
       {
         "id": "a2b9cfcf-09c8-435d-a1ed-4de6518f2f97",
@@ -15122,7 +14781,7 @@
     "hero": "Martis",
     "slug": "martis",
     "hero_id": "fcd32304-703d-414e-948f-e156fd0d49af",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9691f86f84a553ea3982014738905f3f.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_01b9995a75249c3155ca96e4713139a9.jpg",
     "builds": [
       {
         "id": "04671ea4-6cf2-445d-8338-2d244c6781cd",
@@ -15313,7 +14972,7 @@
     "hero": "Grock",
     "slug": "grock",
     "hero_id": "7f23918e-a22b-4a55-be64-45adefb6a62b",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8d904fbad23813b91539e367e8ce5262.png",
+    "image": "https://akmweb.youngjoygame.com/web/gms/image/c5df319054bcefec1d17c771b45b9e10.jpg",
     "builds": [
       {
         "id": "c99b7021-dcef-4d63-9377-1a045053da37",
@@ -15500,7 +15159,7 @@
     "hero": "Bruno",
     "slug": "bruno",
     "hero_id": "652b5443-9311-4cfa-b4aa-cdcdaea36c72",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68d7ca30f69cb691125e3f03cd782a53.png",
+    "image": "https://akmweb.youngjoygame.com/web/gms/image/79a7f9ab5cb76f4ff5b3cc453de3624f.jpg",
     "builds": [
       {
         "id": "29d1eb4a-1903-4920-8e7c-c297e8bb4a7e",
@@ -15682,7 +15341,7 @@
     "hero": "Vexana",
     "slug": "vexana",
     "hero_id": "61ee1e92-52cb-446a-9ed6-486c43b08f1c",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_39c9058219c59535e9ed07645c8d9dd3.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_f1a01e297d30d147c16342efc357275e.jpg",
     "builds": [
       {
         "id": "e0f008af-ab2c-480a-9833-13a71aa8a8f9",
@@ -15873,7 +15532,7 @@
     "hero": "Edith",
     "slug": "edith",
     "hero_id": "49dd7901-6d50-4c20-b3c7-c7b329deead0",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_352f65059bc1180ae0fc066003d628e0.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_0598a42d46dd271410f403b57eb02e2a.jpg",
     "builds": [
       {
         "id": "37ba4b4b-04fb-42e7-93f1-ed820f58bfb2",
@@ -16061,7 +15720,7 @@
     "hero": "Valentina",
     "slug": "valentina",
     "hero_id": "58078837-5b54-4e15-9693-7f1230e79487",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7923ebf470d0e963e9978cb21eb25780.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_cdd151e2293c14b2abc3c1c8e57d4392.jpg",
     "builds": [
       {
         "id": "a9815238-2ab8-4294-b058-fe83ec534084",
@@ -16249,7 +15908,7 @@
     "hero": "Valir",
     "slug": "valir",
     "hero_id": "34b80457-0775-423f-a68a-da567433e664",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cd4c780c0ed639e2889c1131e56638ec.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_7a285a7d75ceb5fecceec6b2608b232f.jpg",
     "builds": [
       {
         "id": "bd552dec-812e-415e-9da1-a4b16de9da0a",
@@ -16437,7 +16096,7 @@
     "hero": "Saber",
     "slug": "saber",
     "hero_id": "93318ec8-c2c5-4d71-966d-515df61d6d04",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_75f50285862c6c34aa1770b11d00b4f8.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_15e49c7cc5398ca2d903a485145c0702.jpg",
     "builds": [
       {
         "id": "edec20f3-607e-4dc7-af3d-b8ca1942d1cb",
@@ -16625,7 +16284,7 @@
     "hero": "Lunox",
     "slug": "lunox",
     "hero_id": "61abb53d-048b-4bf9-b0db-c16c32b0d549",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_69d35cd0c549a9bdbcf9fbfddf3122a5.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_8cd47d47126be5496fecb45304368069.jpg",
     "builds": [
       {
         "id": "b3994ae7-180c-47db-9bdf-4ee961d6f2f7",
@@ -16816,7 +16475,7 @@
     "hero": "Natalia",
     "slug": "natalia",
     "hero_id": "b1b5ae91-4596-48a7-a065-0cfc3676ff6e",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_67fa418c9efe0a0c29112067b9ddfcd5.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_79e90c124d786bbfdae31f3a28827e7d.jpg",
     "builds": [
       {
         "id": "7d35f48b-d72d-4bc1-9aa8-f841bc7f719c",
@@ -17004,7 +16663,7 @@
     "hero": "Dyrroth",
     "slug": "dyrroth",
     "hero_id": "4ac9d021-ffa8-4d18-80fc-05cdcc747aef",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero851-portrait.png",
+    "image": "https://akmweb.youngjoygame.com/web/gms/image/636054ad39847fcc242d0b03feadffac.jpg",
     "builds": [
       {
         "id": "57602b03-ea10-4bdd-bace-8f18cd9819db",
@@ -17189,7 +16848,7 @@
     "hero": "Aulus",
     "slug": "aulus",
     "hero_id": "ce56611c-fa88-434c-a611-edcce531c8ab",
-    "image": "https://i.ibb.co.com/qGLFknw/aulus.jpg",
+    "image": "https://akmweb.youngjoygame.com/web/gms/image/df1df2053afbdda1167d647bbb8b3a81.jpg",
     "builds": [
       {
         "id": "b248784d-00aa-4733-8fe1-65a297a19a5b",
@@ -17374,7 +17033,7 @@
     "hero": "Carmilla",
     "slug": "carmilla",
     "hero_id": "c9dacf9b-b511-476e-93cc-cefaae633e40",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_358d6ad9cff97fc3bfef8a2bd4acbadd.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_08d58580aaeaab354c2d267d8746c42d.jpg",
     "builds": [
       {
         "id": "eadf6ec2-11fa-4b39-a592-6a2147e0cf2d",
@@ -17499,12 +17158,78 @@
         "created_at": "2026-05-14T14:23:12.389568+00:00"
       },
       {
-        "id": "651ca6f4-ac70-408c-820c-3cea6e704a9e",
-        "title": "Build Magic",
-        "description": "",
-        "tips": "",
+        "id": "932f6c2f-1d2d-4245-b4d1-1322c62c63b2",
+        "title": "MPL ID S18 WEEK 5 DAY 3 ONIC.Lutpi",
+        "description": "( ONIC VS AE GAME 1 ) MPL INDONESIA SEASON 18 WEEK 5 DAY 3 13 SEPTEMBER 2026",
+        "tips": null,
         "likes": 0,
-        "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
+        "patch_id": "8bda5b76-0cd7-4adb-a02d-019026492527",
+        "items": [
+          {
+            "id": "0565f7fd-0dbd-469b-badf-5e3fce18cdc6",
+            "name": "Ares Belt",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Ares_Belt.png",
+            "price": 700
+          },
+          {
+            "id": "d946f868-c61d-4433-80f3-3feec9b1af98",
+            "name": "Tought Boots",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Tough_Boots.png",
+            "price": 720
+          },
+          {
+            "id": "93514bd9-2483-40ef-b301-86a6c796e2be",
+            "name": "Antique Cuirass",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Antique_Cuirass.png",
+            "price": 2170
+          },
+          {
+            "id": "fcd26ef5-82d9-412b-91eb-f75385976ef1",
+            "name": "Vit",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Vitality_Crystal.png",
+            "price": 300
+          },
+          {
+            "id": "3585dc9e-2722-44f6-9bbb-100b777c5a86",
+            "name": "Radiant Armor",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Radiant_Armor.png",
+            "price": 1880
+          },
+          {
+            "id": "f329107b-40f5-40bf-b30b-f05be730bc86",
+            "name": "Leather Jerkin",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Leather_Jerkin.png",
+            "price": 220
+          }
+        ],
+        "emblem": {
+          "id": "c0c1e80e-c705-4a36-ae5f-f930130489ba",
+          "name": "Tank",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Custom_Tank_Emblem.png"
+        },
+        "spell": {
+          "id": "b68d9e4c-db6e-4107-a36f-ea24b16fb978",
+          "name": "Revitalize",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Revitalize.png"
+        },
+        "conditional_items": [],
+        "created_at": "2026-09-18T14:58:34.810886+00:00"
+      }
+    ]
+  },
+  "masha": {
+    "hero": "Masha",
+    "slug": "masha",
+    "hero_id": "68cc1e03-3ccd-4d7e-9fad-2105b9d16e50",
+    "image": "https://akmweb.youngjoygame.com/web/gms/image/c09dc406cf28410a2045eec82a60b617.jpg",
+    "builds": [
+      {
+        "id": "95274b73-75a7-452c-8fe2-be8b63fabd86",
+        "title": "Exp semi tank",
+        "description": "Kuat laning lawan hampir siapapun kecuali cici,jangan pakai build ini ketika lawan memakai cici exp. \nUsahakan melakukan gemplay agresif ketika tunderbelt sudah jadi.Ketika bertemu lawan yg mengandalkan lifesteel gunakan sea halberd di item pertama atau kedua setelah tunderbelt.",
+        "tips": "",
+        "likes": 2,
+        "patch_id": "8bda5b76-0cd7-4adb-a02d-019026492527",
         "items": [
           {
             "id": "1433cb2c-1ad9-4f7d-b594-793ac4c9e6b6",
@@ -17513,60 +17238,52 @@
             "price": 720
           },
           {
-            "id": "1b0549bd-fd16-4460-bed5-f43b4e7fa005",
-            "name": "Cursed Helmet",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Cursed_Helmet.png",
-            "price": 1910
+            "id": "9d4988cb-f1ff-4020-a152-09bfa42ea847",
+            "name": "Thunder Belt",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/dd/Thunder_Belt.png",
+            "price": 1820
           },
           {
-            "id": "9f95098c-0aa7-46c2-a6c4-6e8d4ce9e1f7",
-            "name": "Queen's Wings",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Queen%27s_Wings.png",
-            "price": 2250
+            "id": "a67fa43a-b139-4b0b-9d0f-43537ef95a24",
+            "name": "Windtalker",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Windtalker.png",
+            "price": 1880
           },
           {
-            "id": "421314fd-557c-427b-8e74-b016c8dcf33a",
-            "name": "Chastise Pauldron",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Chastise_Pauldron.png",
-            "price": 2100
+            "id": "85ca390d-2fd5-4428-84ca-cdda78d395d2",
+            "name": "Corrosion Scythe",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Corrosion_Scythe.png",
+            "price": 2050
           },
           {
-            "id": "45e33c00-9674-44d3-950b-073425a1f922",
-            "name": "Dominance Ice",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Dominance_Ice.png",
-            "price": 2010
+            "id": "6c3c144b-fe6d-4fa5-b597-4f0240825528",
+            "name": "Golden Staff",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Golden_Staff.png",
+            "price": 2000
           },
           {
-            "id": "cd59334a-2214-4e1b-a528-1ea8ae74458a",
-            "name": "Blade Armor",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Blade_Armor.png",
-            "price": 1910
+            "id": "f8f538b8-5cf0-4fd4-a4e6-dff974a0b715",
+            "name": "Guardian Helmet",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Guardian_Helmet.png",
+            "price": 2500
           }
         ],
         "emblem": {
-          "id": "548cd559-72f6-45b4-a0d5-f4b7aafcb2a9",
-          "name": "Support",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Custom_Support_Emblem.png"
+          "id": "c0c1e80e-c705-4a36-ae5f-f930130489ba",
+          "name": "Tank",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Custom_Tank_Emblem.png"
         },
         "spell": {
-          "id": "b68d9e4c-db6e-4107-a36f-ea24b16fb978",
-          "name": "Revitalize",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Revitalize.png"
+          "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
+          "name": "Flicker",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
         },
         "conditional_items": [
           "2f707623-6044-4dc4-8183-5095409c5078",
-          "f8f538b8-5cf0-4fd4-a4e6-dff974a0b715"
+          "2c6757ba-8522-4d3c-a894-407f2c4f16e9"
         ],
-        "created_at": "2026-09-15T06:35:28.465756+00:00"
-      }
-    ]
-  },
-  "masha": {
-    "hero": "Masha",
-    "slug": "masha",
-    "hero_id": "68cc1e03-3ccd-4d7e-9fad-2105b9d16e50",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6fcd3a37b34ea16ca6b485b88220e400.png",
-    "builds": [
+        "created_at": "2026-09-18T03:14:08.806084+00:00"
+      },
       {
         "id": "cfcb136a-86ce-4ee6-bdcc-9db1e14ed204",
         "title": "Masha tebel di tim fight (Masha roam)",
@@ -17688,67 +17405,6 @@
           "60d82125-ae14-43f5-9368-cadd62bb070a"
         ],
         "created_at": "2026-02-25T12:35:25.173128+00:00"
-      },
-      {
-        "id": "95274b73-75a7-452c-8fe2-be8b63fabd86",
-        "title": "Exp semi tank",
-        "description": "Kuat laning lawan hampir siapapun kecuali cici,jangan pakai build ini ketika lawan memakai cici exp. \nUsahakan melakukan gemplay agresif ketika tunderbelt sudah jadi.Ketika bertemu lawan yg mengandalkan lifesteel gunakan sea halberd di item pertama atau kedua setelah tunderbelt.",
-        "tips": "",
-        "likes": 1,
-        "patch_id": "8bda5b76-0cd7-4adb-a02d-019026492527",
-        "items": [
-          {
-            "id": "1433cb2c-1ad9-4f7d-b594-793ac4c9e6b6",
-            "name": "Rapid Boots",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Rapid_Boots.png",
-            "price": 720
-          },
-          {
-            "id": "9d4988cb-f1ff-4020-a152-09bfa42ea847",
-            "name": "Thunder Belt",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/dd/Thunder_Belt.png",
-            "price": 1820
-          },
-          {
-            "id": "a67fa43a-b139-4b0b-9d0f-43537ef95a24",
-            "name": "Windtalker",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Windtalker.png",
-            "price": 1880
-          },
-          {
-            "id": "85ca390d-2fd5-4428-84ca-cdda78d395d2",
-            "name": "Corrosion Scythe",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Corrosion_Scythe.png",
-            "price": 2050
-          },
-          {
-            "id": "9d21f19b-e352-4d3e-b6b0-8c742a8078e7",
-            "name": "Malefic Gun",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Malefic_Gun.png",
-            "price": 2120
-          },
-          {
-            "id": "f8f538b8-5cf0-4fd4-a4e6-dff974a0b715",
-            "name": "Guardian Helmet",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Guardian_Helmet.png",
-            "price": 2500
-          }
-        ],
-        "emblem": {
-          "id": "c0c1e80e-c705-4a36-ae5f-f930130489ba",
-          "name": "Tank",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Custom_Tank_Emblem.png"
-        },
-        "spell": {
-          "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
-          "name": "Flicker",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
-        },
-        "conditional_items": [
-          "2f707623-6044-4dc4-8183-5095409c5078",
-          "2c6757ba-8522-4d3c-a894-407f2c4f16e9"
-        ],
-        "created_at": "2026-09-18T03:14:08.806084+00:00"
       }
     ]
   },
@@ -17756,7 +17412,7 @@
     "hero": "Chou",
     "slug": "chou",
     "hero_id": "0454078a-fb5c-4ecd-99eb-e631949a4fbf",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_42/100_850c4b51e3dbab3fd12a718917eaaf44.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_011409dfe1a2cf4cf5f879ea07fb3a8e.jpg",
     "builds": [
       {
         "id": "9d8c9141-3c29-4d05-a54e-87dc67375278",
@@ -17947,7 +17603,7 @@
     "hero": "Franco",
     "slug": "franco",
     "hero_id": "7c66d58e-fb32-4a74-bc2f-420f570cac10",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d9a0d6432cc0610a2232b2d2ed5e09ce.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_ad018d324520174ab87b3a1098507fb6.jpg",
     "builds": [
       {
         "id": "189e25b6-cb12-4f15-a236-c704a9d6d28b",
@@ -18135,7 +17791,7 @@
     "hero": "Gord",
     "slug": "gord",
     "hero_id": "59281eb5-e471-4dc5-aa38-ce373112b2cc",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_6ba16b4ca438152a629e7706cbd7453d.png",
+    "image": "https://akmweb.youngjoygame.com/web/gms/image/fe7d492d0a71f96da12ff710d41a76cb.jpg",
     "builds": [
       {
         "id": "effd330e-7cd5-4308-a2b2-f8dca858eae9",
@@ -18317,7 +17973,7 @@
     "hero": "Gatotkaca",
     "slug": "gatotkaca",
     "hero_id": "69f3f123-65c4-48c1-bbbd-7e800f98fcb4",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e3ccd096c9c4649519d736073acca91a.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_a9a9551515638bb9b6128eef1ee916bd.jpg",
     "builds": [
       {
         "id": "62c72233-9914-41df-b2b6-804b51438adb",
@@ -18505,7 +18161,7 @@
     "hero": "Angela",
     "slug": "angela",
     "hero_id": "ddeb7045-f020-4e32-9002-64dbdc083f1a",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a815a3adad8df99481700c84abaf3c41.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_187b8452435b469e8867e8fb2d387a5b.jpg",
     "builds": [
       {
         "id": "b8e79edc-6cfd-43d3-8b9a-c0561798ac63",
@@ -18532,12 +18188,6 @@
             "name": "Demon Hunter Sword",
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Demon_Hunter_Sword.png",
             "price": 2180
-          },
-          {
-            "id": "a67fa43a-b139-4b0b-9d0f-43537ef95a24",
-            "name": "Windtalker",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Windtalker.png",
-            "price": 1880
           },
           {
             "id": "a67fa43a-b139-4b0b-9d0f-43537ef95a24",
@@ -18693,7 +18343,7 @@
     "hero": "Estes",
     "slug": "estes",
     "hero_id": "bf9c276d-99d8-4389-a4c0-c59b976f6d03",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a3619b68f415405f0a1ad77be31eb64d.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_137acad8cd747ef9d0dec755158aff18.jpg",
     "builds": [
       {
         "id": "eca65b1a-d599-4e0a-a232-e447ea01bcf3",
@@ -18881,7 +18531,7 @@
     "hero": "Atlas",
     "slug": "atlas",
     "hero_id": "001006e4-363f-4fc0-ac2d-969694ad88ab",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1fa7b5bb5ddc89246d65e199c6e3b22f.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_9a217534db9b67c6db2c45d57a0d640c.jpg",
     "builds": [
       {
         "id": "f5bc5cc7-c5b4-4858-8cad-a2eae9e576f9",
@@ -19071,7 +18721,7 @@
     "hero": "Selena",
     "slug": "selena",
     "hero_id": "4179f83c-2fb1-47db-b038-6fdf9a34c55b",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_547ce6e3351ef7a46c02b51d0c4e452c.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_4ce7dbe0cbcbaf4c2fcc47bd96780b35.jpg",
     "builds": [
       {
         "id": "4e020083-2f79-4eee-a674-b7d2eeef0c40",
@@ -19258,7 +18908,7 @@
     "hero": "Change",
     "slug": "change",
     "hero_id": "d4a3a088-7f74-46ac-abe6-ac364c69384d",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4a2db83b0fb92b826f039955d1b8b5df.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_bf3d5cdc1c0e33f5aab7732e153c7409.jpg",
     "builds": [
       {
         "id": "7633629b-2682-4411-b8a3-cd638eaae56e",
@@ -19449,7 +19099,7 @@
     "hero": "Mathilda",
     "slug": "mathilda",
     "hero_id": "ab29f968-116c-4802-a413-3a35fdbb752f",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_515a1949e9c3dc1ee1a281f45d42b085.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_5d6eb0491da5709648beca54f906c0a3.jpg",
     "builds": [
       {
         "id": "1b259f11-e628-4691-bcd3-77f4f0716b8f",
@@ -19631,7 +19281,7 @@
     "hero": "Faramis",
     "slug": "faramis",
     "hero_id": "16802fc0-3da9-40d4-91a0-70fef10c12d7",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4bed236fc260d9924b030e576793a26b.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_a171d8e12dd5eda201750e794dd5e313.jpg",
     "builds": [
       {
         "id": "1a5e66bd-6d4a-4cc7-9112-6d5d6889d301",
@@ -19816,7 +19466,7 @@
     "hero": "Ixia",
     "slug": "ixia",
     "hero_id": "f5b21ab0-dc71-47ea-adc3-c2b92022c8bb",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c5f758bd1141327d36f2c77928268ab7.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_48896a3cf0ee41c3d54c2b651ed926ea.jpg",
     "builds": [
       {
         "id": "b7b657d7-3094-4218-a725-74545ba6c7ee",
@@ -20007,7 +19657,7 @@
     "hero": "X.Borg",
     "slug": "xborg",
     "hero_id": "b7ed8b5f-9da7-453f-a792-f4d229046972",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9317fc6f999a43428c2fb9f7feda3cd7.png",
+    "image": "https://akmweb.youngjoygame.com/web/gms/image/52e2334206e3b30354b129f86ada1ef5.jpg",
     "builds": [
       {
         "id": "c65d728a-8d29-4ba4-b9a7-e437e26f5e2d",
@@ -20197,7 +19847,7 @@
     "hero": "Bane",
     "slug": "bane",
     "hero_id": "0e8c8dfd-f1ae-485a-9286-cb60e2878ea9",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_846a816f7905f17c81cb35e7f3ff1c3e.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_7060e1c063474bb8ff9472d61f7ce4c3.jpg",
     "builds": [
       {
         "id": "098f4b6a-edae-45c1-97c0-13a34b1ab6e7",
@@ -20224,18 +19874,6 @@
             "name": "Lightning Truncheon",
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Lightning_Truncheon.png",
             "price": 2250
-          },
-          {
-            "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
-            "name": "Holy Crystal",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
-            "price": 3000
-          },
-          {
-            "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
-            "name": "Holy Crystal",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
-            "price": 3000
           },
           {
             "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
@@ -20385,7 +20023,7 @@
     "hero": "Minsitthar",
     "slug": "minsitthar",
     "hero_id": "3260bbb4-f02e-4cb1-9a41-fb3c3d246ddf",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dbfdfa2d0a3cc95cbc197d0a14d5ecd1.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_5a18fa300eb0de4324601c116eab655c.jpg",
     "builds": [
       {
         "id": "509ba80a-50f3-4e51-bd81-c3a3431f73e7",
@@ -20576,7 +20214,7 @@
     "hero": "Aurora",
     "slug": "aurora",
     "hero_id": "0e4616ed-b598-4c47-8b06-d6c0b9183039",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1f3f900f917956e81d7764b9e5ffeb3d.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_58b97db6a5c286059057d42289612b16.jpg",
     "builds": [
       {
         "id": "90faba38-3fde-4b38-86d8-a1a7bf53d5e7",
@@ -20652,30 +20290,6 @@
             "name": "Arcane Boots",
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Arcane_Boots.png",
             "price": 720
-          },
-          {
-            "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
-            "name": "Holy Crystal",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
-            "price": 3000
-          },
-          {
-            "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
-            "name": "Holy Crystal",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
-            "price": 3000
-          },
-          {
-            "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
-            "name": "Holy Crystal",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
-            "price": 3000
-          },
-          {
-            "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
-            "name": "Holy Crystal",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
-            "price": 3000
           },
           {
             "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
@@ -20764,7 +20378,7 @@
     "hero": "Popol and Kupa",
     "slug": "popol-and-kupa",
     "hero_id": "c3907e16-10f5-450c-a680-0339febef108",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5eb4653a13ff08c8f4138dc38ae4e110.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_555eb8df475f57d6f01a1f2a2675671c.jpg",
     "builds": [
       {
         "id": "e4bd3063-5a14-4dc6-a041-716ba5e0b454",
@@ -20949,7 +20563,7 @@
     "hero": "Minotaur",
     "slug": "minotaur",
     "hero_id": "8e216297-b97b-4a83-8872-ece9c45c9cd4",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cf2794cfdbea9a75784133863cf6ac83.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_db4fda77f902f3dde09d247498da23cc.jpg",
     "builds": [
       {
         "id": "1422915e-1431-4d7f-9de5-851a958aa713",
@@ -21139,7 +20753,7 @@
     "hero": "Silvanna",
     "slug": "silvanna",
     "hero_id": "f2521343-6c98-43f3-b7d8-76d56aa79710",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fe98dd2e19bb6c29591763d1d11a3eb7.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_a9de8642b6e62f44652c519f153620d2.jpg",
     "builds": [
       {
         "id": "8df4893b-8687-4b10-9966-ae7b26a6b4f7",
@@ -21327,7 +20941,7 @@
     "hero": "Pharsa",
     "slug": "pharsa",
     "hero_id": "468d888b-4be8-49b7-83b6-4eb1e46fe01a",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cccf53dbeacc789288ebc1fb63fcf7dd.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_353d39f8ae9ea1454e34ad8546db8417.jpg",
     "builds": [
       {
         "id": "f42e3484-7f7a-4b50-ada4-5cce03a1223c",
@@ -21515,7 +21129,7 @@
     "hero": "Cecilion",
     "slug": "cecilion",
     "hero_id": "b87f9510-3ee5-4f90-9f91-9f508e0249d6",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_af02ce891528cd3576858589d8d33d8d.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_71d6b7fc8cfe8fd9b0c20ad3be1af4e8.jpg",
     "builds": [
       {
         "id": "9413e430-5e1f-4fb5-b178-80b4cd1a8aee",
@@ -21706,7 +21320,7 @@
     "hero": "Badang",
     "slug": "badang",
     "hero_id": "f67fc55a-5b47-43aa-857e-da74bee5929c",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_484caceb9611d547774d6d936519a7d6.png",
+    "image": "https://akmweb.youngjoygame.com/web/gms/image/9bac942507ad05f1437b825a9932ef9c.jpg",
     "builds": [
       {
         "id": "dc5a24fd-1d3c-48f9-8b55-bfd09b2263d1",
@@ -21897,7 +21511,7 @@
     "hero": "Novaria",
     "slug": "novaria",
     "hero_id": "66aa685d-52ba-4f70-8cbe-616500d1d7d8",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_12c811236741ae8e3fbdaa2d884b30a2.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_b2599c8a6c681afdee9a06a92190a58d.jpg",
     "builds": [
       {
         "id": "e75fc8cd-800b-4fd8-bbc5-94373b16679b",
@@ -22010,18 +21624,18 @@
         "created_at": "2026-01-21T13:25:33.713228+00:00"
       },
       {
-        "id": "57b69349-71ed-43ca-bab4-3d52d660f70f",
-        "title": "MPL ID S18 WEEK 4 DAY 3 NAVI.Jiizee",
-        "description": "( RRQ VS NAVI GAME 2 ) MPL INDONESIA SEASON 18 WEEK 4 DAY 3 6 SEPTEMBER 2026",
+        "id": "383e854a-ce8b-4f11-b45a-16e961113693",
+        "title": "MPL ID S18 WEEK 5 DAY 3 GEEK.Aboyy",
+        "description": "( GEEK VS TLID GAME 1 ) MPL INDONESIA SEASON 18 WEEK 5 DAY 3 13 SEPTEMBER 2026",
         "tips": null,
         "likes": 0,
-        "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
+        "patch_id": "8bda5b76-0cd7-4adb-a02d-019026492527",
         "items": [
           {
-            "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
-            "name": "Holy Crystal",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
-            "price": 3000
+            "id": "32da3955-3a13-4a18-ac27-7d9b064f3fa2",
+            "name": "Magic Boots",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Magic_Shoes.png",
+            "price": 720
           },
           {
             "id": "59a45ae3-4662-4bee-8471-73751dcee211",
@@ -22030,10 +21644,10 @@
             "price": 1970
           },
           {
-            "id": "a6ec810a-08da-4bbf-a137-8d23531920c9",
-            "name": "Arcane Boots",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Arcane_Boots.png",
-            "price": 720
+            "id": "558b4905-faad-4920-971f-1213ce1efa09",
+            "name": "Magic Wand",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Magic_Wand.png",
+            "price": 820
           },
           {
             "id": "78f73686-df75-42b1-8bb1-fbf9d5f33a70",
@@ -22048,10 +21662,10 @@
             "price": 2250
           },
           {
-            "id": "ece51f8f-c4c8-47cb-9992-314e83af317b",
-            "name": "Wishing Lantern",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Wishing_Lantern.png",
-            "price": 2250
+            "id": "3b9afea2-47d3-450f-8ee6-c1235d19a4ba",
+            "name": "Book of Sages",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Book_of_Sages.png",
+            "price": 450
           }
         ],
         "emblem": {
@@ -22065,7 +21679,7 @@
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
         },
         "conditional_items": [],
-        "created_at": "2026-09-12T05:22:51.742399+00:00"
+        "created_at": "2026-09-18T14:58:13.156497+00:00"
       }
     ]
   },
@@ -22073,7 +21687,7 @@
     "hero": "Vale",
     "slug": "vale",
     "hero_id": "978ad213-3988-482e-8889-bf4535119502",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_80d3dd1f4cb10ffebb84289be46a3ecb.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_25040275a37d04d6ed8930a64f9e20bd.jpg",
     "builds": [
       {
         "id": "d10c29ca-322c-456c-aafa-69078c880f2b",
@@ -22264,7 +21878,7 @@
     "hero": "Lukas",
     "slug": "lukas",
     "hero_id": "181c587e-d701-4805-9a1b-a93a3b5b020d",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_454c13b2de7b7d1a20fbf553c620510d.png",
+    "image": "https://akmweb.youngjoygame.com/web/gms/image/95b6f94a0e37fd02e069223493540e75.jpg",
     "builds": [
       {
         "id": "0d0b9dda-8e7d-459f-b55f-b36a544bb352",
@@ -22452,7 +22066,7 @@
     "hero": "Karina",
     "slug": "karina",
     "hero_id": "6b258e09-4e06-46ec-ba6b-e6577f4acb15",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7745192fc72de28d09e839cd7c250bae.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_37b5cfef887a7afc63dfaf7b6dfd65c4.jpg",
     "builds": [
       {
         "id": "249f1377-0720-444b-9373-f8f59dc73236",
@@ -22575,64 +22189,6 @@
           "cdbfc89a-2fac-4466-ba07-1fba1e357847"
         ],
         "created_at": "2026-02-09T05:19:02.148613+00:00"
-      },
-      {
-        "id": "35e346db-87c2-4e30-93a2-8741565ec06b",
-        "title": "Burst damage/instant kill",
-        "description": "",
-        "tips": "",
-        "likes": 0,
-        "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
-        "items": [
-          {
-            "id": "a6ec810a-08da-4bbf-a137-8d23531920c9",
-            "name": "Arcane Boots",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Arcane_Boots.png",
-            "price": 720
-          },
-          {
-            "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
-            "name": "Holy Crystal",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
-            "price": 3000
-          },
-          {
-            "id": "8408352d-1f00-4c68-b3ba-7abc320588ce",
-            "name": "Sky Piercer",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Sky_Piercer.png",
-            "price": 1500
-          },
-          {
-            "id": "2184fd07-4ced-48d6-b6f0-04f99122a4e0",
-            "name": "Lightning Truncheon",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Lightning_Truncheon.png",
-            "price": 2250
-          },
-          {
-            "id": "59a45ae3-4662-4bee-8471-73751dcee211",
-            "name": "Divine Glaive",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Divine_Glaive.png",
-            "price": 1970
-          },
-          {
-            "id": "3a11d865-1fff-4d8f-b919-5023703fb31a",
-            "name": "Blood Wings",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Blood_Wings.png",
-            "price": 2100
-          }
-        ],
-        "emblem": {
-          "id": "5e0b6bcf-c296-4117-b0d4-4d6dae8f1618",
-          "name": "Mage",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Custom_Mage_Emblem.png"
-        },
-        "spell": {
-          "id": "4bd8e270-d8a4-4638-8cd7-e1b25f67e86a",
-          "name": "Ice Retribution",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Ice_Retribution.png"
-        },
-        "conditional_items": [],
-        "created_at": "2026-08-23T03:20:02.870894+00:00"
       }
     ]
   },
@@ -22640,7 +22196,7 @@
     "hero": "Diggie",
     "slug": "diggie",
     "hero_id": "30c96151-a93c-4abf-a624-76e5f71fac52",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7a7a688cf1562a124f7183b2c2957608.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_91b0167c49a789de46de29c3714da515.jpg",
     "builds": [
       {
         "id": "5adaeab4-6126-4933-b064-ec50d31af137",
@@ -22831,7 +22387,7 @@
     "hero": "Floryn",
     "slug": "floryn",
     "hero_id": "6df9306d-f86a-4068-b96e-4e6c3fc74b19",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5168f0a54304b2f20f976a1ffa96e1dc.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_854338f3ad90cb9e14aec15c8b8a08c7.jpg",
     "builds": [
       {
         "id": "1f4d6751-6927-4b1a-aea6-9f2b0f0afef8",
@@ -22852,24 +22408,6 @@
             "name": "Flask of the Oasis",
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Flask_of_the_Oasis.png",
             "price": 1850
-          },
-          {
-            "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
-            "name": "Holy Crystal",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
-            "price": 3000
-          },
-          {
-            "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
-            "name": "Holy Crystal",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
-            "price": 3000
-          },
-          {
-            "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
-            "name": "Holy Crystal",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
-            "price": 3000
           },
           {
             "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
@@ -23022,7 +22560,7 @@
     "hero": "Kaja",
     "slug": "kaja",
     "hero_id": "4ecd718d-a1ad-4a9e-9abd-e6ca916d1f02",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/86/Hero621-portrait.png",
+    "image": "https://akmweb.youngjoygame.com/web/gms/image/c45fd271b45fe26a7f2b34a9dfe77b29.jpg",
     "builds": [
       {
         "id": "b7e578d4-6c1f-488a-9f24-0e8c579316ba",
@@ -23213,7 +22751,7 @@
     "hero": "Nana",
     "slug": "nana",
     "hero_id": "577f5cb2-f1d9-47c4-8b25-c95dac8bab08",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d3ef9fa051f8643b1345accd72c48abf.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_4258783f9b44a4ad1c67c0b8781051fa.jpg",
     "builds": [
       {
         "id": "95a0db50-4f8f-4129-b855-557f0e14b42e",
@@ -23275,67 +22813,6 @@
           "a6ec810a-08da-4bbf-a137-8d23531920c9"
         ],
         "created_at": "2026-07-21T06:03:12.773376+00:00"
-      },
-      {
-        "id": "e061b44d-e3c1-48cd-a1f3-7f58b427dd91",
-        "title": "crazy full burst",
-        "description": "slow dikit gak ngaruh",
-        "tips": "",
-        "likes": 1,
-        "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
-        "items": [
-          {
-            "id": "3a11d865-1fff-4d8f-b919-5023703fb31a",
-            "name": "Blood Wings",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Blood_Wings.png",
-            "price": 2100
-          },
-          {
-            "id": "cdbfc89a-2fac-4466-ba07-1fba1e357847",
-            "name": "Genius Wand",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Genius_Wand.png",
-            "price": 2000
-          },
-          {
-            "id": "2184fd07-4ced-48d6-b6f0-04f99122a4e0",
-            "name": "Lightning Truncheon",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Lightning_Truncheon.png",
-            "price": 2250
-          },
-          {
-            "id": "59a45ae3-4662-4bee-8471-73751dcee211",
-            "name": "Divine Glaive",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Divine_Glaive.png",
-            "price": 1970
-          },
-          {
-            "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
-            "name": "Holy Crystal",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
-            "price": 3000
-          },
-          {
-            "id": "ece51f8f-c4c8-47cb-9992-314e83af317b",
-            "name": "Wishing Lantern",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Wishing_Lantern.png",
-            "price": 2250
-          }
-        ],
-        "emblem": {
-          "id": "5e0b6bcf-c296-4117-b0d4-4d6dae8f1618",
-          "name": "Mage",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Custom_Mage_Emblem.png"
-        },
-        "spell": {
-          "id": "234c17a1-89ce-4289-b5df-9e2625a4a8b6",
-          "name": "Flameshot",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f2/Flameshot.png"
-        },
-        "conditional_items": [
-          "41468f7c-e36e-40fd-b9cb-796235ec44c7",
-          "a6ec810a-08da-4bbf-a137-8d23531920c9"
-        ],
-        "created_at": "2026-07-21T06:00:45.51342+00:00"
       },
       {
         "id": "67820261-0f3b-4673-8404-e4338c7acf27",
@@ -23404,7 +22881,7 @@
     "hero": "Rafaela",
     "slug": "rafaela",
     "hero_id": "85d56035-3f50-4e3a-8980-3d7b73afc7f5",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f22e22659e8b1acfb665aec8eaffabd7.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_491618ae5cb3d561f5f02fbb3d82a83d.jpg",
     "builds": [
       {
         "id": "fe9620e7-46bd-4815-9938-0243af56144b",
@@ -23467,12 +22944,12 @@
         "created_at": "2026-03-27T17:29:05.08752+00:00"
       },
       {
-        "id": "400da1c5-9fb0-4ea8-8c9f-dee01b3d5a00",
-        "title": "MPL ID S18 WEEK 4 DAY 3 ONIC.S A N Z",
-        "description": "( ONIC VS EVOS GAME 1 ) MPL INDONESIA SEASON 18 WEEK 4 DAY 3 6 SEPTEMBER 2026",
+        "id": "a6dca05a-9aad-41bb-82b3-d08c23137baa",
+        "title": "MPL ID S18 WEEK 5 DAY 3 ONIC.SSAMUEL",
+        "description": "( ONIC VS AE GAME 1 ) MPL INDONESIA SEASON 18 WEEK 5 DAY 3 13 SEPTEMBER 2026",
         "tips": null,
         "likes": 0,
-        "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
+        "patch_id": "8bda5b76-0cd7-4adb-a02d-019026492527",
         "items": [
           {
             "id": "32da3955-3a13-4a18-ac27-7d9b064f3fa2",
@@ -23481,16 +22958,62 @@
             "price": 720
           },
           {
-            "id": "3a11d865-1fff-4d8f-b919-5023703fb31a",
-            "name": "Blood Wings",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Blood_Wings.png",
-            "price": 2100
+            "id": "85779626-b5f7-445b-b77d-c44074f94e2c",
+            "name": "Flask of the Oasis",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Flask_of_the_Oasis.png",
+            "price": 1850
           },
           {
-            "id": "5b97529a-e569-400f-b8f8-7e9a76b42e7a",
-            "name": "Rose Gold Meteor",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Rose_Gold_Meteor.png",
-            "price": 2030
+            "id": "78f73686-df75-42b1-8bb1-fbf9d5f33a70",
+            "name": "Glowing Wand",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Glowing_Wand.png",
+            "price": 2150
+          },
+          {
+            "id": "2f707623-6044-4dc4-8183-5095409c5078",
+            "name": "Immortality",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Immortality.png",
+            "price": 2120
+          }
+        ],
+        "emblem": {
+          "id": "5e0b6bcf-c296-4117-b0d4-4d6dae8f1618",
+          "name": "Mage",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Custom_Mage_Emblem.png"
+        },
+        "spell": {
+          "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
+          "name": "Flicker",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
+        },
+        "conditional_items": [],
+        "created_at": "2026-09-18T14:58:37.153563+00:00"
+      },
+      {
+        "id": "73f34263-2169-4e58-b109-39973b84b20a",
+        "title": "MPL ID S18 WEEK 5 DAY 3 TLID.Drichel",
+        "description": "( GEEK VS TLID GAME 1 ) MPL INDONESIA SEASON 18 WEEK 5 DAY 3 13 SEPTEMBER 2026",
+        "tips": null,
+        "likes": 0,
+        "patch_id": "8bda5b76-0cd7-4adb-a02d-019026492527",
+        "items": [
+          {
+            "id": "cd1861a0-a850-4ac3-92ee-83707e358f77",
+            "name": "My",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Mystery_Codex.png",
+            "price": 300
+          },
+          {
+            "id": "1433cb2c-1ad9-4f7d-b594-793ac4c9e6b6",
+            "name": "Rapid Boots",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Rapid_Boots.png",
+            "price": 720
+          },
+          {
+            "id": "9b0c5b28-b617-42e8-8bdb-5aef5514b6ce",
+            "name": "Winter Crown",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Winter_Crown.png",
+            "price": 1910
           },
           {
             "id": "85779626-b5f7-445b-b77d-c44074f94e2c",
@@ -23522,65 +23045,7 @@
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
         },
         "conditional_items": [],
-        "created_at": "2026-09-12T05:22:57.391224+00:00"
-      },
-      {
-        "id": "b6f92304-4615-4829-af48-116c194136fd",
-        "title": "MPL ID S18 WEEK 4 DAY 2 AE.Hijumee",
-        "description": "( AE VS GEEK GAME 2 ) MPL INDONESIA SEASON 18 WEEK 4 DAY 2 5 SEPTEMBER 2026",
-        "tips": null,
-        "likes": 0,
-        "patch_id": "8e1ca04e-e0e3-4f3e-b520-a76c36a5bee7",
-        "items": [
-          {
-            "id": "2f707623-6044-4dc4-8183-5095409c5078",
-            "name": "Immortality",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Immortality.png",
-            "price": 2120
-          },
-          {
-            "id": "3a11d865-1fff-4d8f-b919-5023703fb31a",
-            "name": "Blood Wings",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Blood_Wings.png",
-            "price": 2100
-          },
-          {
-            "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
-            "name": "Holy Crystal",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
-            "price": 3000
-          },
-          {
-            "id": "85779626-b5f7-445b-b77d-c44074f94e2c",
-            "name": "Flask of the Oasis",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Flask_of_the_Oasis.png",
-            "price": 1850
-          },
-          {
-            "id": "f8f538b8-5cf0-4fd4-a4e6-dff974a0b715",
-            "name": "Guardian Helmet",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Guardian_Helmet.png",
-            "price": 2500
-          },
-          {
-            "id": "c7e4e03f-4c5c-45ff-8535-65a74229b52d",
-            "name": "Enchanted Talisman",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Enchanted_Talisman.png",
-            "price": 1870
-          }
-        ],
-        "emblem": {
-          "id": "5e0b6bcf-c296-4117-b0d4-4d6dae8f1618",
-          "name": "Mage",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Custom_Mage_Emblem.png"
-        },
-        "spell": {
-          "id": "672c6fa7-ca0f-4aef-82b7-897accfc392a",
-          "name": "Flicker",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png"
-        },
-        "conditional_items": [],
-        "created_at": "2026-09-11T14:04:20.169774+00:00"
+        "created_at": "2026-09-18T14:58:19.247447+00:00"
       }
     ]
   },
@@ -23588,7 +23053,7 @@
     "hero": "Roger",
     "slug": "roger",
     "hero_id": "2680b334-4ae2-4068-9c88-5893cab95c5d",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d518759b615468fc3bc4f6a3ad2c598f.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_ff92c4b5afb41060af1b951ba9f03edd.jpg",
     "builds": [
       {
         "id": "0bee2cdb-c5a2-4ed4-9ed9-959de760a193",
@@ -23778,7 +23243,7 @@
     "hero": "Khufra",
     "slug": "khufra",
     "hero_id": "2346f833-684b-4803-9b49-d511ad2c4c3c",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b1bd27f70c015094eaba5e48eacc4762.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_3ffc413118c62fc17f599cb35172ba9c.jpg",
     "builds": [
       {
         "id": "1d1da521-90fb-447c-ae98-516a13df6811",
@@ -23948,7 +23413,7 @@
     "hero": "Luo Yi",
     "slug": "luo-yi",
     "hero_id": "3a081c38-1d4a-4d54-9215-fb750c84bbd1",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_74fe63bd31cc092aed923543a115b7bd.png",
+    "image": "https://akmweb.youngjoygame.com/web/gms/image/2317c1e430b6a2ff914b54f9f625bea7.jpg",
     "builds": [
       {
         "id": "d94b6393-6d88-43d6-90ca-0694b7ea406a",
@@ -24127,7 +23592,7 @@
     "hero": "Chip",
     "slug": "chip",
     "hero_id": "c3940478-4ea3-4fb9-8369-b843b05d78d3",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_85e15c66733cab7d8d73f7f725f31f1e.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_fb8b4e345db174545e967b7bcbd219f4.jpg",
     "builds": [
       {
         "id": "991d3176-a300-4fc0-b073-9013a884a136",
@@ -24291,7 +23756,7 @@
     "hero": "Wanwan",
     "slug": "wanwan",
     "hero_id": "57000821-b2cb-402e-b3c2-3352d7325b60",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_c042bfb106853182a8c38ae5386ceb77.png",
+    "image": "https://akmweb.youngjoygame.com/web/gms/image/9b163e2146ae6b0e84941032c3f10a41.png",
     "builds": [
       {
         "id": "f679203d-b365-49b5-84f1-cf1726cabe5d",
@@ -24479,7 +23944,7 @@
     "hero": "Zhask",
     "slug": "zhask",
     "hero_id": "0c5a47c9-365f-4564-89a0-56dce2cecf12",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7e69b480400b37dd75614f0c8d033c37.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_6e99f11105dc89bff1932cd4b3809c12.jpg",
     "builds": [
       {
         "id": "b468c93f-b333-4bb4-8a88-c7d15d700266",
@@ -24666,7 +24131,7 @@
     "hero": "Lolita",
     "slug": "lolita",
     "hero_id": "15225336-6103-4b90-80a9-91c5b812e7b7",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_55de18c865efe8e360b3b9ae463d76a2.png",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_1bc4973e512cf4958fe639e12391666e.jpg",
     "builds": [
       {
         "id": "750c964e-2520-4de4-bb88-36d67d4a9bba",

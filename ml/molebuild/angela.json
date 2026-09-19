@@ -2,7 +2,7 @@
   "hero": "Angela",
   "slug": "angela",
   "hero_id": "ddeb7045-f020-4e32-9002-64dbdc083f1a",
-  "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a815a3adad8df99481700c84abaf3c41.png",
+  "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_187b8452435b469e8867e8fb2d387a5b.jpg",
   "builds": [
     {
       "id": "b8e79edc-6cfd-43d3-8b9a-c0561798ac63",
@@ -29,12 +29,6 @@
           "name": "Demon Hunter Sword",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Demon_Hunter_Sword.png",
           "price": 2180
-        },
-        {
-          "id": "a67fa43a-b139-4b0b-9d0f-43537ef95a24",
-          "name": "Windtalker",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Windtalker.png",
-          "price": 1880
         },
         {
           "id": "a67fa43a-b139-4b0b-9d0f-43537ef95a24",

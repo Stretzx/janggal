@@ -2,7 +2,7 @@
   "hero": "Floryn",
   "slug": "floryn",
   "hero_id": "6df9306d-f86a-4068-b96e-4e6c3fc74b19",
-  "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5168f0a54304b2f20f976a1ffa96e1dc.png",
+  "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_854338f3ad90cb9e14aec15c8b8a08c7.jpg",
   "builds": [
     {
       "id": "1f4d6751-6927-4b1a-aea6-9f2b0f0afef8",
@@ -23,24 +23,6 @@
           "name": "Flask of the Oasis",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Flask_of_the_Oasis.png",
           "price": 1850
-        },
-        {
-          "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
-          "name": "Holy Crystal",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
-          "price": 3000
-        },
-        {
-          "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
-          "name": "Holy Crystal",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
-          "price": 3000
-        },
-        {
-          "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
-          "name": "Holy Crystal",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png",
-          "price": 3000
         },
         {
           "id": "b2ce2b22-7d97-45d9-bc09-ddf95a13e7aa",
