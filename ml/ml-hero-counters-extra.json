@@ -15,18 +15,6 @@
     {
       "i": "karrie",
       "w": "Range + DPS"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-marksman (true dmg)"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
     }
   ],
   "balmond": [
@@ -49,14 +37,6 @@
     {
       "i": "chou",
       "w": "Sustain + dive"
-    },
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-tank true dmg"
     }
   ],
   "saber": [
@@ -79,24 +59,6 @@
     {
       "i": "hayabusa",
       "w": "Burst + mobilitas tinggi"
-    },
-    {
-      "i": "athenas-shield",
-      "w": "Anti burst magic"
-    },
-    {
-      "i": "immortality",
-      "w": "Bangkit setelah tumbang"
-    }
-  ],
-  "alice": [
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "great-dragon-spear",
-      "w": "Anti-tank (true dmg)"
     }
   ],
   "nana": [
@@ -115,22 +77,6 @@
     {
       "i": "hayabusa",
       "w": "Burst + mobilitas tinggi"
-    },
-    {
-      "i": "sun",
-      "w": "Sustain + dive"
-    },
-    {
-      "i": "radiant-armor",
-      "w": "Kurangi dmg magic"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "athenas-shield",
-      "w": "Anti burst magic"
     }
   ],
   "tigreal": [
@@ -149,18 +95,6 @@
     {
       "i": "baxia",
       "w": "CC + tanki"
-    },
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "great-dragon-spear",
-      "w": "Anti-tank (true dmg)"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
     }
   ],
   "alucard": [
@@ -183,14 +117,6 @@
     {
       "i": "argus",
       "w": "Sustain + dive"
-    },
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-tank true dmg"
     }
   ],
   "karina": [
@@ -213,18 +139,6 @@
     {
       "i": "belerick",
       "w": "CC + tanki"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "athenas-shield",
-      "w": "Anti burst magic"
-    },
-    {
-      "i": "immortality",
-      "w": "Bangkit setelah tumbang"
     }
   ],
   "akai": [
@@ -243,18 +157,6 @@
     {
       "i": "harley",
       "w": "Burst + mobilitas tinggi"
-    },
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "great-dragon-spear",
-      "w": "Anti-tank (true dmg)"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
     }
   ],
   "franco": [
@@ -273,56 +175,6 @@
     {
       "i": "harley",
       "w": "Burst + mobilitas tinggi"
-    },
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "great-dragon-spear",
-      "w": "Anti-tank (true dmg)"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
-    }
-  ],
-  "bane": [
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-tank true dmg"
-    }
-  ],
-  "bruno": [
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-marksman (true dmg)"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
-    }
-  ],
-  "clint": [
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-marksman (true dmg)"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
     }
   ],
   "rafaela": [
@@ -345,18 +197,6 @@
     {
       "i": "chou",
       "w": "Sustain + dive"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "dominance-ice",
-      "w": "Anti-heal + AS down"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
     }
   ],
   "eudora": [
@@ -379,18 +219,6 @@
     {
       "i": "hayabusa",
       "w": "Burst + mobilitas tinggi"
-    },
-    {
-      "i": "radiant-armor",
-      "w": "Kurangi dmg magic"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "athenas-shield",
-      "w": "Anti burst magic"
     }
   ],
   "zilong": [
@@ -409,25 +237,9 @@
     {
       "i": "akai",
       "w": "CC + tanki"
-    },
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-tank true dmg"
     }
   ],
   "fanny": [
-    {
-      "i": "chou",
-      "w": "Sustain + dive"
-    },
     {
       "i": "gusion",
       "w": "Burst + mobilitas tinggi"
@@ -443,18 +255,6 @@
     {
       "i": "belerick",
       "w": "CC + tanki"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "athenas-shield",
-      "w": "Anti burst magic"
-    },
-    {
-      "i": "immortality",
-      "w": "Bangkit setelah tumbang"
     }
   ],
   "layla": [
@@ -473,18 +273,6 @@
     {
       "i": "lesley",
       "w": "Range + DPS"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-marksman (true dmg)"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
     }
   ],
   "minotaur": [
@@ -507,25 +295,9 @@
     {
       "i": "alpha",
       "w": "Sustain + dive"
-    },
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "great-dragon-spear",
-      "w": "Anti-tank (true dmg)"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
     }
   ],
   "lolita": [
-    {
-      "i": "esmeralda",
-      "w": "CC + tanki"
-    },
     {
       "i": "phoveus",
       "w": "Sustain + dive"
@@ -541,14 +313,6 @@
     {
       "i": "valir",
       "w": "Burst magic"
-    },
-    {
-      "i": "dominance-ice",
-      "w": "Anti-heal + AS down"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
     }
   ],
   "hayabusa": [
@@ -571,33 +335,9 @@
     {
       "i": "belerick",
       "w": "CC + tanki"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "athenas-shield",
-      "w": "Anti burst magic"
-    },
-    {
-      "i": "immortality",
-      "w": "Bangkit setelah tumbang"
     }
   ],
   "freya": [
-    {
-      "i": "esmeralda",
-      "w": "CC + tanki"
-    },
-    {
-      "i": "minsitthar",
-      "w": "Sustain + dive"
-    },
-    {
-      "i": "phoveus",
-      "w": "Sustain + dive"
-    },
     {
       "i": "odette",
       "w": "Burst magic"
@@ -605,18 +345,6 @@
     {
       "i": "sun",
       "w": "Sustain + dive"
-    },
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-tank true dmg"
     }
   ],
   "gord": [
@@ -631,18 +359,6 @@
     {
       "i": "baxia",
       "w": "CC + tanki"
-    },
-    {
-      "i": "radiant-armor",
-      "w": "Kurangi dmg magic"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "athenas-shield",
-      "w": "Anti burst magic"
     }
   ],
   "natalia": [
@@ -665,10 +381,6 @@
     {
       "i": "hayabusa",
       "w": "Burst + mobilitas tinggi"
-    },
-    {
-      "i": "athenas-shield",
-      "w": "Anti burst magic"
     }
   ],
   "kagura": [
@@ -691,18 +403,6 @@
     {
       "i": "baxia",
       "w": "CC + tanki"
-    },
-    {
-      "i": "radiant-armor",
-      "w": "Kurangi dmg magic"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "athenas-shield",
-      "w": "Anti burst magic"
     }
   ],
   "chou": [
@@ -715,28 +415,12 @@
       "w": "Sustain + dive"
     },
     {
-      "i": "phoveus",
-      "w": "Sustain + dive"
-    },
-    {
       "i": "minsitthar",
       "w": "Sustain + dive"
     },
     {
       "i": "dyrroth",
       "w": "Sustain + dive"
-    },
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-tank true dmg"
     }
   ],
   "sun": [
@@ -759,18 +443,6 @@
     {
       "i": "belerick",
       "w": "CC + tanki"
-    },
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-tank true dmg"
     }
   ],
   "alpha": [
@@ -783,28 +455,12 @@
       "w": "Burst + mobilitas tinggi"
     },
     {
-      "i": "ling",
-      "w": "Burst + mobilitas tinggi"
-    },
-    {
       "i": "hayabusa",
       "w": "Burst + mobilitas tinggi"
     },
     {
       "i": "chou",
       "w": "Sustain + dive"
-    },
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-tank true dmg"
     }
   ],
   "ruby": [
@@ -827,30 +483,12 @@
     {
       "i": "belerick",
       "w": "CC + tanki"
-    },
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-tank true dmg"
-    }
-  ],
-  "yi-sun-shin": [
-    {
-      "i": "athenas-shield",
-      "w": "Anti burst magic"
     }
   ],
   "moskov": [
     {
       "i": "chou",
       "w": "Sustain + dive"
-    },
-    {
-      "i": "saber",
-      "w": "Burst + mobilitas tinggi"
     },
     {
       "i": "natalia",
@@ -863,32 +501,6 @@
     {
       "i": "ling",
       "w": "Burst + mobilitas tinggi"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-marksman (true dmg)"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
-    }
-  ],
-  "johnson": [
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "great-dragon-spear",
-      "w": "Anti-tank (true dmg)"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
     }
   ],
   "cyclops": [
@@ -929,25 +541,9 @@
     {
       "i": "harley",
       "w": "Burst + mobilitas tinggi"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "dominance-ice",
-      "w": "Anti-heal + AS down"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
     }
   ],
   "hilda": [
-    {
-      "i": "karrie",
-      "w": "Range + DPS"
-    },
     {
       "i": "dyrroth",
       "w": "Sustain + dive"
@@ -963,18 +559,6 @@
     {
       "i": "baxia",
       "w": "CC + tanki"
-    },
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-tank true dmg"
     }
   ],
   "aurora": [
@@ -985,32 +569,6 @@
     {
       "i": "baxia",
       "w": "CC + tanki"
-    },
-    {
-      "i": "radiant-armor",
-      "w": "Kurangi dmg magic"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "athenas-shield",
-      "w": "Anti burst magic"
-    }
-  ],
-  "lapu-lapu": [
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-tank true dmg"
     }
   ],
   "vexana": [
@@ -1021,18 +579,6 @@
     {
       "i": "baxia",
       "w": "CC + tanki"
-    },
-    {
-      "i": "radiant-armor",
-      "w": "Kurangi dmg magic"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "athenas-shield",
-      "w": "Anti burst magic"
     }
   ],
   "roger": [
@@ -1055,18 +601,6 @@
     {
       "i": "lapu-lapu",
       "w": "Sustain + dive"
-    },
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-tank true dmg"
     }
   ],
   "karrie": [
@@ -1083,38 +617,8 @@
       "w": "Sustain + dive"
     },
     {
-      "i": "lolita",
-      "w": "Peel + CC"
-    },
-    {
       "i": "natalia",
       "w": "Burst + mobilitas tinggi"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-marksman (true dmg)"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
-    }
-  ],
-  "gatotkaca": [
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "great-dragon-spear",
-      "w": "Anti-tank (true dmg)"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
     }
   ],
   "harley": [
@@ -1137,10 +641,6 @@
     {
       "i": "belerick",
       "w": "CC + tanki"
-    },
-    {
-      "i": "athenas-shield",
-      "w": "Anti burst magic"
     }
   ],
   "irithel": [
@@ -1163,18 +663,6 @@
     {
       "i": "hayabusa",
       "w": "Burst + mobilitas tinggi"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-marksman (true dmg)"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
     }
   ],
   "grock": [
@@ -1197,18 +685,6 @@
     {
       "i": "lesley",
       "w": "Range + DPS"
-    },
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "great-dragon-spear",
-      "w": "Anti-tank (true dmg)"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
     }
   ],
   "argus": [
@@ -1231,18 +707,6 @@
     {
       "i": "belerick",
       "w": "CC + tanki"
-    },
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-tank true dmg"
     }
   ],
   "odette": [
@@ -1261,18 +725,6 @@
     {
       "i": "franco",
       "w": "CC + tanki"
-    },
-    {
-      "i": "radiant-armor",
-      "w": "Kurangi dmg magic"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "athenas-shield",
-      "w": "Anti burst magic"
     }
   ],
   "lancelot": [
@@ -1295,18 +747,6 @@
     {
       "i": "belerick",
       "w": "CC + tanki"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "athenas-shield",
-      "w": "Anti burst magic"
-    },
-    {
-      "i": "immortality",
-      "w": "Bangkit setelah tumbang"
     }
   ],
   "diggie": [
@@ -1321,18 +761,6 @@
     {
       "i": "chou",
       "w": "Sustain + dive"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "dominance-ice",
-      "w": "Anti-heal + AS down"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
     }
   ],
   "hylos": [
@@ -1355,18 +783,6 @@
     {
       "i": "harley",
       "w": "Burst + mobilitas tinggi"
-    },
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "great-dragon-spear",
-      "w": "Anti-tank (true dmg)"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
     }
   ],
   "zhask": [
@@ -1411,18 +827,6 @@
     {
       "i": "belerick",
       "w": "CC + tanki"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "athenas-shield",
-      "w": "Anti burst magic"
-    },
-    {
-      "i": "immortality",
-      "w": "Bangkit setelah tumbang"
     }
   ],
   "pharsa": [
@@ -1437,18 +841,6 @@
     {
       "i": "baxia",
       "w": "CC + tanki"
-    },
-    {
-      "i": "radiant-armor",
-      "w": "Kurangi dmg magic"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "athenas-shield",
-      "w": "Anti burst magic"
     }
   ],
   "lesley": [
@@ -1467,18 +859,6 @@
     {
       "i": "argus",
       "w": "Sustain + dive"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-marksman (true dmg)"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
     }
   ],
   "jawhead": [
@@ -1501,18 +881,6 @@
     {
       "i": "hayabusa",
       "w": "Burst + mobilitas tinggi"
-    },
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-tank true dmg"
     }
   ],
   "angela": [
@@ -1535,18 +903,6 @@
     {
       "i": "chou",
       "w": "Sustain + dive"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "dominance-ice",
-      "w": "Anti-heal + AS down"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
     }
   ],
   "gusion": [
@@ -1565,25 +921,9 @@
     {
       "i": "belerick",
       "w": "CC + tanki"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "athenas-shield",
-      "w": "Anti burst magic"
-    },
-    {
-      "i": "immortality",
-      "w": "Bangkit setelah tumbang"
     }
   ],
   "valir": [
-    {
-      "i": "kaja",
-      "w": "Peel + CC"
-    },
     {
       "i": "akai",
       "w": "CC + tanki"
@@ -1595,18 +935,6 @@
     {
       "i": "hayabusa",
       "w": "Burst + mobilitas tinggi"
-    },
-    {
-      "i": "radiant-armor",
-      "w": "Kurangi dmg magic"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "athenas-shield",
-      "w": "Anti burst magic"
     }
   ],
   "martis": [
@@ -1619,34 +947,8 @@
       "w": "CC + tanki"
     },
     {
-      "i": "minsitthar",
-      "w": "Sustain + dive"
-    },
-    {
       "i": "baxia",
       "w": "CC + tanki"
-    },
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-tank true dmg"
-    }
-  ],
-  "uranus": [
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "great-dragon-spear",
-      "w": "Anti-tank (true dmg)"
     }
   ],
   "hanabi": [
@@ -1665,22 +967,6 @@
     {
       "i": "karrie",
       "w": "Range + DPS"
-    },
-    {
-      "i": "lolita",
-      "w": "Peel + CC"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-marksman (true dmg)"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
     }
   ],
   "chang'e": [
@@ -1705,16 +991,6 @@
       "w": "CC + tanki"
     }
   ],
-  "kaja": [
-    {
-      "i": "dominance-ice",
-      "w": "Anti-heal + AS down"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
-    }
-  ],
   "selena": [
     {
       "i": "wanwan",
@@ -1731,18 +1007,6 @@
     {
       "i": "valir",
       "w": "Burst magic"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "athenas-shield",
-      "w": "Anti burst magic"
-    },
-    {
-      "i": "immortality",
-      "w": "Bangkit setelah tumbang"
     }
   ],
   "aldous": [
@@ -1765,18 +1029,6 @@
     {
       "i": "belerick",
       "w": "CC + tanki"
-    },
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-tank true dmg"
     }
   ],
   "claude": [
@@ -1799,18 +1051,6 @@
     {
       "i": "karrie",
       "w": "Range + DPS"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-marksman (true dmg)"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
     }
   ],
   "vale": [
@@ -1825,18 +1065,6 @@
     {
       "i": "baxia",
       "w": "CC + tanki"
-    },
-    {
-      "i": "radiant-armor",
-      "w": "Kurangi dmg magic"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "athenas-shield",
-      "w": "Anti burst magic"
     }
   ],
   "leomord": [
@@ -1855,22 +1083,6 @@
     {
       "i": "minsitthar",
       "w": "Sustain + dive"
-    },
-    {
-      "i": "melissa",
-      "w": "Range + DPS"
-    },
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-tank true dmg"
     }
   ],
   "lunox": [
@@ -1893,18 +1105,6 @@
     {
       "i": "leomord",
       "w": "Sustain + dive"
-    },
-    {
-      "i": "radiant-armor",
-      "w": "Kurangi dmg magic"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "athenas-shield",
-      "w": "Anti burst magic"
     }
   ],
   "hanzo": [
@@ -1921,24 +1121,8 @@
       "w": "Burst + mobilitas tinggi"
     },
     {
-      "i": "ling",
-      "w": "Burst + mobilitas tinggi"
-    },
-    {
       "i": "belerick",
       "w": "CC + tanki"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "athenas-shield",
-      "w": "Anti burst magic"
-    },
-    {
-      "i": "immortality",
-      "w": "Bangkit setelah tumbang"
     }
   ],
   "belerick": [
@@ -1953,14 +1137,6 @@
     {
       "i": "thamuz",
       "w": "Sustain + dive"
-    },
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "great-dragon-spear",
-      "w": "Anti-tank (true dmg)"
     }
   ],
   "kimmy": [
@@ -1979,59 +1155,19 @@
     {
       "i": "lancelot",
       "w": "Burst + mobilitas tinggi"
-    },
-    {
-      "i": "lolita",
-      "w": "Peel + CC"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-marksman (true dmg)"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
     }
   ],
   "thamuz": [
-    {
-      "i": "xborg",
-      "w": "Sustain + dive"
-    },
     {
       "i": "aldous",
       "w": "Sustain + dive"
     },
     {
-      "i": "valir",
-      "w": "Burst magic"
-    },
-    {
       "i": "baxia",
       "w": "CC + tanki"
-    },
-    {
-      "i": "cici",
-      "w": "Sustain + dive"
-    },
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-tank true dmg"
     }
   ],
   "harith": [
-    {
-      "i": "minsitthar",
-      "w": "Sustain + dive"
-    },
     {
       "i": "esmeralda",
       "w": "CC + tanki"
@@ -2043,36 +1179,6 @@
     {
       "i": "franco",
       "w": "CC + tanki"
-    },
-    {
-      "i": "phoveus",
-      "w": "Sustain + dive"
-    },
-    {
-      "i": "radiant-armor",
-      "w": "Kurangi dmg magic"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "athenas-shield",
-      "w": "Anti burst magic"
-    }
-  ],
-  "minsitthar": [
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-tank true dmg"
     }
   ],
   "kadita": [
@@ -2091,18 +1197,6 @@
     {
       "i": "baxia",
       "w": "CC + tanki"
-    },
-    {
-      "i": "radiant-armor",
-      "w": "Kurangi dmg magic"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "athenas-shield",
-      "w": "Anti burst magic"
     }
   ],
   "faramis": [
@@ -2125,18 +1219,6 @@
     {
       "i": "baxia",
       "w": "CC + tanki"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "dominance-ice",
-      "w": "Anti-heal + AS down"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
     }
   ],
   "badang": [
@@ -2159,18 +1241,6 @@
     {
       "i": "argus",
       "w": "Sustain + dive"
-    },
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-tank true dmg"
     }
   ],
   "khufra": [
@@ -2193,18 +1263,6 @@
     {
       "i": "chou",
       "w": "Sustain + dive"
-    },
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "great-dragon-spear",
-      "w": "Anti-tank (true dmg)"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
     }
   ],
   "granger": [
@@ -2223,18 +1281,6 @@
     {
       "i": "lolita",
       "w": "Peel + CC"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-marksman (true dmg)"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
     }
   ],
   "guinevere": [
@@ -2257,35 +1303,9 @@
     {
       "i": "belerick",
       "w": "CC + tanki"
-    },
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-tank true dmg"
-    }
-  ],
-  "esmeralda": [
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "great-dragon-spear",
-      "w": "Anti-tank (true dmg)"
     }
   ],
   "terizla": [
-    {
-      "i": "xborg",
-      "w": "Sustain + dive"
-    },
     {
       "i": "gusion",
       "w": "Burst + mobilitas tinggi"
@@ -2301,14 +1321,6 @@
     {
       "i": "chou",
       "w": "Sustain + dive"
-    },
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-tank true dmg"
     }
   ],
   "x-borg": [
@@ -2341,18 +1353,6 @@
     {
       "i": "belerick",
       "w": "CC + tanki"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "athenas-shield",
-      "w": "Anti burst magic"
-    },
-    {
-      "i": "immortality",
-      "w": "Bangkit setelah tumbang"
     }
   ],
   "dyrroth": [
@@ -2371,22 +1371,6 @@
     {
       "i": "chou",
       "w": "Sustain + dive"
-    },
-    {
-      "i": "minsitthar",
-      "w": "Sustain + dive"
-    },
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-tank true dmg"
     }
   ],
   "lylia": [
@@ -2411,14 +1395,6 @@
       "w": "Peel + CC"
     },
     {
-      "i": "radiant-armor",
-      "w": "Kurangi dmg magic"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
       "i": "athenas-shield",
       "w": "Anti burst magic"
     }
@@ -2433,28 +1409,12 @@
       "w": "CC + tanki"
     },
     {
-      "i": "lesley",
-      "w": "Range + DPS"
-    },
-    {
       "i": "harley",
       "w": "Burst + mobilitas tinggi"
     },
     {
       "i": "kagura",
       "w": "Burst magic"
-    },
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "great-dragon-spear",
-      "w": "Anti-tank (true dmg)"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
     }
   ],
   "masha": [
@@ -2467,24 +1427,8 @@
       "w": "Sustain + dive"
     },
     {
-      "i": "sun",
-      "w": "Sustain + dive"
-    },
-    {
       "i": "lunox",
       "w": "Burst magic"
-    },
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-tank true dmg"
     }
   ],
   "wanwan": [
@@ -2507,18 +1451,6 @@
     {
       "i": "argus",
       "w": "Sustain + dive"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-marksman (true dmg)"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
     }
   ],
   "silvanna": [
@@ -2535,24 +1467,8 @@
       "w": "Burst + mobilitas tinggi"
     },
     {
-      "i": "ling",
-      "w": "Burst + mobilitas tinggi"
-    },
-    {
       "i": "belerick",
       "w": "CC + tanki"
-    },
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-tank true dmg"
     }
   ],
   "cecilion": [
@@ -2565,34 +1481,8 @@
       "w": "Sustain + dive"
     },
     {
-      "i": "yin",
-      "w": "Sustain + dive"
-    },
-    {
-      "i": "xborg",
-      "w": "Sustain + dive"
-    },
-    {
-      "i": "radiant-armor",
-      "w": "Kurangi dmg magic"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
       "i": "athenas-shield",
       "w": "Anti burst magic"
-    }
-  ],
-  "carmilla": [
-    {
-      "i": "dominance-ice",
-      "w": "Anti-heal + AS down"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
     }
   ],
   "atlas": [
@@ -2615,65 +1505,11 @@
     {
       "i": "khufra",
       "w": "CC + tanki"
-    },
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "great-dragon-spear",
-      "w": "Anti-tank (true dmg)"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
-    }
-  ],
-  "popol-and-kupa": [
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-marksman (true dmg)"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
-    }
-  ],
-  "yu-zhong": [
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-tank true dmg"
-    }
-  ],
-  "luo-yi": [
-    {
-      "i": "radiant-armor",
-      "w": "Kurangi dmg magic"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "athenas-shield",
-      "w": "Anti burst magic"
     }
   ],
   "benedetta": [
     {
       "i": "chou",
-      "w": "Sustain + dive"
-    },
-    {
-      "i": "phoveus",
       "w": "Sustain + dive"
     },
     {
@@ -2687,18 +1523,6 @@
     {
       "i": "belerick",
       "w": "CC + tanki"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "athenas-shield",
-      "w": "Anti burst magic"
-    },
-    {
-      "i": "immortality",
-      "w": "Bangkit setelah tumbang"
     }
   ],
   "khaleed": [
@@ -2721,18 +1545,6 @@
     {
       "i": "belerick",
       "w": "CC + tanki"
-    },
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-tank true dmg"
     }
   ],
   "barats": [
@@ -2755,14 +1567,6 @@
     {
       "i": "chou",
       "w": "Sustain + dive"
-    },
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "great-dragon-spear",
-      "w": "Anti-tank (true dmg)"
     }
   ],
   "brody": [
@@ -2785,44 +1589,12 @@
     {
       "i": "lolita",
       "w": "Peel + CC"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-marksman (true dmg)"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
     }
   ],
   "yve": [
     {
-      "i": "chou",
-      "w": "Sustain + dive"
-    },
-    {
-      "i": "gusion",
-      "w": "Burst + mobilitas tinggi"
-    },
-    {
       "i": "baxia",
       "w": "CC + tanki"
-    },
-    {
-      "i": "radiant-armor",
-      "w": "Kurangi dmg magic"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "athenas-shield",
-      "w": "Anti burst magic"
     }
   ],
   "mathilda": [
@@ -2841,18 +1613,6 @@
     {
       "i": "badang",
       "w": "Sustain + dive"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "dominance-ice",
-      "w": "Anti-heal + AS down"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
     }
   ],
   "paquito": [
@@ -2875,18 +1635,6 @@
     {
       "i": "belerick",
       "w": "CC + tanki"
-    },
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-tank true dmg"
     }
   ],
   "gloo": [
@@ -2895,32 +1643,12 @@
       "w": "Sustain + dive"
     },
     {
-      "i": "fanny",
-      "w": "Burst + mobilitas tinggi"
-    },
-    {
       "i": "gusion",
-      "w": "Burst + mobilitas tinggi"
-    },
-    {
-      "i": "ling",
       "w": "Burst + mobilitas tinggi"
     },
     {
       "i": "belerick",
       "w": "CC + tanki"
-    },
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "great-dragon-spear",
-      "w": "Anti-tank (true dmg)"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
     }
   ],
   "beatrix": [
@@ -2933,28 +1661,12 @@
       "w": "Burst + mobilitas tinggi"
     },
     {
-      "i": "chou",
-      "w": "Sustain + dive"
-    },
-    {
       "i": "hayabusa",
       "w": "Burst + mobilitas tinggi"
     },
     {
       "i": "karrie",
       "w": "Range + DPS"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-marksman (true dmg)"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
     }
   ],
   "phoveus": [
@@ -2977,28 +1689,12 @@
     {
       "i": "belerick",
       "w": "CC + tanki"
-    },
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-tank true dmg"
     }
   ],
   "natan": [
     {
       "i": "chou",
       "w": "Sustain + dive"
-    },
-    {
-      "i": "fanny",
-      "w": "Burst + mobilitas tinggi"
     },
     {
       "i": "gusion",
@@ -3011,18 +1707,6 @@
     {
       "i": "belerick",
       "w": "CC + tanki"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-marksman (true dmg)"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
     }
   ],
   "aulus": [
@@ -3045,18 +1729,6 @@
     {
       "i": "belerick",
       "w": "CC + tanki"
-    },
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-tank true dmg"
     }
   ],
   "aamon": [
@@ -3079,10 +1751,6 @@
     {
       "i": "valentina",
       "w": "Burst magic"
-    },
-    {
-      "i": "athenas-shield",
-      "w": "Anti burst magic"
     }
   ],
   "valentina": [
@@ -3127,18 +1795,6 @@
     {
       "i": "chou",
       "w": "Sustain + dive"
-    },
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "great-dragon-spear",
-      "w": "Anti-tank (true dmg)"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
     }
   ],
   "floryn": [
@@ -3157,18 +1813,6 @@
     {
       "i": "harley",
       "w": "Burst + mobilitas tinggi"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "dominance-ice",
-      "w": "Anti-heal + AS down"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
     }
   ],
   "yin": [
@@ -3191,18 +1835,6 @@
     {
       "i": "belerick",
       "w": "CC + tanki"
-    },
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-tank true dmg"
     }
   ],
   "melissa": [
@@ -3225,18 +1857,6 @@
     {
       "i": "belerick",
       "w": "CC + tanki"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-marksman (true dmg)"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
     }
   ],
   "xavier": [
@@ -3251,18 +1871,6 @@
     {
       "i": "baxia",
       "w": "CC + tanki"
-    },
-    {
-      "i": "radiant-armor",
-      "w": "Kurangi dmg magic"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "athenas-shield",
-      "w": "Anti burst magic"
     }
   ],
   "julian": [
@@ -3285,28 +1893,6 @@
     {
       "i": "belerick",
       "w": "CC + tanki"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "athenas-shield",
-      "w": "Anti burst magic"
-    },
-    {
-      "i": "immortality",
-      "w": "Bangkit setelah tumbang"
-    }
-  ],
-  "fredrinn": [
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-tank true dmg"
     }
   ],
   "joy": [
@@ -3329,18 +1915,6 @@
     {
       "i": "belerick",
       "w": "CC + tanki"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "athenas-shield",
-      "w": "Anti burst magic"
-    },
-    {
-      "i": "immortality",
-      "w": "Bangkit setelah tumbang"
     }
   ],
   "novaria": [
@@ -3354,10 +1928,6 @@
     },
     {
       "i": "gusion",
-      "w": "Burst + mobilitas tinggi"
-    },
-    {
-      "i": "ling",
       "w": "Burst + mobilitas tinggi"
     },
     {
@@ -3385,46 +1955,6 @@
     {
       "i": "thamuz",
       "w": "Sustain + dive"
-    },
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-tank true dmg"
-    }
-  ],
-  "ixia": [
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-marksman (true dmg)"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
-    }
-  ],
-  "nolan": [
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "athenas-shield",
-      "w": "Anti burst magic"
-    },
-    {
-      "i": "immortality",
-      "w": "Bangkit setelah tumbang"
     }
   ],
   "cici": [
@@ -3443,32 +1973,6 @@
     {
       "i": "akai",
       "w": "CC + tanki"
-    },
-    {
-      "i": "yve",
-      "w": "Burst magic"
-    },
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-tank true dmg"
-    }
-  ],
-  "chip": [
-    {
-      "i": "dominance-ice",
-      "w": "Anti-heal + AS down"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
     }
   ],
   "zhuxin": [
@@ -3491,18 +1995,6 @@
     {
       "i": "baxia",
       "w": "CC + tanki"
-    },
-    {
-      "i": "radiant-armor",
-      "w": "Kurangi dmg magic"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "athenas-shield",
-      "w": "Anti burst magic"
     }
   ],
   "suyou": [
@@ -3515,28 +2007,12 @@
       "w": "Burst + mobilitas tinggi"
     },
     {
-      "i": "gusion",
-      "w": "Burst + mobilitas tinggi"
-    },
-    {
       "i": "ling",
       "w": "Burst + mobilitas tinggi"
     },
     {
       "i": "belerick",
       "w": "CC + tanki"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "athenas-shield",
-      "w": "Anti burst magic"
-    },
-    {
-      "i": "immortality",
-      "w": "Bangkit setelah tumbang"
     }
   ],
   "lukas": [
@@ -3545,28 +2021,12 @@
       "w": "Sustain + dive"
     },
     {
-      "i": "phoveus",
-      "w": "Sustain + dive"
-    },
-    {
       "i": "fanny",
       "w": "Burst + mobilitas tinggi"
     },
     {
-      "i": "minsitthar",
-      "w": "Sustain + dive"
-    },
-    {
       "i": "belerick",
       "w": "CC + tanki"
-    },
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-tank true dmg"
     }
   ],
   "kalea": [
@@ -3589,18 +2049,6 @@
     {
       "i": "belerick",
       "w": "CC + tanki"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "dominance-ice",
-      "w": "Anti-heal + AS down"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
     }
   ],
   "zetian": [
@@ -3641,22 +2089,6 @@
     {
       "i": "ling",
       "w": "Burst + mobilitas tinggi"
-    },
-    {
-      "i": "belerick",
-      "w": "CC + tanki"
-    },
-    {
-      "i": "winter-crown",
-      "w": "Immune burst 2 dtk"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-marksman (true dmg)"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
     }
   ],
   "sora": [
@@ -3679,18 +2111,6 @@
     {
       "i": "belerick",
       "w": "CC + tanki"
-    },
-    {
-      "i": "malefic-gun",
-      "w": "Tembus armor tank"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
-    },
-    {
-      "i": "blade-of-the-heptaseas",
-      "w": "Anti-tank true dmg"
     }
   ],
   "marcel": [
@@ -3713,14 +2133,6 @@
     {
       "i": "belerick",
       "w": "CC + tanki"
-    },
-    {
-      "i": "dominance-ice",
-      "w": "Anti-heal + AS down"
-    },
-    {
-      "i": "sea-halberd",
-      "w": "Anti-lifesteal 50%"
     }
   ],
   "hirara": [
@@ -3743,10 +2155,6 @@
     {
       "i": "belerick",
       "w": "CC + tanki"
-    },
-    {
-      "i": "athenas-shield",
-      "w": "Anti burst magic"
     }
   ]
 }
